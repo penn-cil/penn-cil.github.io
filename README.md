@@ -1,2 +1,2 @@
 # bdai6.github.io
-my academic website using Hugo and Academic theme
+The generated website for public view from my_website
