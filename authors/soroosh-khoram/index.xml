@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wisconsin Computational Intelligence Lab</title>
+    <link>https://bdai6.github.io/authors/soroosh-khoram/</link>
+      <atom:link href="https://bdai6.github.io/authors/soroosh-khoram/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wisconsin Computational Intelligence Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://bdai6.github.io/img/logo.png</url>
+      <title>Wisconsin Computational Intelligence Lab</title>
+      <link>https://bdai6.github.io/authors/soroosh-khoram/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://bdai6.github.io/authors/soroosh-khoram/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/soroosh-khoram/</guid>
+      <description>&lt;p&gt;Soroosh Khoram received his B.S. in digital systems from Sharif University of Technology, Iran in 2013, and M.S. in Microwave and Optics in 2015 from the same school. Later in 2015, he joined the graduate program of Electrical and Computer Engineering in University of Wisconsin – Madison to pursue his PhD. His research focuses on architecture design and algorithms mapping of novel computation paradigms. He is currently working on processing-in-memory accelerators and associative processors enabled by the emerging non-volatile memory technologies.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

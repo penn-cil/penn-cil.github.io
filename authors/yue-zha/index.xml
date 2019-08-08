@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wisconsin Computational Intelligence Lab</title>
+    <link>https://bdai6.github.io/authors/yue-zha/</link>
+      <atom:link href="https://bdai6.github.io/authors/yue-zha/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wisconsin Computational Intelligence Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://bdai6.github.io/img/logo.png</url>
+      <title>Wisconsin Computational Intelligence Lab</title>
+      <link>https://bdai6.github.io/authors/yue-zha/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://bdai6.github.io/authors/yue-zha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/yue-zha/</guid>
+      <description>&lt;p&gt;Yue Zha received his B.S. degree in Physics from Peking University, China in 2013, and M.S. degree in Electrical and Computer Engineering from University of Wisconsin-Madison in 2015. He is currently pursuing his Ph.D. degree at the Department of Electrical and Computer Engineering, University of Wisconsin-Madison, WI. His research interests are reconfigurable computing device (conventional SRAM-based and novel RRAM-based), and CAD framework development.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
