@@ -614,12 +614,6 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/encoding/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/tags/ip-networks/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -650,6 +644,12 @@
   
   <url>
     <loc>https://bdai6.github.io/tags/convolutional-neural-networks/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/encoding/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

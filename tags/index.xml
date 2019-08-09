@@ -453,14 +453,6 @@
     </item>
     
     <item>
-      <title>Encoding</title>
-      <link>https://bdai6.github.io/tags/encoding/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/tags/encoding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>IP networks</title>
       <link>https://bdai6.github.io/tags/ip-networks/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -497,6 +489,14 @@
       <link>https://bdai6.github.io/tags/convolutional-neural-networks/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/tags/convolutional-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>encoding</title>
+      <link>https://bdai6.github.io/tags/encoding/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/tags/encoding/</guid>
       <description></description>
     </item>
     
@@ -1213,7 +1213,7 @@
     </item>
     
     <item>
-      <title>two-bit encoding</title>
+      <title>two bit encoding</title>
       <link>https://bdai6.github.io/tags/two-bit-encoding/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/tags/two-bit-encoding/</guid>
