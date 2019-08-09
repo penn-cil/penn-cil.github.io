@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TCAM | Wisconsin Computational Intelligence Lab</title>
+    <link>https://bdai6.github.io/tags/tcam/</link>
+      <atom:link href="https://bdai6.github.io/tags/tcam/index.xml" rel="self" type="application/rss+xml" />
+    <description>TCAM</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bdai6.github.io/img/logo.png</url>
+      <title>TCAM</title>
+      <link>https://bdai6.github.io/tags/tcam/</link>
+    </image>
+    
+    <item>
+      <title>IMEC: A Fully Morphable In-Memory Computing Fabric Enabled by Resistive Crossbar</title>
+      <link>https://bdai6.github.io/publication/zha-2017-calimec/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2017-calimec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CMA: A Reconfigurable Complex Matching Accelerator for Wire-speed Network Intrusion Detection</title>
+      <link>https://bdai6.github.io/publication/zha-2017-calcma/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2017-calcma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling phase-change memory for data-centric computing: Technology, circuitand system (textbfinvited)</title>
+      <link>https://bdai6.github.io/publication/li-2015-iscas/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2015-iscas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling phase-change memory for data-centric computing: Technology, circuitand system (textbfinvited)</title>
+      <link>https://bdai6.github.io/publication/li-2015-iscas/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2015-iscas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demonstration of CAM and TCAM Using Phase Change Devices</title>
+      <link>https://bdai6.github.io/publication/rajendran-2011-imw/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/rajendran-2011-imw/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

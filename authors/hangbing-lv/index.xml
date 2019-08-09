@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hangbing Lv | Wisconsin Computational Intelligence Lab</title>
+    <link>https://bdai6.github.io/authors/hangbing-lv/</link>
+      <atom:link href="https://bdai6.github.io/authors/hangbing-lv/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hangbing Lv</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bdai6.github.io/img/logo.png</url>
+      <title>Hangbing Lv</title>
+      <link>https://bdai6.github.io/authors/hangbing-lv/</link>
+    </image>
+    
+    <item>
+      <title>Nbtextsubscript1-xOtextsubscript2 based Universal Selector with Ultra-high Endurance (&gt;10textsuperscript12), high speed (10ns) and Excellent Vtextsubscriptth Stability</title>
+      <link>https://bdai6.github.io/publication/luo-2019-vlsit/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/luo-2019-vlsit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully CMOS compatible 3D vertical RRAM with self-aligned self-selective cell enabling sub-5nm scaling</title>
+      <link>https://bdai6.github.io/publication/xu-2016-vlsi/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/xu-2016-vlsi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

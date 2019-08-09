@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>phase change random access memory | Wisconsin Computational Intelligence Lab</title>
+    <link>https://bdai6.github.io/tags/phase-change-random-access-memory/</link>
+      <atom:link href="https://bdai6.github.io/tags/phase-change-random-access-memory/index.xml" rel="self" type="application/rss+xml" />
+    <description>phase change random access memory</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bdai6.github.io/img/logo.png</url>
+      <title>phase change random access memory</title>
+      <link>https://bdai6.github.io/tags/phase-change-random-access-memory/</link>
+    </image>
+    
+    <item>
+      <title>Materials engineering for Phase Change Random Access Memory</title>
+      <link>https://bdai6.github.io/publication/raoux-2011-nvmts/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/raoux-2011-nvmts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Materials engineering for Phase Change Random Access Memory</title>
+      <link>https://bdai6.github.io/publication/raoux-2011-nvmts/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/raoux-2011-nvmts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A non-volatile look-up table design using PCM (phase-change memory) cells</title>
+      <link>https://bdai6.github.io/publication/wen-2011-vlci/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/wen-2011-vlci/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

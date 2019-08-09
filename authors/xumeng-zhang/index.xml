@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xumeng Zhang | Wisconsin Computational Intelligence Lab</title>
+    <link>https://bdai6.github.io/authors/xumeng-zhang/</link>
+      <atom:link href="https://bdai6.github.io/authors/xumeng-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xumeng Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bdai6.github.io/img/logo.png</url>
+      <title>Xumeng Zhang</title>
+      <link>https://bdai6.github.io/authors/xumeng-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Nbtextsubscript1-xOtextsubscript2 based Universal Selector with Ultra-high Endurance (&gt;10textsuperscript12), high speed (10ns) and Excellent Vtextsubscriptth Stability</title>
+      <link>https://bdai6.github.io/publication/luo-2019-vlsit/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/luo-2019-vlsit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

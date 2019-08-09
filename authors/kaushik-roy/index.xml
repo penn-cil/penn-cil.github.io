@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaushik Roy | Wisconsin Computational Intelligence Lab</title>
+    <link>https://bdai6.github.io/authors/kaushik-roy/</link>
+      <atom:link href="https://bdai6.github.io/authors/kaushik-roy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kaushik Roy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bdai6.github.io/img/logo.png</url>
+      <title>Kaushik Roy</title>
+      <link>https://bdai6.github.io/authors/kaushik-roy/</link>
+    </image>
+    
+    <item>
+      <title>Design Paradigm for Robust Spin-Torque Transfer Magnetic RAM (STT MRAM) From Circuit/Architecture Perspective (textbfbest paper)</title>
+      <link>https://bdai6.github.io/publication/li-2010-tvlsi/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2010-tvlsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable-Latency Adder (VL-Adder) Designs for Low Power and NBTI Tolerance</title>
+      <link>https://bdai6.github.io/publication/chen-2010-tvlsi/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/chen-2010-tvlsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variation  Resilient  Spin  Torque  Transfer  MRAM (poster)</title>
+      <link>https://bdai6.github.io/publication/li-2009-gsrc/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2009-gsrc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Heterogeneous System Design in Spintronics: Error Resilient Spin Torque MRAM (STT MRAM) Design</title>
+      <link>https://bdai6.github.io/publication/li-2009-dac/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2009-dac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variation Estimation and Compensation Technique in Scaled LTPS TFT Circuits for Low-Power Low-Cost Applications</title>
+      <link>https://bdai6.github.io/publication/li-2009-tcad/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2009-tcad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variation-tolerant Spin-Torque Transfer (STT) MRAM array for yield enhancement</title>
+      <link>https://bdai6.github.io/publication/li-2008-cicc/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2008-cicc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Alternate Design Paradigm for Low-power, Low-cost, Testable Hybrid Systems Using Scaled LTPS TFTs (textbfinvited)</title>
+      <link>https://bdai6.github.io/publication/li-2008-jetc/</link>
+      <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2008-jetc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling of failure probability and statistical design of Spin-Torque Transfer Magnetic Random Access Memory (STT MRAM) array for yield enhancement</title>
+      <link>https://bdai6.github.io/publication/li-2008-dac/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2008-dac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling of Failure Probability and Statistical Design of Spin-Torque Transfer Magnetic RAM (STT MRAM) Array for Yield Enhancement</title>
+      <link>https://bdai6.github.io/publication/li-2008-techcon/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2008-techcon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poly-Si Thin-Film Transistors: An Efficient and Low-Cost Option for Digital Operation</title>
+      <link>https://bdai6.github.io/publication/li-2007-ted/</link>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2007-ted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A generic and reconfigurable test paradigm using Low-cost integrated Poly-Si TFTs</title>
+      <link>https://bdai6.github.io/publication/li-2007-itc/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2007-itc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Performance and Low Power Electronics on Flexible Substrate</title>
+      <link>https://bdai6.github.io/publication/li-2007-dac/</link>
+      <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2007-dac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel Variation-Aware Circuit Design of Scaled LTPS TFT for Ultra low Power, Low-Cost Applications</title>
+      <link>https://bdai6.github.io/publication/li-2007-icicdt/</link>
+      <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2007-icicdt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Power and Variation Tolerant Digital Circuit Design in Sub-micron  Regime  using  Low  Cost LTPS TFTs</title>
+      <link>https://bdai6.github.io/publication/li-2007-techcon/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2007-techcon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Low Temperature Poly-Si for Low Cost and Low Power Sub-micron Digital Operation</title>
+      <link>https://bdai6.github.io/publication/li-2006-drc/</link>
+      <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2006-drc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grain Boundary (GB) | Wisconsin Computational Intelligence Lab</title>
+    <link>https://bdai6.github.io/tags/grain-boundary-gb/</link>
+      <atom:link href="https://bdai6.github.io/tags/grain-boundary-gb/index.xml" rel="self" type="application/rss+xml" />
+    <description>Grain Boundary (GB)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bdai6.github.io/img/logo.png</url>
+      <title>Grain Boundary (GB)</title>
+      <link>https://bdai6.github.io/tags/grain-boundary-gb/</link>
+    </image>
+    
+    <item>
+      <title>Variation Estimation and Compensation Technique in Scaled LTPS TFT Circuits for Low-Power Low-Cost Applications</title>
+      <link>https://bdai6.github.io/publication/li-2009-tcad/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2009-tcad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Alternate Design Paradigm for Low-power, Low-cost, Testable Hybrid Systems Using Scaled LTPS TFTs (textbfinvited)</title>
+      <link>https://bdai6.github.io/publication/li-2008-jetc/</link>
+      <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2008-jetc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poly-Si Thin-Film Transistors: An Efficient and Low-Cost Option for Digital Operation</title>
+      <link>https://bdai6.github.io/publication/li-2007-ted/</link>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2007-ted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Performance and Low Power Electronics on Flexible Substrate</title>
+      <link>https://bdai6.github.io/publication/li-2007-dac/</link>
+      <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2007-dac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel Variation-Aware Circuit Design of Scaled LTPS TFT for Ultra low Power, Low-Cost Applications</title>
+      <link>https://bdai6.github.io/publication/li-2007-icicdt/</link>
+      <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2007-icicdt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

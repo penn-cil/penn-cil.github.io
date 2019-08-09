@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>delay variation | Wisconsin Computational Intelligence Lab</title>
+    <link>https://bdai6.github.io/tags/delay-variation/</link>
+      <atom:link href="https://bdai6.github.io/tags/delay-variation/index.xml" rel="self" type="application/rss+xml" />
+    <description>delay variation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bdai6.github.io/img/logo.png</url>
+      <title>delay variation</title>
+      <link>https://bdai6.github.io/tags/delay-variation/</link>
+    </image>
+    
+    <item>
+      <title>Variation Estimation and Compensation Technique in Scaled LTPS TFT Circuits for Low-Power Low-Cost Applications</title>
+      <link>https://bdai6.github.io/publication/li-2009-tcad/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2009-tcad/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

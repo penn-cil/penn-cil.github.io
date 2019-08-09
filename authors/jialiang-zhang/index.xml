@@ -5,7 +5,7 @@
     <link>https://bdai6.github.io/authors/jialiang-zhang/</link>
       <atom:link href="https://bdai6.github.io/authors/jialiang-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Wisconsin Computational Intelligence Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
       <title>Wisconsin Computational Intelligence Lab</title>
@@ -13,9 +13,25 @@
     </image>
     
     <item>
+      <title>Boosting the Performance of FPGA-based Graph Processor Using Hybrid Memory Cube: A Case for Breadth First Search</title>
+      <link>https://bdai6.github.io/publication/zhang-2017-fpga-bfs/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zhang-2017-fpga-bfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the Performance of OpenCL-based FPGA Accelerator for Convolutional Neural Network</title>
+      <link>https://bdai6.github.io/publication/zhang-2017-fpga-cnn/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zhang-2017-fpga-cnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://bdai6.github.io/authors/jialiang-zhang/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/jialiang-zhang/</guid>
       <description>&lt;p&gt;Jialiang Zhang is a PhD student in the ECE department of UW-Madison. He received his B.E. degree from University of Electronic Science and Technology of China. His research focuses on hardware demonstration of emerging computer architecture concept. He is also an expert in high speed digital system and high performance mixed-signal circuit design.&lt;/p&gt;
 </description>

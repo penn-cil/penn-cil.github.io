@@ -5,7 +5,7 @@
     <link>https://bdai6.github.io/authors/soroosh-khoram/</link>
       <atom:link href="https://bdai6.github.io/authors/soroosh-khoram/index.xml" rel="self" type="application/rss+xml" />
     <description>Wisconsin Computational Intelligence Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
       <title>Wisconsin Computational Intelligence Lab</title>
@@ -13,9 +13,25 @@
     </image>
     
     <item>
+      <title>An Alternative Analytical Approach to Associative Processing (textbfBest of CAL)</title>
+      <link>https://bdai6.github.io/publication/khoram-2018-cal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/khoram-2018-cal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boosting the Performance of FPGA-based Graph Processor Using Hybrid Memory Cube: A Case for Breadth First Search</title>
+      <link>https://bdai6.github.io/publication/zhang-2017-fpga-bfs/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zhang-2017-fpga-bfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://bdai6.github.io/authors/soroosh-khoram/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/soroosh-khoram/</guid>
       <description>&lt;p&gt;Soroosh Khoram received his B.S. in digital systems from Sharif University of Technology, Iran in 2013, and M.S. in Microwave and Optics in 2015 from the same school. Later in 2015, he joined the graduate program of Electrical and Computer Engineering in University of Wisconsin – Madison to pursue his PhD. His research focuses on architecture design and algorithms mapping of novel computation paradigms. He is currently working on processing-in-memory accelerators and associative processors enabled by the emerging non-volatile memory technologies.&lt;/p&gt;
 </description>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SET operation | Wisconsin Computational Intelligence Lab</title>
+    <link>https://bdai6.github.io/tags/set-operation/</link>
+      <atom:link href="https://bdai6.github.io/tags/set-operation/index.xml" rel="self" type="application/rss+xml" />
+    <description>SET operation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bdai6.github.io/img/logo.png</url>
+      <title>SET operation</title>
+      <link>https://bdai6.github.io/tags/set-operation/</link>
+    </image>
+    
+    <item>
+      <title>The impact of melting during reset operation on the reliability of phase change memory</title>
+      <link>https://bdai6.github.io/publication/du-2012-irps/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/du-2012-irps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

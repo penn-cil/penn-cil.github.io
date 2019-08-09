@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>n̆derlineJing Li | Wisconsin Computational Intelligence Lab</title>
+    <link>https://bdai6.github.io/authors/nderlinejing-li/</link>
+      <atom:link href="https://bdai6.github.io/authors/nderlinejing-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>n̆derlineJing Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bdai6.github.io/img/logo.png</url>
+      <title>n̆derlineJing Li</title>
+      <link>https://bdai6.github.io/authors/nderlinejing-li/</link>
+    </image>
+    
+    <item>
+      <title>Fully CMOS compatible 3D vertical RRAM with self-aligned self-selective cell enabling sub-5nm scaling</title>
+      <link>https://bdai6.github.io/publication/xu-2016-vlsi/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/xu-2016-vlsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of melting during reset operation on the reliability of phase change memory</title>
+      <link>https://bdai6.github.io/publication/du-2012-irps/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/du-2012-irps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>https://bdai6.github.io/authors/yue-zha/</link>
       <atom:link href="https://bdai6.github.io/authors/yue-zha/index.xml" rel="self" type="application/rss+xml" />
     <description>Wisconsin Computational Intelligence Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
       <title>Wisconsin Computational Intelligence Lab</title>
@@ -13,9 +13,65 @@
     </image>
     
     <item>
+      <title>Liquid Silicon: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated ReRAM for Big Data/Machine Learning Applications</title>
+      <link>https://bdai6.github.io/publication/zha-2019-vlsic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2019-vlsic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Alternative Analytical Approach to Associative Processing (textbfBest of CAL)</title>
+      <link>https://bdai6.github.io/publication/khoram-2018-cal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/khoram-2018-cal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RRAM-based reconfigurable in-memory computing architecture with hybrid routing</title>
+      <link>https://bdai6.github.io/publication/zha-2017-iccad/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2017-iccad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IMEC: A Fully Morphable In-Memory Computing Fabric Enabled by Resistive Crossbar</title>
+      <link>https://bdai6.github.io/publication/zha-2017-calimec/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2017-calimec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent progress in RRAM technology: From compact models to applications (textbfinvited)</title>
+      <link>https://bdai6.github.io/publication/zha-2017-cstic/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2017-cstic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CMA: A Reconfigurable Complex Matching Accelerator for Wire-speed Network Intrusion Detection</title>
+      <link>https://bdai6.github.io/publication/zha-2017-calcma/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2017-calcma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfigurable in-memory computing with resistive memory crossbar</title>
+      <link>https://bdai6.github.io/publication/zha-2016-iccad/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2016-iccad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://bdai6.github.io/authors/yue-zha/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/yue-zha/</guid>
       <description>&lt;p&gt;Yue Zha received his B.S. degree in Physics from Peking University, China in 2013, and M.S. degree in Electrical and Computer Engineering from University of Wisconsin-Madison in 2015. He is currently pursuing his Ph.D. degree at the Department of Electrical and Computer Engineering, University of Wisconsin-Madison, WI. His research interests are reconfigurable computing device (conventional SRAM-based and novel RRAM-based), and CAD framework development.&lt;/p&gt;
 </description>

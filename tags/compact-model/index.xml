@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compact model | Wisconsin Computational Intelligence Lab</title>
+    <link>https://bdai6.github.io/tags/compact-model/</link>
+      <atom:link href="https://bdai6.github.io/tags/compact-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>Compact model</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bdai6.github.io/img/logo.png</url>
+      <title>Compact model</title>
+      <link>https://bdai6.github.io/tags/compact-model/</link>
+    </image>
+    
+    <item>
+      <title>Recent progress in RRAM technology: From compact models to applications (textbfinvited)</title>
+      <link>https://bdai6.github.io/publication/zha-2017-cstic/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2017-cstic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A compact model for RRAM including random telegraph noise</title>
+      <link>https://bdai6.github.io/publication/guan-2016-irps/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/guan-2016-irps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

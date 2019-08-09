@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>two-bit encoding | Wisconsin Computational Intelligence Lab</title>
+    <link>https://bdai6.github.io/tags/two-bit-encoding/</link>
+      <atom:link href="https://bdai6.github.io/tags/two-bit-encoding/index.xml" rel="self" type="application/rss+xml" />
+    <description>two-bit encoding</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bdai6.github.io/img/logo.png</url>
+      <title>two-bit encoding</title>
+      <link>https://bdai6.github.io/tags/two-bit-encoding/</link>
+    </image>
+    
+    <item>
+      <title>1 Mb 0.41 $μ$m$^2$ 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (textbfinvited)</title>
+      <link>https://bdai6.github.io/publication/li-2014-jssc/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2014-jssc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1Mb 0.41 $μ$m$^2$ 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (textbfHighlight Paper of the Year)</title>
+      <link>https://bdai6.github.io/publication/li-2013-vlsi/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2013-vlsi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monte-Carlo simulation | Wisconsin Computational Intelligence Lab</title>
+    <link>https://bdai6.github.io/tags/monte-carlo-simulation/</link>
+      <atom:link href="https://bdai6.github.io/tags/monte-carlo-simulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Monte-Carlo simulation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bdai6.github.io/img/logo.png</url>
+      <title>Monte-Carlo simulation</title>
+      <link>https://bdai6.github.io/tags/monte-carlo-simulation/</link>
+    </image>
+    
+    <item>
+      <title>Demonstration of CAM and TCAM Using Phase Change Devices</title>
+      <link>https://bdai6.github.io/publication/rajendran-2011-imw/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/rajendran-2011-imw/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

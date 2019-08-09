@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>built-in self test | Wisconsin Computational Intelligence Lab</title>
+    <link>https://bdai6.github.io/tags/built-in-self-test/</link>
+      <atom:link href="https://bdai6.github.io/tags/built-in-self-test/index.xml" rel="self" type="application/rss+xml" />
+    <description>built-in self test</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bdai6.github.io/img/logo.png</url>
+      <title>built-in self test</title>
+      <link>https://bdai6.github.io/tags/built-in-self-test/</link>
+    </image>
+    
+    <item>
+      <title>A generic and reconfigurable test paradigm using Low-cost integrated Poly-Si TFTs</title>
+      <link>https://bdai6.github.io/publication/li-2007-itc/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2007-itc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

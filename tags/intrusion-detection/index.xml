@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>intrusion detection | Wisconsin Computational Intelligence Lab</title>
+    <link>https://bdai6.github.io/tags/intrusion-detection/</link>
+      <atom:link href="https://bdai6.github.io/tags/intrusion-detection/index.xml" rel="self" type="application/rss+xml" />
+    <description>intrusion detection</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bdai6.github.io/img/logo.png</url>
+      <title>intrusion detection</title>
+      <link>https://bdai6.github.io/tags/intrusion-detection/</link>
+    </image>
+    
+    <item>
+      <title>CMA: A Reconfigurable Complex Matching Accelerator for Wire-speed Network Intrusion Detection</title>
+      <link>https://bdai6.github.io/publication/zha-2017-calcma/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2017-calcma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CMA: A Reconfigurable Complex Matching Accelerator for Wire-speed Network Intrusion Detection</title>
+      <link>https://bdai6.github.io/publication/zha-2017-calcma/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2017-calcma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Mb 0.41 $μ$m$^2$ 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (textbfinvited)</title>
+      <link>https://bdai6.github.io/publication/li-2014-jssc/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2014-jssc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

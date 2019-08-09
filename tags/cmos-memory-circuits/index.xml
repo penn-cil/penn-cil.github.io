@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CMOS memory circuits | Wisconsin Computational Intelligence Lab</title>
+    <link>https://bdai6.github.io/tags/cmos-memory-circuits/</link>
+      <atom:link href="https://bdai6.github.io/tags/cmos-memory-circuits/index.xml" rel="self" type="application/rss+xml" />
+    <description>CMOS memory circuits</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bdai6.github.io/img/logo.png</url>
+      <title>CMOS memory circuits</title>
+      <link>https://bdai6.github.io/tags/cmos-memory-circuits/</link>
+    </image>
+    
+    <item>
+      <title>Fully CMOS compatible 3D vertical RRAM with self-aligned self-selective cell enabling sub-5nm scaling</title>
+      <link>https://bdai6.github.io/publication/xu-2016-vlsi/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/xu-2016-vlsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1Mb 0.41 $μ$m$^2$ 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (textbfHighlight Paper of the Year)</title>
+      <link>https://bdai6.github.io/publication/li-2013-vlsi/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2013-vlsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A non-volatile look-up table design using PCM (phase-change memory) cells</title>
+      <link>https://bdai6.github.io/publication/wen-2011-vlci/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/wen-2011-vlci/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

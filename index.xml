@@ -106,6 +106,22 @@
     </item>
     
     <item>
+      <title>Rethinking Computer System</title>
+      <link>https://bdai6.github.io/project/rethinking-computer-system/</link>
+      <pubDate>Thu, 08 Aug 2019 22:58:17 -0500</pubDate>
+      <guid>https://bdai6.github.io/project/rethinking-computer-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Augmenting Computer Systems with Domain Specific Accelerator and Emerging Memories</title>
+      <link>https://bdai6.github.io/project/augmenting-computer-system/</link>
+      <pubDate>Thu, 08 Aug 2019 22:57:41 -0500</pubDate>
+      <guid>https://bdai6.github.io/project/augmenting-computer-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Writing technical content in Academic</title>
       <link>https://bdai6.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
@@ -575,6 +591,86 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Liquid Silicon: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated ReRAM for Big Data/Machine Learning Applications</title>
+      <link>https://bdai6.github.io/publication/zha-2019-vlsic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2019-vlsic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nbtextsubscript1-xOtextsubscript2 based Universal Selector with Ultra-high Endurance (&gt;10textsuperscript12), high speed (10ns) and Excellent Vtextsubscriptth Stability</title>
+      <link>https://bdai6.github.io/publication/luo-2019-vlsit/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/luo-2019-vlsit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Alternative Analytical Approach to Associative Processing (textbfBest of CAL)</title>
+      <link>https://bdai6.github.io/publication/khoram-2018-cal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/khoram-2018-cal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RRAM-based reconfigurable in-memory computing architecture with hybrid routing</title>
+      <link>https://bdai6.github.io/publication/zha-2017-iccad/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2017-iccad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IMEC: A Fully Morphable In-Memory Computing Fabric Enabled by Resistive Crossbar</title>
+      <link>https://bdai6.github.io/publication/zha-2017-calimec/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2017-calimec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent progress in RRAM technology: From compact models to applications (textbfinvited)</title>
+      <link>https://bdai6.github.io/publication/zha-2017-cstic/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2017-cstic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boosting the Performance of FPGA-based Graph Processor Using Hybrid Memory Cube: A Case for Breadth First Search</title>
+      <link>https://bdai6.github.io/publication/zhang-2017-fpga-bfs/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zhang-2017-fpga-bfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CMA: A Reconfigurable Complex Matching Accelerator for Wire-speed Network Intrusion Detection</title>
+      <link>https://bdai6.github.io/publication/zha-2017-calcma/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2017-calcma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the Performance of OpenCL-based FPGA Accelerator for Convolutional Neural Network</title>
+      <link>https://bdai6.github.io/publication/zhang-2017-fpga-cnn/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zhang-2017-fpga-cnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully CMOS compatible 3D vertical RRAM with self-aligned self-selective cell enabling sub-5nm scaling</title>
+      <link>https://bdai6.github.io/publication/xu-2016-vlsi/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/xu-2016-vlsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>External Project</title>
       <link>https://bdai6.github.io/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -830,6 +926,22 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>A compact model for RRAM including random telegraph noise</title>
+      <link>https://bdai6.github.io/publication/guan-2016-irps/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/guan-2016-irps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfigurable in-memory computing with resistive memory crossbar</title>
+      <link>https://bdai6.github.io/publication/zha-2016-iccad/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2016-iccad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An example journal article</title>
       <link>https://bdai6.github.io/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
@@ -851,6 +963,22 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Enabling phase-change memory for data-centric computing: Technology, circuitand system (textbfinvited)</title>
+      <link>https://bdai6.github.io/publication/li-2015-iscas/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2015-iscas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Mb 0.41 $μ$m$^2$ 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (textbfinvited)</title>
+      <link>https://bdai6.github.io/publication/li-2014-jssc/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2014-jssc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An example conference paper</title>
       <link>https://bdai6.github.io/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
@@ -869,6 +997,254 @@ $$&lt;/p&gt;
 
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>1Mb 0.41 $μ$m$^2$ 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (textbfHighlight Paper of the Year)</title>
+      <link>https://bdai6.github.io/publication/li-2013-vlsi/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2013-vlsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assisted cubic to hexagonal phase transition in GeSbTe thin films on silicon nitride</title>
+      <link>https://bdai6.github.io/publication/cil-2013-thinfilm/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/cil-2013-thinfilm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Row Buffer Locality in Future Non-Volatile Main Memories</title>
+      <link>https://bdai6.github.io/publication/meza-2012-report-nvm/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/meza-2012-report-nvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theory and Experiments of the Impact of Work-Function Variability on Threshold Voltage Variability in MOS Devices</title>
+      <link>https://bdai6.github.io/publication/zhang-2012-ted/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zhang-2012-ted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A case for small row buffers in non-volatile main memories</title>
+      <link>https://bdai6.github.io/publication/meza-2012-iccd/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/meza-2012-iccd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of programming current on endurance of phase change memory</title>
+      <link>https://bdai6.github.io/publication/kim-2012-vlsitsa/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/kim-2012-vlsitsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resistance drift in phase change memory (textbfinvited)</title>
+      <link>https://bdai6.github.io/publication/li-2012-irps/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2012-irps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of melting during reset operation on the reliability of phase change memory</title>
+      <link>https://bdai6.github.io/publication/du-2012-irps/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/du-2012-irps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of heater-recess and load matching in phase change memory mushroom cells</title>
+      <link>https://bdai6.github.io/publication/cywar-2012-nano/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/cywar-2012-nano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Materials engineering for Phase Change Random Access Memory</title>
+      <link>https://bdai6.github.io/publication/raoux-2011-nvmts/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/raoux-2011-nvmts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A non-volatile look-up table design using PCM (phase-change memory) cells</title>
+      <link>https://bdai6.github.io/publication/wen-2011-vlci/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/wen-2011-vlci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Reconfigurable Sensing Scheme for Variable Level Storage in Phase Change Memory</title>
+      <link>https://bdai6.github.io/publication/li-2011-imw/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2011-imw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demonstration of CAM and TCAM Using Phase Change Devices</title>
+      <link>https://bdai6.github.io/publication/rajendran-2011-imw/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/rajendran-2011-imw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phase change memory (textbfinvited)</title>
+      <link>https://bdai6.github.io/publication/li-2011-sciencechina/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2011-sciencechina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Paradigm for Robust Spin-Torque Transfer Magnetic RAM (STT MRAM) From Circuit/Architecture Perspective (textbfbest paper)</title>
+      <link>https://bdai6.github.io/publication/li-2010-tvlsi/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2010-tvlsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable-Latency Adder (VL-Adder) Designs for Low Power and NBTI Tolerance</title>
+      <link>https://bdai6.github.io/publication/chen-2010-tvlsi/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/chen-2010-tvlsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variation  Resilient  Spin  Torque  Transfer  MRAM (poster)</title>
+      <link>https://bdai6.github.io/publication/li-2009-gsrc/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2009-gsrc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Heterogeneous System Design in Spintronics: Error Resilient Spin Torque MRAM (STT MRAM) Design</title>
+      <link>https://bdai6.github.io/publication/li-2009-dac/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2009-dac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust and Energy-efficient Heterogeneous System Design in Emerging Technologies (textbfnominated for Best Thesis Award)</title>
+      <link>https://bdai6.github.io/publication/phd/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variation Estimation and Compensation Technique in Scaled LTPS TFT Circuits for Low-Power Low-Cost Applications</title>
+      <link>https://bdai6.github.io/publication/li-2009-tcad/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2009-tcad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variation-tolerant Spin-Torque Transfer (STT) MRAM array for yield enhancement</title>
+      <link>https://bdai6.github.io/publication/li-2008-cicc/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2008-cicc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Alternate Design Paradigm for Low-power, Low-cost, Testable Hybrid Systems Using Scaled LTPS TFTs (textbfinvited)</title>
+      <link>https://bdai6.github.io/publication/li-2008-jetc/</link>
+      <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2008-jetc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling of failure probability and statistical design of Spin-Torque Transfer Magnetic Random Access Memory (STT MRAM) array for yield enhancement</title>
+      <link>https://bdai6.github.io/publication/li-2008-dac/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2008-dac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Body History Study on 12S eDRAM Sensing Operation</title>
+      <link>https://bdai6.github.io/publication/li-2008-report-edram/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2008-report-edram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling of Failure Probability and Statistical Design of Spin-Torque Transfer Magnetic RAM (STT MRAM) Array for Yield Enhancement</title>
+      <link>https://bdai6.github.io/publication/li-2008-techcon/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2008-techcon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poly-Si Thin-Film Transistors: An Efficient and Low-Cost Option for Digital Operation</title>
+      <link>https://bdai6.github.io/publication/li-2007-ted/</link>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2007-ted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A generic and reconfigurable test paradigm using Low-cost integrated Poly-Si TFTs</title>
+      <link>https://bdai6.github.io/publication/li-2007-itc/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2007-itc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Performance and Low Power Electronics on Flexible Substrate</title>
+      <link>https://bdai6.github.io/publication/li-2007-dac/</link>
+      <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2007-dac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel Variation-Aware Circuit Design of Scaled LTPS TFT for Ultra low Power, Low-Cost Applications</title>
+      <link>https://bdai6.github.io/publication/li-2007-icicdt/</link>
+      <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2007-icicdt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Power and Variation Tolerant Digital Circuit Design in Sub-micron  Regime  using  Low  Cost LTPS TFTs</title>
+      <link>https://bdai6.github.io/publication/li-2007-techcon/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2007-techcon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Low Temperature Poly-Si for Low Cost and Low Power Sub-micron Digital Operation</title>
+      <link>https://bdai6.github.io/publication/li-2006-drc/</link>
+      <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2006-drc/</guid>
+      <description></description>
     </item>
     
   </channel>

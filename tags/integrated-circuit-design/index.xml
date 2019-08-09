@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>integrated circuit design | Wisconsin Computational Intelligence Lab</title>
+    <link>https://bdai6.github.io/tags/integrated-circuit-design/</link>
+      <atom:link href="https://bdai6.github.io/tags/integrated-circuit-design/index.xml" rel="self" type="application/rss+xml" />
+    <description>integrated circuit design</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bdai6.github.io/img/logo.png</url>
+      <title>integrated circuit design</title>
+      <link>https://bdai6.github.io/tags/integrated-circuit-design/</link>
+    </image>
+    
+    <item>
+      <title>A compact model for RRAM including random telegraph noise</title>
+      <link>https://bdai6.github.io/publication/guan-2016-irps/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/guan-2016-irps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1Mb 0.41 $μ$m$^2$ 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (textbfHighlight Paper of the Year)</title>
+      <link>https://bdai6.github.io/publication/li-2013-vlsi/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2013-vlsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Paradigm for Robust Spin-Torque Transfer Magnetic RAM (STT MRAM) From Circuit/Architecture Perspective (textbfbest paper)</title>
+      <link>https://bdai6.github.io/publication/li-2010-tvlsi/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2010-tvlsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable-Latency Adder (VL-Adder) Designs for Low Power and NBTI Tolerance</title>
+      <link>https://bdai6.github.io/publication/chen-2010-tvlsi/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/chen-2010-tvlsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel Variation-Aware Circuit Design of Scaled LTPS TFT for Ultra low Power, Low-Cost Applications</title>
+      <link>https://bdai6.github.io/publication/li-2007-icicdt/</link>
+      <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2007-icicdt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
