@@ -69,10 +69,26 @@
     </item>
     
     <item>
+      <title> bfs</title>
+      <link>https://bdai6.github.io/tags/bfs/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/tags/bfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title> graph analytics</title>
       <link>https://bdai6.github.io/tags/graph-analytics/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/tags/graph-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> graph clustering</title>
+      <link>https://bdai6.github.io/tags/graph-clustering/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/tags/graph-clustering/</guid>
       <description></description>
     </item>
     
@@ -89,6 +105,14 @@
       <link>https://bdai6.github.io/tags/hardware-accelerators/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/tags/hardware-accelerators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> hybrid memory cube</title>
+      <link>https://bdai6.github.io/tags/hybrid-memory-cube/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/tags/hybrid-memory-cube/</guid>
       <description></description>
     </item>
     
@@ -113,30 +137,6 @@
       <link>https://bdai6.github.io/tags/reconfigurable-logic/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/tags/reconfigurable-logic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bfs</title>
-      <link>https://bdai6.github.io/tags/bfs/</link>
-      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/tags/bfs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>graph clustering</title>
-      <link>https://bdai6.github.io/tags/graph-clustering/</link>
-      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/tags/graph-clustering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hybrid memory cube</title>
-      <link>https://bdai6.github.io/tags/hybrid-memory-cube/</link>
-      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/tags/hybrid-memory-cube/</guid>
       <description></description>
     </item>
     
@@ -549,14 +549,6 @@
     </item>
     
     <item>
-      <title> 3d integration</title>
-      <link>https://bdai6.github.io/tags/3d-integration/</link>
-      <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/tags/3d-integration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title> in-memory processing</title>
       <link>https://bdai6.github.io/tags/in-memory-processing/</link>
       <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
@@ -577,6 +569,14 @@
       <link>https://bdai6.github.io/tags/nonvolatile-memory/</link>
       <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/tags/nonvolatile-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3d integration</title>
+      <link>https://bdai6.github.io/tags/3d-integration/</link>
+      <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/tags/3d-integration/</guid>
       <description></description>
     </item>
     
@@ -3509,7 +3509,7 @@
     </item>
     
     <item>
-      <title> adders</title>
+      <title>adders</title>
       <link>https://bdai6.github.io/tags/adders/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/tags/adders/</guid>
@@ -4517,6 +4517,14 @@
     </item>
     
     <item>
+      <title> flexible electronics</title>
+      <link>https://bdai6.github.io/tags/flexible-electronics/</link>
+      <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/tags/flexible-electronics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>design</title>
       <link>https://bdai6.github.io/tags/design/</link>
       <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
@@ -4537,14 +4545,6 @@
       <link>https://bdai6.github.io/tags/experimentation/</link>
       <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/tags/experimentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>flexible electronics</title>
-      <link>https://bdai6.github.io/tags/flexible-electronics/</link>
-      <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/tags/flexible-electronics/</guid>
       <description></description>
     </item>
     

@@ -794,7 +794,19 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/bfs/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/graph-analytics/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/graph-clustering/</loc>
     <lastmod>2018-02-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -807,6 +819,12 @@
   
   <url>
     <loc>https://bdai6.github.io/tags/hardware-accelerators/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/hybrid-memory-cube/</loc>
     <lastmod>2018-02-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -842,24 +860,6 @@
   <url>
     <loc>https://bdai6.github.io/publication/zha-2018-fpga/</loc>
     <lastmod>2018-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/bfs/</loc>
-    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/graph-clustering/</loc>
-    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/hybrid-memory-cube/</loc>
-    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1228,12 +1228,6 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/3d-integration/</loc>
-    <lastmod>2017-03-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/tags/in-memory-processing/</loc>
     <lastmod>2017-03-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1247,6 +1241,12 @@
   
   <url>
     <loc>https://bdai6.github.io/tags/nonvolatile-memory/</loc>
+    <lastmod>2017-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/3d-integration/</loc>
     <lastmod>2017-03-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1508,13 +1508,7 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/authors/q.-luo/</loc>
-    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/s.-s.-chung/</loc>
+    <loc>https://bdai6.github.io/authors/steve-s.-chung/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1569,12 +1563,6 @@
   
   <url>
     <loc>https://bdai6.github.io/tags/threshold-voltage/</loc>
-    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/underlinejing-li/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1722,73 +1710,37 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/authors/h.-liu/</loc>
+    <loc>https://bdai6.github.io/authors/haitao-sun/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/authors/h.-lv/</loc>
+    <loc>https://bdai6.github.io/authors/hongtao-liu/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/authors/h.-sun/</loc>
+    <loc>https://bdai6.github.io/authors/jianfeng-gao/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/authors/j.-gao/</loc>
+    <loc>https://bdai6.github.io/authors/ling-li/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/authors/l.-li/</loc>
+    <loc>https://bdai6.github.io/authors/nianduan-lu/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/authors/m.-liu/</loc>
-    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/n.-lu/</loc>
-    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/q.-liu/</loc>
-    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/s.-long/</loc>
-    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/t.-gong/</loc>
-    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/w.-banerjee/</loc>
-    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/x.-xu/</loc>
+    <loc>https://bdai6.github.io/authors/writam-banerjee/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2896,6 +2848,12 @@
   
   <url>
     <loc>https://bdai6.github.io/authors/p.-y.-du/</loc>
+    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/pei-ying-du/</loc>
     <lastmod>2012-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -4198,12 +4156,6 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/adders/</loc>
-    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/authors/cheng-kok-koh/</loc>
     <lastmod>2010-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4234,6 +4186,12 @@
   
   <url>
     <loc>https://bdai6.github.io/authors/yuan-xie/</loc>
+    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/adders/</loc>
     <lastmod>2010-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -5143,6 +5101,12 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/flexible-electronics/</loc>
+    <lastmod>2007-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/publication/li-2007-dac/</loc>
     <lastmod>2007-06-01T00:00:00+00:00</lastmod>
   </url>
@@ -5161,12 +5125,6 @@
   
   <url>
     <loc>https://bdai6.github.io/tags/experimentation/</loc>
-    <lastmod>2007-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/flexible-electronics/</loc>
     <lastmod>2007-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

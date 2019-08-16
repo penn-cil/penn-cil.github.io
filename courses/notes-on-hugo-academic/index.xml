@@ -99,7 +99,7 @@ The list of latest work is controlled by &lt;code&gt;theme/academic/layouts/auth
     {{ end }}
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;Key points:&lt;/p&gt;
+&lt;h3 id=&#34;key-points&#34;&gt;Key points:&lt;/h3&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;https://gohugo.io/variables/page/#page-variables&#34; target=&#34;_blank&#34;&gt;Page variable&lt;/a&gt; &lt;code&gt;.IsNode&lt;/code&gt; always &lt;em&gt;false&lt;/em&gt; for regular content pages. So &lt;code&gt;where .Pages &amp;quot;.IsNode&amp;quot; false&lt;/code&gt; means finding all regular content pages.&lt;/li&gt;
@@ -108,6 +108,28 @@ The list of latest work is controlled by &lt;code&gt;theme/academic/layouts/auth
 &lt;li&gt;Use &lt;code&gt;printf &amp;quot;%s (%d)&amp;quot; (i18n &amp;quot;publications&amp;quot;) $count&lt;/code&gt; to concatenate &lt;code&gt;&amp;quot;Publications&amp;quot;&lt;/code&gt; and the number of publications.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;.Title&lt;/code&gt; corresponds to the title for this page.&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;h3 id=&#34;further-improvement&#34;&gt;Further improvement&lt;/h3&gt;
+
+&lt;p&gt;Use the following functions and variables to further customize a Hugo template.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;.Date&lt;/code&gt; Page variable .Date pulls from the date field in a content’s front matter.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;code&gt;.Params&lt;/code&gt; calls page or site variables into your template. &lt;code&gt;.Params.publication&lt;/code&gt; extracts the journal/conference name in a publication page. And &lt;code&gt;.Params.location&lt;/code&gt; extracts the location information.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;code&gt;markdownify&lt;/code&gt; runs the provided string through the Markdown processor. So it can be used to create special effect (bold, italic, etc) on text.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Add date and journal/conference name to publications&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt; &amp;lt;a href=&amp;quot;{{ .RelPermalink }}&amp;quot;&amp;gt;{{ .Title }}&amp;lt;/a&amp;gt; ({{ dateFormat &amp;quot;2006&amp;quot; .Date }}). {{ .Params.publication | markdownify }}`
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Add date and location to talks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;&amp;lt;a href=&amp;quot;{{ .RelPermalink }}&amp;quot;&amp;gt;{{ .Title }}&amp;lt;/a&amp;gt;, {{ .Params.location | markdownify }}, {{ dateFormat &amp;quot;Jan. 1, 2006&amp;quot; .Date }} 
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     

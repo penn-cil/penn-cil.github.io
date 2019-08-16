@@ -603,7 +603,11 @@ The Example Currently Academic lists everything (posts, publications, etc) writt
 <li>
 <ul>
 <li><a href="#the-example">The Example</a></li>
-<li><a href="#the-solution">The solution</a></li>
+<li><a href="#the-solution">The solution</a>
+<ul>
+<li><a href="#key-points">Key points:</a></li>
+<li><a href="#further-improvement">Further improvement</a></li>
+</ul></li>
 </ul></li>
 </ul>
 </nav>
@@ -702,7 +706,7 @@ The list of latest work is controlled by <code>theme/academic/layouts/authors/li
     {{ end }}
 </code></pre>
 
-<p>Key points:</p>
+<h3 id="key-points">Key points:</h3>
 
 <ol>
 <li><a href="https://gohugo.io/variables/page/#page-variables" target="_blank">Page variable</a> <code>.IsNode</code> always <em>false</em> for regular content pages. So <code>where .Pages &quot;.IsNode&quot; false</code> means finding all regular content pages.</li>
@@ -711,6 +715,28 @@ The list of latest work is controlled by <code>theme/academic/layouts/authors/li
 <li>Use <code>printf &quot;%s (%d)&quot; (i18n &quot;publications&quot;) $count</code> to concatenate <code>&quot;Publications&quot;</code> and the number of publications.</li>
 <li><code>.Title</code> corresponds to the title for this page.</li>
 </ol>
+
+<h3 id="further-improvement">Further improvement</h3>
+
+<p>Use the following functions and variables to further customize a Hugo template.</p>
+
+<ul>
+<li><p><code>.Date</code> Page variable .Date pulls from the date field in a content’s front matter.</p></li>
+
+<li><p><code>.Params</code> calls page or site variables into your template. <code>.Params.publication</code> extracts the journal/conference name in a publication page. And <code>.Params.location</code> extracts the location information.</p></li>
+
+<li><p><code>markdownify</code> runs the provided string through the Markdown processor. So it can be used to create special effect (bold, italic, etc) on text.</p></li>
+</ul>
+
+<p><strong>Add date and journal/conference name to publications</strong></p>
+
+<pre><code class="language-html"> &lt;a href=&quot;{{ .RelPermalink }}&quot;&gt;{{ .Title }}&lt;/a&gt; ({{ dateFormat &quot;2006&quot; .Date }}). {{ .Params.publication | markdownify }}`
+</code></pre>
+
+<p><strong>Add date and location to talks</strong></p>
+
+<pre><code class="language-html">&lt;a href=&quot;{{ .RelPermalink }}&quot;&gt;{{ .Title }}&lt;/a&gt;, {{ .Params.location | markdownify }}, {{ dateFormat &quot;Jan. 1, 2006&quot; .Date }} 
+</code></pre>
 
           </div>
 
