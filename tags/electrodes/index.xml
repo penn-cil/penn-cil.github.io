@@ -1,21 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Electrodes | Wisconsin Computational Intelligence Lab</title>
+    <title>electrodes | Wisconsin Computational Intelligence Lab</title>
     <link>https://bdai6.github.io/tags/electrodes/</link>
       <atom:link href="https://bdai6.github.io/tags/electrodes/index.xml" rel="self" type="application/rss+xml" />
-    <description>Electrodes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2008 00:00:00 +0000</lastBuildDate>
+    <description>electrodes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2011 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
-      <title>Electrodes</title>
+      <title>electrodes</title>
       <link>https://bdai6.github.io/tags/electrodes/</link>
     </image>
     
     <item>
+      <title>A low power phase change memory using thermally confined TaN/TiN bottom electrode</title>
+      <link>https://bdai6.github.io/publication/wu-2011-iedm/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/wu-2011-iedm/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A low power phase change memory using thermally confined TaN/TiN bottom electrode</title>
+      <link>https://bdai6.github.io/publication/wu-2011-iedm/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/wu-2011-iedm/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Physical model of the impact of metal grain work function variability on emerging dual metal gate MOSFETs and its implication for SRAM reliability</title>
+      <link>https://bdai6.github.io/publication/zhang-2009-iedm/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zhang-2009-iedm/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Variation-tolerant Spin-Torque Transfer (STT) MRAM array for yield enhancement</title>
       <link>https://bdai6.github.io/publication/li-2008-cicc/</link>
-      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Sep 2008 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2008-cicc/</guid>
       <description></description>
     </item>

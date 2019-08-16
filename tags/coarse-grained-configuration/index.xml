@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> coarse-grained configuration | Wisconsin Computational Intelligence Lab</title>
+    <link>https://bdai6.github.io/tags/coarse-grained-configuration/</link>
+      <atom:link href="https://bdai6.github.io/tags/coarse-grained-configuration/index.xml" rel="self" type="application/rss+xml" />
+    <description> coarse-grained configuration</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bdai6.github.io/img/logo.png</url>
+      <title> coarse-grained configuration</title>
+      <link>https://bdai6.github.io/tags/coarse-grained-configuration/</link>
+    </image>
+    
+    <item>
+      <title>A Mixed-Signal Data-Centric Reconfigurable Architecture Enabled by RRAM Technology (poster)</title>
+      <link>https://bdai6.github.io/publication/zha-2017-fpgaposter/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2017-fpgaposter/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline25%, 25 out of 101)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

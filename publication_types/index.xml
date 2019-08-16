@@ -5,7 +5,7 @@
     <link>https://bdai6.github.io/publication_types/</link>
       <atom:link href="https://bdai6.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
       <title>Publication_types</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>3</title>
-      <link>https://bdai6.github.io/publication_types/3/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication_types/3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>1</title>
       <link>https://bdai6.github.io/publication_types/1/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication_types/1/</guid>
       <description></description>
     </item>
@@ -31,7 +23,7 @@
     <item>
       <title>2</title>
       <link>https://bdai6.github.io/publication_types/2/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication_types/2/</guid>
       <description></description>
     </item>

@@ -5,7 +5,7 @@
     <link>https://bdai6.github.io/authors/yue-zha/</link>
       <atom:link href="https://bdai6.github.io/authors/yue-zha/index.xml" rel="self" type="application/rss+xml" />
     <description>Wisconsin Computational Intelligence Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
       <title>Wisconsin Computational Intelligence Lab</title>
@@ -15,15 +15,57 @@
     <item>
       <title>Liquid Silicon: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated ReRAM for Big Data/Machine Learning Applications</title>
       <link>https://bdai6.github.io/publication/zha-2019-vlsic/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/zha-2019-vlsic/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>An Alternative Analytical Approach to Associative Processing (textbfBest of CAL)</title>
+      <title>MEG: A RISCV-based system simulation infrastructure for exploring memory optimization using FPGAs and Hybrid Memory Cube (Best Paper Nominee)</title>
+      <link>https://bdai6.github.io/publication/zhang-2019-fccm/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zhang-2019-fccm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper got accepted at 2019 Symposium on VLSI Circuits</title>
+      <link>https://bdai6.github.io/post/liquid-silicon-vlsic-2019/</link>
+      <pubDate>Sun, 17 Mar 2019 16:43:32 -0500</pubDate>
+      <guid>https://bdai6.github.io/post/liquid-silicon-vlsic-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liquid Silicon-Monona: A Reconfigurable Memory-Oriented Computing Fabric with Scalable Multi-Context Support</title>
+      <link>https://bdai6.github.io/publication/zha-2018-asplos/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2018-asplos/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline18.2%, 56 out of 307)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Liquid  Silicon:  A Data-Centric Reconfigurable Architecture enabled by RRAM Technology</title>
+      <link>https://bdai6.github.io/publication/zha-2018-fpga/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2018-fpga/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline24%, Ranked &lt;strong&gt;#1&lt;/strong&gt; among 100+ submissions)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Specialization: A New Path towards Low Power (INVITED)</title>
+      <link>https://bdai6.github.io/publication/zha-2018-jolpe/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2018-jolpe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Alternative Analytical Approach to Associative Processing (Best of CAL)</title>
       <link>https://bdai6.github.io/publication/khoram-2018-cal/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/khoram-2018-cal/</guid>
       <description></description>
     </item>
@@ -31,47 +73,76 @@
     <item>
       <title>RRAM-based reconfigurable in-memory computing architecture with hybrid routing</title>
       <link>https://bdai6.github.io/publication/zha-2017-iccad/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/zha-2017-iccad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IMEC: A Fully Morphable In-Memory Computing Fabric Enabled by Resistive Crossbar</title>
-      <link>https://bdai6.github.io/publication/zha-2017-calimec/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/zha-2017-calimec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent progress in RRAM technology: From compact models to applications (textbfinvited)</title>
-      <link>https://bdai6.github.io/publication/zha-2017-cstic/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/zha-2017-cstic/</guid>
-      <description></description>
+      <description>&lt;p&gt;(Acceptance Rate: underline26%, 105 out of 399)&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>CMA: A Reconfigurable Complex Matching Accelerator for Wire-speed Network Intrusion Detection</title>
       <link>https://bdai6.github.io/publication/zha-2017-calcma/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/zha-2017-calcma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RRAM-based  Reconfigurable  In-Memory  Computing  Architecture with Hybrid Routing (poster)</title>
+      <link>https://bdai6.github.io/publication/zha-2017-dacwip/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2017-dacwip/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline29%)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Challenges and Opportunities: From Near-memory Computing to In-memory Computing (INVITED)</title>
+      <link>https://bdai6.github.io/publication/khoram-2017-ispd/</link>
+      <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/khoram-2017-ispd/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline35%)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recent progress in RRAM technology: From compact models to applications (INVITED)</title>
+      <link>https://bdai6.github.io/publication/zha-2017-cstic/</link>
+      <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2017-cstic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Mixed-Signal Data-Centric Reconfigurable Architecture Enabled by RRAM Technology (poster)</title>
+      <link>https://bdai6.github.io/publication/zha-2017-fpgaposter/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2017-fpgaposter/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline25%, 25 out of 101)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IMEC: A Fully Morphable In-Memory Computing Fabric Enabled by Resistive Crossbar</title>
+      <link>https://bdai6.github.io/publication/zha-2017-calimec/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2017-calimec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reconfigurable in-memory computing with resistive memory crossbar</title>
       <link>https://bdai6.github.io/publication/zha-2016-iccad/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/zha-2016-iccad/</guid>
-      <description></description>
+      <description>&lt;p&gt;(Acceptance Rate: underline24%, 97 out of 408)&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title></title>
       <link>https://bdai6.github.io/authors/yue-zha/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/yue-zha/</guid>
       <description>&lt;p&gt;Yue Zha received his B.S. degree in Physics from Peking University, China in 2013, and M.S. degree in Electrical and Computer Engineering from University of Wisconsin-Madison in 2015. He is currently pursuing his Ph.D. degree at the Department of Electrical and Computer Engineering, University of Wisconsin-Madison, WI. His research interests are reconfigurable computing device (conventional SRAM-based and novel RRAM-based), and CAD framework development.&lt;/p&gt;
 </description>

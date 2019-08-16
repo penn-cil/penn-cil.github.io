@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>resistive RAM | Wisconsin Computational Intelligence Lab</title>
+    <title>resistive ram | Wisconsin Computational Intelligence Lab</title>
     <link>https://bdai6.github.io/tags/resistive-ram/</link>
       <atom:link href="https://bdai6.github.io/tags/resistive-ram/index.xml" rel="self" type="application/rss+xml" />
-    <description>resistive RAM</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <description>resistive ram</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 12 Mar 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
-      <title>resistive RAM</title>
+      <title>resistive ram</title>
       <link>https://bdai6.github.io/tags/resistive-ram/</link>
     </image>
     
     <item>
-      <title>Recent progress in RRAM technology: From compact models to applications (textbfinvited)</title>
+      <title>Recent progress in RRAM technology: From compact models to applications (INVITED)</title>
       <link>https://bdai6.github.io/publication/zha-2017-cstic/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/zha-2017-cstic/</guid>
       <description></description>
     </item>
@@ -34,6 +34,15 @@
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/guan-2016-irps/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Demonstration of 3D vertical RRAM with ultra low-leakage, high-selectivity and self-compliance memory cells</title>
+      <link>https://bdai6.github.io/publication/luo-2015-iedm/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/luo-2015-iedm/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
+</description>
     </item>
     
   </channel>

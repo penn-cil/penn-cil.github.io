@@ -1,0 +1,911 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.4.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Jing Li">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Table of Contents    Goals Current solutions and issues  For non- hompage For homepage  Hugo Easy Gallery  Installation instruction  add to my_website as a submodule     
+Goals I&rsquo;d like to create an image gallery with the following requirement:
+ Display a collection of images (such as logos of sponsors) in the home page. The source code therefore will be inside a widget page in content/home.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://bdai6.github.io/courses/notes-on-hugo-academic/create-gallery/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.dd629241ea9333c62c071f4a25f829ff.css">
+
+  
+    
+    
+    
+    
+      
+    
+    
+    
+    <link rel="stylesheet" href="/css/academic.c271459694f356ca716e4e62b3b71072.css">
+  
+
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://bdai6.github.io/courses/notes-on-hugo-academic/create-gallery/">
+
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Wisconsin Computational Intelligence Lab">
+  <meta property="og:url" content="https://bdai6.github.io/courses/notes-on-hugo-academic/create-gallery/">
+  <meta property="og:title" content="How to create an image gallery | Wisconsin Computational Intelligence Lab">
+  <meta property="og:description" content="Table of Contents    Goals Current solutions and issues  For non- hompage For homepage  Hugo Easy Gallery  Installation instruction  add to my_website as a submodule     
+Goals I&rsquo;d like to create an image gallery with the following requirement:
+ Display a collection of images (such as logos of sponsors) in the home page. The source code therefore will be inside a widget page in content/home."><meta property="og:image" content="https://bdai6.github.io/img/logo.png">
+  <meta property="twitter:image" content="https://bdai6.github.io/img/logo.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2019-08-09T00:00:00&#43;01:00">
+    
+    <meta property="article:modified_time" content="2019-08-09T00:00:00&#43;01:00">
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title>How to create an image gallery | Wisconsin Computational Intelligence Lab</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/"><img src="/img/logo.png" alt="Wisconsin Computational Intelligence Lab"></a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#top"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>PI</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#people"><span>The Lab</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#research"><span>Research</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/courses/"><span>Courses & Notes</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#sponsors"><span>Sponsors</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      
+
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+  
+  <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/courses/notes-on-hugo-academic/">Overview</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/courses/notes-on-hugo-academic/my-notes/">Notes</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/courses/notes-on-hugo-academic/my-notes/">Note on sourcethemes-academic</a>
+      </li>
+      
+      <li class="active">
+        <a href="/courses/notes-on-hugo-academic/create-gallery/">how to create a gallery</a>
+      </li>
+      
+      <li >
+        <a href="/courses/notes-on-hugo-academic/customize-hugo/">Customize Academic theme with Hugo</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
+      </ul>
+
+      <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#goals">Goals</a></li>
+<li><a href="#current-solutions-and-issues">Current solutions and issues</a>
+<ul>
+<li><a href="#for-non-hompage">For non- hompage</a></li>
+<li><a href="#for-homepage">For homepage</a></li>
+</ul></li>
+<li><a href="#hugo-easy-gallery">Hugo Easy Gallery</a>
+<ul>
+<li><a href="#installation-instruction">Installation instruction</a>
+<ul>
+<li><a href="#add-to-my-website-as-a-submodule">add to my_website as a submodule</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
+
+      
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article" itemscope itemtype="http://schema.org/Article">
+
+        <div class="docs-article-container">
+          <h1 itemprop="name">How to create an image gallery</h1>
+
+          <div class="article-style" itemprop="articleBody">
+            
+
+<p><h2>Table of Contents</h2>
+<nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#goals">Goals</a></li>
+<li><a href="#current-solutions-and-issues">Current solutions and issues</a>
+<ul>
+<li><a href="#for-non-hompage">For non- hompage</a></li>
+<li><a href="#for-homepage">For homepage</a></li>
+</ul></li>
+<li><a href="#hugo-easy-gallery">Hugo Easy Gallery</a>
+<ul>
+<li><a href="#installation-instruction">Installation instruction</a>
+<ul>
+<li><a href="#add-to-my-website-as-a-submodule">add to my_website as a submodule</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav></p>
+
+<h2 id="goals">Goals</h2>
+
+<p>I&rsquo;d like to create an image gallery with the following requirement:</p>
+
+<ol>
+<li>Display a collection of images (such as logos of sponsors) in the <em>home page</em>. The source code therefore will be inside a <em>widget page</em> in <code>content/home</code>.</li>
+<li>Height, width, and spacing of the images can be custom defined.</li>
+<li>Able to automatically generate a gallery of all images in a directory.</li>
+<li>(Optional) Captions appear upon hovering over the image.</li>
+<li>(Optional) Clicking on an image will open an associated URL.</li>
+</ol>
+
+<h2 id="current-solutions-and-issues">Current solutions and issues</h2>
+
+<h3 id="for-non-hompage">For non- hompage</h3>
+
+<p>The instruction in <a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/#image-gallery" target="_blank">sourcethemes.com</a> works for <code>yaml</code> format. One example is in <code>content/post/getting-started/index.md</code>. To make it work, place images in a folder named <code>gallery</code>, then place the folder to a project/post/etc folder. And in the main body of the <code>index.md</code> insert <code>{{</code><code>&lt; gallery &gt;</code><code>}}</code> command. You can also include the following lines to the <em>front matter</em> to insert captions for the images.</p>
+
+<pre><code class="language-json">gallery_item:
+- album: gallery
+  caption: Default
+  image: theme-default.png
+---
+</code></pre>
+
+<p>The problem is there is no way to control the placement or the size of the inserted images.</p>
+
+<h3 id="for-homepage">For homepage</h3>
+
+<p>The aforementioned method only works for <code>yaml</code> format, while the widget page (<em>homepage</em>) uses <code>toml</code>. To make it work, it turned out I had to follow <a href="https://github.com/gcushen/hugo-academic/issues/398#issuecomment-357444202" target="_blank">this instruction</a> to create a gallery. The following lines are in the front matter of <code>sponsers.md</code>. Refer to <a href="/#sponsors">Sponsers</a>.</p>
+
+<pre><code class="language-toml"> # Gallery
+[[gallery_item]]
+album = &quot;sponsors&quot;
+image = &quot;darpa.jpg&quot;
+caption = &quot;DARPA&quot;
++++
+</code></pre>
+
+<p>Images are uploaded to <code>content/img</code> (if not referencing image URLs
+). And gallary is initialized in <code>sponsor.md</code> main body using <code>{</code><code>{&lt; gallery album=&quot;sponsors&quot; &gt;}</code><code>}</code>.</p>
+
+<p>Evidently from <a href="/#sponsors">Sponsers</a>, we have to manually enter each <code>gallery_item</code>. It is true that we can write a simple python script to automate the operation, but <em>the images in this gallery are not well aligned</em>, and <em>the sizes cannot be adjusted</em>.</p>
+
+<h2 id="hugo-easy-gallery">Hugo Easy Gallery</h2>
+
+<p><a href="https://www.liwen.id.au/heg/" target="_blank">Hugo Easy Gallery</a> claims to address all the issues above. And I plan to give it a try. The source code is <a href="https://github.com/bdai6/hugo-easy-gallery" target="_blank">here</a>.</p>
+
+<h3 id="installation-instruction">Installation instruction</h3>
+
+<h4 id="add-to-my-website-as-a-submodule">add to my_website as a submodule</h4>
+
+<p><code>git submodule add -f -b master https://github.com/bdai6/hugo-easy-gallery.git hugo-easy-gallery</code></p>
+
+          </div>
+
+          
+
+
+
+          
+          <div class="article-widget">
+            
+<div class="post-nav">
+  
+  
+  
+  <div class="post-nav-item">
+    <div class="meta-nav">Previous</div>
+    <a href="/courses/notes-on-hugo-academic/my-notes/" rel="next">Note on sourcethemes-academic</a>
+  </div>
+  
+  
+</div>
+
+          </div>
+          
+        </div>
+
+        <div class="body-footer">
+          <p>Last updated on Aug 9, 2019</p>
+
+          
+
+
+          
+
+        </div>
+
+      </article>
+
+      <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+  </p>
+</footer>
+
+
+    </main>
+  </div>
+</div>
+
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.min.js" integrity="sha256-pB/deHc9CGfFpJRjC43imB29Rse8tak+5eXqntO94ck=" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.16bbb3750feb7244c9bc409a5a4fe678.js"></script>
+
+    
+
+
+
+
+
+
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

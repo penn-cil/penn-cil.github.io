@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Leakage currents | Wisconsin Computational Intelligence Lab</title>
+    <title>leakage currents | Wisconsin Computational Intelligence Lab</title>
     <link>https://bdai6.github.io/tags/leakage-currents/</link>
       <atom:link href="https://bdai6.github.io/tags/leakage-currents/index.xml" rel="self" type="application/rss+xml" />
-    <description>Leakage currents</description>
+    <description>leakage currents</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
-      <title>Leakage currents</title>
+      <title>leakage currents</title>
       <link>https://bdai6.github.io/tags/leakage-currents/</link>
     </image>
     
@@ -18,6 +18,24 @@
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/xu-2016-vlsi/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Demonstration of 3D vertical RRAM with ultra low-leakage, high-selectivity and self-compliance memory cells</title>
+      <link>https://bdai6.github.io/publication/luo-2015-iedm/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/luo-2015-iedm/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Demonstration of 3D vertical RRAM with ultra low-leakage, high-selectivity and self-compliance memory cells</title>
+      <link>https://bdai6.github.io/publication/luo-2015-iedm/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/luo-2015-iedm/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
+</description>
     </item>
     
   </channel>

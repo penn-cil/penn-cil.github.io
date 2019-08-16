@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Temperature measurement | Wisconsin Computational Intelligence Lab</title>
+    <title>temperature measurement | Wisconsin Computational Intelligence Lab</title>
     <link>https://bdai6.github.io/tags/temperature-measurement/</link>
       <atom:link href="https://bdai6.github.io/tags/temperature-measurement/index.xml" rel="self" type="application/rss+xml" />
-    <description>Temperature measurement</description>
+    <description>temperature measurement</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2012 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
-      <title>Temperature measurement</title>
+      <title>temperature measurement</title>
       <link>https://bdai6.github.io/tags/temperature-measurement/</link>
     </image>
     
     <item>
-      <title>Resistance drift in phase change memory (textbfinvited)</title>
+      <title>Resistance drift in phase change memory (INVITED)</title>
       <link>https://bdai6.github.io/publication/li-2012-irps/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2012-irps/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Explore physical origins of resistance drift in phase change memory and its implication for drift-insensitive materials</title>
+      <link>https://bdai6.github.io/publication/li-2011-iedm/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2011-iedm/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
+</description>
     </item>
     
   </channel>

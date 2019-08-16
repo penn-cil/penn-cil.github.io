@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Circuit synthesis | Wisconsin Computational Intelligence Lab</title>
+    <title>circuit synthesis | Wisconsin Computational Intelligence Lab</title>
     <link>https://bdai6.github.io/tags/circuit-synthesis/</link>
       <atom:link href="https://bdai6.github.io/tags/circuit-synthesis/index.xml" rel="self" type="application/rss+xml" />
-    <description>Circuit synthesis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2008 00:00:00 +0000</lastBuildDate>
+    <description>circuit synthesis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Sep 2008 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
-      <title>Circuit synthesis</title>
+      <title>circuit synthesis</title>
       <link>https://bdai6.github.io/tags/circuit-synthesis/</link>
     </image>
     
     <item>
       <title>Variation-tolerant Spin-Torque Transfer (STT) MRAM array for yield enhancement</title>
       <link>https://bdai6.github.io/publication/li-2008-cicc/</link>
-      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Sep 2008 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2008-cicc/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Variable-latency adder (VL-adder): new arithmetic circuit design practice to overcome NBTI</title>
+      <link>https://bdai6.github.io/publication/li-2007-islped/</link>
+      <pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2007-islped/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline39%, 74 out of 192)&lt;/p&gt;
+</description>
     </item>
     
     <item>

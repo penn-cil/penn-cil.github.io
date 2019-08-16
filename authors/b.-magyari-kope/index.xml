@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Magyari-Köpe | Wisconsin Computational Intelligence Lab</title>
+    <link>https://bdai6.github.io/authors/b.-magyari-kope/</link>
+      <atom:link href="https://bdai6.github.io/authors/b.-magyari-kope/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. Magyari-Köpe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bdai6.github.io/img/logo.png</url>
+      <title>B. Magyari-Köpe</title>
+      <link>https://bdai6.github.io/authors/b.-magyari-kope/</link>
+    </image>
+    
+    <item>
+      <title>Physical model of the impact of metal grain work function variability on emerging dual metal gate MOSFETs and its implication for SRAM reliability</title>
+      <link>https://bdai6.github.io/publication/zhang-2009-iedm/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zhang-2009-iedm/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

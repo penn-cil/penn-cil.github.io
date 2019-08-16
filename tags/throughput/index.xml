@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Throughput | Wisconsin Computational Intelligence Lab</title>
+    <title>throughput | Wisconsin Computational Intelligence Lab</title>
     <link>https://bdai6.github.io/tags/throughput/</link>
       <atom:link href="https://bdai6.github.io/tags/throughput/index.xml" rel="self" type="application/rss+xml" />
-    <description>Throughput</description>
+    <description>throughput</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2010 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
-      <title>Throughput</title>
+      <title>throughput</title>
       <link>https://bdai6.github.io/tags/throughput/</link>
     </image>
     

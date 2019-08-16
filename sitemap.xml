@@ -3,33 +3,74 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bdai6.github.io/courses/example/example1/</loc>
+    <loc>https://bdai6.github.io/courses/notes-on-hugo-academic/customize-hugo/</loc>
+    <lastmod>2019-08-14T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/project/augmenting-computer-system/</loc>
+    <lastmod>2019-08-08T22:57:41-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/courses/notes-on-hugo-academic/</loc>
+    <lastmod>2019-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/courses/notes-on-hugo-academic/my-notes/</loc>
+    <lastmod>2019-08-09T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/research/augmenting-computer-system/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/courses/example/</loc>
+    <loc>https://bdai6.github.io/research/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/courses/example/example2/</loc>
+    <loc>https://bdai6.github.io/project/rethinking-computer-system/</loc>
+    <lastmod>2019-08-08T22:58:17-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/courses/notes-on-hugo-academic/create-gallery/</loc>
+    <lastmod>2019-08-09T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/research/rethinking-computer-system/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2019-08-14T16:54:36-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/cfp/</loc>
+    <lastmod>2019-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/artifact-evaluation/</loc>
+    <lastmod>2019-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/jing-li/</loc>
+    <lastmod>2019-08-08T22:58:17-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/</loc>
+    <lastmod>2019-08-14T16:54:36-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -40,79 +81,654 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/project/rethinking-computer-system/</loc>
-    <lastmod>2019-08-08T22:58:17-05:00</lastmod>
+    <loc>https://bdai6.github.io/cv/</loc>
+    <lastmod>2019-08-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/authors/jing-li/</loc>
-    <lastmod>2019-08-08T22:57:41-05:00</lastmod>
+    <loc>https://bdai6.github.io/authors/jialiang-zhang/</loc>
+    <lastmod>2019-08-14T16:54:36-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/project/augmenting-computer-system/</loc>
-    <lastmod>2019-08-08T22:57:41-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/</loc>
-    <lastmod>2019-08-08T22:57:41-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://bdai6.github.io/post/greengraph5000/</loc>
+    <lastmod>2019-07-01T11:44:36-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/post/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-14T16:54:36-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/publication_types/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/tags/</loc>
+    <lastmod>2019-08-14T16:54:36-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/tags/graph/</loc>
+    <lastmod>2019-07-01T11:44:36-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/yue-zha/</loc>
+    <lastmod>2019-08-14T16:43:32-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication_types/1/</loc>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/etienne-nowak/</loc>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/hangbing-lv/</loc>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/jiahao-yin/</loc>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/jie-yu/</loc>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/kan-hao-xue/</loc>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/zha-2019-vlsic/</loc>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/lu-tai/</loc>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/ming-liu/</loc>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/luo-2019-vlsit/</loc>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/peng-yuan/</loc>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/authors/qi-liu/</loc>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/authors/qing-luo/</loc>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/authors/admin/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/authors/shibing-long/</loc>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/post/jupyter/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/authors/tiancheng-gong/</loc>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/xiaoxin-xu/</loc>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/xumeng-zhang/</loc>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/yan-cheng/</loc>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/conference/</loc>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/liquid-silicon/</loc>
+    <lastmod>2019-08-14T16:43:32-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/gaurav-jain/</loc>
+    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/jonathan-ta/</loc>
+    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/meg/</loc>
+    <lastmod>2019-08-14T16:54:36-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/zhang-2019-fccm/</loc>
+    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/risc-v/</loc>
+    <lastmod>2019-08-14T16:54:36-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/yang-liu/</loc>
+    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/talk/liquid-silicon-stanford-2019/</loc>
+    <lastmod>2019-04-03T16:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/talk/</loc>
+    <lastmod>2019-04-03T16:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication_types/2/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/afshin-rostamizadeh/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/alex-smola/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/alexander-ratner/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/alexandros-dimakis/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/ameet-talwalkar/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/anastasios-kyrillidis/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/andrew-gordon-wilson/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/aparna-lakshmiratan/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/arun-kumar/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/bill-dally/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/bryan-catanzaro/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/ce-zhang/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/charles-elkan/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/christopher-de-sa/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/christopher-re/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/dan-alistarh/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/david-g.-andersen/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/dawn-song/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/derek-murray/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/dimitris-papailiopoulos/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/eric-chung/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/eric-xing/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/erik-meijer/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/evan-sparks/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/furong-huang/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/garth-a.-gibson/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/gauri-joshi/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/gennady-pekhimenko/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/gregory-r.-ganger/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/grigori-fursin/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/gustavo-alonso/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/h.-brendan-mcmahan/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/hanie-sedghi/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/inderjit-s.-dhillon/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/ioannis-mitliagkas/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/ion-stoica/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/jakub-konevcny/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/jason-knight/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/jeff-dean/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/jennifer-chayes/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/joaquin-vanschoren/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/joseph-e.-gonzalez/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/justin-gottschlich/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/kevin-jamieson/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/kim-hazelwood/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/kunle-olukotun/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/lise-getoor/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/madeleine-udell/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/markus-weimer/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/martin-jaggi/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/matei-zaharia/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/michael-i.-jordan/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/nicholas-carlini/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/peter-bailis/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/phillip-b.-gibbons/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/pradeep-dubey/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/rajat-monga/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/rania-khalaf/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/rashmi-vinayak/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/samuel-madden/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/sarah-bird/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/shivaram-venkataraman/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/siddhartha-sen/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/song-han/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/ratner-2019-sysml/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/theodoros-rekatsinas/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/tim-kraska/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/virginia-smith/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/vivienne-sze/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/subpaper/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/post/liquid-silicon-vlsic-2019/</loc>
+    <lastmod>2019-08-14T16:43:32-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/post/meg-fccm-2019/</loc>
+    <lastmod>2019-08-14T16:54:36-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/zhang-2019-fpga/</loc>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -127,577 +743,784 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/authors/yue-zha/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/talk/liquid-silicon-uchicago-2018/</loc>
+    <lastmod>2018-11-06T15:30:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/publication_types/1/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/etienne-nowak/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/hangbing-lv/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/jiahao-yin/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/jie-yu/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/kan-hao-xue/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/publication/zha-2019-vlsic/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/lu-tai/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/ming-liu/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/publication/luo-2019-vlsit/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/peng-yuan/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/qi-liu/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/qing-luo/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/shibing-long/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/tiancheng-gong/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/xiaoxin-xu/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/xumeng-zhang/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/yan-cheng/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/conference/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://bdai6.github.io/talk/liquid-silicon-ucla-2018/</loc>
+    <lastmod>2018-10-15T12:30:00-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/authors/soroosh-khoram/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/publication_types/2/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://bdai6.github.io/publication/zhang-2018-cvpr/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/publication/khoram-2018-cal/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/publication/zhang-2018-fccm/</loc>
+    <lastmod>2018-04-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/analysis-of-algorithms-and-problem-complexity/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://bdai6.github.io/publication/khoram-2018-iclr/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/analytical-models/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/associative-processors/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/complexity-theory/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/computational-modeling/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/computer-architecture/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/modeling-techniques/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/models-of-computation/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/parallel-processing/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/runtime/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/two-dimensional-displays/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/journal/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/architecture/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/cad-framework/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/delays/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/field-programmable-gate-arrays/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/hybrid-routing/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/in-memory-computing/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/logic-functions/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/publication/zha-2017-iccad/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/reconfigurable-architecture/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/routing/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/switches/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/tiles/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/liquid-silicon/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/decoding/</loc>
-    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/energy-efficiency/</loc>
-    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/publication/zha-2017-calimec/</loc>
-    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/non-volatile-memory/</loc>
-    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/nonvolatile-memory/</loc>
-    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/program-processors/</loc>
-    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/tcam/</loc>
-    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/energy-efficiency-computing/</loc>
-    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://bdai6.github.io/publication/zha-2018-asplos/</loc>
+    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/processing-in-memory/</loc>
-    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/compact-model/</loc>
-    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://bdai6.github.io/publication/li-2018-cstic/</loc>
+    <lastmod>2018-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/hidden-markov-models/</loc>
-    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://bdai6.github.io/authors/maxwell-strange/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/iv-characteristics/</loc>
-    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/mathematical-model/</loc>
-    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/rram-technology/</loc>
-    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/random-access-memory/</loc>
-    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/publication/zha-2017-cstic/</loc>
-    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/resistance/</loc>
-    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/scm/</loc>
-    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/zhiqiang-wei/</loc>
-    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/commercialization-progress/</loc>
-    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/drop-in-replacement/</loc>
-    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/embedded-memory/</loc>
-    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/essential-electrical-chemical-thermal-properties/</loc>
-    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/integrated-circuit-modelling/</loc>
-    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/nonvon-neumann-architecture/</loc>
-    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/product-development/</loc>
-    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/resistive-ram/</loc>
-    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/standalone-memory/</loc>
-    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/storage-class-memory/</loc>
-    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/switching-dynamics/</loc>
-    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/jialiang-zhang/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/accelerator/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/publication/zhang-2017-fpga-bfs/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/publication/zha-2017-calcma/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/coprocessors/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/ip-networks/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/publication/zhang-2017-fpga-cnn/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/network-security/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/ports-computers/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/reram/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/convolutional-neural-networks/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/encoding/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/fpga/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/tags/graph-analytics/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/graph-processor/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/hardware-accelerator/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/tags/hardware-accelerators/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/hybrid-memory-cubebfs/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/tags/monolithic-stacking/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/reconfigurable-architecture/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/reconfigurable-logic/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/khoram-2018-fpga/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/zhang-2018-fpga/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/zha-2018-fpga/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/bfs/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/graph-clustering/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/hybrid-memory-cube/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/non-volatile-memory/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/tcam/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/zha-2018-jolpe/</loc>
+    <lastmod>2018-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/journal/</loc>
+    <lastmod>2018-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/shukla-2018-frontiers/</loc>
+    <lastmod>2018-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/erik-jorgensen/</loc>
+    <lastmod>2018-02-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/mikko-lipasti/</loc>
+    <lastmod>2018-02-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/rohit-shukla/</loc>
+    <lastmod>2018-02-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/stephen-wright/</loc>
+    <lastmod>2018-02-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/analytical-models/</loc>
+    <lastmod>2018-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/khoram-2018-cal/</loc>
+    <lastmod>2018-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/analysis-of-algorithms-and-problem-complexity/</loc>
+    <lastmod>2018-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/associative-processors/</loc>
+    <lastmod>2018-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/complexity-theory/</loc>
+    <lastmod>2018-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/computational-modeling/</loc>
+    <lastmod>2018-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/computer-architecture/</loc>
+    <lastmod>2018-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/modeling-techniques/</loc>
+    <lastmod>2018-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/models-of-computation/</loc>
+    <lastmod>2018-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/parallel-processing/</loc>
+    <lastmod>2018-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/runtime/</loc>
+    <lastmod>2018-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/two-dimensional-displays/</loc>
+    <lastmod>2018-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/architecture/</loc>
+    <lastmod>2017-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/field-programmable-gate-arrays/</loc>
+    <lastmod>2017-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/in-memory-computing/</loc>
+    <lastmod>2017-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/zha-2017-iccad/</loc>
+    <lastmod>2017-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/cad-framework/</loc>
+    <lastmod>2017-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/delays/</loc>
+    <lastmod>2017-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/hybrid-routing/</loc>
+    <lastmod>2017-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/logic-functions/</loc>
+    <lastmod>2017-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/routing/</loc>
+    <lastmod>2017-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/switches/</loc>
+    <lastmod>2017-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/tiles/</loc>
+    <lastmod>2017-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/zha-2017-calcma/</loc>
+    <lastmod>2017-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/accelerator/</loc>
+    <lastmod>2017-07-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/coprocessors/</loc>
+    <lastmod>2017-07-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/encoding/</loc>
+    <lastmod>2017-07-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/intrusion-detection/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/ip-networks/</loc>
+    <lastmod>2017-07-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/network-security/</loc>
+    <lastmod>2017-07-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/ports-computers/</loc>
+    <lastmod>2017-07-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/reram/</loc>
+    <lastmod>2017-07-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/zha-2017-dacwip/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/khoram-2017-fccm/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/acceleration/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/breadth-first-search/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/clustering-algorithms/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/fpga-hmc-based-graph-processing-system/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/graph-theory/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/hardware/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/information-retrieval/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/interconnected-entities/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/irregular-data-access-pattern/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/large-scale-graph-analytics/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/learning-artificial-intelligence/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/machine-learning/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/massive-scale-sparse-graphs/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/merging/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/social-science/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/social-sciences/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/software/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/software-algorithms/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/tree-searching/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/3d-integration/</loc>
+    <lastmod>2017-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/in-memory-processing/</loc>
+    <lastmod>2017-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/near-memory-processing/</loc>
+    <lastmod>2017-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/nonvolatile-memory/</loc>
+    <lastmod>2017-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/khoram-2017-ispd/</loc>
+    <lastmod>2017-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/integrated-circuit-modelling/</loc>
+    <lastmod>2017-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/zha-2017-cstic/</loc>
+    <lastmod>2017-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/zhiqiang-wei/</loc>
+    <lastmod>2017-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/commercialization-progress/</loc>
+    <lastmod>2017-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/compact-model/</loc>
+    <lastmod>2017-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/drop-in-replacement/</loc>
+    <lastmod>2017-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/embedded-memory/</loc>
+    <lastmod>2017-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/essential-electrical-chemical-thermal-properties/</loc>
+    <lastmod>2017-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/hidden-markov-models/</loc>
+    <lastmod>2017-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/iv-characteristics/</loc>
+    <lastmod>2017-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/mathematical-model/</loc>
+    <lastmod>2017-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/nonvon-neumann-architecture/</loc>
+    <lastmod>2017-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/product-development/</loc>
+    <lastmod>2017-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/random-access-memory/</loc>
+    <lastmod>2017-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/resistance/</loc>
+    <lastmod>2017-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/resistive-ram/</loc>
+    <lastmod>2017-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/rram-technology/</loc>
+    <lastmod>2017-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/scm/</loc>
+    <lastmod>2017-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/standalone-memory/</loc>
+    <lastmod>2017-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/storage-class-memory/</loc>
+    <lastmod>2017-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/switching-dynamics/</loc>
+    <lastmod>2017-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/coarse-grained-configuration/</loc>
+    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/convolutional-neural-networks/</loc>
+    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/decoding/</loc>
+    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/fpga/</loc>
+    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/hybrid-memory-cubebfs/</loc>
+    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/mixed-signal-processing/</loc>
+    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/opencl/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/cmos/</loc>
-    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/publication/zha-2017-fpgaposter/</loc>
+    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/zhang-2017-fpga-bfs/</loc>
+    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/zha-2017-calimec/</loc>
+    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/zhang-2017-fpga-cnn/</loc>
+    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/energy-efficiency/</loc>
+    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/energy-efficiency-computing/</loc>
+    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/hardware-accelerator/</loc>
+    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/program-processors/</loc>
+    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/ternary-content-addressable-memory/</loc>
+    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/reconfigurable/</loc>
+    <lastmod>2016-11-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/zha-2016-iccad/</loc>
+    <lastmod>2016-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/rram/</loc>
+    <lastmod>2016-11-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/cmos-memory-circuits/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/hafnium-compounds/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/xu-2016-vlsi/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/q.-luo/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/s.-s.-chung/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/cmos/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -709,12 +1532,7 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/publication/xu-2016-vlsi/</loc>
-    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/hafnium-compounds/</loc>
+    <loc>https://bdai6.github.io/tags/integrated-circuit-manufacture/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -732,19 +1550,13 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/authors/q.-luo/</loc>
+    <loc>https://bdai6.github.io/tags/self-aligned-self-selective-cell/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/rram/</loc>
-    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/s.-s.-chung/</loc>
+    <loc>https://bdai6.github.io/tags/size-5-nm/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -762,25 +1574,7 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/integrated-circuit-manufacture/</loc>
-    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/nderlinejing-li/</loc>
-    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/self-aligned-self-selective-cell/</loc>
-    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/size-5-nm/</loc>
+    <loc>https://bdai6.github.io/authors/underlinejing-li/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -792,47 +1586,8 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/categories/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/tags/monte-carlo-methods/</loc>
+    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -843,6 +1598,18 @@
   
   <url>
     <loc>https://bdai6.github.io/authors/bochen-guan/</loc>
+    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/current-fluctuation/</loc>
+    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/current-fluctuations/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -860,6 +1627,12 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/electromagnetic-interference/</loc>
+    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/electron-traps/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -872,7 +1645,19 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/integrated-circuit-design/</loc>
+    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/integrated-circuit-modeling/</loc>
+    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/integrated-circuit-reliability/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -884,7 +1669,13 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/monte-carlo-methods/</loc>
+    <loc>https://bdai6.github.io/tags/random-noise/</loc>
+    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/random-telegraph-noise/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -908,48 +1699,6 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/current-fluctuation/</loc>
-    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/current-fluctuations/</loc>
-    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/electromagnetic-interference/</loc>
-    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/integrated-circuit-design/</loc>
-    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/integrated-circuit-reliability/</loc>
-    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/random-noise/</loc>
-    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/random-telegraph-noise/</loc>
-    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/tags/telegraphy/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -962,18 +1711,169 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/publication/zha-2016-iccad/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/tags/3d-vertical-rram/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/publication/luo-2015-iedm/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/authors/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/authors/h.-liu/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/h.-lv/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/h.-sun/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/j.-gao/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/l.-li/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/m.-liu/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/n.-lu/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/q.-liu/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/s.-long/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/t.-gong/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/w.-banerjee/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/x.-xu/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/four-layer-v-rram-array/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/hfo2/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/hfo2/mixed-ionic-and-electronic-conductor-bilayer/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/high-selectivity/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/ionic-conductivity/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/mixed-conductivity/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/nonlinearity/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/operation-current/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/optical-switches/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/self-compliance-memory-cells/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/self-selective-cell/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/tin/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/ultra-low-leakage/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/ultra-low-half-select-leakage/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -984,54 +1884,12 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/big-data-problems/</loc>
-    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/emerging-nonvolatile-memory/</loc>
-    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/publication/li-2015-iscas/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/hardware/</loc>
-    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/nvm-technology/</loc>
-    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/pcm/</loc>
-    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/pcm-technology/</loc>
-    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/phase-change-materials/</loc>
-    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/phase-change-memory/</loc>
+    <loc>https://bdai6.github.io/tags/big-data-problems/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1091,6 +1949,12 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/emerging-nonvolatile-memory/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/endurance-factor/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1121,13 +1985,43 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/nvm-technology/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/pcm/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/pcm-technology/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/performance-factor/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/phase-change-materials/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/phase-change-memories/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/phase-change-memory/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1151,8 +2045,8 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/ternary-content-addressable-memory/</loc>
-    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/tags/arrays/</loc>
+    <lastmod>2014-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1163,18 +2057,6 @@
   
   <url>
     <loc>https://bdai6.github.io/tags/2t-2r-cell-nonvolatile-tcam/</loc>
-    <lastmod>2014-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/associative-computing/</loc>
-    <lastmod>2014-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/cmos-technology/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1192,19 +2074,7 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/microprocessors/</loc>
-    <lastmod>2014-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/authors/robert-montoye/</loc>
-    <lastmod>2014-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/sensors/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1216,7 +2086,7 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/arrays/</loc>
+    <loc>https://bdai6.github.io/tags/associative-computing/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1228,7 +2098,19 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/cmos-technology/</loc>
+    <lastmod>2014-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/matchline-compensation/</loc>
+    <lastmod>2014-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/microprocessors/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1276,6 +2158,12 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/sensors/</loc>
+    <lastmod>2014-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/size-90-nm/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1300,203 +2188,187 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/others/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/publication/li-2013-vlsi/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/2-transistor-2-resistive-storage-cells/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/2t-2r-cells/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/csrss/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/clocks/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/authors/gary-ditlow/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/ibm-cmos-technology/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/authors/kevin-stawiasz/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/authors/kim-maloney/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/pcm-process/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/authors/richard-jordan/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/sram-chips/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/sram-based-tcam/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/authors/scott-lewis/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/authors/takeshi-nishida/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/authors/tom-maffitt/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/bit-rate-1-mbit/s/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/cell-nonvolatile-tcam/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/cell-size/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/clocked-self-referenced-sensing-scheme/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/clocks/</loc>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/compact-cells/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/csrss/</loc>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/fabricated-nonvolatile-tcam/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/ibm-cmos-technology/</loc>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/low-voltage-search-operation/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/low-power-electronics/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/match-delay/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/mushroom-phase-change-memory-process/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/others/</loc>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/pcm-process/</loc>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/reliable-search-operation/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/search-problems/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/sram-chips/</loc>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/sram-based-tcam/</loc>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/technology-node/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/test-chip-design/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/publication/cil-2013-thinfilm/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/ch-lam/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2013-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1513,19 +2385,7 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/authors/h-silva/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/tags/hexagonal-close-packed/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/k-cil/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1550,6 +2410,29 @@
   
   <url>
     <loc>https://bdai6.github.io/tags/substrate-dependence/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/cil-2013-thinfilm/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/ch-lam/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/h-silva/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/k-cil/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1590,6 +2473,18 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/failure-analysis/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/mosfet/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/authors/blanka-magyari-kope/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1614,37 +2509,7 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/logic-gates/</loc>
-    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/mos-devices/</loc>
-    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/mosfet/</loc>
-    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/mosfets/</loc>
-    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/authors/melody-e.-grubbs/</loc>
-    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/metal-gate/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1656,36 +2521,12 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/probability/</loc>
-    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/resource-description-framework/</loc>
-    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/semiconductor-device-modeling/</loc>
-    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/publication/zhang-2012-ted/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/authors/tomas-hoffmann/</loc>
-    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/wfv/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1703,19 +2544,43 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/failure-analysis/</loc>
-    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/tags/grain-orientation/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/logic-gates/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/metal-gate/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/mos-devices/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/mosfets/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/polycrystalline-metal-gate/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/probability/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1728,6 +2593,18 @@
   
   <url>
     <loc>https://bdai6.github.io/tags/random-access-storage/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/resource-description-framework/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/semiconductor-device-modeling/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1769,6 +2646,12 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/wfv/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/work-function-wf/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1781,134 +2664,157 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/publication/meza-2012-iccd/</loc>
-    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/dram-baseline/</loc>
-    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/tags/dram-chips/</loc>
-    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2012-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/dram-based-main-memories/</loc>
-    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/memory-management/</loc>
-    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/nvm-technologies/</loc>
-    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/organizations/</loc>
-    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://bdai6.github.io/publication/meza-2012-iccd/</loc>
+    <lastmod>2012-09-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/array-access/</loc>
-    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2012-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/buffer-circuits/</loc>
-    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2012-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/buffered-data/</loc>
-    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2012-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/chip-costs/</loc>
-    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2012-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/data-mapping-schemes/</loc>
-    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2012-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/dram-baseline/</loc>
+    <lastmod>2012-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/dram-based-main-memories/</loc>
+    <lastmod>2012-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/main-memory-dynamic-energy/</loc>
-    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2012-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/memory-array-access/</loc>
-    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2012-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/memory-management/</loc>
+    <lastmod>2012-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/memory-parallelism/</loc>
-    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2012-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/multicore-architectures/</loc>
-    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2012-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/multiprocessing-systems/</loc>
-    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2012-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/nonvolatile-main-memories/</loc>
-    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2012-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/nvm-technologies/</loc>
+    <lastmod>2012-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/organizations/</loc>
+    <lastmod>2012-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/read-operations/</loc>
-    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2012-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/row-buffer-size/</loc>
-    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2012-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/small-row-buffers/</loc>
-    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2012-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/system-level-trends/</loc>
-    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2012-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/adam-cywar/</loc>
+    <lastmod>2012-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/chung-lam/</loc>
+    <lastmod>2012-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/helena-silva/</loc>
+    <lastmod>2012-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/cywar-2012-nano/</loc>
+    <lastmod>2012-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1919,12 +2825,6 @@
   
   <url>
     <loc>https://bdai6.github.io/authors/a.-schrott/</loc>
-    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/annealing/</loc>
     <lastmod>2012-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1942,24 +2842,6 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/authors/chung-lam/</loc>
-    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/conductivity/</loc>
-    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/current-density/</loc>
-    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/authors/e.-a.-joseph/</loc>
     <lastmod>2012-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1967,18 +2849,6 @@
   
   <url>
     <loc>https://bdai6.github.io/authors/e.-k.-lai/</loc>
-    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/endurance/</loc>
-    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/gst-based-phase-change-memory/</loc>
     <lastmod>2012-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2002,12 +2872,6 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/kinetic-theory/</loc>
-    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/authors/m.-breitwisch/</loc>
     <lastmod>2012-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2026,18 +2890,6 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/mlc-pcm/</loc>
-    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/maintenance-engineering/</loc>
-    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/publication/kim-2012-vlsitsa/</loc>
     <lastmod>2012-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -2050,18 +2902,6 @@
   
   <url>
     <loc>https://bdai6.github.io/authors/r.-cheek/</loc>
-    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/reset-current-margin/</loc>
-    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/reset-melting-healing-effect/</loc>
     <lastmod>2012-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2096,30 +2936,6 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/set-induced-damage/</loc>
-    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/set-operation/</loc>
-    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/sr/</loc>
-    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/strontium/</loc>
-    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/authors/t.-h.-hsu/</loc>
     <lastmod>2012-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2132,20 +2948,8 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/temperature-measurement/</loc>
-    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/publication/du-2012-irps/</loc>
     <lastmod>2012-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/tin/</loc>
-    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2156,6 +2960,12 @@
   
   <url>
     <loc>https://bdai6.github.io/tags/amorphous-chalcogenide-material/</loc>
+    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/annealing/</loc>
     <lastmod>2012-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2173,7 +2983,19 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/conductivity/</loc>
+    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/control-circuits/</loc>
+    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/current-density/</loc>
     <lastmod>2012-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2191,6 +3013,12 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/endurance/</loc>
+    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/endurance-cycles/</loc>
     <lastmod>2012-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2203,7 +3031,25 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/gst-based-phase-change-memory/</loc>
+    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/kinetic-theory/</loc>
+    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/large-test-chips/</loc>
+    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/maintenance-engineering/</loc>
     <lastmod>2012-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2228,6 +3074,12 @@
   
   <url>
     <loc>https://bdai6.github.io/tags/mitigation-technique/</loc>
+    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/mlc-pcm/</loc>
     <lastmod>2012-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2317,6 +3169,18 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/reset-current-margin/</loc>
+    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/reset-melting-healing-effect/</loc>
+    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/reset-operation/</loc>
     <lastmod>2012-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2324,6 +3188,30 @@
   
   <url>
     <loc>https://bdai6.github.io/tags/segregation/</loc>
+    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/set-induced-damage/</loc>
+    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/set-operation/</loc>
+    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/sr/</loc>
+    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/strontium/</loc>
     <lastmod>2012-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2341,30 +3229,251 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/temperature-measurement/</loc>
+    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/time-dependent-resistance-drift/</loc>
     <lastmod>2012-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/authors/adam-cywar/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/tags/amorphous-semiconductors/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/authors/helena-silva/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/tags/conductors-electric/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/publication/cywar-2012-nano/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/publication/wu-2011-iedm/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/gesbte/</loc>
+    <loc>https://bdai6.github.io/authors/d.-newns/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/li-2011-iedm/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/g.-martyna/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/r.-dasaka/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/amorphous-germanium/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/antimony-alloys/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/current-30-mua/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/drift-insensitive-phase-change-material/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/electrical-characteristics/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/electrical-conductivity/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/electrodes/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/electrothermal-simulation/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/first-principle-ab-initio-method/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/ge/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/germanium-alloys/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/heat-losses/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/heating/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/low-power-pcm/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/low-power-phase-change-memory/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/material-device-characterization/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/resistance-drift/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/sb/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/size-1.5-nm/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/size-39-nm/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/solids/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/storage-capacity-256-mbit/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/tan-tin/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/tantalum-compounds/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/te/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/tellurium-alloys/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/tellurium-ternary-alloys/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/thermal-barrier/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/thermal-insulation/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/thermal-resistance/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/thermally-confined-bottom-electrode/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/titanium-compounds/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/x-ray-diffraction/</loc>
     <lastmod>2011-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2399,19 +3508,7 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/x-ray-diffraction/</loc>
-    <lastmod>2011-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/tags/amorphous-phase/</loc>
-    <lastmod>2011-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/antimony-alloys/</loc>
     <lastmod>2011-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2435,7 +3532,7 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/germanium-alloys/</loc>
+    <loc>https://bdai6.github.io/tags/gesbte/</loc>
     <lastmod>2011-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2459,12 +3556,6 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/tellurium-alloys/</loc>
-    <lastmod>2011-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/tags/temperature-200-degc/</loc>
     <lastmod>2011-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2477,121 +3568,282 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/publication/wen-2011-vlci/</loc>
-    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/authors/cheng-yuan-wen/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/authors/c.-y.-wen/</loc>
-    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/tags/cmos-analogue-integrated-circuits/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/cmos-integrated-circuits/</loc>
-    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/ge2sb2te5/</loc>
-    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/authors/jeyanandh-paramesh/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/authors/j.-paramesh/</loc>
-    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/authors/jonathan-proesel/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/authors/l.-t.-pileggi/</loc>
-    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/authors/larry-pileggi/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/pcm-mushroom-cell/</loc>
-    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/publication/wen-2011-esscirc/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/sangbum-kim/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/table-lookup/</loc>
-    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/tags/analog-cmos/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/antimony-compounds/</loc>
-    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/calibration/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/capacitance-4.41-ff/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/chalcogenide-glasses/</loc>
-    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/digital-look-up-table-circuit/</loc>
-    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/tags/combinatorial-redundancy/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/comparators-circuits/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/digital-calibration/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/elemental-semiconductors/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/embedded-gst/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/ge2sb2te5/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/generators/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/germanium-compounds/</loc>
-    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/logic-circuits/</loc>
-    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/tags/nonvolatile-phase-change-random-access-memory-cells/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/nonvolatile-logic-functions/</loc>
-    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/tags/offset-minimized-cmos-comparator/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/nonvolatile-look-up-table-design/</loc>
-    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/tags/pcram-mushroom-cells/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/programmable-circuits/</loc>
-    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/tags/post-manufacturing-calibration/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/programmable-logic-functions/</loc>
-    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/tags/post-silicon-calibration/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/resistance-transformation-ratio/</loc>
-    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+    <loc>https://bdai6.github.io/tags/power-55.42-muw/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/redundancy/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/si/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/silicon/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/switchable-resistances/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/tellurium-compounds/</loc>
-    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/voltage-1-v/</loc>
-    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/wen-2011-vlsi/</loc>
+    <lastmod>2011-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/c.-y.-wen/</loc>
+    <lastmod>2011-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/j.-paramesh/</loc>
+    <lastmod>2011-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/l.-t.-pileggi/</loc>
+    <lastmod>2011-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/digital-look-up-table-circuit/</loc>
+    <lastmod>2011-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/logic-circuits/</loc>
+    <lastmod>2011-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/nonvolatile-logic-functions/</loc>
+    <lastmod>2011-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/nonvolatile-look-up-table-design/</loc>
+    <lastmod>2011-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/pcm-mushroom-cell/</loc>
+    <lastmod>2011-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/programmable-circuits/</loc>
+    <lastmod>2011-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/programmable-logic-functions/</loc>
+    <lastmod>2011-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/resistance-transformation-ratio/</loc>
+    <lastmod>2011-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/table-lookup/</loc>
+    <lastmod>2011-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/cmos-digital-integrated-circuits/</loc>
+    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2625,38 +3877,8 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/cmos-digital-integrated-circuits/</loc>
-    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/computer-aided-manufacturing/</loc>
-    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/publication/rajendran-2011-imw/</loc>
     <lastmod>2011-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/electrical-resistance-measurement/</loc>
-    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/fets/</loc>
-    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/flash-memory/</loc>
-    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2690,6 +3912,89 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/publication/li-2011-sciencechina/</loc>
+    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/r.-jordan/</loc>
+    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/r.-k.-montoye/</loc>
+    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/r.-w.-cheek/</loc>
+    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/s.-c.-lewis/</loc>
+    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/t.-maffitt/</loc>
+    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/analog-resistance-levels/</loc>
+    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/computer-aided-manufacturing/</loc>
+    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/content-addressable-memory/</loc>
+    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/electrical-resistance-measurement/</loc>
+    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/fets/</loc>
+    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/flash-memories/</loc>
+    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/flash-memory/</loc>
+    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/frequency-50-mhz/</loc>
+    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/monte-carlo-simulation/</loc>
     <lastmod>2011-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2714,24 +4019,7 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/publication/li-2011-sciencechina/</loc>
-    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/r.-jordan/</loc>
-    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/r.-k.-montoye/</loc>
-    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/r.-w.-cheek/</loc>
+    <loc>https://bdai6.github.io/tags/phase-change-devices/</loc>
     <lastmod>2011-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2743,61 +4031,19 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/reconfigurable-sensing-scheme/</loc>
+    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/resistors/</loc>
     <lastmod>2011-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/authors/s.-c.-lewis/</loc>
-    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/tags/sram/</loc>
-    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/t.-maffitt/</loc>
-    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/analog-resistance-levels/</loc>
-    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/content-addressable-memory/</loc>
-    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/flash-memories/</loc>
-    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/frequency-50-mhz/</loc>
-    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/phase-change-devices/</loc>
-    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/reconfigurable-sensing-scheme/</loc>
     <lastmod>2011-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2833,19 +4079,13 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/authors/ashish-goel/</loc>
-    <lastmod>2010-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/circuit-stability/</loc>
-    <lastmod>2010-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/tags/costs/</loc>
+    <lastmod>2010-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/ashish-goel/</loc>
     <lastmod>2010-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2862,31 +4102,7 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/magnetic-circuits/</loc>
-    <lastmod>2010-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/authors/patrick-ndai/</loc>
-    <lastmod>2010-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/performance-analysis/</loc>
-    <lastmod>2010-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/read-write-memory/</loc>
-    <lastmod>2010-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/robustness/</loc>
     <lastmod>2010-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2898,19 +4114,19 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/scalability/</loc>
-    <lastmod>2010-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/spin-torque-transfer-stt/</loc>
+    <loc>https://bdai6.github.io/tags/circuit-stability/</loc>
     <lastmod>2010-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/high-memory-yield/</loc>
+    <lastmod>2010-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/magnetic-circuits/</loc>
     <lastmod>2010-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2940,7 +4156,19 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/performance-analysis/</loc>
+    <lastmod>2010-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/process-variations/</loc>
+    <lastmod>2010-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/read-write-memory/</loc>
     <lastmod>2010-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2952,19 +4180,31 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/robustness/</loc>
+    <lastmod>2010-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/scalability/</loc>
+    <lastmod>2010-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/spin-torque-transfer-stt/</loc>
+    <lastmod>2010-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/adders/</loc>
+    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/authors/cheng-kok-koh/</loc>
-    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/circuits/</loc>
-    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/delay/</loc>
     <lastmod>2010-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2982,13 +4222,66 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/publication/chen-2010-tvlsi/</loc>
+    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/yiran-chen/</loc>
+    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/yuan-xie/</loc>
+    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/circuit-delay/</loc>
+    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/circuits/</loc>
+    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/delay/</loc>
+    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/digital-arithmetic/</loc>
+    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/ic-design/</loc>
     <lastmod>2010-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/logic-design/</loc>
+    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/nbti-tolerance/</loc>
+    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/negative-bias-temperature-instability/</loc>
     <lastmod>2010-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3012,14 +4305,9 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/titanium-compounds/</loc>
+    <loc>https://bdai6.github.io/tags/variable-latency-adder-designs/</loc>
     <lastmod>2010-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/publication/chen-2010-tvlsi/</loc>
-    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -3029,56 +4317,115 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/authors/yiran-chen/</loc>
-    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/yuan-xie/</loc>
-    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/adders/</loc>
-    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/circuit-delay/</loc>
-    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/digital-arithmetic/</loc>
-    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/logic-design/</loc>
-    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/negative-bias-temperature-instability/</loc>
-    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/variable-latency-adder-designs/</loc>
-    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/tags/word-length-64-bit/</loc>
     <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/mos-integrated-circuits/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/b.-m.-clemens/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/b.-magyari-kope/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/m.-deal/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/m.-grubbs/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/zhang-2009-iedm/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/y.-nishi/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/charge-carrier-density/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/circuit-analysis/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/dual-metal-gate-mosfet/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/grain-orientation-difference/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/high-k-dielectric-materials/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/integrated-circuit-metallisation/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/metal-grain-work-function-variability/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/predictive-models/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/semiconductor-process-modeling/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/sram-reliability/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/work-function/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3094,31 +4441,24 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/publication/li-2009-aspdac/</loc>
+    <lastmod>2009-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/haixin-liu/</loc>
+    <lastmod>2009-01-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/stt-mram/</loc>
+    <lastmod>2009-01-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/publication_types/7/</loc>
-    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/cmos-logic-circuits/</loc>
-    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/circuit-simulation/</loc>
-    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/grain-boundary-gb/</loc>
-    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/grain-boundaries/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3130,54 +4470,30 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/logic-devices/</loc>
-    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/low-temperature-polycrystalline-silicon-ltps/</loc>
-    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/publication/li-2009-dac/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/publication/phd/</loc>
+    <loc>https://bdai6.github.io/publication/li-2009-phd/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/si/</loc>
-    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/silicon/</loc>
-    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/thin-film-transistor-tft/</loc>
-    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/thin-film-transistors/</loc>
-    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/publication/li-2009-tcad/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/circuit-simulation/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/cmos-logic-circuits/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -3193,13 +4509,19 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/elemental-semiconductors/</loc>
+    <loc>https://bdai6.github.io/tags/four-finger-structure/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/four-finger-structure/</loc>
+    <loc>https://bdai6.github.io/tags/grain-boundaries/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/grain-boundary-gb/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3211,7 +4533,19 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/logic-devices/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/low-power-low-cost-application/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/low-temperature-polycrystalline-silicon-ltps/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3277,6 +4611,18 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/thin-film-transistor-tft/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/thin-film-transistors/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/unimodal-distribution/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3289,97 +4635,68 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/circuit-synthesis/</loc>
-    <lastmod>2008-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/dram/</loc>
-    <lastmod>2008-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/electrodes/</loc>
-    <lastmod>2008-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/tags/greens-function-methods/</loc>
-    <lastmod>2008-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/haixin-liu/</loc>
-    <lastmod>2008-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/mram-devices/</loc>
-    <lastmod>2008-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/magnetic-tunneling/</loc>
-    <lastmod>2008-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/robust-stability/</loc>
-    <lastmod>2008-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2008-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/authors/s.-salahuddin/</loc>
-    <lastmod>2008-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2008-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/publication/li-2008-cicc/</loc>
-    <lastmod>2008-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2008-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/circuit-synthesis/</loc>
+    <lastmod>2008-09-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/dram/</loc>
+    <lastmod>2008-09-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/magnetic-tunneling/</loc>
+    <lastmod>2008-09-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/mram-devices/</loc>
+    <lastmod>2008-09-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/nonequilibrium-greens-function/</loc>
-    <lastmod>2008-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2008-09-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/robust-stability/</loc>
+    <lastmod>2008-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/variation-tolerant-spin-torque-transfer-mram-array/</loc>
-    <lastmod>2008-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2008-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/yield-enhancement/</loc>
-    <lastmod>2008-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2008-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/3d-integration/</loc>
-    <lastmod>2008-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/aditya-bansal/</loc>
-    <lastmod>2008-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/publication/li-2008-jetc/</loc>
-    <lastmod>2008-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -3390,12 +4707,6 @@
   
   <url>
     <loc>https://bdai6.github.io/tags/dft/</loc>
-    <lastmod>2008-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/swarop-ghosh/</loc>
     <lastmod>2008-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3419,103 +4730,102 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/reconfigurable/</loc>
+    <loc>https://bdai6.github.io/authors/aditya-bansal/</loc>
+    <lastmod>2008-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/li-2008-jetc/</loc>
+    <lastmod>2008-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/swarop-ghosh/</loc>
     <lastmod>2008-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/authors/charles-augustine/</loc>
-    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/couplings/</loc>
-    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/magnetic-analysis/</loc>
-    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/magnetic-devices/</loc>
-    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2008-06-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/publication/li-2008-dac/</loc>
-    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/predictive-models/</loc>
-    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/stt-mram/</loc>
-    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/yield/</loc>
-    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2008-06-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/coupled-electromagnetic-dynamics/</loc>
-    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2008-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/couplings/</loc>
+    <lastmod>2008-06-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/failure-probability/</loc>
-    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2008-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/magnetic-analysis/</loc>
+    <lastmod>2008-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/magnetic-devices/</loc>
+    <lastmod>2008-06-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/magnetoelectronics/</loc>
-    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2008-06-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/on-chip-embedded-memories/</loc>
-    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2008-06-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/optimisation/</loc>
-    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2008-06-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/spin-torque-transfer-magnetic-random-access-memory/</loc>
-    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2008-06-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/spintronic-device/</loc>
-    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2008-06-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bdai6.github.io/tags/statistical-optimization-methodology/</loc>
-    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2008-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/yield/</loc>
+    <lastmod>2008-06-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3530,6 +4840,11 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/publication/li-2007-ted/</loc>
+    <lastmod>2007-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/design-methodology/</loc>
     <lastmod>2007-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3537,6 +4852,12 @@
   
   <url>
     <loc>https://bdai6.github.io/tags/design-optimization/</loc>
+    <lastmod>2007-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/driving-current/</loc>
     <lastmod>2007-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3560,41 +4881,6 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/ltps-tft/</loc>
-    <lastmod>2007-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/publication/li-2007-ted/</loc>
-    <lastmod>2007-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/polymers/</loc>
-    <lastmod>2007-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/soi/</loc>
-    <lastmod>2007-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/si-interface/</loc>
-    <lastmod>2007-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/driving-current/</loc>
-    <lastmod>2007-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/tags/low-pressure-chemical-vapor-deposition-lpcvd/</loc>
     <lastmod>2007-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3602,6 +4888,12 @@
   
   <url>
     <loc>https://bdai6.github.io/tags/low-temperature-polycrystalline-silicon-thin-film-transistors/</loc>
+    <lastmod>2007-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/ltps-tft/</loc>
     <lastmod>2007-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3619,6 +4911,18 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/polymers/</loc>
+    <lastmod>2007-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/si-interface/</loc>
+    <lastmod>2007-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/silicon-on-insulator/</loc>
     <lastmod>2007-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3626,6 +4930,12 @@
   
   <url>
     <loc>https://bdai6.github.io/tags/single-crystalline-silicon/</loc>
+    <lastmod>2007-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/soi/</loc>
     <lastmod>2007-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3643,6 +4953,12 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/vlsi/</loc>
+    <lastmod>2007-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/3-d-technology/</loc>
     <lastmod>2007-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3654,49 +4970,13 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/bist-components/</loc>
-    <lastmod>2007-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/circuit-testing/</loc>
-    <lastmod>2007-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/crystallization/</loc>
-    <lastmod>2007-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/authors/s.-ghosh/</loc>
     <lastmod>2007-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/system-testing/</loc>
-    <lastmod>2007-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/temperature/</loc>
-    <lastmod>2007-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/vlsi/</loc>
-    <lastmod>2007-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/vlsi-systems/</loc>
+    <loc>https://bdai6.github.io/tags/bist-components/</loc>
     <lastmod>2007-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3708,7 +4988,19 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/circuit-testing/</loc>
+    <lastmod>2007-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/configurable-design-for-test-units/</loc>
+    <lastmod>2007-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/crystallization/</loc>
     <lastmod>2007-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3750,6 +5042,112 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/system-testing/</loc>
+    <lastmod>2007-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/temperature/</loc>
+    <lastmod>2007-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/vlsi-systems/</loc>
+    <lastmod>2007-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/li-2007-islped/</loc>
+    <lastmod>2007-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/arithmetic/</loc>
+    <lastmod>2007-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/arithmetic-circuit-design/</loc>
+    <lastmod>2007-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/clock-edge/</loc>
+    <lastmod>2007-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/degradation/</loc>
+    <lastmod>2007-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/lower-power-adder-designs/</loc>
+    <lastmod>2007-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/manufacturing-costs/</loc>
+    <lastmod>2007-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/nanoscale-pmos-transistors/</loc>
+    <lastmod>2007-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/nbti-induced-delay-degradation/</loc>
+    <lastmod>2007-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/nbti-tolerant-techniques/</loc>
+    <lastmod>2007-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/negative-bias-temperature-instability-nbti/</loc>
+    <lastmod>2007-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/variable-latency-adder-vl-adder/</loc>
+    <lastmod>2007-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/variable-latency-adder-technique/</loc>
+    <lastmod>2007-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/vl-adder/</loc>
+    <lastmod>2007-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/publication/li-2007-dac/</loc>
+    <lastmod>2007-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/design/</loc>
     <lastmod>2007-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3768,17 +5166,6 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/gb-tolerant-design/</loc>
-    <lastmod>2007-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/publication/li-2007-dac/</loc>
-    <lastmod>2007-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/tags/flexible-electronics/</loc>
     <lastmod>2007-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3786,6 +5173,12 @@
   
   <url>
     <loc>https://bdai6.github.io/tags/flexible-substrate/</loc>
+    <lastmod>2007-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/gb-tolerant-design/</loc>
     <lastmod>2007-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3803,13 +5196,7 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/digital-circuits/</loc>
-    <lastmod>2007-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/flexible-printed-circuits/</loc>
+    <loc>https://bdai6.github.io/tags/digital-integrated-circuits/</loc>
     <lastmod>2007-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3817,12 +5204,6 @@
   <url>
     <loc>https://bdai6.github.io/publication/li-2007-icicdt/</loc>
     <lastmod>2007-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/response-surface-method-rsm/</loc>
-    <lastmod>2007-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3844,7 +5225,13 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/digital-integrated-circuits/</loc>
+    <loc>https://bdai6.github.io/tags/digital-circuits/</loc>
+    <lastmod>2007-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/flexible-printed-circuits/</loc>
     <lastmod>2007-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3863,6 +5250,12 @@
   
   <url>
     <loc>https://bdai6.github.io/tags/power-dissipation/</loc>
+    <lastmod>2007-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/response-surface-method-rsm/</loc>
     <lastmod>2007-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3903,14 +5296,14 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/dielectric-substrates/</loc>
+    <loc>https://bdai6.github.io/publication/li-2006-drc/</loc>
     <lastmod>2006-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/publication/li-2006-drc/</loc>
+    <loc>https://bdai6.github.io/tags/dielectric-substrates/</loc>
     <lastmod>2006-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -3920,7 +5313,8 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/authors/maxwell-strange/</loc>
+    <loc>https://bdai6.github.io/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>

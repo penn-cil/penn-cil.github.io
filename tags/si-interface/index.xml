@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Si - Interface | Wisconsin Computational Intelligence Lab</title>
+    <title>si - interface | Wisconsin Computational Intelligence Lab</title>
     <link>https://bdai6.github.io/tags/si-interface/</link>
       <atom:link href="https://bdai6.github.io/tags/si-interface/index.xml" rel="self" type="application/rss+xml" />
-    <description>Si - Interface</description>
+    <description>si - interface</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2007 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
-      <title>Si - Interface</title>
+      <title>si - interface</title>
       <link>https://bdai6.github.io/tags/si-interface/</link>
     </image>
     

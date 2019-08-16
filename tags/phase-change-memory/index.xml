@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Phase change memory | Wisconsin Computational Intelligence Lab</title>
+    <title>phase change memory | Wisconsin Computational Intelligence Lab</title>
     <link>https://bdai6.github.io/tags/phase-change-memory/</link>
       <atom:link href="https://bdai6.github.io/tags/phase-change-memory/index.xml" rel="self" type="application/rss+xml" />
-    <description>Phase change memory</description>
+    <description>phase change memory</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
-      <title>Phase change memory</title>
+      <title>phase change memory</title>
       <link>https://bdai6.github.io/tags/phase-change-memory/</link>
     </image>
     
     <item>
-      <title>Enabling phase-change memory for data-centric computing: Technology, circuitand system (textbfinvited)</title>
+      <title>Enabling phase-change memory for data-centric computing: Technology, circuitand system (INVITED)</title>
       <link>https://bdai6.github.io/publication/li-2015-iscas/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2015-iscas/</guid>
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Enabling phase-change memory for data-centric computing: Technology, circuitand system (textbfinvited)</title>
+      <title>Enabling phase-change memory for data-centric computing: Technology, circuitand system (INVITED)</title>
       <link>https://bdai6.github.io/publication/li-2015-iscas/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2015-iscas/</guid>
@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>Enabling phase-change memory for data-centric computing: Technology, circuitand system (textbfinvited)</title>
+      <title>Enabling phase-change memory for data-centric computing: Technology, circuitand system (INVITED)</title>
       <link>https://bdai6.github.io/publication/li-2015-iscas/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2015-iscas/</guid>
@@ -61,7 +61,7 @@
     </item>
     
     <item>
-      <title>Resistance drift in phase change memory (textbfinvited)</title>
+      <title>Resistance drift in phase change memory (INVITED)</title>
       <link>https://bdai6.github.io/publication/li-2012-irps/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2012-irps/</guid>
@@ -69,7 +69,7 @@
     </item>
     
     <item>
-      <title>Resistance drift in phase change memory (textbfinvited)</title>
+      <title>Resistance drift in phase change memory (INVITED)</title>
       <link>https://bdai6.github.io/publication/li-2012-irps/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2012-irps/</guid>
@@ -85,11 +85,39 @@
     </item>
     
     <item>
+      <title>A low power phase change memory using thermally confined TaN/TiN bottom electrode</title>
+      <link>https://bdai6.github.io/publication/wu-2011-iedm/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/wu-2011-iedm/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Explore physical origins of resistance drift in phase change memory and its implication for drift-insensitive materials</title>
+      <link>https://bdai6.github.io/publication/li-2011-iedm/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2011-iedm/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Explore physical origins of resistance drift in phase change memory and its implication for drift-insensitive materials</title>
+      <link>https://bdai6.github.io/publication/li-2011-iedm/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2011-iedm/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A non-volatile look-up table design using PCM (phase-change memory) cells</title>
-      <link>https://bdai6.github.io/publication/wen-2011-vlci/</link>
-      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/wen-2011-vlci/</guid>
-      <description></description>
+      <link>https://bdai6.github.io/publication/wen-2011-vlsi/</link>
+      <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/wen-2011-vlsi/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline28%, 115 out of 409)&lt;/p&gt;
+</description>
     </item>
     
     <item>

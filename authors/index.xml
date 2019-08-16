@@ -5,7 +5,7 @@
     <link>https://bdai6.github.io/authors/</link>
       <atom:link href="https://bdai6.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 08 Aug 2019 22:57:41 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 08 Aug 2019 22:58:17 -0500</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://bdai6.github.io/authors/jing-li/</link>
-      <pubDate>Thu, 08 Aug 2019 22:57:41 -0500</pubDate>
+      <pubDate>Thu, 08 Aug 2019 22:58:17 -0500</pubDate>
       <guid>https://bdai6.github.io/authors/jing-li/</guid>
       <description>&lt;p&gt;Dr. Jing Li is an assistant professor and &lt;strong&gt;Dugald C. Jackson Faculty Scholar&lt;/strong&gt; at the department of Electrical and Computer Engineering and Computer Science (affiliated). She is part of &lt;a href=&#34;http://research.cs.wisc.edu/arch/uwarch/&#34; target=&#34;_blank&#34;&gt;Computer Architecture @ UW-Madison&lt;/a&gt; and &lt;a href=&#34;https://machinelearning.wisc.edu/&#34; target=&#34;_blank&#34;&gt;Machine Learning @ UW-Madison&lt;/a&gt;. She is one of the PIs in SRC JUMP center – Center for Research on Intelligent Storage and Processing-In-Memory (&lt;a href=&#34;https://crisp.engineering.virginia.edu/staff&#34; target=&#34;_blank&#34;&gt;CRISP&lt;/a&gt;). She spent her early career at &lt;a href=&#34;https://www.research.ibm.com/labs/watson/&#34; target=&#34;_blank&#34;&gt;IBM T. J. Watson Research Center&lt;/a&gt; as a &lt;em&gt;Research Staff Member&lt;/em&gt; after obtaining her PhD degree from Purdue University in 2009.&lt;/p&gt;
 
@@ -28,17 +28,18 @@
     </item>
     
     <item>
-      <title>admin</title>
-      <link>https://bdai6.github.io/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/authors/admin/</guid>
-      <description></description>
+      <title></title>
+      <link>https://bdai6.github.io/authors/jialiang-zhang/</link>
+      <pubDate>Mon, 01 Jul 2019 11:44:36 -0500</pubDate>
+      <guid>https://bdai6.github.io/authors/jialiang-zhang/</guid>
+      <description>&lt;p&gt;Jialiang Zhang is a PhD student in the ECE department of UW-Madison. He received his B.E. degree from University of Electronic Science and Technology of China. His research focuses on hardware demonstration of emerging computer architecture concept. He is also an expert in high speed digital system and high performance mixed-signal circuit design.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title></title>
       <link>https://bdai6.github.io/authors/yue-zha/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/yue-zha/</guid>
       <description>&lt;p&gt;Yue Zha received his B.S. degree in Physics from Peking University, China in 2013, and M.S. degree in Electrical and Computer Engineering from University of Wisconsin-Madison in 2015. He is currently pursuing his Ph.D. degree at the Department of Electrical and Computer Engineering, University of Wisconsin-Madison, WI. His research interests are reconfigurable computing device (conventional SRAM-based and novel RRAM-based), and CAD framework development.&lt;/p&gt;
 </description>
@@ -47,7 +48,7 @@
     <item>
       <title>Etienne Nowak</title>
       <link>https://bdai6.github.io/authors/etienne-nowak/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/etienne-nowak/</guid>
       <description></description>
     </item>
@@ -55,7 +56,7 @@
     <item>
       <title>Hangbing Lv</title>
       <link>https://bdai6.github.io/authors/hangbing-lv/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/hangbing-lv/</guid>
       <description></description>
     </item>
@@ -63,7 +64,7 @@
     <item>
       <title>Jiahao Yin</title>
       <link>https://bdai6.github.io/authors/jiahao-yin/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/jiahao-yin/</guid>
       <description></description>
     </item>
@@ -71,7 +72,7 @@
     <item>
       <title>Jie Yu</title>
       <link>https://bdai6.github.io/authors/jie-yu/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/jie-yu/</guid>
       <description></description>
     </item>
@@ -79,7 +80,7 @@
     <item>
       <title>Kan-Hao Xue</title>
       <link>https://bdai6.github.io/authors/kan-hao-xue/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/kan-hao-xue/</guid>
       <description></description>
     </item>
@@ -87,7 +88,7 @@
     <item>
       <title>Lu Tai</title>
       <link>https://bdai6.github.io/authors/lu-tai/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/lu-tai/</guid>
       <description></description>
     </item>
@@ -95,7 +96,7 @@
     <item>
       <title>Ming Liu</title>
       <link>https://bdai6.github.io/authors/ming-liu/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/ming-liu/</guid>
       <description></description>
     </item>
@@ -103,7 +104,7 @@
     <item>
       <title>Peng Yuan</title>
       <link>https://bdai6.github.io/authors/peng-yuan/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/peng-yuan/</guid>
       <description></description>
     </item>
@@ -111,7 +112,7 @@
     <item>
       <title>Qi Liu</title>
       <link>https://bdai6.github.io/authors/qi-liu/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/qi-liu/</guid>
       <description></description>
     </item>
@@ -119,7 +120,7 @@
     <item>
       <title>Qing Luo</title>
       <link>https://bdai6.github.io/authors/qing-luo/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/qing-luo/</guid>
       <description></description>
     </item>
@@ -127,7 +128,7 @@
     <item>
       <title>Shibing Long</title>
       <link>https://bdai6.github.io/authors/shibing-long/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/shibing-long/</guid>
       <description></description>
     </item>
@@ -135,7 +136,7 @@
     <item>
       <title>Tiancheng Gong</title>
       <link>https://bdai6.github.io/authors/tiancheng-gong/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/tiancheng-gong/</guid>
       <description></description>
     </item>
@@ -143,7 +144,7 @@
     <item>
       <title>Xiaoxin Xu</title>
       <link>https://bdai6.github.io/authors/xiaoxin-xu/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/xiaoxin-xu/</guid>
       <description></description>
     </item>
@@ -151,7 +152,7 @@
     <item>
       <title>Xumeng Zhang</title>
       <link>https://bdai6.github.io/authors/xumeng-zhang/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/xumeng-zhang/</guid>
       <description></description>
     </item>
@@ -159,35 +160,637 @@
     <item>
       <title>Yan Cheng</title>
       <link>https://bdai6.github.io/authors/yan-cheng/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/yan-cheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaurav Jain</title>
+      <link>https://bdai6.github.io/authors/gaurav-jain/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/gaurav-jain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Ta</title>
+      <link>https://bdai6.github.io/authors/jonathan-ta/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/jonathan-ta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yang Liu</title>
+      <link>https://bdai6.github.io/authors/yang-liu/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/yang-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Afshin Rostamizadeh</title>
+      <link>https://bdai6.github.io/authors/afshin-rostamizadeh/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/afshin-rostamizadeh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alex Smola</title>
+      <link>https://bdai6.github.io/authors/alex-smola/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/alex-smola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexander Ratner</title>
+      <link>https://bdai6.github.io/authors/alexander-ratner/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/alexander-ratner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexandros Dimakis</title>
+      <link>https://bdai6.github.io/authors/alexandros-dimakis/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/alexandros-dimakis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ameet Talwalkar</title>
+      <link>https://bdai6.github.io/authors/ameet-talwalkar/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/ameet-talwalkar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anastasios Kyrillidis</title>
+      <link>https://bdai6.github.io/authors/anastasios-kyrillidis/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/anastasios-kyrillidis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrew Gordon Wilson</title>
+      <link>https://bdai6.github.io/authors/andrew-gordon-wilson/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/andrew-gordon-wilson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aparna Lakshmiratan</title>
+      <link>https://bdai6.github.io/authors/aparna-lakshmiratan/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/aparna-lakshmiratan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arun Kumar</title>
+      <link>https://bdai6.github.io/authors/arun-kumar/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/arun-kumar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bill Dally</title>
+      <link>https://bdai6.github.io/authors/bill-dally/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/bill-dally/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bryan Catanzaro</title>
+      <link>https://bdai6.github.io/authors/bryan-catanzaro/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/bryan-catanzaro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ce Zhang</title>
+      <link>https://bdai6.github.io/authors/ce-zhang/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/ce-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charles Elkan</title>
+      <link>https://bdai6.github.io/authors/charles-elkan/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/charles-elkan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christopher De Sa</title>
+      <link>https://bdai6.github.io/authors/christopher-de-sa/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/christopher-de-sa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christopher R&#39;e</title>
+      <link>https://bdai6.github.io/authors/christopher-re/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/christopher-re/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dan Alistarh</title>
+      <link>https://bdai6.github.io/authors/dan-alistarh/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/dan-alistarh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David G. Andersen</title>
+      <link>https://bdai6.github.io/authors/david-g.-andersen/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/david-g.-andersen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dawn Song</title>
+      <link>https://bdai6.github.io/authors/dawn-song/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/dawn-song/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Derek Murray</title>
+      <link>https://bdai6.github.io/authors/derek-murray/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/derek-murray/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dimitris Papailiopoulos</title>
+      <link>https://bdai6.github.io/authors/dimitris-papailiopoulos/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/dimitris-papailiopoulos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric Chung</title>
+      <link>https://bdai6.github.io/authors/eric-chung/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/eric-chung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric Xing</title>
+      <link>https://bdai6.github.io/authors/eric-xing/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/eric-xing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erik Meijer</title>
+      <link>https://bdai6.github.io/authors/erik-meijer/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/erik-meijer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evan Sparks</title>
+      <link>https://bdai6.github.io/authors/evan-sparks/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/evan-sparks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Furong Huang</title>
+      <link>https://bdai6.github.io/authors/furong-huang/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/furong-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Garth A. Gibson</title>
+      <link>https://bdai6.github.io/authors/garth-a.-gibson/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/garth-a.-gibson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gauri Joshi</title>
+      <link>https://bdai6.github.io/authors/gauri-joshi/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/gauri-joshi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gennady Pekhimenko</title>
+      <link>https://bdai6.github.io/authors/gennady-pekhimenko/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/gennady-pekhimenko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gregory R. Ganger</title>
+      <link>https://bdai6.github.io/authors/gregory-r.-ganger/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/gregory-r.-ganger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grigori Fursin</title>
+      <link>https://bdai6.github.io/authors/grigori-fursin/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/grigori-fursin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gustavo Alonso</title>
+      <link>https://bdai6.github.io/authors/gustavo-alonso/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/gustavo-alonso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Brendan McMahan</title>
+      <link>https://bdai6.github.io/authors/h.-brendan-mcmahan/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/h.-brendan-mcmahan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hanie Sedghi</title>
+      <link>https://bdai6.github.io/authors/hanie-sedghi/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/hanie-sedghi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inderjit S. Dhillon</title>
+      <link>https://bdai6.github.io/authors/inderjit-s.-dhillon/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/inderjit-s.-dhillon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ioannis Mitliagkas</title>
+      <link>https://bdai6.github.io/authors/ioannis-mitliagkas/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/ioannis-mitliagkas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ion Stoica</title>
+      <link>https://bdai6.github.io/authors/ion-stoica/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/ion-stoica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jakub Konevcn&#39;y</title>
+      <link>https://bdai6.github.io/authors/jakub-konevcny/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/jakub-konevcny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jason Knight</title>
+      <link>https://bdai6.github.io/authors/jason-knight/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/jason-knight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeff Dean</title>
+      <link>https://bdai6.github.io/authors/jeff-dean/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/jeff-dean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jennifer Chayes</title>
+      <link>https://bdai6.github.io/authors/jennifer-chayes/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/jennifer-chayes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joaquin Vanschoren</title>
+      <link>https://bdai6.github.io/authors/joaquin-vanschoren/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/joaquin-vanschoren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joseph E. Gonzalez</title>
+      <link>https://bdai6.github.io/authors/joseph-e.-gonzalez/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/joseph-e.-gonzalez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Justin Gottschlich</title>
+      <link>https://bdai6.github.io/authors/justin-gottschlich/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/justin-gottschlich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Jamieson</title>
+      <link>https://bdai6.github.io/authors/kevin-jamieson/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/kevin-jamieson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kim Hazelwood</title>
+      <link>https://bdai6.github.io/authors/kim-hazelwood/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/kim-hazelwood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kunle Olukotun</title>
+      <link>https://bdai6.github.io/authors/kunle-olukotun/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/kunle-olukotun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lise Getoor</title>
+      <link>https://bdai6.github.io/authors/lise-getoor/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/lise-getoor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Madeleine Udell</title>
+      <link>https://bdai6.github.io/authors/madeleine-udell/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/madeleine-udell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markus Weimer</title>
+      <link>https://bdai6.github.io/authors/markus-weimer/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/markus-weimer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martin Jaggi</title>
+      <link>https://bdai6.github.io/authors/martin-jaggi/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/martin-jaggi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matei Zaharia</title>
+      <link>https://bdai6.github.io/authors/matei-zaharia/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/matei-zaharia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael I. Jordan</title>
+      <link>https://bdai6.github.io/authors/michael-i.-jordan/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/michael-i.-jordan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicholas Carlini</title>
+      <link>https://bdai6.github.io/authors/nicholas-carlini/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/nicholas-carlini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Bailis</title>
+      <link>https://bdai6.github.io/authors/peter-bailis/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/peter-bailis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phillip B. Gibbons</title>
+      <link>https://bdai6.github.io/authors/phillip-b.-gibbons/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/phillip-b.-gibbons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pradeep Dubey</title>
+      <link>https://bdai6.github.io/authors/pradeep-dubey/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/pradeep-dubey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rajat Monga</title>
+      <link>https://bdai6.github.io/authors/rajat-monga/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/rajat-monga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rania Khalaf</title>
+      <link>https://bdai6.github.io/authors/rania-khalaf/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/rania-khalaf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rashmi Vinayak</title>
+      <link>https://bdai6.github.io/authors/rashmi-vinayak/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/rashmi-vinayak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Samuel Madden</title>
+      <link>https://bdai6.github.io/authors/samuel-madden/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/samuel-madden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah Bird</title>
+      <link>https://bdai6.github.io/authors/sarah-bird/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/sarah-bird/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shivaram Venkataraman</title>
+      <link>https://bdai6.github.io/authors/shivaram-venkataraman/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/shivaram-venkataraman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siddhartha Sen</title>
+      <link>https://bdai6.github.io/authors/siddhartha-sen/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/siddhartha-sen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Song Han</title>
+      <link>https://bdai6.github.io/authors/song-han/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/song-han/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theodoros Rekatsinas</title>
+      <link>https://bdai6.github.io/authors/theodoros-rekatsinas/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/theodoros-rekatsinas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tim Kraska</title>
+      <link>https://bdai6.github.io/authors/tim-kraska/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/tim-kraska/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virginia Smith</title>
+      <link>https://bdai6.github.io/authors/virginia-smith/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/virginia-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vivienne Sze</title>
+      <link>https://bdai6.github.io/authors/vivienne-sze/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/vivienne-sze/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
       <link>https://bdai6.github.io/authors/soroosh-khoram/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/soroosh-khoram/</guid>
       <description>&lt;p&gt;Soroosh Khoram received his B.S. in digital systems from Sharif University of Technology, Iran in 2013, and M.S. in Microwave and Optics in 2015 from the same school. Later in 2015, he joined the graduate program of Electrical and Computer Engineering in University of Wisconsin – Madison to pursue his PhD. His research focuses on architecture design and algorithms mapping of novel computation paradigms. He is currently working on processing-in-memory accelerators and associative processors enabled by the emerging non-volatile memory technologies.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Zhiqiang Wei</title>
-      <link>https://bdai6.github.io/authors/zhiqiang-wei/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/authors/zhiqiang-wei/</guid>
+      <title></title>
+      <link>https://bdai6.github.io/authors/maxwell-strange/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/maxwell-strange/</guid>
+      <description>&lt;p&gt;Maxwell Strange was an undergraduate student at the University of Wisconsin-Madison pursuing degrees in both Computer Engineering and Computer Science. At WiCIL, his current research interests included workload acceleration through software/hardware co-optimization as well as signals applications. He was the president of the IEEE student organization on campus as well.&lt;/p&gt;
+
+&lt;p&gt;Maxwell is now a PhD student at Electrical Engineering Department at Stanford University.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Erik Jorgensen</title>
+      <link>https://bdai6.github.io/authors/erik-jorgensen/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/erik-jorgensen/</guid>
       <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://bdai6.github.io/authors/jialiang-zhang/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/authors/jialiang-zhang/</guid>
-      <description>&lt;p&gt;Jialiang Zhang is a PhD student in the ECE department of UW-Madison. He received his B.E. degree from University of Electronic Science and Technology of China. His research focuses on hardware demonstration of emerging computer architecture concept. He is also an expert in high speed digital system and high performance mixed-signal circuit design.&lt;/p&gt;
-</description>
+      <title>Mikko Lipasti</title>
+      <link>https://bdai6.github.io/authors/mikko-lipasti/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/mikko-lipasti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rohit Shukla</title>
+      <link>https://bdai6.github.io/authors/rohit-shukla/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/rohit-shukla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen Wright</title>
+      <link>https://bdai6.github.io/authors/stephen-wright/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/stephen-wright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhiqiang Wei</title>
+      <link>https://bdai6.github.io/authors/zhiqiang-wei/</link>
+      <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/zhiqiang-wei/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -207,10 +810,10 @@
     </item>
     
     <item>
-      <title>n̆derlineJing Li</title>
-      <link>https://bdai6.github.io/authors/nderlinejing-li/</link>
+      <title>underlineJing Li</title>
+      <link>https://bdai6.github.io/authors/underlinejing-li/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/authors/nderlinejing-li/</guid>
+      <guid>https://bdai6.github.io/authors/underlinejing-li/</guid>
       <description></description>
     </item>
     
@@ -223,10 +826,98 @@
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>https://bdai6.github.io/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/authors/robert-ford/</guid>
+      <title>H. Liu</title>
+      <link>https://bdai6.github.io/authors/h.-liu/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/h.-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Lv</title>
+      <link>https://bdai6.github.io/authors/h.-lv/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/h.-lv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Sun</title>
+      <link>https://bdai6.github.io/authors/h.-sun/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/h.-sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Gao</title>
+      <link>https://bdai6.github.io/authors/j.-gao/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/j.-gao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Li</title>
+      <link>https://bdai6.github.io/authors/l.-li/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/l.-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Liu</title>
+      <link>https://bdai6.github.io/authors/m.-liu/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/m.-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. Lu</title>
+      <link>https://bdai6.github.io/authors/n.-lu/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/n.-lu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Q. Liu</title>
+      <link>https://bdai6.github.io/authors/q.-liu/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/q.-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Long</title>
+      <link>https://bdai6.github.io/authors/s.-long/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/s.-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Gong</title>
+      <link>https://bdai6.github.io/authors/t.-gong/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/t.-gong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W. Banerjee</title>
+      <link>https://bdai6.github.io/authors/w.-banerjee/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/w.-banerjee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>X. Xu</title>
+      <link>https://bdai6.github.io/authors/x.-xu/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/x.-xu/</guid>
       <description></description>
     </item>
     
@@ -255,17 +946,9 @@
     </item>
     
     <item>
-      <title> others</title>
-      <link>https://bdai6.github.io/authors/others/</link>
-      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/authors/others/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gary Ditlow</title>
       <link>https://bdai6.github.io/authors/gary-ditlow/</link>
-      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/gary-ditlow/</guid>
       <description></description>
     </item>
@@ -273,7 +956,7 @@
     <item>
       <title>Kevin Stawiasz</title>
       <link>https://bdai6.github.io/authors/kevin-stawiasz/</link>
-      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/kevin-stawiasz/</guid>
       <description></description>
     </item>
@@ -281,7 +964,7 @@
     <item>
       <title>Kim Maloney</title>
       <link>https://bdai6.github.io/authors/kim-maloney/</link>
-      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/kim-maloney/</guid>
       <description></description>
     </item>
@@ -289,7 +972,7 @@
     <item>
       <title>Richard Jordan</title>
       <link>https://bdai6.github.io/authors/richard-jordan/</link>
-      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/richard-jordan/</guid>
       <description></description>
     </item>
@@ -297,7 +980,7 @@
     <item>
       <title>Scott Lewis</title>
       <link>https://bdai6.github.io/authors/scott-lewis/</link>
-      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/scott-lewis/</guid>
       <description></description>
     </item>
@@ -305,7 +988,7 @@
     <item>
       <title>Takeshi Nishida</title>
       <link>https://bdai6.github.io/authors/takeshi-nishida/</link>
-      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/takeshi-nishida/</guid>
       <description></description>
     </item>
@@ -313,8 +996,16 @@
     <item>
       <title>Tom Maffitt</title>
       <link>https://bdai6.github.io/authors/tom-maffitt/</link>
-      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/tom-maffitt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>others</title>
+      <link>https://bdai6.github.io/authors/others/</link>
+      <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/others/</guid>
       <description></description>
     </item>
     
@@ -439,6 +1130,30 @@
     </item>
     
     <item>
+      <title>Adam Cywar</title>
+      <link>https://bdai6.github.io/authors/adam-cywar/</link>
+      <pubDate>Thu, 10 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/adam-cywar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chung Lam</title>
+      <link>https://bdai6.github.io/authors/chung-lam/</link>
+      <pubDate>Thu, 10 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/chung-lam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helena Silva</title>
+      <link>https://bdai6.github.io/authors/helena-silva/</link>
+      <pubDate>Thu, 10 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/helena-silva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A. Ray</title>
       <link>https://bdai6.github.io/authors/a.-ray/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
@@ -467,14 +1182,6 @@
       <link>https://bdai6.github.io/authors/c.-lam/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/c.-lam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chung Lam</title>
-      <link>https://bdai6.github.io/authors/chung-lam/</link>
-      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/authors/chung-lam/</guid>
       <description></description>
     </item>
     
@@ -615,18 +1322,26 @@
     </item>
     
     <item>
-      <title>Adam Cywar</title>
-      <link>https://bdai6.github.io/authors/adam-cywar/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/authors/adam-cywar/</guid>
+      <title>D. Newns</title>
+      <link>https://bdai6.github.io/authors/d.-newns/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/d.-newns/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Helena Silva</title>
-      <link>https://bdai6.github.io/authors/helena-silva/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/authors/helena-silva/</guid>
+      <title>G. Martyna</title>
+      <link>https://bdai6.github.io/authors/g.-martyna/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/g.-martyna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Dasaka</title>
+      <link>https://bdai6.github.io/authors/r.-dasaka/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/r.-dasaka/</guid>
       <description></description>
     </item>
     
@@ -663,9 +1378,49 @@
     </item>
     
     <item>
+      <title> Cheng-Yuan Wen</title>
+      <link>https://bdai6.github.io/authors/cheng-yuan-wen/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/cheng-yuan-wen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeyanandh Paramesh</title>
+      <link>https://bdai6.github.io/authors/jeyanandh-paramesh/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/jeyanandh-paramesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Proesel</title>
+      <link>https://bdai6.github.io/authors/jonathan-proesel/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/jonathan-proesel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Larry Pileggi</title>
+      <link>https://bdai6.github.io/authors/larry-pileggi/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/larry-pileggi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SangBum Kim</title>
+      <link>https://bdai6.github.io/authors/sangbum-kim/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/sangbum-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>C. Y. Wen</title>
       <link>https://bdai6.github.io/authors/c.-y.-wen/</link>
-      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/c.-y.-wen/</guid>
       <description></description>
     </item>
@@ -673,7 +1428,7 @@
     <item>
       <title>J. Paramesh</title>
       <link>https://bdai6.github.io/authors/j.-paramesh/</link>
-      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/j.-paramesh/</guid>
       <description></description>
     </item>
@@ -681,7 +1436,7 @@
     <item>
       <title>L. T. Pileggi</title>
       <link>https://bdai6.github.io/authors/l.-t.-pileggi/</link>
-      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/l.-t.-pileggi/</guid>
       <description></description>
     </item>
@@ -863,10 +1618,58 @@
     </item>
     
     <item>
-      <title>Goel Ashish</title>
+      <title>B. M. Clemens</title>
+      <link>https://bdai6.github.io/authors/b.-m.-clemens/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/b.-m.-clemens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. Magyari-Köpe</title>
+      <link>https://bdai6.github.io/authors/b.-magyari-kope/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/b.-magyari-kope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Deal</title>
+      <link>https://bdai6.github.io/authors/m.-deal/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/m.-deal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Grubbs</title>
+      <link>https://bdai6.github.io/authors/m.-grubbs/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/m.-grubbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y. Nishi</title>
+      <link>https://bdai6.github.io/authors/y.-nishi/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/y.-nishi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Goel  Ashish</title>
       <link>https://bdai6.github.io/authors/goel-ashish/</link>
       <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/goel-ashish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haixin Liu</title>
+      <link>https://bdai6.github.io/authors/haixin-liu/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/authors/haixin-liu/</guid>
       <description></description>
     </item>
     
@@ -879,17 +1682,9 @@
     </item>
     
     <item>
-      <title>Haixin Liu</title>
-      <link>https://bdai6.github.io/authors/haixin-liu/</link>
-      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/authors/haixin-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>S. Salahuddin</title>
       <link>https://bdai6.github.io/authors/s.-salahuddin/</link>
-      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Sep 2008 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/s.-salahuddin/</guid>
       <description></description>
     </item>
@@ -913,7 +1708,7 @@
     <item>
       <title>Charles Augustine</title>
       <link>https://bdai6.github.io/authors/charles-augustine/</link>
-      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/charles-augustine/</guid>
       <description></description>
     </item>
@@ -924,17 +1719,6 @@
       <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/s.-ghosh/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://bdai6.github.io/authors/maxwell-strange/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/authors/maxwell-strange/</guid>
-      <description>&lt;p&gt;Maxwell Strange was an undergraduate student at the University of Wisconsin-Madison pursuing degrees in both Computer Engineering and Computer Science. At WiCIL, his current research interests included workload acceleration through software/hardware co-optimization as well as signals applications. He was the president of the IEEE student organization on campus as well.&lt;/p&gt;
-
-&lt;p&gt;Maxwell is now a PhD student at Electrical Engineering Department at Stanford University.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

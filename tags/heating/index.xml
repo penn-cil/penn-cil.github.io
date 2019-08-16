@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>heating | Wisconsin Computational Intelligence Lab</title>
+    <link>https://bdai6.github.io/tags/heating/</link>
+      <atom:link href="https://bdai6.github.io/tags/heating/index.xml" rel="self" type="application/rss+xml" />
+    <description>heating</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bdai6.github.io/img/logo.png</url>
+      <title>heating</title>
+      <link>https://bdai6.github.io/tags/heating/</link>
+    </image>
+    
+    <item>
+      <title>A low power phase change memory using thermally confined TaN/TiN bottom electrode</title>
+      <link>https://bdai6.github.io/publication/wu-2011-iedm/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/wu-2011-iedm/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

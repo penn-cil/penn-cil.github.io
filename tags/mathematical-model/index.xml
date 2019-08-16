@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mathematical model | Wisconsin Computational Intelligence Lab</title>
+    <title>mathematical model | Wisconsin Computational Intelligence Lab</title>
     <link>https://bdai6.github.io/tags/mathematical-model/</link>
       <atom:link href="https://bdai6.github.io/tags/mathematical-model/index.xml" rel="self" type="application/rss+xml" />
-    <description>Mathematical model</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <description>mathematical model</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 12 Mar 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
-      <title>Mathematical model</title>
+      <title>mathematical model</title>
       <link>https://bdai6.github.io/tags/mathematical-model/</link>
     </image>
     
     <item>
-      <title>Recent progress in RRAM technology: From compact models to applications (textbfinvited)</title>
+      <title>Recent progress in RRAM technology: From compact models to applications (INVITED)</title>
       <link>https://bdai6.github.io/publication/zha-2017-cstic/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/zha-2017-cstic/</guid>
       <description></description>
     </item>

@@ -1,0 +1,911 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.4.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Jing Li">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Here I will use one simple example to briefly show how to customize Academic theme with Hugo/Go programming. More information can be found from Hugo manual. Especially, Introduction to Hugo templating, Hugo functions, and Hugo variables are helpful for beginners.
+The Example Currently Academic lists everything (posts, publications, etc) written by the author all together under Latest (see the screenshot below). Similar to this example, we would like to list and count these items in separate sections.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://bdai6.github.io/courses/notes-on-hugo-academic/customize-hugo/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.dd629241ea9333c62c071f4a25f829ff.css">
+
+  
+    
+    
+    
+    
+      
+    
+    
+    
+    <link rel="stylesheet" href="/css/academic.c271459694f356ca716e4e62b3b71072.css">
+  
+
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://bdai6.github.io/courses/notes-on-hugo-academic/customize-hugo/">
+
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Wisconsin Computational Intelligence Lab">
+  <meta property="og:url" content="https://bdai6.github.io/courses/notes-on-hugo-academic/customize-hugo/">
+  <meta property="og:title" content="How to customize Academic website with Hugo | Wisconsin Computational Intelligence Lab">
+  <meta property="og:description" content="Here I will use one simple example to briefly show how to customize Academic theme with Hugo/Go programming. More information can be found from Hugo manual. Especially, Introduction to Hugo templating, Hugo functions, and Hugo variables are helpful for beginners.
+The Example Currently Academic lists everything (posts, publications, etc) written by the author all together under Latest (see the screenshot below). Similar to this example, we would like to list and count these items in separate sections."><meta property="og:image" content="https://bdai6.github.io/img/logo.png">
+  <meta property="twitter:image" content="https://bdai6.github.io/img/logo.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2019-08-14T00:00:00&#43;01:00">
+    
+    <meta property="article:modified_time" content="2019-08-14T00:00:00&#43;01:00">
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title>How to customize Academic website with Hugo | Wisconsin Computational Intelligence Lab</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/"><img src="/img/logo.png" alt="Wisconsin Computational Intelligence Lab"></a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#top"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>PI</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#people"><span>The Lab</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#research"><span>Research</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/courses/"><span>Courses & Notes</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#sponsors"><span>Sponsors</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      
+
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+  
+  <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/courses/notes-on-hugo-academic/">Overview</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/courses/notes-on-hugo-academic/my-notes/">Notes</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/courses/notes-on-hugo-academic/my-notes/">Note on sourcethemes-academic</a>
+      </li>
+      
+      <li >
+        <a href="/courses/notes-on-hugo-academic/create-gallery/">how to create a gallery</a>
+      </li>
+      
+      <li class="active">
+        <a href="/courses/notes-on-hugo-academic/customize-hugo/">Customize Academic theme with Hugo</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
+      </ul>
+
+      <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#the-example">The Example</a></li>
+<li><a href="#the-solution">The solution</a></li>
+</ul></li>
+</ul>
+</nav>
+
+      
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article" itemscope itemtype="http://schema.org/Article">
+
+        <div class="docs-article-container">
+          <h1 itemprop="name">How to customize Academic website with Hugo</h1>
+
+          <div class="article-style" itemprop="articleBody">
+            
+
+<p>Here I will use one simple example to briefly show how to customize Academic theme with Hugo/Go programming. More information can be found from <a href="https://gohugo.io" target="_blank">Hugo manual</a>. Especially, <a href="https://gohugo.io/templates/introduction/" target="_blank">Introduction to Hugo templating</a>, <a href="https://gohugo.io/functions/" target="_blank">Hugo functions</a>, and <a href="https://gohugo.io/variables/" target="_blank">Hugo variables</a> are helpful for beginners.</p>
+
+<h2 id="the-example">The Example</h2>
+
+<p>Currently Academic lists everything (<em>posts</em>, <em>publications</em>, etc) written by the author all together under <strong>Latest</strong> (see the screenshot below).
+<img src="/img/academic-default.png" alt="default display" title="Default" />
+Similar to <a href="https://bromberglab.org/authors/yannick-mahlich/" target="_blank">this example</a>, we would like to list and count these items in separate sections.
+The list of latest work is controlled by <code>theme/academic/layouts/authors/list.html</code>. So the question is how to modify the following code to achieve our goal.</p>
+
+<pre><code class="language-html">{{ $query := where .Pages &quot;.IsNode&quot; false }}
+{{ $count := len $query }}
+{{ if $count }}
+    &lt;div class=&quot;article-widget&quot;&gt;
+      &lt;div class=&quot;hr-light&quot;&gt;&lt;/div&gt;
+      &lt;h3&gt;{{ i18n &quot;user_profile_latest&quot; | default &quot;My Latest&quot; }}&lt;/h3&gt;
+      &lt;ul&gt;
+        {{ range $query }}
+        &lt;li&gt;
+          &lt;a href=&quot;{{ .RelPermalink }}&quot;&gt;{{ .Title }}&lt;/a&gt;
+        &lt;/li&gt;
+        {{ end }}
+      &lt;/ul&gt;
+    &lt;/div&gt;
+    {{ end }}
+</code></pre>
+
+<h2 id="the-solution">The solution</h2>
+
+<pre><code class="language-html">    {{/* List only publications */}}
+    {{ $query := and (where .Pages &quot;.IsNode&quot; false) (where .Pages &quot;Section&quot; &quot;publication&quot;) }}
+    {{ $count := len $query }}
+    {{ if $count }}
+    &lt;div class=&quot;article-widget&quot;&gt;
+      &lt;div class=&quot;hr-light&quot;&gt;&lt;/div&gt;
+      &lt;h3&gt;{{ printf &quot;%s (%d)&quot; (i18n &quot;publications&quot;) $count | default &quot;Publications&quot; }}&lt;/h3&gt;
+      &lt;ul&gt;
+        {{ range $query }}
+        &lt;li&gt;
+          &lt;a href=&quot;{{ .RelPermalink }}&quot;&gt;{{ .Title }}&lt;/a&gt;
+        &lt;/li&gt;
+        {{ end }}
+      &lt;/ul&gt;
+    &lt;/div&gt;
+    {{ end }}
+
+    {{/* List only posts */}}
+    {{ $query := and (where .Pages &quot;.IsNode&quot; false) (where .Pages &quot;Section&quot; &quot;post&quot;) }}
+    {{ $count := len $query }}
+    {{ if $count }}
+    &lt;div class=&quot;article-widget&quot;&gt;
+      &lt;div class=&quot;hr-light&quot;&gt;&lt;/div&gt;
+      &lt;h3&gt;{{ i18n &quot;posts&quot; | default &quot;Posts&quot;}}&lt;/h3&gt;
+      &lt;ul&gt;
+        {{ range $query }}
+        &lt;li&gt;
+          &lt;a href=&quot;{{ .RelPermalink }}&quot;&gt;{{ .Title }}&lt;/a&gt;
+        &lt;/li&gt;
+        {{ end }}
+      &lt;/ul&gt;
+    &lt;/div&gt;
+    {{ end }}
+
+    {{/* List only talks */}}
+    {{ $query := and (where .Pages &quot;.IsNode&quot; false) (where .Pages &quot;Section&quot; &quot;talk&quot;) }}
+    {{ $count := len $query }}
+    {{ if $count }}
+    &lt;div class=&quot;article-widget&quot;&gt;
+      &lt;div class=&quot;hr-light&quot;&gt;&lt;/div&gt;
+      &lt;h3&gt;{{ i18n &quot;talks&quot; | default &quot;Talks&quot;}}&lt;/h3&gt;
+      &lt;ul&gt;
+        {{ range $query }}
+        &lt;li&gt;
+          &lt;a href=&quot;{{ .RelPermalink }}&quot;&gt;{{ .Title }}&lt;/a&gt;
+        &lt;/li&gt;
+        {{ end }}
+      &lt;/ul&gt;
+    &lt;/div&gt;
+    {{ end }}
+</code></pre>
+
+<p>Key points:</p>
+
+<ol>
+<li><a href="https://gohugo.io/variables/page/#page-variables" target="_blank">Page variable</a> <code>.IsNode</code> always <em>false</em> for regular content pages. So <code>where .Pages &quot;.IsNode&quot; false</code> means finding all regular content pages.</li>
+<li>Then we use logic <code>and</code> and <code>where .Pages &quot;Section&quot; &quot;publication&quot;</code> to filter the result to get web pages that are <em>publications</em>.</li>
+<li><code>i18n &quot;user_profile_latest&quot;</code> corresponds to English expression <code>&quot;Latest&quot;</code> according to <code>i18n/en.yaml</code>. For listing publications only, it should be changed to <code>i18n &quot;publications&quot;</code>, i.e., <code>&quot;Publications&quot;</code>.</li>
+<li>Use <code>printf &quot;%s (%d)&quot; (i18n &quot;publications&quot;) $count</code> to concatenate <code>&quot;Publications&quot;</code> and the number of publications.</li>
+<li><code>.Title</code> corresponds to the title for this page.</li>
+</ol>
+
+          </div>
+
+          
+
+
+
+          
+          <div class="article-widget">
+            
+<div class="post-nav">
+  
+  
+  
+  <div class="post-nav-item">
+    <div class="meta-nav">Next</div>
+    <a href="/courses/notes-on-hugo-academic/my-notes/" rel="prev">Note on sourcethemes-academic</a>
+  </div>
+  
+</div>
+
+          </div>
+          
+        </div>
+
+        <div class="body-footer">
+          <p>Last updated on Aug 14, 2019</p>
+
+          
+
+
+          
+
+        </div>
+
+      </article>
+
+      <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+  </p>
+</footer>
+
+
+    </main>
+  </div>
+</div>
+
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.min.js" integrity="sha256-pB/deHc9CGfFpJRjC43imB29Rse8tak+5eXqntO94ck=" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.16bbb3750feb7244c9bc409a5a4fe678.js"></script>
+
+    
+
+
+
+
+
+
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

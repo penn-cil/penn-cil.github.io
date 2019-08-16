@@ -5,7 +5,7 @@
     <link>https://bdai6.github.io/tags/processing-in-memory/</link>
       <atom:link href="https://bdai6.github.io/tags/processing-in-memory/index.xml" rel="self" type="application/rss+xml" />
     <description>processing-in-memory</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Mar 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
       <title>processing-in-memory</title>
@@ -13,9 +13,27 @@
     </image>
     
     <item>
+      <title>Liquid Silicon-Monona: A Reconfigurable Memory-Oriented Computing Fabric with Scalable Multi-Context Support</title>
+      <link>https://bdai6.github.io/publication/zha-2018-asplos/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2018-asplos/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline18.2%, 56 out of 307)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Liquid  Silicon:  A Data-Centric Reconfigurable Architecture enabled by RRAM Technology</title>
+      <link>https://bdai6.github.io/publication/zha-2018-fpga/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2018-fpga/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline24%, Ranked &lt;strong&gt;#1&lt;/strong&gt; among 100+ submissions)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>IMEC: A Fully Morphable In-Memory Computing Fabric Enabled by Resistive Crossbar</title>
       <link>https://bdai6.github.io/publication/zha-2017-calimec/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/zha-2017-calimec/</guid>
       <description></description>
     </item>

@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="DRAM-based main memories have read operations that destroy the read data, and as a result, must buffer large amounts of data on each array access to keep chip costs low. Unfortunately, system-level trends such as increased memory contention in multi-core architectures and data mapping schemes that improve memory parallelism lead to only a small amount of the buffered data to be accessed. This makes buffering large amounts of data on every memory array access energy-inefficient; yet organizing DRAM chips to buffer small amounts of data is costly, as others have shown. Emerging non-volatile memories (NVMs) such as PCM, STT-RAM, and RRAM, however, do not have destructive read operations, opening up opportunities for employing small row buffers without incurring additional area penalty and/or design complexity. In this work, we discuss and evaluate architectural changes to enable small row buffers at a low cost in NVMs. We find that on a multi-core system, reducing the row buffer size can greatly reduce main memory dynamic energy compared to a DRAM baseline with large row sizes, without greatly affecting endurance, and for some NVM technologies, leads to improved performance.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://bdai6.github.io/publication/meza-2012-iccd/">
@@ -120,13 +120,13 @@
   <meta property="og:site_name" content="Wisconsin Computational Intelligence Lab">
   <meta property="og:url" content="https://bdai6.github.io/publication/meza-2012-iccd/">
   <meta property="og:title" content="A case for small row buffers in non-volatile main memories | Wisconsin Computational Intelligence Lab">
-  <meta property="og:description" content=""><meta property="og:image" content="https://bdai6.github.io/img/logo.png">
+  <meta property="og:description" content="DRAM-based main memories have read operations that destroy the read data, and as a result, must buffer large amounts of data on each array access to keep chip costs low. Unfortunately, system-level trends such as increased memory contention in multi-core architectures and data mapping schemes that improve memory parallelism lead to only a small amount of the buffered data to be accessed. This makes buffering large amounts of data on every memory array access energy-inefficient; yet organizing DRAM chips to buffer small amounts of data is costly, as others have shown. Emerging non-volatile memories (NVMs) such as PCM, STT-RAM, and RRAM, however, do not have destructive read operations, opening up opportunities for employing small row buffers without incurring additional area penalty and/or design complexity. In this work, we discuss and evaluate architectural changes to enable small row buffers at a low cost in NVMs. We find that on a multi-core system, reducing the row buffer size can greatly reduce main memory dynamic energy compared to a DRAM baseline with large row sizes, without greatly affecting endurance, and for some NVM technologies, leads to improved performance."><meta property="og:image" content="https://bdai6.github.io/img/logo.png">
   <meta property="twitter:image" content="https://bdai6.github.io/img/logo.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2019-08-08T18:23:49&#43;00:00">
+      <meta property="article:published_time" content="2012-09-30T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2012-09-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2012-09-30T00:00:00&#43;00:00">
   
 
   
@@ -363,6 +363,35 @@
         
 
         <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
           <a class="nav-link " href="/#publications"><span>Publications</span></a>
         </li>
 
@@ -414,7 +443,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/courses/"><span>Teaching</span></a>
+          <a class="nav-link " href="/courses/"><span>Courses & Notes</span></a>
         </li>
 
         
@@ -536,8 +565,8 @@
 
 
 
-<meta content="2012-09-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2012-09-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2012-09-30 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2012-09-30 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -680,7 +709,51 @@
 
 
 
+  
 
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/meza-2012-iccd/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1109/ICCD.2012.6378685" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
 
 
   
@@ -690,6 +763,9 @@
 
   <div class="article-container">
 
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">DRAM-based main memories have read operations that destroy the read data, and as a result, must buffer large amounts of data on each array access to keep chip costs low. Unfortunately, system-level trends such as increased memory contention in multi-core architectures and data mapping schemes that improve memory parallelism lead to only a small amount of the buffered data to be accessed. This makes buffering large amounts of data on every memory array access energy-inefficient; yet organizing DRAM chips to buffer small amounts of data is costly, as others have shown. Emerging non-volatile memories (NVMs) such as PCM, STT-RAM, and RRAM, however, do not have destructive read operations, opening up opportunities for employing small row buffers without incurring additional area penalty and/or design complexity. In this work, we discuss and evaluate architectural changes to enable small row buffers at a low cost in NVMs. We find that on a multi-core system, reducing the row buffer size can greatly reduce main memory dynamic energy compared to a DRAM baseline with large row sizes, without greatly affecting endurance, and for some NVM technologies, leads to improved performance.</p>
     
 
     
@@ -719,7 +795,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>2012 IEEE 30th International Conference on Computer Design (textbfICCD)</em></div>
+          <div class="col-12 col-md-9"><em>2012 IEEE 30th International Conference on Computer Design (<strong>ICCD</strong>)</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -729,7 +805,8 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style"></div>
+    <div class="article-style"><p>(Acceptance rate: underline25%, 61 out of 241)</p>
+</div>
 
     
 
@@ -737,19 +814,19 @@
   
   <a class="badge badge-light" href="/tags/conference/">conference</a>
   
-  <a class="badge badge-light" href="/tags/dram-chips/">DRAM chips</a>
+  <a class="badge badge-light" href="/tags/dram-chips/"> dram chips</a>
   
   <a class="badge badge-light" href="/tags/buffer-circuits/">buffer circuits</a>
   
   <a class="badge badge-light" href="/tags/multiprocessing-systems/">multiprocessing systems</a>
   
-  <a class="badge badge-light" href="/tags/dram-baseline/">DRAM baseline</a>
+  <a class="badge badge-light" href="/tags/dram-baseline/">dram baseline</a>
   
-  <a class="badge badge-light" href="/tags/dram-chips/">DRAM chips</a>
+  <a class="badge badge-light" href="/tags/dram-chips/">dram chips</a>
   
-  <a class="badge badge-light" href="/tags/dram-based-main-memories/">DRAM-based main memories</a>
+  <a class="badge badge-light" href="/tags/dram-based-main-memories/">dram-based main memories</a>
   
-  <a class="badge badge-light" href="/tags/nvm-technologies/">NVM technologies</a>
+  <a class="badge badge-light" href="/tags/nvm-technologies/">nvm technologies</a>
   
   <a class="badge badge-light" href="/tags/array-access/">array access</a>
   
@@ -777,17 +854,17 @@
   
   <a class="badge badge-light" href="/tags/system-level-trends/">system-level trends</a>
   
-  <a class="badge badge-light" href="/tags/arrays/">Arrays</a>
+  <a class="badge badge-light" href="/tags/arrays/">arrays</a>
   
-  <a class="badge badge-light" href="/tags/memory-management/">Memory management</a>
+  <a class="badge badge-light" href="/tags/memory-management/">memory management</a>
   
-  <a class="badge badge-light" href="/tags/nonvolatile-memory/">Nonvolatile memory</a>
+  <a class="badge badge-light" href="/tags/nonvolatile-memory/">nonvolatile memory</a>
   
-  <a class="badge badge-light" href="/tags/organizations/">Organizations</a>
+  <a class="badge badge-light" href="/tags/organizations/">organizations</a>
   
-  <a class="badge badge-light" href="/tags/phase-change-materials/">Phase change materials</a>
+  <a class="badge badge-light" href="/tags/phase-change-materials/">phase change materials</a>
   
-  <a class="badge badge-light" href="/tags/random-access-memory/">Random access memory</a>
+  <a class="badge badge-light" href="/tags/random-access-memory/">random access memory</a>
   
 </div>
 

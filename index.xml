@@ -5,7 +5,7 @@
     <link>https://bdai6.github.io/</link>
       <atom:link href="https://bdai6.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Wisconsin Computational Intelligence Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Aug 2019 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
       <title>Wisconsin Computational Intelligence Lab</title>
@@ -13,95 +13,314 @@
     </image>
     
     <item>
-      <title>Example Page 1</title>
-      <link>https://bdai6.github.io/courses/example/example1/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://bdai6.github.io/courses/example/example1/</guid>
+      <title>How to customize Academic website with Hugo</title>
+      <link>https://bdai6.github.io/courses/notes-on-hugo-academic/customize-hugo/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0100</pubDate>
+      <guid>https://bdai6.github.io/courses/notes-on-hugo-academic/customize-hugo/</guid>
       <description>
 
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;p&gt;Here I will use one simple example to briefly show how to customize Academic theme with Hugo/Go programming. More information can be found from &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo manual&lt;/a&gt;. Especially, &lt;a href=&#34;https://gohugo.io/templates/introduction/&#34; target=&#34;_blank&#34;&gt;Introduction to Hugo templating&lt;/a&gt;, &lt;a href=&#34;https://gohugo.io/functions/&#34; target=&#34;_blank&#34;&gt;Hugo functions&lt;/a&gt;, and &lt;a href=&#34;https://gohugo.io/variables/&#34; target=&#34;_blank&#34;&gt;Hugo variables&lt;/a&gt; are helpful for beginners.&lt;/p&gt;
 
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;h2 id=&#34;the-example&#34;&gt;The Example&lt;/h2&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Currently Academic lists everything (&lt;em&gt;posts&lt;/em&gt;, &lt;em&gt;publications&lt;/em&gt;, etc) written by the author all together under &lt;strong&gt;Latest&lt;/strong&gt; (see the screenshot below).
+&lt;img src=&#34;https://bdai6.github.io/img/academic-default.png&#34; alt=&#34;default display&#34; title=&#34;Default&#34; /&gt;
+Similar to &lt;a href=&#34;https://bromberglab.org/authors/yannick-mahlich/&#34; target=&#34;_blank&#34;&gt;this example&lt;/a&gt;, we would like to list and count these items in separate sections.
+The list of latest work is controlled by &lt;code&gt;theme/academic/layouts/authors/list.html&lt;/code&gt;. So the question is how to modify the following code to achieve our goal.&lt;/p&gt;
 
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;{{ $query := where .Pages &amp;quot;.IsNode&amp;quot; false }}
+{{ $count := len $query }}
+{{ if $count }}
+    &amp;lt;div class=&amp;quot;article-widget&amp;quot;&amp;gt;
+      &amp;lt;div class=&amp;quot;hr-light&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
+      &amp;lt;h3&amp;gt;{{ i18n &amp;quot;user_profile_latest&amp;quot; | default &amp;quot;My Latest&amp;quot; }}&amp;lt;/h3&amp;gt;
+      &amp;lt;ul&amp;gt;
+        {{ range $query }}
+        &amp;lt;li&amp;gt;
+          &amp;lt;a href=&amp;quot;{{ .RelPermalink }}&amp;quot;&amp;gt;{{ .Title }}&amp;lt;/a&amp;gt;
+        &amp;lt;/li&amp;gt;
+        {{ end }}
+      &amp;lt;/ul&amp;gt;
+    &amp;lt;/div&amp;gt;
+    {{ end }}
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;h2 id=&#34;the-solution&#34;&gt;The solution&lt;/h2&gt;
 
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;    {{/* List only publications */}}
+    {{ $query := and (where .Pages &amp;quot;.IsNode&amp;quot; false) (where .Pages &amp;quot;Section&amp;quot; &amp;quot;publication&amp;quot;) }}
+    {{ $count := len $query }}
+    {{ if $count }}
+    &amp;lt;div class=&amp;quot;article-widget&amp;quot;&amp;gt;
+      &amp;lt;div class=&amp;quot;hr-light&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
+      &amp;lt;h3&amp;gt;{{ printf &amp;quot;%s (%d)&amp;quot; (i18n &amp;quot;publications&amp;quot;) $count | default &amp;quot;Publications&amp;quot; }}&amp;lt;/h3&amp;gt;
+      &amp;lt;ul&amp;gt;
+        {{ range $query }}
+        &amp;lt;li&amp;gt;
+          &amp;lt;a href=&amp;quot;{{ .RelPermalink }}&amp;quot;&amp;gt;{{ .Title }}&amp;lt;/a&amp;gt;
+        &amp;lt;/li&amp;gt;
+        {{ end }}
+      &amp;lt;/ul&amp;gt;
+    &amp;lt;/div&amp;gt;
+    {{ end }}
 
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+    {{/* List only posts */}}
+    {{ $query := and (where .Pages &amp;quot;.IsNode&amp;quot; false) (where .Pages &amp;quot;Section&amp;quot; &amp;quot;post&amp;quot;) }}
+    {{ $count := len $query }}
+    {{ if $count }}
+    &amp;lt;div class=&amp;quot;article-widget&amp;quot;&amp;gt;
+      &amp;lt;div class=&amp;quot;hr-light&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
+      &amp;lt;h3&amp;gt;{{ i18n &amp;quot;posts&amp;quot; | default &amp;quot;Posts&amp;quot;}}&amp;lt;/h3&amp;gt;
+      &amp;lt;ul&amp;gt;
+        {{ range $query }}
+        &amp;lt;li&amp;gt;
+          &amp;lt;a href=&amp;quot;{{ .RelPermalink }}&amp;quot;&amp;gt;{{ .Title }}&amp;lt;/a&amp;gt;
+        &amp;lt;/li&amp;gt;
+        {{ end }}
+      &amp;lt;/ul&amp;gt;
+    &amp;lt;/div&amp;gt;
+    {{ end }}
 
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+    {{/* List only talks */}}
+    {{ $query := and (where .Pages &amp;quot;.IsNode&amp;quot; false) (where .Pages &amp;quot;Section&amp;quot; &amp;quot;talk&amp;quot;) }}
+    {{ $count := len $query }}
+    {{ if $count }}
+    &amp;lt;div class=&amp;quot;article-widget&amp;quot;&amp;gt;
+      &amp;lt;div class=&amp;quot;hr-light&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
+      &amp;lt;h3&amp;gt;{{ i18n &amp;quot;talks&amp;quot; | default &amp;quot;Talks&amp;quot;}}&amp;lt;/h3&amp;gt;
+      &amp;lt;ul&amp;gt;
+        {{ range $query }}
+        &amp;lt;li&amp;gt;
+          &amp;lt;a href=&amp;quot;{{ .RelPermalink }}&amp;quot;&amp;gt;{{ .Title }}&amp;lt;/a&amp;gt;
+        &amp;lt;/li&amp;gt;
+        {{ end }}
+      &amp;lt;/ul&amp;gt;
+    &amp;lt;/div&amp;gt;
+    {{ end }}
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Key points:&lt;/p&gt;
 
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/variables/page/#page-variables&#34; target=&#34;_blank&#34;&gt;Page variable&lt;/a&gt; &lt;code&gt;.IsNode&lt;/code&gt; always &lt;em&gt;false&lt;/em&gt; for regular content pages. So &lt;code&gt;where .Pages &amp;quot;.IsNode&amp;quot; false&lt;/code&gt; means finding all regular content pages.&lt;/li&gt;
+&lt;li&gt;Then we use logic &lt;code&gt;and&lt;/code&gt; and &lt;code&gt;where .Pages &amp;quot;Section&amp;quot; &amp;quot;publication&amp;quot;&lt;/code&gt; to filter the result to get web pages that are &lt;em&gt;publications&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;i18n &amp;quot;user_profile_latest&amp;quot;&lt;/code&gt; corresponds to English expression &lt;code&gt;&amp;quot;Latest&amp;quot;&lt;/code&gt; according to &lt;code&gt;i18n/en.yaml&lt;/code&gt;. For listing publications only, it should be changed to &lt;code&gt;i18n &amp;quot;publications&amp;quot;&lt;/code&gt;, i.e., &lt;code&gt;&amp;quot;Publications&amp;quot;&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Use &lt;code&gt;printf &amp;quot;%s (%d)&amp;quot; (i18n &amp;quot;publications&amp;quot;) $count&lt;/code&gt; to concatenate &lt;code&gt;&amp;quot;Publications&amp;quot;&lt;/code&gt; and the number of publications.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;.Title&lt;/code&gt; corresponds to the title for this page.&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
     <item>
-      <title>Example Page 2</title>
-      <link>https://bdai6.github.io/courses/example/example2/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://bdai6.github.io/courses/example/example2/</guid>
-      <description>
-
-&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
+      <title>Augmenting Computer Systems with Domain Specific Accelerator and Emerging Memories</title>
+      <link>https://bdai6.github.io/project/augmenting-computer-system/</link>
+      <pubDate>Thu, 08 Aug 2019 22:57:41 -0500</pubDate>
+      <guid>https://bdai6.github.io/project/augmenting-computer-system/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://bdai6.github.io/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <title>Note on sourcethemes-academic</title>
+      <link>https://bdai6.github.io/courses/notes-on-hugo-academic/my-notes/</link>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 +0100</pubDate>
+      <guid>https://bdai6.github.io/courses/notes-on-hugo-academic/my-notes/</guid>
+      <description>
+
+&lt;p&gt;&lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;front-matter&#34;&gt;Front Matter&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34;&gt;reference documentation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In the documentation and the example site, we will predominantly use YAML to format the front matter of &lt;em&gt;content&lt;/em&gt; files and TOML to format the &lt;em&gt;configuration&lt;/em&gt; files and &lt;em&gt;widget&lt;/em&gt; files.&lt;/p&gt;
+
+&lt;p&gt;If a content file has front matter variables set between triple-minus &lt;code&gt;---&lt;/code&gt; lines, then it is YAML formatted. Otherwise, a content file will have front matter variables set between triple-plus &lt;code&gt;+++&lt;/code&gt; lines, indicating that it is TOML formatted.&lt;/p&gt;
+
+&lt;h2 id=&#34;syntax-highlight&#34;&gt;Syntax highlight&lt;/h2&gt;
+
+&lt;p&gt;Somehow syntax highlighting with &lt;span class=&#34;markup-quote&#34;&gt;```yaml&lt;/span&gt; doesn&amp;rsquo;t work, &lt;span class=&#34;markup-quote&#34;&gt;```json&lt;/span&gt; works instead.&lt;/p&gt;
+
+&lt;p&gt;``` is highlighted by &lt;code&gt;{{&lt;/code&gt;&lt;code&gt;&amp;lt; hl &amp;gt;}&lt;/code&gt;&lt;code&gt;}the code to be highlighted{&lt;/code&gt;&lt;code&gt;{&amp;lt; hl &amp;gt;}&lt;/code&gt;&lt;code&gt;}&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;create-a-non-widget-new-page&#34;&gt;Create a non-widget new page&lt;/h2&gt;
+
+&lt;p&gt;By following &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-page&#34; target=&#34;_blank&#34;&gt;the instruction&lt;/a&gt;, a new webpage is created by creating a folder with the new page&amp;rsquo;s name in &lt;code&gt;content&lt;/code&gt; and with &lt;code&gt;index.md&lt;/code&gt; inside. For example, I created a webpage called &lt;code&gt;cv&lt;/code&gt;.&lt;code&gt;cv&lt;/code&gt; is a folder within &lt;code&gt;content&lt;/code&gt; folder and it has &lt;code&gt;index.md&lt;/code&gt; inside. Below is the source code of &lt;code&gt;cv/index.md&lt;/code&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-json&#34;&gt;---
+title: Jing&#39;s CV
+summary: test on how to add a page to your site.
+date: &amp;quot;2019-08-09T00:00:00Z&amp;quot;
+
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: &amp;quot;&amp;quot;
+  image: &amp;quot;&amp;quot;
+---
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;cross-reference-and-link-in-markdown-and-shortcodes&#34;&gt;Cross-reference and link in Markdown and shortcodes&lt;/h2&gt;
+
+&lt;p&gt;What I&amp;rsquo;d like to achieve is to cross-reference some content on my website) to another page. For example, to link &lt;code&gt;cv&lt;/code&gt; to this note. The &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#linking-to-your-new-page&#34; target=&#34;_blank&#34;&gt;reference&lt;/a&gt; suggests using &lt;code&gt;[My CV](&lt;/code&gt;&lt;code&gt;{&lt;/code&gt;&lt;code&gt;{&lt;/code&gt;&lt;code&gt;&amp;lt; ref &amp;quot;cv/index.md&amp;quot;&lt;/code&gt; &lt;code&gt;&amp;gt;}})&lt;/code&gt;, and I found
+&lt;code&gt;[My CV](/cv/)&lt;/code&gt; works too (&lt;a href=&#34;https://bdai6.github.io/cv/&#34;&gt;My CV&lt;/a&gt;). Similary, I can use &lt;a href=&#34;https://bdai6.github.io/publication/zha-2019-vlsic/&#34;&gt;my publication in VLSI&amp;rsquo;19&lt;/a&gt; with &lt;code&gt;[my publication in VLSI&#39;19](/publication/zha-2019-vlsic/)&lt;/code&gt;, where there is a &lt;code&gt;index.md&lt;/code&gt; file in &lt;code&gt;/publication/zha-2019-vlsic/&lt;/code&gt;;  or &lt;code&gt;[my research](/research/)&lt;/code&gt; &amp;ndash; &lt;a href=&#34;https://bdai6.github.io/research/&#34;&gt;my research&lt;/a&gt;, &lt;code&gt;[a project](/project/augmenting-computer-system)&lt;/code&gt; &amp;ndash; &lt;a href=&#34;https://bdai6.github.io/project/augmenting-computer-system&#34;&gt;a project&lt;/a&gt;, &lt;a href=&#34;https://bdai6.github.io/courses/example&#34;&gt;a course&lt;/a&gt;, &lt;a href=&#34;https://bdai6.github.io/post/getting-started/&#34;&gt;a post&lt;/a&gt;, etc, &lt;em&gt;as long as there is a &lt;code&gt;index.md&lt;/code&gt; or &lt;code&gt;_index.md&lt;/code&gt; in the folder&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Paths without a leading &lt;code&gt;/&lt;/code&gt; will first be tried resolved relative to the current page&lt;/strong&gt;. Therefore the &lt;strong&gt;URL should start with a &lt;code&gt;/&lt;/code&gt;&lt;/strong&gt; which will casue it to &lt;em&gt;correctly&lt;/em&gt; concatenate itself with the root domain of your baseURL defined in &lt;code&gt;config.toml&lt;/code&gt; &amp;ndash; &lt;code&gt;localhost:1313/post/getting-started/&lt;/code&gt; in developer mode, rather than &lt;code&gt;localhost:1313/&amp;lt;address of this note&amp;gt;/post/getting-started/&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&#34;https://gohugo.io/content-management/cross-references/&#34; target=&#34;_blank&#34;&gt;more&lt;/a&gt; on using shortcodes for cross-reference.&lt;/p&gt;
+
+&lt;h2 id=&#34;create-a-publication&#34;&gt;Create a publication&lt;/h2&gt;
+
+&lt;p&gt;Refer to &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-publication&#34; target=&#34;_blank&#34;&gt;this instruction&lt;/a&gt;. The automatic import function is:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;academic import --bibtex &amp;lt;path_to_your/publications.bib&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Just need to make sure that the .bib file is named to be &lt;strong&gt;publications.bib&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If there are some typos in the auto generated publication, or if you want to update some details about the publication, you should edit the parameters in &lt;code&gt;content/publication/&amp;lt;my-publication&amp;gt;/index.md&lt;/code&gt;.&lt;/p&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+    &lt;code&gt;academic&lt;/code&gt; package is cross-platform and can be installed with the same command &lt;code&gt;pip3 install -U academic&lt;/code&gt; on Windows and macOS. However, somehow &lt;strong&gt;v0.2.7&lt;/strong&gt; is installed on Windows while &lt;strong&gt;v0.4.0&lt;/strong&gt; on macOS. The most distinct difference between the two versions are: v0.2.7 converts bib file to TOML format for Hugo while v0.4.0 YAML. Currently academic handles publication/talk/post webpage in &lt;strong&gt;YAML&lt;/strong&gt;, so this convertion job should be conducted on macOS.
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;h3 id=&#34;other-approaches&#34;&gt;Other approaches&lt;/h3&gt;
+
+&lt;p&gt;I wrote a &lt;a href=&#34;https://github.com/bdai6/parse_bib.git&#34; target=&#34;_blank&#34;&gt;custom python code&lt;/a&gt; based on &lt;code&gt;apetros/parse_bib&lt;/code&gt; and &lt;a href=&#34;https://github.com/sciunto-org/python-bibtexparser.git&#34; target=&#34;_blank&#34;&gt;bibtexparser&lt;/a&gt;. It was able to create publication pages with more details than the method menthioned above.&lt;/p&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Bib items with lines commented out by &lt;code&gt;%&lt;/code&gt; will be ignored by &lt;code&gt;bibtexparser&lt;/code&gt;, so will by the Academic buildin tool. So make sure to clean up the bib file before running the script.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;create-table-of-contents&#34;&gt;Create Table of Contents&lt;/h2&gt;
+
+&lt;p&gt;Use the &lt;code&gt;{&lt;/code&gt;&lt;code&gt;{% toc %\}&lt;/code&gt;&lt;code&gt;}&lt;/code&gt; shortcode anywhere you wish within your Markdown content to automatically generate a table of contents. For example, refer to the &lt;a href=&#34;#table-of-contents&#34;&gt;top of the page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-shortcodes-can-do&#34;&gt;What shortcodes can do&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io/content-management/shortcodes/&#34; target=&#34;_blank&#34;&gt;Shortcodes&lt;/a&gt; are plugins which are bundled with Academic or inherited from Hugo. From previous sections, we can see that sometimes it is not as straighforward as Markdown for example in dealing with &lt;a href=&#34;#cross-reference-and-link-in-markdown-and-shortcodes&#34;&gt;links&lt;/a&gt;. But it is actually more flexible and powerful, as we saw in the examples of  &lt;a href=&#34;#syntax-highlight&#34;&gt;highlighting&lt;/a&gt; and &lt;a href=&#34;#create-table-of-contents&#34;&gt;table of contents&lt;/a&gt;, etc. One more example,
+&lt;code&gt;{&lt;/code&gt;&lt;code&gt;{% staticref &amp;quot;files/CV-JingLi.pdf&amp;quot; &amp;quot;newtab&amp;quot; %}&lt;/code&gt;&lt;code&gt;}Download my CV{&lt;/code&gt;&lt;code&gt;{% /staticref %}&lt;/code&gt;&lt;code&gt;}&lt;/code&gt; is able to open a new tab for &lt;a href=&#34;https://bdai6.github.io/files/CV-JingLi.pdf&#34; target=&#34;_blank&#34;&gt;Download my CV&lt;/a&gt;, while &lt;code&gt;[Download my CV](/files/CV-JingLi.pdf)&lt;/code&gt; cannot.&lt;/p&gt;
+
+&lt;p&gt;Some more examples can be found &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;lt;a href=&amp;quot;/files/cv.pdf&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Download my CV&amp;lt;/a&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;[A publication](https://bdai6.github.io/publication/zha-2019-vlsic/)&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;[My CV](https://bdai6.github.io/cv/)&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;more-on-shortcodes&#34;&gt;More on shortcodes&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Syntax of shortcodes&lt;/strong&gt;: &lt;code&gt;{&lt;/code&gt;&lt;code&gt;{% shortcodename parameters %}&lt;/code&gt;&lt;code&gt;}&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;ref&lt;/code&gt; and &lt;code&gt;relref&lt;/code&gt; will look up the pages by their relative path (e.g., &lt;code&gt;blog/post.md&lt;/code&gt;) or their logical name (&lt;code&gt;post.md&lt;/code&gt;) and return the &lt;em&gt;absolute&lt;/em&gt; permalink (&lt;code&gt;ref&lt;/code&gt;) or &lt;em&gt;relative&lt;/em&gt; permalink (&lt;code&gt;relref&lt;/code&gt;) for the found page.&lt;/p&gt;
+
+&lt;h2 id=&#34;deploy-generated-website-to-git-pages&#34;&gt;Deploy generated website to Git Pages&lt;/h2&gt;
+
+&lt;p&gt;Before running &lt;code&gt;hugo&lt;/code&gt; and &lt;code&gt;push&lt;/code&gt; the generated website html code from &lt;code&gt;public&lt;/code&gt; to &lt;code&gt;&amp;lt;user-name&amp;gt;.github.io&lt;/code&gt;, we should do &lt;code&gt;cd publkic&lt;/code&gt; and use &lt;code&gt;rm -rf *&lt;/code&gt; to remove everything in &lt;code&gt;public&lt;/code&gt; folder, as &lt;code&gt;hugo&lt;/code&gt; does NOT clear all the previous generated files.&lt;/p&gt;
+
+&lt;h2 id=&#34;publications-and-other-content-are-not-sorted-by-newest-first&#34;&gt;Publications and other content are not sorted by newest first&lt;/h2&gt;
+
+&lt;p&gt;Hugo/TOML require that the value for the date field should be in &lt;a href=&#34;https://github.com/toml-lang/toml#local-date-time&#34; target=&#34;_blank&#34;&gt;TOML format&lt;/a&gt;, as per frontmatter of the &lt;code&gt;content/publication/&lt;/code&gt; files in the example site. If you want to use a partial date, such as year, you should still complete a full date to make a valid TOML date format.&lt;/p&gt;
+
+&lt;h2 id=&#34;insert-an-image-with-markdown&#34;&gt;Insert an image with Markdown&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Image with title:
+&lt;code&gt;![WiCIL logo](/img/icon-192.png &amp;quot;Title: WiCIL logo&amp;quot;)&lt;/code&gt;
+&lt;img src=&#34;https://bdai6.github.io/img/icon-192.png&#34; alt=&#34;WiCIL logo&#34; title=&#34;Title: WiCIL logo&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Image with caption:
+&lt;code&gt;![WiCIL logo](/img/icon-192.png &amp;quot;Title: WiCIL logo&amp;quot;)*Caption: WiCIL logo*&lt;/code&gt;
+&lt;img src=&#34;https://bdai6.github.io/img/icon-192.png&#34; alt=&#34;WiCIL logo&#34; title=&#34;Title: WiCIL logo&#34; /&gt;&lt;em&gt;Caption: WiCIL logo&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Image with title, caption, and &lt;strong&gt;clickable link&lt;/strong&gt;:
+&lt;code&gt;[![WiCIL logo](/img/icon-192.png &amp;quot;Title: WiCIL logo&amp;quot;)*Caption: WiCIL logo*](/#research)&lt;/code&gt;
+&lt;a href=&#34;https://bdai6.github.io/#research&#34;&gt;&lt;img src=&#34;https://bdai6.github.io/img/icon-192.png&#34; alt=&#34;WiCIL logo&#34; title=&#34;Title: WiCIL logo&#34; /&gt;&lt;em&gt;Caption: WiCIL logo&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;*Caption: WiCIL logo*&lt;/code&gt; can be removed without affecting the link. This code is essentially achieved by nesting two markdown commands, i.e., &lt;em&gt;image&lt;/em&gt; &lt;code&gt;![]()&lt;/code&gt; &lt;em&gt;within link&lt;/em&gt; &lt;code&gt;[]()&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;lists-with-markdown&#34;&gt;Lists with Markdown&lt;/h2&gt;
+
+&lt;p&gt;A numbered list is created by&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;1. First
+2. Second
+  1. alpha
+  2. beta
+3. Third
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Actually automatic increment of numbers can be achived by&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;1. First
+1. Second
+  1. alpha
+  1. beta
+1. Third
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ol&gt;
+&lt;li&gt;First&lt;/li&gt;
+&lt;li&gt;Second
+
+&lt;ol&gt;
+&lt;li&gt;alpha&lt;/li&gt;
+&lt;li&gt;beta&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Third&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;associate-post-publication-and-talk-with-projects&#34;&gt;Associate Post, Publication, and Talk with projects&lt;/h2&gt;
+
+&lt;p&gt;In the front matter of &lt;code&gt;index.md&lt;/code&gt; of a &lt;em&gt;post, publication&lt;/em&gt;, or &lt;em&gt;talk&lt;/em&gt;, set &lt;code&gt;projects: [&amp;quot;project1&amp;quot;, &amp;quot;project2&amp;quot;]&lt;/code&gt;. Make sure each item must match a project filename exactly (without file extension) for a link to be generated. Refer to &lt;code&gt;content\publication\zha-2019-vlsic\index.md&lt;/code&gt; for example.&lt;/p&gt;
+
+&lt;p&gt;Similarly, a publication can associate with Markdown slides. Set &lt;code&gt;slides: &amp;quot;slide-name&amp;quot;&lt;/code&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Augmenting Computer Systems with Domain Specific Accelerators/Emerging Memories</title>
+      <link>https://bdai6.github.io/research/augmenting-computer-system/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://bdai6.github.io/research/augmenting-computer-system/</guid>
+      <description>
+
+&lt;p&gt;In this research theme, we organize our research around three high-level questions: 1) How to design domain specific accelerators for big data and machine learning applications? 2) What kind of system abstractions are needed to convert hardware specialization into direct benefits that can actually be realized by end-applications and “everyday” programmers? 3) How to effectively evaluate these cross-stack system methods with high fidelity, fairness, and performance? In this research, we aim to answer these questions via the following three paths: 1) architecture/algorithm co-design, 2) mechanisms and abstractions for virtualization, and 3) open-source system research infrastructure.&lt;/p&gt;
+
+&lt;h2 id=&#34;architecture-algorithm-co-design&#34;&gt;Architecture/Algorithm Co-design&lt;/h2&gt;
+
+&lt;h3 id=&#34;large-scale-graph-analytics&#34;&gt;Large Scale Graph Analytics&lt;/h3&gt;
+
+&lt;p&gt;Extremely large, sparse graphs with billions of nodes and hundreds of billions of edges arise in many important problem domains ranging from social science, bioinformatics, to video content analysis and search engines. In response to the increasingly larger and more diverse graphs, and the critical need of analyzing them, we focus on &lt;em&gt;large scale graph analytics&lt;/em&gt;, an essential class of big data analysis, to explore the comprehensive relationship among a vast collection of interconnected entities. However, it is challenging for existing computer systems to process the massive-scale real-world graphs, not only due to their large memory footprint, but also that most graph algorithms entail irregular memory access patterns and a low compute-to-memory access ratio.&lt;/p&gt;
+
+&lt;p&gt;In this research, we invented &amp;ldquo;&lt;em&gt;degree-aware&lt;/em&gt;&amp;rdquo; hardware/software techniques to improve graph processing efficiency. Our research is built atop a key insight that we obtained from architecture-independent algorithm analysis, which has not been revealed in prior work. More specifically, we identified that a key challenge in processing massive-scale graphs is the redundant graph computations caused by the presence of high-degree vertices which not only increase the total amount of computations but also incur unnecessary random data access. To address this challenge, we developed variants of graph processing systems on an FPGA-HMC platform [Zhang2018FPGA-Graph, Khoram2018FPGA, Zhang2017FPGA-BFS]. For the first time, we leverage the inherent graph property i.e. vertex degree to co-optimize algorithm and hardware architecture. In particular, the unique contributions we made include two algorithm optimization techniques: degree-aware adjacency list reordering and degree-aware vertex index sorting. The former reduces the number of redundant graph computations, while the latter creates a strong correlation between vertex index and data access frequency, which can be effectively applied to guide the hardware design. Further, by leveraging the strong correlation between vertex index and data access frequency created by degree-aware vertex index sorting, we developed two platform-dependent hardware optimization techniques, namely degree-aware data placement and degree-aware adjacency list compression. These two techniques together substantially reduce the amount of external memory access. Finally, we completed the full system design on an FPGA-HMC platform to verify the effectiveness of these techniques. Our implementation achieved the highest performance (45.8 billion traversed edges per second) among existing FPGA-based graph processing systems and was ranked &lt;strong&gt;No. 1&lt;/strong&gt; on &lt;a href=&#34;http://graph500.org/?page_id=724&#34; target=&#34;_blank&#34;&gt;GreenGraph500 list&lt;/a&gt;.
+&lt;img src=&#34;https://bdai6.github.io/img/GreenGraph500.png&#34; alt=&#34;Green Graph500&#34; title=&#34;Green Graph500&#34; /&gt;&lt;em&gt;Green Graph500 (updated June 19, 2019)&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;deep-leaning-and-ai&#34;&gt;Deep Leaning and AI&lt;/h3&gt;
+
+&lt;p&gt;Deep neural networks (DNNs) deliver impressive results for a variety of challenging tasks in computer vision, speech recognition, and natural language processing, at the cost of higher computational complexity and larger model size. To reduce the load of taxing DNN infrastructures, a number of FPGA-based DNN accelerators have been proposed via new micro-architectures, data ow optimizations, or algorithmic transformation. Due to the extremely large design space, it is challenging to attain good insights on how to design optimal accelerators on a target FPGA.&lt;/p&gt;
+
+&lt;p&gt;In this research, we take an &lt;em&gt;alternative, and more principled approach to guide accelerator architecture design and optimization&lt;/em&gt;. We borrow the insights from the roofline model and further improve it by taking both on-chip and off-chip memory bandwidth into consideration. We apply the model to quantify the difference between available resources provided by native hardware (FPGA devices) and actual resources demanded by the application (CNN classification kernel). To tackle the problem, we develop a number of hardware/software techniques and implement them on FPGA [Zhang2017FPGA-CNN]. The demonstrated accelerator was recognized as the highest performance and the most energy efficient accelerator for dense convolutional neural network (CNN) compared to the state-of-the-art FPGA-based designs.&lt;/p&gt;
+
+&lt;h2 id=&#34;mechanisms-and-abstractions-for-virtualization-in-cloud&#34;&gt;Mechanisms and Abstractions for Virtualization in Cloud&lt;/h2&gt;
+
+&lt;p&gt;While traditionally being used in embedded systems, custom silicon (e.g., FPGAs) has recently begun to make their way into data centers and the cloud (Amazon AWS EC2 F1 instances, Microsoft Brainwave, Google TPU etc.). While these programmable data-flow architectures provide the lucrative benefits of fine-grained parallelism and high flexibility to accelerate a wide spectrum of applications, system support for them in the context of multi-tenant cloud environment, however, is in its infancy and has two major limitations, 1) inefficient resource management due to the tight coupling between compilation and runtime management, and 2) high programming complexity when exploiting scale-out acceleration, for which the root cause is that hardware resources are not virtualized.&lt;/p&gt;
+
+&lt;p&gt;In this research, we take FPGA as a case study and develop a &lt;em&gt;full stack solution&lt;/em&gt; that can address these limitations and thus, enable &lt;em&gt;virtualization of FPGA clusters in multi-tenant cloud computing environment&lt;/em&gt;. Specifically, the key contribution is a new system abstraction that can effectively decouple the compilation and runtime resource management. It allows applications to be compiled offline onto the proposed abstraction and resource allocation to be dynamically determined at runtime. Moreover, it creates an illusion of a single/large virtual FPGA to users, thereby reducing the programming complexity and supporting scale-out acceleration. It also provides virtualization support for the peripheral components (e.g. on-board DRAM, Ethernet), as well as protection and isolation support to ensure a secure execution in multi-tenant cloud environment.&lt;/p&gt;
+
+&lt;h2 id=&#34;open-source-computer-system-infrastructure&#34;&gt;Open Source Computer System Infrastructure&lt;/h2&gt;
+
+&lt;p&gt;Hardware-software co-design studies targeting next-generation computer systems that are equipped with emerging memories (HBM/HMC, NVM, etc.) are fundamentally hampered by a lack of scalable, performant and accurate simulation platform. Using software simulator is fundamentally bottlenecked by the low simulation speed and low fidelity, making it impractical to run realistic software stack. Such a challenge has limited effective cross-stack innovations (across computer architecture, OS, compiler, machine learning, and domain sciences). Past efforts have largely focused on simulation infrastructure for processor cores with highly simplified models of the memory subsystem. As a key contribution to the community (including SRC JUMP centers, broad academia and industry) to better drive cross-stack memory system research, we have been developing MEG [Zhang2019FCCM] – &lt;em&gt;an open source FPGA- based simulation platform that enables cycle-exact micro-architecture simulation for computer systems with a special focus on memory subsystem&lt;/em&gt; (heterogeneous memory, near/in-memory acceleration). In MEG, we combine silicon- proven RTL design of RISC-V cores with configurable heterogeneous memory subsystems (HMC/HBM/NVM). It is capable of running realistic software stacks including booting Linux and comprehensive application software with high fidelity (cycle-exact microarchitectural models derived from synthesizable RTL), flexibility (modifiable to include custom RTL user IP and/or more abstract models), reproducibility, observability, target software support and performance. MEG can be an effective complement to previous &lt;a href=&#34;https://www2.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-158.pdf&#34; target=&#34;_blank&#34;&gt;RAMP&lt;/a&gt; and more recent &lt;a href=&#34;https://fires.im/&#34; target=&#34;_blank&#34;&gt;Firesim&lt;/a&gt; projects in covering memory space and a contribution to the open source &lt;a href=&#34;https://riscv.org/&#34; target=&#34;_blank&#34;&gt;RISC-V&lt;/a&gt; community.&lt;/p&gt;
 </description>
     </item>
     
@@ -114,299 +333,477 @@
     </item>
     
     <item>
-      <title>Augmenting Computer Systems with Domain Specific Accelerator and Emerging Memories</title>
-      <link>https://bdai6.github.io/project/augmenting-computer-system/</link>
-      <pubDate>Thu, 08 Aug 2019 22:57:41 -0500</pubDate>
-      <guid>https://bdai6.github.io/project/augmenting-computer-system/</guid>
-      <description></description>
+      <title>How to create an image gallery</title>
+      <link>https://bdai6.github.io/courses/notes-on-hugo-academic/create-gallery/</link>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 +0100</pubDate>
+      <guid>https://bdai6.github.io/courses/notes-on-hugo-academic/create-gallery/</guid>
+      <description>
+
+&lt;p&gt;&lt;h2&gt;Table of Contents&lt;/h2&gt;
+HAHAHUGOSHORTCODE-TOC0-HBHB&lt;/p&gt;
+
+&lt;h2 id=&#34;goals&#34;&gt;Goals&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;d like to create an image gallery with the following requirement:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Display a collection of images (such as logos of sponsors) in the &lt;em&gt;home page&lt;/em&gt;. The source code therefore will be inside a &lt;em&gt;widget page&lt;/em&gt; in &lt;code&gt;content/home&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Height, width, and spacing of the images can be custom defined.&lt;/li&gt;
+&lt;li&gt;Able to automatically generate a gallery of all images in a directory.&lt;/li&gt;
+&lt;li&gt;(Optional) Captions appear upon hovering over the image.&lt;/li&gt;
+&lt;li&gt;(Optional) Clicking on an image will open an associated URL.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;current-solutions-and-issues&#34;&gt;Current solutions and issues&lt;/h2&gt;
+
+&lt;h3 id=&#34;for-non-hompage&#34;&gt;For non- hompage&lt;/h3&gt;
+
+&lt;p&gt;The instruction in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#image-gallery&#34; target=&#34;_blank&#34;&gt;sourcethemes.com&lt;/a&gt; works for &lt;code&gt;yaml&lt;/code&gt; format. One example is in &lt;code&gt;content/post/getting-started/index.md&lt;/code&gt;. To make it work, place images in a folder named &lt;code&gt;gallery&lt;/code&gt;, then place the folder to a project/post/etc folder. And in the main body of the &lt;code&gt;index.md&lt;/code&gt; insert &lt;code&gt;{{&lt;/code&gt;&lt;code&gt;&amp;lt; gallery &amp;gt;&lt;/code&gt;&lt;code&gt;}}&lt;/code&gt; command. You can also include the following lines to the &lt;em&gt;front matter&lt;/em&gt; to insert captions for the images.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-json&#34;&gt;gallery_item:
+- album: gallery
+  caption: Default
+  image: theme-default.png
+---
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The problem is there is no way to control the placement or the size of the inserted images.&lt;/p&gt;
+
+&lt;h3 id=&#34;for-homepage&#34;&gt;For homepage&lt;/h3&gt;
+
+&lt;p&gt;The aforementioned method only works for &lt;code&gt;yaml&lt;/code&gt; format, while the widget page (&lt;em&gt;homepage&lt;/em&gt;) uses &lt;code&gt;toml&lt;/code&gt;. To make it work, it turned out I had to follow &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues/398#issuecomment-357444202&#34; target=&#34;_blank&#34;&gt;this instruction&lt;/a&gt; to create a gallery. The following lines are in the front matter of &lt;code&gt;sponsers.md&lt;/code&gt;. Refer to &lt;a href=&#34;https://bdai6.github.io/#sponsors&#34;&gt;Sponsers&lt;/a&gt;.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt; # Gallery
+[[gallery_item]]
+album = &amp;quot;sponsors&amp;quot;
+image = &amp;quot;darpa.jpg&amp;quot;
+caption = &amp;quot;DARPA&amp;quot;
++++
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Images are uploaded to &lt;code&gt;content/img&lt;/code&gt; (if not referencing image URLs
+). And gallary is initialized in &lt;code&gt;sponsor.md&lt;/code&gt; main body using &lt;code&gt;{&lt;/code&gt;&lt;code&gt;{&amp;lt; gallery album=&amp;quot;sponsors&amp;quot; &amp;gt;}&lt;/code&gt;&lt;code&gt;}&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Evidently from &lt;a href=&#34;https://bdai6.github.io/#sponsors&#34;&gt;Sponsers&lt;/a&gt;, we have to manually enter each &lt;code&gt;gallery_item&lt;/code&gt;. It is true that we can write a simple python script to automate the operation, but &lt;em&gt;the images in this gallery are not well aligned&lt;/em&gt;, and &lt;em&gt;the sizes cannot be adjusted&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;hugo-easy-gallery&#34;&gt;Hugo Easy Gallery&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.liwen.id.au/heg/&#34; target=&#34;_blank&#34;&gt;Hugo Easy Gallery&lt;/a&gt; claims to address all the issues above. And I plan to give it a try. The source code is &lt;a href=&#34;https://github.com/bdai6/hugo-easy-gallery&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;installation-instruction&#34;&gt;Installation instruction&lt;/h3&gt;
+
+&lt;h4 id=&#34;add-to-my-website-as-a-submodule&#34;&gt;add to my_website as a submodule&lt;/h4&gt;
+
+&lt;p&gt;&lt;code&gt;git submodule add -f -b master https://github.com/bdai6/hugo-easy-gallery.git hugo-easy-gallery&lt;/code&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Writing technical content in Academic</title>
-      <link>https://bdai6.github.io/post/writing-technical-content/</link>
-      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/post/writing-technical-content/</guid>
-      <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
+      <title>Rethinking Computer Systems with Post-CMOS Technology</title>
+      <link>https://bdai6.github.io/research/rethinking-computer-system/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://bdai6.github.io/research/rethinking-computer-system/</guid>
+      <description>
 
-&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://bdai6.github.io/cv/&#34;&gt;My CV&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;On this page, you&#39;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
+&lt;p&gt;Looking forward, we believe more disruptive approaches are needed to fundamentally re-think about how we build computers to address von Neumann bottleneck. We envision future computer chips will not solely be made by Si but rather can utilize and optimize the best of various post-CMOS technologies (including but not limited to novel 1D/2D devices, spintronics, resistive switching devices, quantum electrical/optical device, etc.), to effectively complement silicon CMOS in providing auxiliary/ancillary functions (or cost benefits) that otherwise cannot be easily achieved with silicon CMOS. In this research, we take emerging nonvolatile memory technology (e.g., RRAM) as a case study to showcase two &lt;strong&gt;general-purpose in-memory computing architectures&lt;/strong&gt; based on two radically different non-von Neumann machine models. Note that these two architectures are fundamentally different from prior rich literature of applying memory array as domain-specific dot-product computing unit.&lt;/p&gt;
 
-&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;h2 id=&#34;liquid-silicon&#34;&gt;Liquid Silicon&lt;/h2&gt;
 
-&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
+&lt;p&gt;Liquid Silicon (L-Si) is a general-purpose in-memory computing architecture with complete system support that addresses several key fundamental limitations of state-of-the-art reconfigurable data-flow architectures (including FPGA, TPU, CGRA, etc.) in supporting emerging machine learning and big data applications. As compared with most projects in literature which focus on part of the system stack, L-Si is a &lt;em&gt;full stack&lt;/em&gt; solution that comprises architecture [Zha2018FPGA], compiler [Zha2016ICCAD], programming model and system integration [Zha2018ASPLOS], with a real chip demonstration &lt;a href=&#34;https://bdai6.github.io/publication/zha-2019-vlsic/&#34;&gt;Zha2019VLSIC&lt;/a&gt; https://bdai6.github.io/publication/zha-2019-vlsic/. The computing model of L-Si is radically different from state-of-the-art reconfigurable data-flow architectures. It maximally reuses the memory array itself (instead of placing computation units near the array) to perform a) heavy weight computation (&lt;em&gt;logic&lt;/em&gt;), b) light weight computation(&lt;em&gt;search&lt;/em&gt;), c) data storage (&lt;em&gt;memory&lt;/em&gt;), and d) communication (&lt;em&gt;routing&lt;/em&gt;), with minimal requirement in CMOS supporting circuitry, which can thus be further placed beneath the array. Therefore, it inherits the great benefits of semiconductor memory in integration density and cost, and offers orders of magnitude more parallel data processing capability in situ in the memory array than the best-known solution today. For the &lt;strong&gt;first time&lt;/strong&gt;, it fundamentally blurs the boundary between computation and storage, by exploiting a continuum of general-purpose in-memory compute capabilities across the whole spectrum, from full memory to full computation, or intermediate states in between (partial memory and partial computation). Thus, it provides programmers (or compiler) more flexibility to customize hardware’s compute and memory resources to better match applications needs for higher performance and energy efficiency. We leverage such unique property and provide compiler support to facilitate the programming of applications written in high-level programming languages (e.g. OpenCL) and frameworks (e.g. TensorFlow, MapReduce) while fully exploiting the unique architectural capability of L-Si. We also provide scalable multi-context architectural support to minimize reconfiguration overhead for assisting virtualization when combined with our system stack.&lt;/p&gt;
 
-&lt;p&gt;Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the &lt;code&gt;highlight&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bdai6.github.io/img/LSi.png&#34; alt=&#34;L-Si timeline&#34; title=&#34;Timeline of Liquid Silicon project&#34; /&gt;&lt;em&gt;Timeline of L-Si project&lt;/em&gt;&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;```python
-import pandas as pd
-data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
-data.head()
-```
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;To prove the feasibility of L-Si, we fabricated a test chip in 130 nm CMOS process with HfO2 RRAM – the &lt;strong&gt;first real-chip demonstration for general purpose in-memory computing using RRAM&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bdai6.github.io/img/LSi-VLSI.png&#34; alt=&#34;L-Si die photo&#34; title=&#34;Die Photo and Chip Characteristics of L-Si&#34; /&gt;&lt;em&gt;Die Photo and Chip Characteristics of L-Si&lt;/em&gt;&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import pandas as pd
-data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
-data.head()
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;With proposed system support, we evaluated a broad class of legacy and emerging machine learning workloads. Our measurement confirmed the chip operates reliably at low voltage of 650 mV when running these workloads. It achieves 60.9 TOPS/W in performing neural network inferences and 480 GOPS/W in performing high-dimensional similarity search (a key big data application) at nominal voltage supply of 1.2V, showing &lt;strong&gt;&amp;gt; 3x&lt;/strong&gt; and &lt;strong&gt;~100x&lt;/strong&gt; power efficiency improvement over the state-of-the-art domain-specific CMOS-/RRAM-based accelerators without sacrificing the programmability. In addition, it outperforms the latest nonvolatile FPGA in energy efficiency by &lt;strong&gt;&amp;gt; 3x&lt;/strong&gt; in general compute-intensive applications. As L-Si is a fundamental new computing technology, moving further, we will explore how to scale it up to warehouse computers and scale it down to IoT devices by further specializing the software/hardware stacks.&lt;/p&gt;
 
-&lt;h3 id=&#34;math&#34;&gt;Math&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://bdai6.github.io/img/LSi-VLSI-Results.png&#34; alt=&#34;Comparing L-Si with State-of-the-Art&#34; title=&#34;Comparing L-Si with State-of-the-Art&#34; /&gt;&lt;em&gt;Comparing L-Si with State-of-the-Art&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file and adding &lt;code&gt;markup: mmark&lt;/code&gt; to your page front matter.&lt;/p&gt;
+&lt;h2 id=&#34;two-dimensional-associative-processor&#34;&gt;Two-Dimensional Associative Processor&lt;/h2&gt;
 
-&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;$$...$$&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The research project, titled &amp;ldquo;&lt;em&gt;Associative In-Memory Graph Processing Paradigm: Towards Tera-TEPS Graph Traversal In a Box&lt;/em&gt;&amp;rdquo;, won the &lt;strong&gt;NSF CAREER Award&lt;/strong&gt; in 2018. In this research, we developed a radically new computing paradigm, namely two-dimensional associative processing (2D AP) to further advance our previous FPGA-based graph processing architectures and fundamentally address their limitations. Mathematically, 2D AP is a new general-purpose computing model that exploits an extra dimension of parallelism (both intra-word and inter-word parallelism) to accelerate computation as compared with traditional AP which only exploit inter-word parallelism. It is particularly beneficial for massive-scale graph processing. For the first time, we provide a theoretical proof that 2D AP is inherently more efficient as measured by &amp;ldquo;&lt;em&gt;architecturally determined complexity&lt;/em&gt;&amp;rdquo; in runtime/area/energy than both von Neumann architecture and traditional AP paradigm in performing graph computation. We also provide detailed micro-architectures and circuits to best implement the proposed computing model, with domain-special language support. A preliminary published version of 2D AP [Khoram2018CAL] was recognized as &lt;strong&gt;best of CAL&lt;/strong&gt; (IEEE Computer Architecture Letters) in 2018.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Call for Papers - FPGA 2020</title>
+      <link>https://bdai6.github.io/cfp/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/cfp/</guid>
+      <description>
 
-&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Twenty-Eighth ACM/SIGDA International Symposium on Field-Programmable Gate Arrays&lt;br /&gt;
+&lt;a href=&#34;http://www.isfpga.org&#34; target=&#34;_blank&#34;&gt;http://www.isfpga.org&lt;/a&gt;&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$\gamma_{n} = \frac{ 
-\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
-\left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
-{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;February 24-26, 2020&lt;br /&gt;
+Embassy Suites by Hilton Monterey Bay Seaside&lt;br /&gt;
+1441 Canyon Del Rey, Seaside, California, 93955, USA&lt;/p&gt;
 
-&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;Abstract Submission Deadline:       September 9, 2019&lt;br /&gt;
+Full paper Submission Deadline:       September 9, 2019&lt;br /&gt;
+&lt;strong&gt;NEW&lt;/strong&gt; Artifact Submission Deadline: September 9, 2019&lt;/p&gt;
 
-&lt;p&gt;&lt;span  class=&#34;math&#34;&gt;\[\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}\]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA 2020) is the premier conference for presentation of advances in FPGA technology.  Accepted papers will be published in the conference proceedings and available in the ACM Digital Library.&lt;/p&gt;
 
-&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;$$\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2$$&lt;/code&gt; renders as &lt;span  class=&#34;math&#34;&gt;\(\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2\)&lt;/span&gt; .&lt;/p&gt;
+&lt;h2 id=&#34;types-of-submissions-sought&#34;&gt;Types of Submissions Sought&lt;/h2&gt;
 
-&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the &lt;code&gt;\\&lt;/code&gt; math linebreak:&lt;/p&gt;
+&lt;h3 id=&#34;1-research-papers-with-and-without-artifacts&#34;&gt;1. Research Papers (with and without Artifacts)&lt;/h3&gt;
 
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\
-1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;p&gt;&lt;span  class=&#34;math&#34;&gt;\[f(k;p_0^*) = \begin{cases} p_0^* &amp; \text{if }k=1, \\
-1-p_0^* &amp; \text {if }k=0.\end{cases}\]&lt;/span&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
-
-&lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
-
-&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;```mermaid
-graph TD;
-  A--&amp;gt;B;
-  A--&amp;gt;C;
-  B--&amp;gt;D;
-  C--&amp;gt;D;
-```
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;graph TD;
-  A--&amp;gt;B;
-  A--&amp;gt;C;
-  B--&amp;gt;D;
-  C--&amp;gt;D;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;```mermaid
-sequenceDiagram
-  participant Alice
-  participant Bob
-  Alice-&amp;gt;John: Hello John, how are you?
-  loop Healthcheck
-      John-&amp;gt;John: Fight against hypochondria
-  end
-  Note right of John: Rational thoughts &amp;lt;br/&amp;gt;prevail...
-  John--&amp;gt;Alice: Great!
-  John-&amp;gt;Bob: How about you?
-  Bob--&amp;gt;John: Jolly good!
-```
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;sequenceDiagram
-  participant Alice
-  participant Bob
-  Alice-&amp;gt;John: Hello John, how are you?
-  loop Healthcheck
-      John-&amp;gt;John: Fight against hypochondria
-  end
-  Note right of John: Rational thoughts &amp;lt;br/&amp;gt;prevail...
-  John--&amp;gt;Alice: Great!
-  John-&amp;gt;Bob: How about you?
-  Bob--&amp;gt;John: Jolly good!
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;```mermaid
-gantt
-  dateFormat  YYYY-MM-DD
-  section Section
-  A task           :a1, 2014-01-01, 30d
-  Another task     :after a1  , 20d
-  section Another
-  Task in sec      :2014-01-12  , 12d
-  another task      : 24d
-```
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;gantt
-  dateFormat  YYYY-MM-DD
-  section Section
-  A task           :a1, 2014-01-01, 30d
-  Another task     :after a1  , 20d
-  section Another
-  Task in sec      :2014-01-12  , 12d
-  another task      : 24d
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h3&gt;
-
-&lt;p&gt;You can even write your todo lists in Academic too:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;- [x] Write math example
-- [x] Write diagram example
-- [ ] Do something else
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;As usual, we solicit research papers related to the following areas:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; checked=&#34;&#34; disabled=&#34;&#34;&gt; Write math example&lt;/li&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; checked=&#34;&#34; disabled=&#34;&#34;&gt; Write diagram example&lt;/li&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled=&#34;&#34;&gt; Do something else&lt;/li&gt;
+&lt;li&gt;FPGA Architecture: Architectures for programmable logic fabrics or their components, including routing, flexible logic cells, embedded blocks (memory, DSP, processors), and I/O interfaces. Novel commercial architectures and architectural features.&lt;/li&gt;
+&lt;li&gt;FPGA Circuit Design: Circuits and layout techniques for the design of FPGAs. Impact of future process and design technologies on FPGAs as well as novel memory memory or nano-scale devices. Methods for analyzing and improving static and dynamic power, power and clock distribution, yield, manufacturability, security, reliability, and testability.&lt;/li&gt;
+&lt;li&gt;CAD for FPGAs: Algorithms for synthesis, technology mapping, logic and timing optimization, clustering, placement, and routing of FPGAs. Novel design software for system-level partitioning, debug, and verification. Algorithms for modeling, analysis and optimization of timing and power.&lt;/li&gt;
+&lt;li&gt;High-Level Abstractions and Tools for FPGAs: General-purpose and domain-specific languages, tools, and techniques to facilitate the design, debugging and verification of FPGA-based applications and systems. Novel hardware/software co-design and high-level synthesis methodologies enabling digital signal processing, compute acceleration, networking, machine learning, and embedded systems.&lt;/li&gt;
+&lt;li&gt;FPGA-based and FPGA-like Computing Engines: Systems and software for compiled accelerators, reconfigurable/adaptive computing, and rapid-prototyping.  Programmable overlay architectures implemented using FPGAs.&lt;/li&gt;
+&lt;li&gt;Applications and Design Studies: Implementation of novel designs on FPGAs establishing state-of-the-art in high-performance, low-power, security, or high-reliability.  Designs leveraging unique capabilities of FPGA architectures or demonstrating significant improvements over alternative programmable technologies (e.g., CPU, GPU). Design studies or architecture explorations enabling improvement of FPGA architectures.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
+&lt;p&gt;Research submissions may be either:&lt;/p&gt;
 
-&lt;p&gt;Represent your data in tables:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Full: at most 10 pages (excluding references), for a full presentation at the conference; or&lt;/li&gt;
+&lt;li&gt;Short: at most 6 pages (excluding references), for a brief presentation.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;A paper submitted as either full or short will only be considered in that category and may include artifacts if desired (see below for more details on artifact submission and evaluation).&lt;/p&gt;
 
-&lt;p&gt;renders as&lt;/p&gt;
+&lt;h3 id=&#34;2-tutorial-papers-on-emerging-applications-methodologies&#34;&gt;2. Tutorial Papers on Emerging Applications / Methodologies&lt;/h3&gt;
+
+&lt;p&gt;The conference will include a Sunday workshop oriented toward users of FPGAs: be it deep learning implementations, computer security or other emerging topics of interest. For this category, we solicit tutorial papers describing effective design techniques and design flows. The ideal submission will enable beginning researchers to enter the area, current researchers to broaden their scope, and practitioners to gain new insights and applicable skills.  Tutorial submissions need not present novel research results, but should integrate expert practical and/or research knowledge related to FPGAs for a broader audience. This may include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Technical descriptions of new commercial or academic design tools of general interest;&lt;/li&gt;
+&lt;li&gt;Insightful summaries of the state-of-the-art that suggest open research problems; and&lt;/li&gt;
+&lt;li&gt;In-depth design tutorials and design experiences.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tutorial submissions are &lt;em&gt;at least 4&lt;/em&gt; and &lt;em&gt;at most 10&lt;/em&gt; pages. Accepted submissions are published in the proceedings and allocated a presentation time of up to one hour, appropriate to the content.&lt;/p&gt;
+
+&lt;h3 id=&#34;3-panel-discussion-proposals&#34;&gt;3. Panel Discussion Proposals&lt;/h3&gt;
+
+&lt;p&gt;We also solicit proposals for the panel discussion at the conference banquet. The submission should outline the topic, questions to be addressed, and suggested speakers.&lt;/p&gt;
+
+&lt;h2 id=&#34;submission-process-please-read-carefully&#34;&gt;Submission Process - please read carefully&lt;/h2&gt;
+
+&lt;p&gt;Submissions of all types should be made in the form of an English language PDF file, on-line at &lt;a href=&#34;https://www.softconf.com/j/fpga2020/&#34; target=&#34;_blank&#34;&gt;https://www.softconf.com/j/fpga2020/&lt;/a&gt;. Papers should use the sigconf ACM format template posted at &lt;a href=&#34;http://www.acm.org/publications/proceedings-template/&#34; target=&#34;_blank&#34;&gt;http://www.acm.org/publications/proceedings-template/&lt;/a&gt;. LaTeX users should use the format used in the &lt;code&gt;sample-sigconf.pdf&lt;/code&gt; file under the &lt;code&gt;Samples&lt;/code&gt; folder of the zipped master file (downloadable through the &lt;code&gt;LATEX (Version 1.61)&lt;/code&gt; link). Microsoft Word users can download the file &lt;code&gt;Interim layout.docx&lt;/code&gt; under the &lt;code&gt;Word Authors&lt;/code&gt; section of the page. Abstract and Full Paper Submissions must be received by &lt;strong&gt;September 9, 2019 at 11:59 PM AoE&lt;/strong&gt; (&lt;a href=&#34;https://www.timeanddate.com/time/zones/aoe&#34; target=&#34;_blank&#34;&gt;Anywhere-on-Earth time zone&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Submissions will be considered for acceptance as full or short regular papers, workshop papers, or posters. Regular submissions related to the workshop topic may be scheduled for presentation during the workshop. Regular or workshop submissions will also be considered for acceptance as a poster. A paper submitted to the short or full paper category will only be considered in that category. Once a paper has been submitted, its authorship list is considered to be fixed and finalized. As the inclusion and evaluation of artifacts is new for FPGA 2020, additional information will be provided at &lt;a href=&#34;http://www.isfpga.org/artifactEvaluation.html&#34; target=&#34;_blank&#34;&gt;http://www.isfpga.org/artifactEvaluation.html&lt;/a&gt; by August 2019.&lt;/p&gt;
+
+&lt;h3 id=&#34;double-blind-policy&#34;&gt;Double Blind Policy:&lt;/h3&gt;
+
+&lt;p&gt;The FPGA Symposium uses a double-blind reviewing system. &lt;strong&gt;Manuscripts must not identify authors or their affiliations; those that do will not be considered&lt;/strong&gt;. References to the authors’ prior work should be made in the 3rd person, in the same way one would reference work by others. If necessary to maintain anonymity, citations may be shown as &amp;ldquo;Removed for blind review,&amp;rdquo; but consider that this may impede a thorough review if the removed citation is crucial to understanding the submission. When necessary, authors should cite widely-available Open Source software website(s) without claiming ownership. Grant numbers and other government markings should also be blinded during the review process. Placing a preliminary version of the unpublished paper on arXiv is not disqualifying, but it is also not encouraged. Similarly, if a paper can be unblinded by active search, this is not considered to undermine the spirit of the double-blind review. However, there are resources to blind open-source repositories for review, including: &lt;a href=&#34;https://github.com/tdurieux/anonymous_github.)&#34; target=&#34;_blank&#34;&gt;https://github.com/tdurieux/anonymous_github.)&lt;/a&gt; &lt;strong&gt;If you have questions about how to meet these guidelines, please contact the program chair before the submission deadline&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;reviewer-conflict-policy&#34;&gt;Reviewer Conflict Policy:&lt;/h3&gt;
+
+&lt;p&gt;During paper submission, all author(s) conflicts must be registered with all possible program committee members. Conflicts are defined as all relationships that would prevent a reviewer from objectively evaluating the submitted work.  This includes, but is not limited to, having within the past 5 years: 1) co-authored a publication, 2) shared a funding award, and 3) shared at least one institutional affiliation. &lt;strong&gt;Note: if a conflict is declared (or left undeclared) in an attempt to manipulate the review process, the submission may be rejected&lt;/strong&gt;. In the situation where the potential conflict is with the program chair, please contact the program chair well before the submission deadline.&lt;/p&gt;
+
+&lt;h3 id=&#34;originality-of-submissions&#34;&gt;Originality of Submissions:&lt;/h3&gt;
+
+&lt;p&gt;Papers submitted for FPGA 2020 are guaranteed by the authors to be unique manuscripts and not previously published, currently accepted or under consideration for acceptance at another venue. They cannot be substantially similar to any other current/future conference, journal, or workshop submission(s) unless the content appeared at a venue that does not have an archived proceedings.&lt;/p&gt;
+
+&lt;h3 id=&#34;rebuttal-process&#34;&gt;Rebuttal Process:&lt;/h3&gt;
+
+&lt;p&gt;FPGA 2020 includes a rebuttal phase for authors to provide an optional response of up to 500-words to reviewers’ questions and comments. This information is considered during the final deliberation process.  The Rebuttal phase will begin by &lt;em&gt;October 14th&lt;/em&gt; and end &lt;em&gt;October 18th&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;author-participation&#34;&gt;Author participation:&lt;/h3&gt;
+
+&lt;p&gt;For inclusion in the ACM digital library, at least one of the authors of each accepted submission is required to attend the conference to present the work.&lt;/p&gt;
+
+&lt;h3 id=&#34;best-paper-award-and-a-special-acm-trets-issue-for-best-of-fpga-2020&#34;&gt;Best Paper Award and a Special ACM TRETS issue for Best of FPGA 2020&lt;/h3&gt;
+
+&lt;p&gt;Authors of this year’s best manuscripts will be eligible for the conference&amp;rsquo;s best paper awards. They will also be invited to extend their work for consideration in a special issue of ACM&amp;rsquo;s Transactions on Reconfigurable Technology and Systems (TRETS) for FPGA 2020.&lt;/p&gt;
+
+&lt;h3 id=&#34;new-artifact-evaluation&#34;&gt;NEW: Artifact Evaluation&lt;/h3&gt;
+
+&lt;p&gt;FPGA 2020 will allow authors to submit accompanying artifacts for their paper submissions for evaluation. This process will allow ACM recognized badges to be associated the final publication.  The inclusion of artifacts with a submission is not required for a paper submission nor will any preference be given to submissions with artifacts over those without.  Papers and artifacts will be subjected to separate and independent review processes.  Artifact evaluation must NOT interfere with the double blind reviewing process of their accompanying papers, so &lt;strong&gt;all accompanying links in the paper to the artifacts should be blinded&lt;/strong&gt;. All authors will be required at the time of paper submission to indicate if there will be also be associated artifacts for evaluation.  If artifacts will be included, a descriptor of their nature will be required as part of the submission. For more information, go to: &lt;a href=&#34;http://www.isfpga.org/artifactEvaluation.html&#34; target=&#34;_blank&#34;&gt;http://www.isfpga.org/artifactEvaluation.html&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;important-dates&#34;&gt;Important dates:&lt;/h3&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;First Header&lt;/th&gt;
-&lt;th&gt;Second Header&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Abstract Submissions due:&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;September 9, 2019&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Full Paper Submissions due:&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;September 9, 2019&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Final Artifacts for Evaluation due:&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;September 9, 2019&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Author Paper Rebuttals due:&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;October 18, 2019&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Notification of acceptance:&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Mid-November, 2019&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Camera-ready copy of accepted papers due:&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Early December, 2019&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h3 id=&#34;asides&#34;&gt;Asides&lt;/h3&gt;
+&lt;h2 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h2&gt;
 
-&lt;p&gt;Academic supports a Markdown extension for asides, also referred to as &lt;em&gt;notices&lt;/em&gt; or &lt;em&gt;hints&lt;/em&gt;. By prefixing a paragraph with &lt;code&gt;A&amp;gt;&lt;/code&gt;, it will render as an aside. You can enable this feature by adding &lt;code&gt;markup: mmark&lt;/code&gt; to your page front matter, or alternatively using the &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts&#34;&gt;&lt;em&gt;Alert&lt;/em&gt; shortcode&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For questions about the submission process or technical program:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;A&amp;gt; A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;Lesley Shannon, Program Chair FPGA 2020
+ASB 9801, Simon Fraser University
+8888 University Dr.
+Vancouver BC, V5A 1S6, CANADA
+programchair@isfpga.org
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;For general questions about the conference:&lt;/p&gt;
 
-&lt;aside&gt;
-&lt;p&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.&lt;/p&gt;
-&lt;/aside&gt;
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;Stephen Neuendorffer, General Chair FPGA 2020
+Xilinx
+2100 All Programmable Dr.
+San Jose, CA 95124, USA
+generalchair@isfpga.org
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+&lt;p&gt;Organizing Committee:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;General Chair: Stephen Neuendorffer, Xilinx, &lt;a href=&#34;generalchair@isfpga.org&#34; target=&#34;_blank&#34;&gt;generalchair@isfpga.org&lt;/a&gt; .&lt;/li&gt;
+&lt;li&gt;Program Chair: Lesley Shannon, Simon Fraser University, &lt;a href=&#34;programchair@isfpga.org&#34; target=&#34;_blank&#34;&gt;programchair@isfpga.org&lt;/a&gt; .&lt;/li&gt;
+&lt;li&gt;Finance Chair:  Kia Bazargan, University of Minnesota, &lt;a href=&#34;financechair@isfpga.org&#34; target=&#34;_blank&#34;&gt;financechair@isfpga.org&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Artifact Evaluation Co-Chairs: Miriam Leeser, Northeastern University, and Suhaib * Fahmy, University of Warwick, &lt;a href=&#34;artifactevaluationchair@isfpga.org&#34; target=&#34;_blank&#34;&gt;artifactevaluationchair@isfpga.org&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Publicity Chair: Jing Li, University of Wisconsin-Madison, &lt;a href=&#34;publicitychair@isfpga.org&#34; target=&#34;_blank&#34;&gt;publicitychair@isfpga.org&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://bdai6.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://bdai6.github.io/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/post/jupyter/</guid>
+      <title>Guidelines on Artifact Evaluation</title>
+      <link>https://bdai6.github.io/artifact-evaluation/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/artifact-evaluation/</guid>
       <description>
 
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
-Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;em&gt;If you have questions, you can email: &lt;a href=&#34;artifactevaluationchair@isfpga.org&#34; target=&#34;_blank&#34;&gt;artifactevaluationchair@isfpga.org&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;./academic_0_0.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;The goal of this initiative is to promote reproducibility of published results by highlighting papers supported with open-source code. These papers are identified by badges promoted by ACM.  More details are provided below.&lt;br /&gt;
+We are asking all authors to indicate whether or not there are artifacts associated with their paper(s).  Artifacts are not required.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;artifact-form-requirements&#34;&gt;Artifact Form Requirements&lt;/h2&gt;
 
-&lt;pre&gt;&lt;code&gt;Welcome to Academic!
-&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;what-is-the-artifact-form&#34;&gt;What is the Artifact Form?&lt;/h3&gt;
 
-&lt;h2 id=&#34;install-python-and-jupyter&#34;&gt;Install Python and Jupyter&lt;/h2&gt;
+&lt;p&gt;The Artifact Form  is  part of the information  you must fill out when you submit  your paper to FPGA 2020.  The form describes the presence or absence of computational artifacts (software, hardware or data) that supports the research presented in the paper.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and Jupyter notebook.&lt;/p&gt;
+&lt;h3 id=&#34;is-the-artifact-form-required-in-order-to-submit-to-fpga-2020&#34;&gt;Is the Artifact Form required in order to submit to FPGA 2020?&lt;/h3&gt;
 
-&lt;p&gt;Otherwise, for advanced users, install Jupyter notebook with &lt;code&gt;pip3 install jupyter&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;As an author, you must answer the question whether or not you have artifacts when you submit your paper.  If you have artifacts then please complete the remaining questions. Note that you do not need to have artifacts.&lt;/p&gt;
 
-&lt;h2 id=&#34;create-a-new-blog-post-as-usual-https-sourcethemes-com-academic-docs-managing-content-create-a-blog-post&#34;&gt;Create a new blog post &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post&#34; target=&#34;_blank&#34;&gt;as usual&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;do-i-need-to-make-my-software-open-source-in-order-to-complete-the-artifact-form&#34;&gt;Do I need to make my software open source in order to complete the Artifact Form?&lt;/h3&gt;
 
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY_WEBSITE_FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;my-post&lt;/code&gt; with the file path to your Academic website folder and a name for your blog post (without spaces), respectively:&lt;/p&gt;
+&lt;p&gt;No. You are not asked to make any changes to your computing environment or design process  in order to complete the form. The form is meant to describe the computing environment in which you produced your results and any artifacts you wish to share.  Any author-created software does not need to be open source, unless you wish to be eligible for an ACM Artifacts badge (see below).&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;
-hugo new  --kind post post/my-post
-cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;/content/post/my-post/
-&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;review-process&#34;&gt;Review Process&lt;/h2&gt;
 
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
+&lt;h3 id=&#34;who-will-review-my-artifact-form&#34;&gt;Who will review my artifact form?&lt;/h3&gt;
 
-&lt;p&gt;Run the following command to start Jupyter within your new blog post folder. Then create a new Jupyter notebook (&lt;em&gt;New &amp;gt; Python Notebook&lt;/em&gt;) or upload a notebook.&lt;/p&gt;
+&lt;p&gt;The reviewers of your paper will not have access to the Artifact form.  If your submitted paper is accepted to FPGA 2020, then the Artifact form will be reviewed.  The  Artifact Evaluation  Committee (AEC) will review the appendices, and will check that artifacts are indeed available at the URLs provided. They will also help authors improve their forms, in a double-open arrangement.  If authors select this option (by answering yes to question 12), their paper may be evaluated for the Artifacts Available &amp;ndash; Reusable or Artifacts Available Functional badges.    Some papers will be evaluated for the ACM “Results Replicated” badge.  If your paper is chosen, then the artifact evaluation committee will be in contact with the authors if they have questions regarding your artifacts.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter notebook
-&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;how-will-review-of-appendices-interact-with-the-double-blind-review-process&#34;&gt;How will review of appendices interact with the double-blind review process?&lt;/h3&gt;
 
-&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
+&lt;p&gt;Artifact review will not take place until after decisions on papers have been made.  Reviewers will not have access to the artifact form.  Authors should not include links to their repositories in their paper.  The paper review process is double blind.  The artifact review process is not.  .&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert Untitled.ipynb --to markdown --NbConvertApp.output_files_dir=.
+&lt;h2 id=&#34;impact-of-artifact-form-af&#34;&gt;Impact of Artifact Form (AF)&lt;/h2&gt;
 
-# Copy the contents of Untitled.md and append it to index.md:
-cat Untitled.md | tee -a index.md
+&lt;h3 id=&#34;what-s-the-impact-of-an-artifact-form-on-scientific-reproducibility&#34;&gt;What&amp;rsquo;s the impact of an Artifact Form on scientific reproducibility?&lt;/h3&gt;
 
-# Remove the temporary file:
-rm Untitled.md
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Reproducibility depends on, as a first step, sharing the provenance of results with transparency, and the AF  is an instrument of documentation and transparency.  A good AF helps researchers document their results, and helps other researchers build from them.&lt;/p&gt;
 
-&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
+&lt;h3 id=&#34;the-paper-text-explains-why-i-believe-my-answers-are-right-and-shows-all-my-work-why-do-i-need-to-provide-an-af&#34;&gt;The paper text explains why I believe my answers are right and shows all my work. Why do I need to provide an AF?&lt;/h3&gt;
 
-&lt;p&gt;Open &lt;code&gt;index.md&lt;/code&gt; in your text editor and edit the title etc. in the &lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34;&gt;front matter&lt;/a&gt; according to your preference.&lt;/p&gt;
+&lt;p&gt;There are many good reasons for formalizing the artifact description and evaluation process. Standard practice varies across disciplines. Labeling the evaluation as such improves our ability to review the paper and improves reader confidence in the veracity of the results.&lt;/p&gt;
 
-&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
+&lt;h2 id=&#34;artifacts&#34;&gt;Artifacts&lt;/h2&gt;
 
-&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;what-are-author-created-artifacts-and-why-make-the-distinction&#34;&gt;What are &amp;ldquo;author-created&amp;rdquo; artifacts and why make the distinction?&lt;/h3&gt;
+
+&lt;p&gt;Author created artifacts are the hardware, software, or data created by the paper&amp;rsquo;s authors. Only these artifacts need be made available to facilitate reproducibility. Proprietary, closed source artifacts (e.g. commercial software and CPUs) will necessarily be part of many research studies. These proprietary artifacts should be described to the best of the author&amp;rsquo;s ability but do not need to be provided.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-about-proprietary-author-created-artifacts&#34;&gt;What about proprietary author-created artifacts?&lt;/h3&gt;
+
+&lt;p&gt;The ideal case for reproducibility is to have all author-created artifacts publically available with a stable identifier. Papers involving proprietary, closed source author-created artifacts should indicate the availability of the artifacts and describe them as much as possible. Note that results dependent on closed source artifacts are not reproducible and are therefore ineligible for most of the ACM&amp;rsquo;s artifact review badges. See &lt;a href=&#34;https://www.acm.org/publications/policies/artifact-review-badging&#34; target=&#34;_blank&#34;&gt;https://www.acm.org/publications/policies/artifact-review-badging&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;are-the-numbers-used-to-draw-our-charts-a-data-artifact&#34;&gt;Are the numbers used to draw our charts a data artifact?&lt;/h3&gt;
+
+&lt;p&gt;Not necessarily. Data artifacts are the data (input or output) required to reproduce the results, not necessarily the results themselves. For example, if your paper presents a system that generates charts from datasets then providing an input dataset would facilitate reproducibility. However, if the paper merely uses charts to elucidate results then the input data to whatever tool you used to draw those charts isn&amp;rsquo;t required to reproduce the paper&amp;rsquo;s results. The tool which drew the chart isn&amp;rsquo;t part of the study, so the input data to that tool is not a data artifact of this work.&lt;/p&gt;
+
+&lt;h3 id=&#34;help-my-data-is-huge-how-do-i-make-it-publically-available-with-a-stable-identifier&#34;&gt;Help! My data is HUGE! How do I make it publically available with a stable identifier?&lt;/h3&gt;
+
+&lt;p&gt;Use Zenodo (&lt;a href=&#34;https://help.zenodo.org/&#34; target=&#34;_blank&#34;&gt;https://help.zenodo.org/&lt;/a&gt;). Contact them for information on how to upload extremely large datasets. You can easily upload datasets of 50GB or less, have multiple datasets, and there is no size limit on communities.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-s-the-impact-of-an-artifact-form-on-scientific-reproducibility-1&#34;&gt;What&amp;rsquo;s the impact of an Artifact Form on scientific reproducibility?&lt;/h3&gt;
+
+&lt;p&gt;An artifact-evaluation effort can increase the trustworthiness of computational results. It can be particularly effective in the case of results obtained using specialized computing platforms, not available to other researchers. Leadership computing platforms, novel testbeds, and experimental computing environments are of keen interest to the FPGA community. Access to these systems is typically limited, however. Thus, most reviewers cannot independently check results, and the authors themselves may be unable to recompute their own results in the future, given the impact of irreversible changes in the environment (compilers, libraries, components, etc.). The various forms of Artifact Evaluation improve confidence that computational results from these special platforms are correct.&lt;/p&gt;
+
+&lt;h2 id=&#34;acm-artifacts-available-and-artifacts-evaluated-badges&#34;&gt;ACM Artifacts Available and Artifacts Evaluated Badges&lt;/h2&gt;
+
+&lt;p&gt;For more information, see &lt;a href=&#34;https://www.acm.org/publications/policies/artifact-review-badging&#34; target=&#34;_blank&#34;&gt;https://www.acm.org/publications/policies/artifact-review-badging&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The badges we will consider for FPGA2020 are &lt;em&gt;Artifacts Available, Artifacts Evaluated — Functional, Artifacts Evaluated — Reusable and Results Validated&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;By the &lt;a href=&#34;https://www.acm.org/publications/policies/artifact-review-badging&#34; target=&#34;_blank&#34;&gt;ACM Badging definitions&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Artifacts Available badge: This badge is applied to papers in which associated artifacts have been made permanently available for retrieval.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The Artifact form (new for FPGA 2020) will be used to determine eligibility for an ACM Artifacts Available badge on the basis of the answers to questions about the availability of author-created software, hardware or data products. The conditions of eligibility are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;All author-created software artifacts are maintained in a public repository under an OSI- approved license.&lt;/li&gt;
+&lt;li&gt;All author-created hardware artifacts are available and comply with the Open Source Hardware Definition.&lt;/li&gt;
+&lt;li&gt;All author-created data artifacts are maintained in a public repository with a stable identifier, such as a DOI.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Artifacts Evaluated — Functional badge: The artifacts associated with the research are found to be documented, consistent, complete, exercisable, and include appropriate evidence of verification and validation.&lt;/p&gt;
+
+&lt;p&gt;Artifacts Evaluated — Reusable badge: The artifacts associated with the paper are of a quality that significantly exceeds minimal functionality. That is, they have all the qualities of the Artifacts Evaluated – Functional level, but, in addition, they are very carefully documented and well-structured to the extent that reuse and repurposing is facilitated. In particular, norms and standards of the research community for artifacts of this type are strictly adhered to.&lt;/p&gt;
+
+&lt;p&gt;Results Replicated badge: The main results of the paper have been obtained in a subsequent study by a person or team other than the authors, using, in part, artifacts provided by the author.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Exact replication or reproduction of results is not required, or even expected. Instead, the results must be in agreement to within a tolerance deemed acceptable for experiments of the given type. In particular, differences in the results should not change the main claims made in the paper.&lt;/p&gt;
+
+&lt;p&gt;It is easy to see how research articles that develop algorithms or software systems could be labeled as described above. Here, the artifacts could be implementations of algorithms or complete software systems, and replication would involve exercise of software, typically software provided by the author. However, we intend these badges to be applicable to other types of research as well. For example, artifacts associated with human-subject studies of novel human-computer interface modalities might be the collected data, as well as the scripts developed to analyze the data. &amp;ldquo;Replication&amp;rdquo; might focus on a careful inspection of the experimental protocol along with independent analysis of the collected data.&lt;/p&gt;
+
+&lt;h3 id=&#34;notes-about-artifacts&#34;&gt;Notes about artifacts:&lt;/h3&gt;
+
+&lt;p&gt;A design artifact can be a hardware or software design. Software could include design tools or host code.  Hardware designs can include designs intended to become ASICs, or designs that map to FPGA fabric.&lt;/p&gt;
+
+&lt;p&gt;Hardware artifacts should comply with the Open Source Hardware Definition.  See &lt;a href=&#34;https://www.oshwa.org/definition/&#34; target=&#34;_blank&#34;&gt;https://www.oshwa.org/definition/&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Jing&#39;s CV</title>
+      <link>https://bdai6.github.io/cv/</link>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/cv/</guid>
+      <description>
+
+&lt;p&gt;&lt;h2&gt;Table of Contents&lt;/h2&gt;
+HAHAHUGOSHORTCODE-TOC0-HBHB&lt;/p&gt;
+
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+
+&lt;h2 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h2&gt;
+
+&lt;h2 id=&#34;awards&#34;&gt;Awards&lt;/h2&gt;
+
+&lt;h2 id=&#34;research-highlights&#34;&gt;Research Highlights&lt;/h2&gt;
+
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+
+&lt;h3 id=&#34;journal&#34;&gt;Journal&lt;/h3&gt;
+
+&lt;h3 id=&#34;conference&#34;&gt;Conference&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our graph analytics system ranked No. 1 on GreenGraph500</title>
+      <link>https://bdai6.github.io/post/greengraph5000/</link>
+      <pubDate>Mon, 01 Jul 2019 11:44:36 -0500</pubDate>
+      <guid>https://bdai6.github.io/post/greengraph5000/</guid>
+      <description>&lt;p&gt;Our FPGA-based scalable graph analytics system is ranked No. 1 on the latest &lt;a href=&#34;http://graph500.org/?page_id=724&#34; target=&#34;_blank&#34;&gt;GreenGraph500 list&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Liquid Silicon: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated ReRAM for Big Data/Machine Learning Applications</title>
+      <link>https://bdai6.github.io/publication/zha-2019-vlsic/</link>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2019-vlsic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nb(1-x)O2 based Universal Selector with Ultra-high Endurance (&gt;10^12), high speed (10ns) and Excellent Vth Stability</title>
+      <link>https://bdai6.github.io/publication/luo-2019-vlsit/</link>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/luo-2019-vlsit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MEG: A RISCV-based system simulation infrastructure for exploring memory optimization using FPGAs and Hybrid Memory Cube (Best Paper Nominee)</title>
+      <link>https://bdai6.github.io/publication/zhang-2019-fccm/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zhang-2019-fccm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liquid Silicon: A 10-year Journey Towards New Computing Paradigm</title>
+      <link>https://bdai6.github.io/talk/liquid-silicon-stanford-2019/</link>
+      <pubDate>Wed, 03 Apr 2019 16:00:00 -0700</pubDate>
+      <guid>https://bdai6.github.io/talk/liquid-silicon-stanford-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SysML: The New Frontier of Machine Learning Systems</title>
+      <link>https://bdai6.github.io/publication/ratner-2019-sysml/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/ratner-2019-sysml/</guid>
+      <description>&lt;p&gt;preprint&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our paper got accepted at 2019 Symposium on VLSI Circuits</title>
+      <link>https://bdai6.github.io/post/liquid-silicon-vlsic-2019/</link>
+      <pubDate>Sun, 17 Mar 2019 16:43:32 -0500</pubDate>
+      <guid>https://bdai6.github.io/post/liquid-silicon-vlsic-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our RISC-V paper got accepted at FCCM’19 and nominated Best Paper</title>
+      <link>https://bdai6.github.io/post/meg-fccm-2019/</link>
+      <pubDate>Sun, 03 Mar 2019 16:54:36 -0500</pubDate>
+      <guid>https://bdai6.github.io/post/meg-fccm-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unleashing the Power of Soft Logic for Convolutional Neural Network Acceleration via Product Quantization (Poster)</title>
+      <link>https://bdai6.github.io/publication/zhang-2019-fpga/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zhang-2019-fpga/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -591,25 +988,111 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Liquid Silicon: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated ReRAM for Big Data/Machine Learning Applications</title>
-      <link>https://bdai6.github.io/publication/zha-2019-vlsic/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/zha-2019-vlsic/</guid>
+      <title>Liquid Silicon: A New Computing Paradigm Enabled by Monolithic 3D Cross-point Memory</title>
+      <link>https://bdai6.github.io/talk/liquid-silicon-uchicago-2018/</link>
+      <pubDate>Tue, 06 Nov 2018 15:30:00 -0500</pubDate>
+      <guid>https://bdai6.github.io/talk/liquid-silicon-uchicago-2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Nbtextsubscript1-xOtextsubscript2 based Universal Selector with Ultra-high Endurance (&gt;10textsuperscript12), high speed (10ns) and Excellent Vtextsubscriptth Stability</title>
-      <link>https://bdai6.github.io/publication/luo-2019-vlsit/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/luo-2019-vlsit/</guid>
+      <title>Liquid Silicon: A New Computing Paradigm Enabled by Monolithic 3D Cross-point Memory</title>
+      <link>https://bdai6.github.io/talk/liquid-silicon-ucla-2018/</link>
+      <pubDate>Mon, 15 Oct 2018 12:30:00 -0700</pubDate>
+      <guid>https://bdai6.github.io/talk/liquid-silicon-ucla-2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>An Alternative Analytical Approach to Associative Processing (textbfBest of CAL)</title>
+      <title>Efficient Large-scale Approximate Nearest Neighbor Search on the OpenCL-FPGA</title>
+      <link>https://bdai6.github.io/publication/zhang-2018-cvpr/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zhang-2018-cvpr/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline29%, 979 out of over 3300)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PQ-CNN: Accelerating Product Quantized Convolutional Neural Network (Poster)</title>
+      <link>https://bdai6.github.io/publication/zhang-2018-fccm/</link>
+      <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zhang-2018-fccm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Quantization of Neural Networks</title>
+      <link>https://bdai6.github.io/publication/khoram-2018-iclr/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/khoram-2018-iclr/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline34%, 314 out of 935)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Liquid Silicon-Monona: A Reconfigurable Memory-Oriented Computing Fabric with Scalable Multi-Context Support</title>
+      <link>https://bdai6.github.io/publication/zha-2018-asplos/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2018-asplos/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline18.2%, 56 out of 307)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nonvolatile Memory Outlook: Technology Driven or Application Driven? (INVITED)</title>
+      <link>https://bdai6.github.io/publication/li-2018-cstic/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2018-cstic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating  Graph  Analytics  By  Co-Optimizing  Storage  and  Access  on  an FPGA-HMC Platform</title>
+      <link>https://bdai6.github.io/publication/khoram-2018-fpga/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/khoram-2018-fpga/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline24%)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Degree-aware Hybrid Graph Traversal on FPGA-HMC Platform</title>
+      <link>https://bdai6.github.io/publication/zhang-2018-fpga/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zhang-2018-fpga/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline24%)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Liquid  Silicon:  A Data-Centric Reconfigurable Architecture enabled by RRAM Technology</title>
+      <link>https://bdai6.github.io/publication/zha-2018-fpga/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2018-fpga/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline24%, Ranked &lt;strong&gt;#1&lt;/strong&gt; among 100+ submissions)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Specialization: A New Path towards Low Power (INVITED)</title>
+      <link>https://bdai6.github.io/publication/zha-2018-jolpe/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2018-jolpe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing Generalized Matrix Inverse on Spiking Neural Substrate</title>
+      <link>https://bdai6.github.io/publication/shukla-2018-frontiers/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/shukla-2018-frontiers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Alternative Analytical Approach to Associative Processing (Best of CAL)</title>
       <link>https://bdai6.github.io/publication/khoram-2018-cal/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/khoram-2018-cal/</guid>
       <description></description>
     </item>
@@ -617,49 +1100,97 @@ $$&lt;/p&gt;
     <item>
       <title>RRAM-based reconfigurable in-memory computing architecture with hybrid routing</title>
       <link>https://bdai6.github.io/publication/zha-2017-iccad/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/zha-2017-iccad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IMEC: A Fully Morphable In-Memory Computing Fabric Enabled by Resistive Crossbar</title>
-      <link>https://bdai6.github.io/publication/zha-2017-calimec/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/zha-2017-calimec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent progress in RRAM technology: From compact models to applications (textbfinvited)</title>
-      <link>https://bdai6.github.io/publication/zha-2017-cstic/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/zha-2017-cstic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Boosting the Performance of FPGA-based Graph Processor Using Hybrid Memory Cube: A Case for Breadth First Search</title>
-      <link>https://bdai6.github.io/publication/zhang-2017-fpga-bfs/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/zhang-2017-fpga-bfs/</guid>
-      <description></description>
+      <description>&lt;p&gt;(Acceptance Rate: underline26%, 105 out of 399)&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>CMA: A Reconfigurable Complex Matching Accelerator for Wire-speed Network Intrusion Detection</title>
       <link>https://bdai6.github.io/publication/zha-2017-calcma/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/zha-2017-calcma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RRAM-based  Reconfigurable  In-Memory  Computing  Architecture with Hybrid Routing (poster)</title>
+      <link>https://bdai6.github.io/publication/zha-2017-dacwip/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2017-dacwip/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline29%)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accelerating Large-Scale Graph Analytics with FPGA and HMC (Poster)</title>
+      <link>https://bdai6.github.io/publication/khoram-2017-fccm/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/khoram-2017-fccm/</guid>
+      <description>&lt;p&gt;Acceptance rate: underline25%, 32 out of 128&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Challenges and Opportunities: From Near-memory Computing to In-memory Computing (INVITED)</title>
+      <link>https://bdai6.github.io/publication/khoram-2017-ispd/</link>
+      <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/khoram-2017-ispd/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline35%)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recent progress in RRAM technology: From compact models to applications (INVITED)</title>
+      <link>https://bdai6.github.io/publication/zha-2017-cstic/</link>
+      <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2017-cstic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Mixed-Signal Data-Centric Reconfigurable Architecture Enabled by RRAM Technology (poster)</title>
+      <link>https://bdai6.github.io/publication/zha-2017-fpgaposter/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2017-fpgaposter/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline25%, 25 out of 101)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Boosting the Performance of FPGA-based Graph Processor Using Hybrid Memory Cube: A Case for Breadth First Search</title>
+      <link>https://bdai6.github.io/publication/zhang-2017-fpga-bfs/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zhang-2017-fpga-bfs/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline25%, 25 out of 101)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IMEC: A Fully Morphable In-Memory Computing Fabric Enabled by Resistive Crossbar</title>
+      <link>https://bdai6.github.io/publication/zha-2017-calimec/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2017-calimec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving the Performance of OpenCL-based FPGA Accelerator for Convolutional Neural Network</title>
       <link>https://bdai6.github.io/publication/zhang-2017-fpga-cnn/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/zhang-2017-fpga-cnn/</guid>
-      <description></description>
+      <description>&lt;p&gt;(Acceptance Rate: underline25%, 25 out of 101)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reconfigurable in-memory computing with resistive memory crossbar</title>
+      <link>https://bdai6.github.io/publication/zha-2016-iccad/</link>
+      <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2016-iccad/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline24%, 97 out of 408)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -671,261 +1202,6 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://bdai6.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/project/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internal Project</title>
-      <link>https://bdai6.github.io/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Academic: the website builder for Hugo</title>
-      <link>https://bdai6.github.io/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/post/getting-started/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34; target=&#34;_blank&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Setup Academic&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;View the documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://discuss.gohugo.io/&#34; target=&#34;_blank&#34;&gt;Ask a question&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;Request a feature or report a bug&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Updating? View the &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Support development of Academic:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34;&gt;Donate a coffee&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34;&gt;Become a backer on Patreon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34;&gt;Decorate your laptop or journal with an Academic sticker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34;&gt;Wear the T-shirt&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; &gt;
-
-&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; &gt;
-&lt;/a&gt;
-
-&lt;/figure&gt;
-
-
-&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://sourcethemes.com/academic/docs/jupyter/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 15+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;color-themes&#34;&gt;Color Themes&lt;/h2&gt;
-
-&lt;p&gt;Academic comes with &lt;strong&gt;day (light) and night (dark) mode&lt;/strong&gt; built-in. Click the sun/moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt; to see it in action!&lt;/p&gt;
-
-&lt;p&gt;Choose a stunning color and font theme for your site. Themes are fully customizable and include:&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://bdai6.github.io/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
-  &lt;img src=&#34;https://bdai6.github.io/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://bdai6.github.io/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
-  &lt;img src=&#34;https://bdai6.github.io/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://bdai6.github.io/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
-  &lt;img src=&#34;https://bdai6.github.io/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://bdai6.github.io/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
-  &lt;img src=&#34;https://bdai6.github.io/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://bdai6.github.io/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
-  &lt;img src=&#34;https://bdai6.github.io/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://bdai6.github.io/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
-  &lt;img src=&#34;https://bdai6.github.io/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://bdai6.github.io/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
-  &lt;img src=&#34;https://bdai6.github.io/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://bdai6.github.io/post/getting-started/gallery/theme-strawberry.png&#34; data-caption=&#34;Strawberry&#34;&gt;
-  &lt;img src=&#34;https://bdai6.github.io/post/getting-started/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
-
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
-
-&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-web-browser&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;one-click install using your web browser (recommended)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-git&#34; target=&#34;_blank&#34;&gt;install on your computer using &lt;strong&gt;Git&lt;/strong&gt; with the Command Prompt/Terminal app&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-zip&#34; target=&#34;_blank&#34;&gt;install on your computer by downloading the &lt;strong&gt;ZIP files&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;install on your computer with &lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Then &lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34;&gt;personalize and deploy your new site&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;View the Update Guide&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34;&gt;updates&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>A compact model for RRAM including random telegraph noise</title>
       <link>https://bdai6.github.io/publication/guan-2016-irps/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
@@ -934,36 +1210,16 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Reconfigurable in-memory computing with resistive memory crossbar</title>
-      <link>https://bdai6.github.io/publication/zha-2016-iccad/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/zha-2016-iccad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://bdai6.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+      <title>Demonstration of 3D vertical RRAM with ultra low-leakage, high-selectivity and self-compliance memory cells</title>
+      <link>https://bdai6.github.io/publication/luo-2015-iedm/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/luo-2015-iedm/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Enabling phase-change memory for data-centric computing: Technology, circuitand system (textbfinvited)</title>
+      <title>Enabling phase-change memory for data-centric computing: Technology, circuitand system (INVITED)</title>
       <link>https://bdai6.github.io/publication/li-2015-iscas/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2015-iscas/</guid>
@@ -971,7 +1227,7 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>1 Mb 0.41 $μ$m$^2$ 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (textbfinvited)</title>
+      <title>1 Mb 0.41 um^2 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (INVITED)</title>
       <link>https://bdai6.github.io/publication/li-2014-jssc/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2014-jssc/</guid>
@@ -979,32 +1235,12 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://bdai6.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>1Mb 0.41 $μ$m$^2$ 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (textbfHighlight Paper of the Year)</title>
+      <title>1Mb 0.41 um^2 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (Highlight Paper of the Year)</title>
       <link>https://bdai6.github.io/publication/li-2013-vlsi/</link>
-      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2013-vlsi/</guid>
-      <description></description>
+      <description>&lt;p&gt;(Acceptance Rate: underline27%, 109 out of 396)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1020,7 +1256,8 @@ $$&lt;/p&gt;
       <link>https://bdai6.github.io/publication/meza-2012-report-nvm/</link>
       <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/meza-2012-report-nvm/</guid>
-      <description></description>
+      <description>&lt;p&gt;SAFARI Technical Report&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1034,8 +1271,17 @@ $$&lt;/p&gt;
     <item>
       <title>A case for small row buffers in non-volatile main memories</title>
       <link>https://bdai6.github.io/publication/meza-2012-iccd/</link>
-      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Sep 2012 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/meza-2012-iccd/</guid>
+      <description>&lt;p&gt;(Acceptance rate: underline25%, 61 out of 241)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The impact of heater-recess and load matching in phase change memory mushroom cells</title>
+      <link>https://bdai6.github.io/publication/cywar-2012-nano/</link>
+      <pubDate>Thu, 10 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/cywar-2012-nano/</guid>
       <description></description>
     </item>
     
@@ -1048,7 +1294,7 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Resistance drift in phase change memory (textbfinvited)</title>
+      <title>Resistance drift in phase change memory (INVITED)</title>
       <link>https://bdai6.github.io/publication/li-2012-irps/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2012-irps/</guid>
@@ -1064,11 +1310,21 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>The impact of heater-recess and load matching in phase change memory mushroom cells</title>
-      <link>https://bdai6.github.io/publication/cywar-2012-nano/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/cywar-2012-nano/</guid>
-      <description></description>
+      <title>A low power phase change memory using thermally confined TaN/TiN bottom electrode</title>
+      <link>https://bdai6.github.io/publication/wu-2011-iedm/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/wu-2011-iedm/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Explore physical origins of resistance drift in phase change memory and its implication for drift-insensitive materials</title>
+      <link>https://bdai6.github.io/publication/li-2011-iedm/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2011-iedm/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1080,11 +1336,21 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Post-silicon calibration of analog CMOS using phase-change memory cells</title>
+      <link>https://bdai6.github.io/publication/wen-2011-esscirc/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/wen-2011-esscirc/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline38%, 121 out of 314)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A non-volatile look-up table design using PCM (phase-change memory) cells</title>
-      <link>https://bdai6.github.io/publication/wen-2011-vlci/</link>
-      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/wen-2011-vlci/</guid>
-      <description></description>
+      <link>https://bdai6.github.io/publication/wen-2011-vlsi/</link>
+      <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/wen-2011-vlsi/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline28%, 115 out of 409)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1104,7 +1370,7 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Phase change memory (textbfinvited)</title>
+      <title>Phase change memory (INVITED)</title>
       <link>https://bdai6.github.io/publication/li-2011-sciencechina/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2011-sciencechina/</guid>
@@ -1112,7 +1378,7 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Design Paradigm for Robust Spin-Torque Transfer Magnetic RAM (STT MRAM) From Circuit/Architecture Perspective (textbfbest paper)</title>
+      <title>Design Paradigm for Robust Spin-Torque Transfer Magnetic RAM (STT MRAM) From Circuit/Architecture Perspective (Best Paper)</title>
       <link>https://bdai6.github.io/publication/li-2010-tvlsi/</link>
       <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2010-tvlsi/</guid>
@@ -1128,6 +1394,15 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Physical model of the impact of metal grain work function variability on emerging dual metal gate MOSFETs and its implication for SRAM reliability</title>
+      <link>https://bdai6.github.io/publication/zhang-2009-iedm/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zhang-2009-iedm/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Variation  Resilient  Spin  Torque  Transfer  MRAM (poster)</title>
       <link>https://bdai6.github.io/publication/li-2009-gsrc/</link>
       <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
@@ -1136,19 +1411,30 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>An Alternate Design Paradigm for Robust Spin-torque Transfer Magnetic RAM (STT MRAM) from Circuit/Architecture Perspective</title>
+      <link>https://bdai6.github.io/publication/li-2009-aspdac/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2009-aspdac/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline33%, 116 out of 355)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Robust Heterogeneous System Design in Spintronics: Error Resilient Spin Torque MRAM (STT MRAM) Design</title>
       <link>https://bdai6.github.io/publication/li-2009-dac/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2009-dac/</guid>
-      <description></description>
+      <description>&lt;p&gt;(Acceptance Rate: underline22%, 148 out of 684)&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Robust and Energy-efficient Heterogeneous System Design in Emerging Technologies (textbfnominated for Best Thesis Award)</title>
-      <link>https://bdai6.github.io/publication/phd/</link>
+      <title>Robust and Energy-efficient Heterogeneous System Design in Emerging Technologies (Best Thesis Award nominee</title>
+      <link>https://bdai6.github.io/publication/li-2009-phd/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/phd/</guid>
-      <description></description>
+      <guid>https://bdai6.github.io/publication/li-2009-phd/</guid>
+      <description>&lt;p&gt;Advisor: Prof. Kaushik Roy&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1162,13 +1448,13 @@ $$&lt;/p&gt;
     <item>
       <title>Variation-tolerant Spin-Torque Transfer (STT) MRAM array for yield enhancement</title>
       <link>https://bdai6.github.io/publication/li-2008-cicc/</link>
-      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Sep 2008 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2008-cicc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>An Alternate Design Paradigm for Low-power, Low-cost, Testable Hybrid Systems Using Scaled LTPS TFTs (textbfinvited)</title>
+      <title>An Alternate Design Paradigm for Low-power, Low-cost, Testable Hybrid Systems Using Scaled LTPS TFTs (INVITED)</title>
       <link>https://bdai6.github.io/publication/li-2008-jetc/</link>
       <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2008-jetc/</guid>
@@ -1178,9 +1464,10 @@ $$&lt;/p&gt;
     <item>
       <title>Modeling of failure probability and statistical design of Spin-Torque Transfer Magnetic Random Access Memory (STT MRAM) array for yield enhancement</title>
       <link>https://bdai6.github.io/publication/li-2008-dac/</link>
-      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2008-dac/</guid>
-      <description></description>
+      <description>&lt;p&gt;(Acceptance Rate: underline23%, 147 out of 639)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1216,11 +1503,21 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Variable-latency adder (VL-adder): new arithmetic circuit design practice to overcome NBTI</title>
+      <link>https://bdai6.github.io/publication/li-2007-islped/</link>
+      <pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2007-islped/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline39%, 74 out of 192)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>High Performance and Low Power Electronics on Flexible Substrate</title>
       <link>https://bdai6.github.io/publication/li-2007-dac/</link>
       <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2007-dac/</guid>
-      <description></description>
+      <description>&lt;p&gt;(Acceptance Rate*: underline13%)&lt;/p&gt;
+</description>
     </item>
     
     <item>

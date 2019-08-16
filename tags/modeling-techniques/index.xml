@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Modeling techniques | Wisconsin Computational Intelligence Lab</title>
+    <title>modeling techniques | Wisconsin Computational Intelligence Lab</title>
     <link>https://bdai6.github.io/tags/modeling-techniques/</link>
       <atom:link href="https://bdai6.github.io/tags/modeling-techniques/index.xml" rel="self" type="application/rss+xml" />
-    <description>Modeling techniques</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <description>modeling techniques</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
-      <title>Modeling techniques</title>
+      <title>modeling techniques</title>
       <link>https://bdai6.github.io/tags/modeling-techniques/</link>
     </image>
     
     <item>
-      <title>An Alternative Analytical Approach to Associative Processing (textbfBest of CAL)</title>
+      <title>An Alternative Analytical Approach to Associative Processing (Best of CAL)</title>
       <link>https://bdai6.github.io/publication/khoram-2018-cal/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/khoram-2018-cal/</guid>
       <description></description>
     </item>

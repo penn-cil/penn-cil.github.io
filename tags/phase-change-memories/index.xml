@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Enabling phase-change memory for data-centric computing: Technology, circuitand system (textbfinvited)</title>
+      <title>Enabling phase-change memory for data-centric computing: Technology, circuitand system (INVITED)</title>
       <link>https://bdai6.github.io/publication/li-2015-iscas/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2015-iscas/</guid>
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>1 Mb 0.41 $μ$m$^2$ 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (textbfinvited)</title>
+      <title>1 Mb 0.41 um^2 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (INVITED)</title>
       <link>https://bdai6.github.io/publication/li-2014-jssc/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2014-jssc/</guid>
@@ -29,11 +29,12 @@
     </item>
     
     <item>
-      <title>1Mb 0.41 $μ$m$^2$ 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (textbfHighlight Paper of the Year)</title>
+      <title>1Mb 0.41 um^2 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (Highlight Paper of the Year)</title>
       <link>https://bdai6.github.io/publication/li-2013-vlsi/</link>
-      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2013-vlsi/</guid>
-      <description></description>
+      <description>&lt;p&gt;(Acceptance Rate: underline27%, 109 out of 396)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -45,7 +46,7 @@
     </item>
     
     <item>
-      <title>Resistance drift in phase change memory (textbfinvited)</title>
+      <title>Resistance drift in phase change memory (INVITED)</title>
       <link>https://bdai6.github.io/publication/li-2012-irps/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2012-irps/</guid>
@@ -61,6 +62,24 @@
     </item>
     
     <item>
+      <title>A low power phase change memory using thermally confined TaN/TiN bottom electrode</title>
+      <link>https://bdai6.github.io/publication/wu-2011-iedm/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/wu-2011-iedm/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Explore physical origins of resistance drift in phase change memory and its implication for drift-insensitive materials</title>
+      <link>https://bdai6.github.io/publication/li-2011-iedm/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2011-iedm/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Materials engineering for Phase Change Random Access Memory</title>
       <link>https://bdai6.github.io/publication/raoux-2011-nvmts/</link>
       <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
@@ -69,11 +88,21 @@
     </item>
     
     <item>
+      <title>Post-silicon calibration of analog CMOS using phase-change memory cells</title>
+      <link>https://bdai6.github.io/publication/wen-2011-esscirc/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/wen-2011-esscirc/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline38%, 121 out of 314)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A non-volatile look-up table design using PCM (phase-change memory) cells</title>
-      <link>https://bdai6.github.io/publication/wen-2011-vlci/</link>
-      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/wen-2011-vlci/</guid>
-      <description></description>
+      <link>https://bdai6.github.io/publication/wen-2011-vlsi/</link>
+      <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/wen-2011-vlsi/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline28%, 115 out of 409)&lt;/p&gt;
+</description>
     </item>
     
     <item>

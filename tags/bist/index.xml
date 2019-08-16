@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BIST | Wisconsin Computational Intelligence Lab</title>
+    <title> bist | Wisconsin Computational Intelligence Lab</title>
     <link>https://bdai6.github.io/tags/bist/</link>
       <atom:link href="https://bdai6.github.io/tags/bist/index.xml" rel="self" type="application/rss+xml" />
-    <description>BIST</description>
+    <description> bist</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2008 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
-      <title>BIST</title>
+      <title> bist</title>
       <link>https://bdai6.github.io/tags/bist/</link>
     </image>
     
     <item>
-      <title>An Alternate Design Paradigm for Low-power, Low-cost, Testable Hybrid Systems Using Scaled LTPS TFTs (textbfinvited)</title>
+      <title>An Alternate Design Paradigm for Low-power, Low-cost, Testable Hybrid Systems Using Scaled LTPS TFTs (INVITED)</title>
       <link>https://bdai6.github.io/publication/li-2008-jetc/</link>
       <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2008-jetc/</guid>

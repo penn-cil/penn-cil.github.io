@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Non-volatile memory | Wisconsin Computational Intelligence Lab</title>
+    <title>non-volatile memory | Wisconsin Computational Intelligence Lab</title>
     <link>https://bdai6.github.io/tags/non-volatile-memory/</link>
       <atom:link href="https://bdai6.github.io/tags/non-volatile-memory/index.xml" rel="self" type="application/rss+xml" />
-    <description>Non-volatile memory</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <description>non-volatile memory</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Feb 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
-      <title>Non-volatile memory</title>
+      <title>non-volatile memory</title>
       <link>https://bdai6.github.io/tags/non-volatile-memory/</link>
     </image>
     
     <item>
+      <title>Liquid  Silicon:  A Data-Centric Reconfigurable Architecture enabled by RRAM Technology</title>
+      <link>https://bdai6.github.io/publication/zha-2018-fpga/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2018-fpga/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline24%, Ranked &lt;strong&gt;#1&lt;/strong&gt; among 100+ submissions)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Mixed-Signal Data-Centric Reconfigurable Architecture Enabled by RRAM Technology (poster)</title>
+      <link>https://bdai6.github.io/publication/zha-2017-fpgaposter/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2017-fpgaposter/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline25%, 25 out of 101)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>IMEC: A Fully Morphable In-Memory Computing Fabric Enabled by Resistive Crossbar</title>
       <link>https://bdai6.github.io/publication/zha-2017-calimec/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/zha-2017-calimec/</guid>
       <description></description>
     </item>

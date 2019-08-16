@@ -5,7 +5,7 @@
     <link>https://bdai6.github.io/authors/zhiqiang-wei/</link>
       <atom:link href="https://bdai6.github.io/authors/zhiqiang-wei/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhiqiang Wei</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 12 Mar 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
       <title>Zhiqiang Wei</title>
@@ -13,11 +13,20 @@
     </image>
     
     <item>
-      <title>Recent progress in RRAM technology: From compact models to applications (textbfinvited)</title>
+      <title>Recent progress in RRAM technology: From compact models to applications (INVITED)</title>
       <link>https://bdai6.github.io/publication/zha-2017-cstic/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/zha-2017-cstic/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>A Mixed-Signal Data-Centric Reconfigurable Architecture Enabled by RRAM Technology (poster)</title>
+      <link>https://bdai6.github.io/publication/zha-2017-fpgaposter/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2017-fpgaposter/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline25%, 25 out of 101)&lt;/p&gt;
+</description>
     </item>
     
   </channel>

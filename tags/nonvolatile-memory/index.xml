@@ -1,27 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nonvolatile memory | Wisconsin Computational Intelligence Lab</title>
+    <title> nonvolatile memory | Wisconsin Computational Intelligence Lab</title>
     <link>https://bdai6.github.io/tags/nonvolatile-memory/</link>
       <atom:link href="https://bdai6.github.io/tags/nonvolatile-memory/index.xml" rel="self" type="application/rss+xml" />
-    <description>Nonvolatile memory</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <description> nonvolatile memory</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Mar 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
-      <title>Nonvolatile memory</title>
+      <title> nonvolatile memory</title>
       <link>https://bdai6.github.io/tags/nonvolatile-memory/</link>
     </image>
     
     <item>
+      <title>Challenges and Opportunities: From Near-memory Computing to In-memory Computing (INVITED)</title>
+      <link>https://bdai6.github.io/publication/khoram-2017-ispd/</link>
+      <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/khoram-2017-ispd/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline35%)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>IMEC: A Fully Morphable In-Memory Computing Fabric Enabled by Resistive Crossbar</title>
       <link>https://bdai6.github.io/publication/zha-2017-calimec/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/zha-2017-calimec/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Enabling phase-change memory for data-centric computing: Technology, circuitand system (textbfinvited)</title>
+      <title>Enabling phase-change memory for data-centric computing: Technology, circuitand system (INVITED)</title>
       <link>https://bdai6.github.io/publication/li-2015-iscas/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2015-iscas/</guid>
@@ -31,9 +40,10 @@
     <item>
       <title>A case for small row buffers in non-volatile main memories</title>
       <link>https://bdai6.github.io/publication/meza-2012-iccd/</link>
-      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Sep 2012 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/meza-2012-iccd/</guid>
-      <description></description>
+      <description>&lt;p&gt;(Acceptance rate: underline25%, 61 out of 241)&lt;/p&gt;
+</description>
     </item>
     
   </channel>

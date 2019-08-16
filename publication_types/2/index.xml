@@ -5,7 +5,7 @@
     <link>https://bdai6.github.io/publication_types/2/</link>
       <atom:link href="https://bdai6.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
       <title>2</title>
@@ -13,52 +13,56 @@
     </image>
     
     <item>
-      <title>An Alternative Analytical Approach to Associative Processing (textbfBest of CAL)</title>
-      <link>https://bdai6.github.io/publication/khoram-2018-cal/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/khoram-2018-cal/</guid>
+      <title>SysML: The New Frontier of Machine Learning Systems</title>
+      <link>https://bdai6.github.io/publication/ratner-2019-sysml/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/ratner-2019-sysml/</guid>
+      <description>&lt;p&gt;preprint&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Specialization: A New Path towards Low Power (INVITED)</title>
+      <link>https://bdai6.github.io/publication/zha-2018-jolpe/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2018-jolpe/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>IMEC: A Fully Morphable In-Memory Computing Fabric Enabled by Resistive Crossbar</title>
-      <link>https://bdai6.github.io/publication/zha-2017-calimec/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/zha-2017-calimec/</guid>
+      <title>Computing Generalized Matrix Inverse on Spiking Neural Substrate</title>
+      <link>https://bdai6.github.io/publication/shukla-2018-frontiers/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/shukla-2018-frontiers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Alternative Analytical Approach to Associative Processing (Best of CAL)</title>
+      <link>https://bdai6.github.io/publication/khoram-2018-cal/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/khoram-2018-cal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CMA: A Reconfigurable Complex Matching Accelerator for Wire-speed Network Intrusion Detection</title>
       <link>https://bdai6.github.io/publication/zha-2017-calcma/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/zha-2017-calcma/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://bdai6.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>IMEC: A Fully Morphable In-Memory Computing Fabric Enabled by Resistive Crossbar</title>
+      <link>https://bdai6.github.io/publication/zha-2017-calimec/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2017-calimec/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>1 Mb 0.41 $μ$m$^2$ 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (textbfinvited)</title>
+      <title>1 Mb 0.41 um^2 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (INVITED)</title>
       <link>https://bdai6.github.io/publication/li-2014-jssc/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2014-jssc/</guid>
@@ -84,13 +88,13 @@
     <item>
       <title>The impact of heater-recess and load matching in phase change memory mushroom cells</title>
       <link>https://bdai6.github.io/publication/cywar-2012-nano/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 May 2012 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/cywar-2012-nano/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Phase change memory (textbfinvited)</title>
+      <title>Phase change memory (INVITED)</title>
       <link>https://bdai6.github.io/publication/li-2011-sciencechina/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2011-sciencechina/</guid>
@@ -98,7 +102,7 @@
     </item>
     
     <item>
-      <title>Design Paradigm for Robust Spin-Torque Transfer Magnetic RAM (STT MRAM) From Circuit/Architecture Perspective (textbfbest paper)</title>
+      <title>Design Paradigm for Robust Spin-Torque Transfer Magnetic RAM (STT MRAM) From Circuit/Architecture Perspective (Best Paper)</title>
       <link>https://bdai6.github.io/publication/li-2010-tvlsi/</link>
       <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2010-tvlsi/</guid>
@@ -122,7 +126,7 @@
     </item>
     
     <item>
-      <title>An Alternate Design Paradigm for Low-power, Low-cost, Testable Hybrid Systems Using Scaled LTPS TFTs (textbfinvited)</title>
+      <title>An Alternate Design Paradigm for Low-power, Low-cost, Testable Hybrid Systems Using Scaled LTPS TFTs (INVITED)</title>
       <link>https://bdai6.github.io/publication/li-2008-jetc/</link>
       <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2008-jetc/</guid>

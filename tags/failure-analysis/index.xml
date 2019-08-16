@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>failure analysis | Wisconsin Computational Intelligence Lab</title>
+    <title> failure analysis | Wisconsin Computational Intelligence Lab</title>
     <link>https://bdai6.github.io/tags/failure-analysis/</link>
       <atom:link href="https://bdai6.github.io/tags/failure-analysis/index.xml" rel="self" type="application/rss+xml" />
-    <description>failure analysis</description>
+    <description> failure analysis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2012 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
-      <title>failure analysis</title>
+      <title> failure analysis</title>
       <link>https://bdai6.github.io/tags/failure-analysis/</link>
     </image>
     
@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>Design Paradigm for Robust Spin-Torque Transfer Magnetic RAM (STT MRAM) From Circuit/Architecture Perspective (textbfbest paper)</title>
+      <title>Design Paradigm for Robust Spin-Torque Transfer Magnetic RAM (STT MRAM) From Circuit/Architecture Perspective (Best Paper)</title>
       <link>https://bdai6.github.io/publication/li-2010-tvlsi/</link>
       <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2010-tvlsi/</guid>
@@ -39,17 +39,19 @@
     <item>
       <title>Modeling of failure probability and statistical design of Spin-Torque Transfer Magnetic Random Access Memory (STT MRAM) array for yield enhancement</title>
       <link>https://bdai6.github.io/publication/li-2008-dac/</link>
-      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2008-dac/</guid>
-      <description></description>
+      <description>&lt;p&gt;(Acceptance Rate: underline23%, 147 out of 639)&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Modeling of failure probability and statistical design of Spin-Torque Transfer Magnetic Random Access Memory (STT MRAM) array for yield enhancement</title>
       <link>https://bdai6.github.io/publication/li-2008-dac/</link>
-      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2008-dac/</guid>
-      <description></description>
+      <description>&lt;p&gt;(Acceptance Rate: underline23%, 147 out of 639)&lt;/p&gt;
+</description>
     </item>
     
   </channel>

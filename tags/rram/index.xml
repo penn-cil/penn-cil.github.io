@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RRAM | Wisconsin Computational Intelligence Lab</title>
+    <title>rram | Wisconsin Computational Intelligence Lab</title>
     <link>https://bdai6.github.io/tags/rram/</link>
       <atom:link href="https://bdai6.github.io/tags/rram/index.xml" rel="self" type="application/rss+xml" />
-    <description>RRAM</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <description>rram</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Nov 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
-      <title>RRAM</title>
+      <title>rram</title>
       <link>https://bdai6.github.io/tags/rram/</link>
     </image>
+    
+    <item>
+      <title>Reconfigurable in-memory computing with resistive memory crossbar</title>
+      <link>https://bdai6.github.io/publication/zha-2016-iccad/</link>
+      <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2016-iccad/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline24%, 97 out of 408)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Fully CMOS compatible 3D vertical RRAM with self-aligned self-selective cell enabling sub-5nm scaling</title>

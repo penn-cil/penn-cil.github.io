@@ -5,7 +5,7 @@
     <link>https://bdai6.github.io/tags/cell-size/</link>
       <atom:link href="https://bdai6.github.io/tags/cell-size/index.xml" rel="self" type="application/rss+xml" />
     <description>cell size</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jun 2013 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
       <title>cell size</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>1Mb 0.41 $μ$m$^2$ 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (textbfHighlight Paper of the Year)</title>
+      <title>1Mb 0.41 um^2 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (Highlight Paper of the Year)</title>
       <link>https://bdai6.github.io/publication/li-2013-vlsi/</link>
-      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2013-vlsi/</guid>
-      <description></description>
+      <description>&lt;p&gt;(Acceptance Rate: underline27%, 109 out of 396)&lt;/p&gt;
+</description>
     </item>
     
   </channel>

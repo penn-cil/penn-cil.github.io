@@ -5,7 +5,7 @@
     <link>https://bdai6.github.io/authors/chung-lam/</link>
       <atom:link href="https://bdai6.github.io/authors/chung-lam/index.xml" rel="self" type="application/rss+xml" />
     <description>Chung Lam</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2012 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 May 2012 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
       <title>Chung Lam</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Resistance drift in phase change memory (textbfinvited)</title>
+      <title>The impact of heater-recess and load matching in phase change memory mushroom cells</title>
+      <link>https://bdai6.github.io/publication/cywar-2012-nano/</link>
+      <pubDate>Thu, 10 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/cywar-2012-nano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resistance drift in phase change memory (INVITED)</title>
       <link>https://bdai6.github.io/publication/li-2012-irps/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2012-irps/</guid>
@@ -21,15 +29,16 @@
     </item>
     
     <item>
-      <title>The impact of heater-recess and load matching in phase change memory mushroom cells</title>
-      <link>https://bdai6.github.io/publication/cywar-2012-nano/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/cywar-2012-nano/</guid>
-      <description></description>
+      <title>Post-silicon calibration of analog CMOS using phase-change memory cells</title>
+      <link>https://bdai6.github.io/publication/wen-2011-esscirc/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/wen-2011-esscirc/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline38%, 121 out of 314)&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Phase change memory (textbfinvited)</title>
+      <title>Phase change memory (INVITED)</title>
       <link>https://bdai6.github.io/publication/li-2011-sciencechina/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2011-sciencechina/</guid>

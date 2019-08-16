@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>graph | Wisconsin Computational Intelligence Lab</title>
+    <link>https://bdai6.github.io/tags/graph/</link>
+      <atom:link href="https://bdai6.github.io/tags/graph/index.xml" rel="self" type="application/rss+xml" />
+    <description>graph</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 11:44:36 -0500</lastBuildDate>
+    <image>
+      <url>https://bdai6.github.io/img/logo.png</url>
+      <title>graph</title>
+      <link>https://bdai6.github.io/tags/graph/</link>
+    </image>
+    
+    <item>
+      <title>Our graph analytics system ranked No. 1 on GreenGraph500</title>
+      <link>https://bdai6.github.io/post/greengraph5000/</link>
+      <pubDate>Mon, 01 Jul 2019 11:44:36 -0500</pubDate>
+      <guid>https://bdai6.github.io/post/greengraph5000/</guid>
+      <description>&lt;p&gt;Our FPGA-based scalable graph analytics system is ranked No. 1 on the latest &lt;a href=&#34;http://graph500.org/?page_id=724&#34; target=&#34;_blank&#34;&gt;GreenGraph500 list&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Logic gates | Wisconsin Computational Intelligence Lab</title>
+    <title>logic gates | Wisconsin Computational Intelligence Lab</title>
     <link>https://bdai6.github.io/tags/logic-gates/</link>
       <atom:link href="https://bdai6.github.io/tags/logic-gates/index.xml" rel="self" type="application/rss+xml" />
-    <description>Logic gates</description>
+    <description>logic gates</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2012 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
-      <title>Logic gates</title>
+      <title>logic gates</title>
       <link>https://bdai6.github.io/tags/logic-gates/</link>
     </image>
     
@@ -22,10 +22,11 @@
     
     <item>
       <title>A non-volatile look-up table design using PCM (phase-change memory) cells</title>
-      <link>https://bdai6.github.io/publication/wen-2011-vlci/</link>
-      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/wen-2011-vlci/</guid>
-      <description></description>
+      <link>https://bdai6.github.io/publication/wen-2011-vlsi/</link>
+      <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/wen-2011-vlsi/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline28%, 115 out of 409)&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -5,7 +5,7 @@
     <link>https://bdai6.github.io/authors/jialiang-zhang/</link>
       <atom:link href="https://bdai6.github.io/authors/jialiang-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Wisconsin Computational Intelligence Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 11:44:36 -0500</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
       <title>Wisconsin Computational Intelligence Lab</title>
@@ -13,25 +13,122 @@
     </image>
     
     <item>
+      <title>Our graph analytics system ranked No. 1 on GreenGraph500</title>
+      <link>https://bdai6.github.io/post/greengraph5000/</link>
+      <pubDate>Mon, 01 Jul 2019 11:44:36 -0500</pubDate>
+      <guid>https://bdai6.github.io/post/greengraph5000/</guid>
+      <description>&lt;p&gt;Our FPGA-based scalable graph analytics system is ranked No. 1 on the latest &lt;a href=&#34;http://graph500.org/?page_id=724&#34; target=&#34;_blank&#34;&gt;GreenGraph500 list&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MEG: A RISCV-based system simulation infrastructure for exploring memory optimization using FPGAs and Hybrid Memory Cube (Best Paper Nominee)</title>
+      <link>https://bdai6.github.io/publication/zhang-2019-fccm/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zhang-2019-fccm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our RISC-V paper got accepted at FCCM’19 and nominated Best Paper</title>
+      <link>https://bdai6.github.io/post/meg-fccm-2019/</link>
+      <pubDate>Sun, 03 Mar 2019 16:54:36 -0500</pubDate>
+      <guid>https://bdai6.github.io/post/meg-fccm-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unleashing the Power of Soft Logic for Convolutional Neural Network Acceleration via Product Quantization (Poster)</title>
+      <link>https://bdai6.github.io/publication/zhang-2019-fpga/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zhang-2019-fpga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Large-scale Approximate Nearest Neighbor Search on the OpenCL-FPGA</title>
+      <link>https://bdai6.github.io/publication/zhang-2018-cvpr/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zhang-2018-cvpr/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline29%, 979 out of over 3300)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PQ-CNN: Accelerating Product Quantized Convolutional Neural Network (Poster)</title>
+      <link>https://bdai6.github.io/publication/zhang-2018-fccm/</link>
+      <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zhang-2018-fccm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating  Graph  Analytics  By  Co-Optimizing  Storage  and  Access  on  an FPGA-HMC Platform</title>
+      <link>https://bdai6.github.io/publication/khoram-2018-fpga/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/khoram-2018-fpga/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline24%)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Degree-aware Hybrid Graph Traversal on FPGA-HMC Platform</title>
+      <link>https://bdai6.github.io/publication/zhang-2018-fpga/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zhang-2018-fpga/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline24%)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accelerating Large-Scale Graph Analytics with FPGA and HMC (Poster)</title>
+      <link>https://bdai6.github.io/publication/khoram-2017-fccm/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/khoram-2017-fccm/</guid>
+      <description>&lt;p&gt;Acceptance rate: underline25%, 32 out of 128&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Challenges and Opportunities: From Near-memory Computing to In-memory Computing (INVITED)</title>
+      <link>https://bdai6.github.io/publication/khoram-2017-ispd/</link>
+      <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/khoram-2017-ispd/</guid>
+      <description>&lt;p&gt;(Acceptance Rate*: underline35%)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Mixed-Signal Data-Centric Reconfigurable Architecture Enabled by RRAM Technology (poster)</title>
+      <link>https://bdai6.github.io/publication/zha-2017-fpgaposter/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/zha-2017-fpgaposter/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline25%, 25 out of 101)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Boosting the Performance of FPGA-based Graph Processor Using Hybrid Memory Cube: A Case for Breadth First Search</title>
       <link>https://bdai6.github.io/publication/zhang-2017-fpga-bfs/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/zhang-2017-fpga-bfs/</guid>
-      <description></description>
+      <description>&lt;p&gt;(Acceptance Rate: underline25%, 25 out of 101)&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Improving the Performance of OpenCL-based FPGA Accelerator for Convolutional Neural Network</title>
       <link>https://bdai6.github.io/publication/zhang-2017-fpga-cnn/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/zhang-2017-fpga-cnn/</guid>
-      <description></description>
+      <description>&lt;p&gt;(Acceptance Rate: underline25%, 25 out of 101)&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title></title>
       <link>https://bdai6.github.io/authors/jialiang-zhang/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2019 11:44:36 -0500</pubDate>
       <guid>https://bdai6.github.io/authors/jialiang-zhang/</guid>
       <description>&lt;p&gt;Jialiang Zhang is a PhD student in the ECE department of UW-Madison. He received his B.E. degree from University of Electronic Science and Technology of China. His research focuses on hardware demonstration of emerging computer architecture concept. He is also an expert in high speed digital system and high performance mixed-signal circuit design.&lt;/p&gt;
 </description>

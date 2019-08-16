@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Design Paradigm for Robust Spin-Torque Transfer Magnetic RAM (STT MRAM) From Circuit/Architecture Perspective (textbfbest paper)</title>
+      <title>Design Paradigm for Robust Spin-Torque Transfer Magnetic RAM (STT MRAM) From Circuit/Architecture Perspective (Best Paper)</title>
       <link>https://bdai6.github.io/publication/li-2010-tvlsi/</link>
       <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2010-tvlsi/</guid>
@@ -37,11 +37,21 @@
     </item>
     
     <item>
+      <title>An Alternate Design Paradigm for Robust Spin-torque Transfer Magnetic RAM (STT MRAM) from Circuit/Architecture Perspective</title>
+      <link>https://bdai6.github.io/publication/li-2009-aspdac/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/publication/li-2009-aspdac/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline33%, 116 out of 355)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Robust Heterogeneous System Design in Spintronics: Error Resilient Spin Torque MRAM (STT MRAM) Design</title>
       <link>https://bdai6.github.io/publication/li-2009-dac/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2009-dac/</guid>
-      <description></description>
+      <description>&lt;p&gt;(Acceptance Rate: underline22%, 148 out of 684)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -55,13 +65,13 @@
     <item>
       <title>Variation-tolerant Spin-Torque Transfer (STT) MRAM array for yield enhancement</title>
       <link>https://bdai6.github.io/publication/li-2008-cicc/</link>
-      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Sep 2008 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2008-cicc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>An Alternate Design Paradigm for Low-power, Low-cost, Testable Hybrid Systems Using Scaled LTPS TFTs (textbfinvited)</title>
+      <title>An Alternate Design Paradigm for Low-power, Low-cost, Testable Hybrid Systems Using Scaled LTPS TFTs (INVITED)</title>
       <link>https://bdai6.github.io/publication/li-2008-jetc/</link>
       <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2008-jetc/</guid>
@@ -71,9 +81,10 @@
     <item>
       <title>Modeling of failure probability and statistical design of Spin-Torque Transfer Magnetic Random Access Memory (STT MRAM) array for yield enhancement</title>
       <link>https://bdai6.github.io/publication/li-2008-dac/</link>
-      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2008-dac/</guid>
-      <description></description>
+      <description>&lt;p&gt;(Acceptance Rate: underline23%, 147 out of 639)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -105,7 +116,8 @@
       <link>https://bdai6.github.io/publication/li-2007-dac/</link>
       <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/publication/li-2007-dac/</guid>
-      <description></description>
+      <description>&lt;p&gt;(Acceptance Rate*: underline13%)&lt;/p&gt;
+</description>
     </item>
     
     <item>
