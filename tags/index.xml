@@ -5,7 +5,7 @@
     <link>https://bdai6.github.io/tags/</link>
       <atom:link href="https://bdai6.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 11:44:36 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Aug 2019 16:02:06 -0500</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
       <title>Tags</title>
@@ -13,10 +13,210 @@
     </image>
     
     <item>
+      <title>BFS</title>
+      <link>https://bdai6.github.io/tags/bfs/</link>
+      <pubDate>Fri, 16 Aug 2019 16:02:06 -0500</pubDate>
+      <guid>https://bdai6.github.io/tags/bfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FPGA-HMC</title>
+      <link>https://bdai6.github.io/tags/fpga-hmc/</link>
+      <pubDate>Fri, 16 Aug 2019 16:02:06 -0500</pubDate>
+      <guid>https://bdai6.github.io/tags/fpga-hmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>graph</title>
       <link>https://bdai6.github.io/tags/graph/</link>
-      <pubDate>Mon, 01 Jul 2019 11:44:36 -0500</pubDate>
+      <pubDate>Fri, 16 Aug 2019 16:02:06 -0500</pubDate>
       <guid>https://bdai6.github.io/tags/graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph analytics</title>
+      <link>https://bdai6.github.io/tags/graph-analytics/</link>
+      <pubDate>Fri, 16 Aug 2019 16:02:06 -0500</pubDate>
+      <guid>https://bdai6.github.io/tags/graph-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>associative processing</title>
+      <link>https://bdai6.github.io/tags/associative-processing/</link>
+      <pubDate>Fri, 16 Aug 2019 16:00:10 -0500</pubDate>
+      <guid>https://bdai6.github.io/tags/associative-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>general purpose computing</title>
+      <link>https://bdai6.github.io/tags/general-purpose-computing/</link>
+      <pubDate>Fri, 16 Aug 2019 16:00:10 -0500</pubDate>
+      <guid>https://bdai6.github.io/tags/general-purpose-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>big data</title>
+      <link>https://bdai6.github.io/tags/big-data/</link>
+      <pubDate>Fri, 16 Aug 2019 15:59:00 -0500</pubDate>
+      <guid>https://bdai6.github.io/tags/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>liquid siicon</title>
+      <link>https://bdai6.github.io/tags/liquid-siicon/</link>
+      <pubDate>Fri, 16 Aug 2019 15:59:00 -0500</pubDate>
+      <guid>https://bdai6.github.io/tags/liquid-siicon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://bdai6.github.io/tags/machine-learning/</link>
+      <pubDate>Fri, 16 Aug 2019 15:59:00 -0500</pubDate>
+      <guid>https://bdai6.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>processing-in-memory</title>
+      <link>https://bdai6.github.io/tags/processing-in-memory/</link>
+      <pubDate>Fri, 16 Aug 2019 15:59:00 -0500</pubDate>
+      <guid>https://bdai6.github.io/tags/processing-in-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reconfigurable</title>
+      <link>https://bdai6.github.io/tags/reconfigurable/</link>
+      <pubDate>Fri, 16 Aug 2019 15:59:00 -0500</pubDate>
+      <guid>https://bdai6.github.io/tags/reconfigurable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FPGA</title>
+      <link>https://bdai6.github.io/tags/fpga/</link>
+      <pubDate>Fri, 16 Aug 2019 15:58:48 -0500</pubDate>
+      <guid>https://bdai6.github.io/tags/fpga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RISC-V</title>
+      <link>https://bdai6.github.io/tags/risc-v/</link>
+      <pubDate>Fri, 16 Aug 2019 15:58:48 -0500</pubDate>
+      <guid>https://bdai6.github.io/tags/risc-v/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>in-memory</title>
+      <link>https://bdai6.github.io/tags/in-memory/</link>
+      <pubDate>Fri, 16 Aug 2019 15:58:48 -0500</pubDate>
+      <guid>https://bdai6.github.io/tags/in-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>near-memory</title>
+      <link>https://bdai6.github.io/tags/near-memory/</link>
+      <pubDate>Fri, 16 Aug 2019 15:58:48 -0500</pubDate>
+      <guid>https://bdai6.github.io/tags/near-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nonvolatile memory</title>
+      <link>https://bdai6.github.io/tags/nonvolatile-memory/</link>
+      <pubDate>Fri, 16 Aug 2019 15:58:48 -0500</pubDate>
+      <guid>https://bdai6.github.io/tags/nonvolatile-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open source</title>
+      <link>https://bdai6.github.io/tags/open-source/</link>
+      <pubDate>Fri, 16 Aug 2019 15:58:48 -0500</pubDate>
+      <guid>https://bdai6.github.io/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud</title>
+      <link>https://bdai6.github.io/tags/cloud/</link>
+      <pubDate>Fri, 16 Aug 2019 15:58:34 -0500</pubDate>
+      <guid>https://bdai6.github.io/tags/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multi-tenant</title>
+      <link>https://bdai6.github.io/tags/multi-tenant/</link>
+      <pubDate>Fri, 16 Aug 2019 15:58:34 -0500</pubDate>
+      <guid>https://bdai6.github.io/tags/multi-tenant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virtualization</title>
+      <link>https://bdai6.github.io/tags/virtualization/</link>
+      <pubDate>Fri, 16 Aug 2019 15:58:34 -0500</pubDate>
+      <guid>https://bdai6.github.io/tags/virtualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>https://bdai6.github.io/tags/ai/</link>
+      <pubDate>Fri, 16 Aug 2019 15:57:51 -0500</pubDate>
+      <guid>https://bdai6.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CNN</title>
+      <link>https://bdai6.github.io/tags/cnn/</link>
+      <pubDate>Fri, 16 Aug 2019 15:57:51 -0500</pubDate>
+      <guid>https://bdai6.github.io/tags/cnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNN</title>
+      <link>https://bdai6.github.io/tags/dnn/</link>
+      <pubDate>Fri, 16 Aug 2019 15:57:51 -0500</pubDate>
+      <guid>https://bdai6.github.io/tags/dnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>convolutional neural network</title>
+      <link>https://bdai6.github.io/tags/convolutional-neural-network/</link>
+      <pubDate>Fri, 16 Aug 2019 15:57:51 -0500</pubDate>
+      <guid>https://bdai6.github.io/tags/convolutional-neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep learning</title>
+      <link>https://bdai6.github.io/tags/deep-learning/</link>
+      <pubDate>Fri, 16 Aug 2019 15:57:51 -0500</pubDate>
+      <guid>https://bdai6.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>roofline model</title>
+      <link>https://bdai6.github.io/tags/roofline-model/</link>
+      <pubDate>Fri, 16 Aug 2019 15:57:51 -0500</pubDate>
+      <guid>https://bdai6.github.io/tags/roofline-model/</guid>
       <description></description>
     </item>
     
@@ -45,50 +245,10 @@
     </item>
     
     <item>
-      <title>RISC-V</title>
-      <link>https://bdai6.github.io/tags/risc-v/</link>
-      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/tags/risc-v/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>subpaper</title>
       <link>https://bdai6.github.io/tags/subpaper/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/tags/subpaper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>processing-in-memory</title>
-      <link>https://bdai6.github.io/tags/processing-in-memory/</link>
-      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/tags/processing-in-memory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> bfs</title>
-      <link>https://bdai6.github.io/tags/bfs/</link>
-      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/tags/bfs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> graph analytics</title>
-      <link>https://bdai6.github.io/tags/graph-analytics/</link>
-      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/tags/graph-analytics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> graph clustering</title>
-      <link>https://bdai6.github.io/tags/graph-clustering/</link>
-      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/tags/graph-clustering/</guid>
       <description></description>
     </item>
     
@@ -105,14 +265,6 @@
       <link>https://bdai6.github.io/tags/hardware-accelerators/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/tags/hardware-accelerators/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> hybrid memory cube</title>
-      <link>https://bdai6.github.io/tags/hybrid-memory-cube/</link>
-      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/tags/hybrid-memory-cube/</guid>
       <description></description>
     </item>
     
@@ -137,6 +289,22 @@
       <link>https://bdai6.github.io/tags/reconfigurable-logic/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/tags/reconfigurable-logic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph clustering</title>
+      <link>https://bdai6.github.io/tags/graph-clustering/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/tags/graph-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hybrid memory cube</title>
+      <link>https://bdai6.github.io/tags/hybrid-memory-cube/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdai6.github.io/tags/hybrid-memory-cube/</guid>
       <description></description>
     </item>
     
@@ -485,14 +653,6 @@
     </item>
     
     <item>
-      <title>machine learning</title>
-      <link>https://bdai6.github.io/tags/machine-learning/</link>
-      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>massive-scale sparse graphs</title>
       <link>https://bdai6.github.io/tags/massive-scale-sparse-graphs/</link>
       <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
@@ -561,14 +721,6 @@
       <link>https://bdai6.github.io/tags/near-memory-processing/</link>
       <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/tags/near-memory-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> nonvolatile memory</title>
-      <link>https://bdai6.github.io/tags/nonvolatile-memory/</link>
-      <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/tags/nonvolatile-memory/</guid>
       <description></description>
     </item>
     
@@ -757,14 +909,6 @@
     </item>
     
     <item>
-      <title> fpga</title>
-      <link>https://bdai6.github.io/tags/fpga/</link>
-      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/tags/fpga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title> hybrid memory cube:bfs</title>
       <link>https://bdai6.github.io/tags/hybrid-memory-cubebfs/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
@@ -825,14 +969,6 @@
       <link>https://bdai6.github.io/tags/ternary-content-addressable-memory/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/tags/ternary-content-addressable-memory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> reconfigurable</title>
-      <link>https://bdai6.github.io/tags/reconfigurable/</link>
-      <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/tags/reconfigurable/</guid>
       <description></description>
     </item>
     
@@ -1209,14 +1345,6 @@
       <link>https://bdai6.github.io/tags/ultra-low-half-select-leakage/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/tags/ultra-low-half-select-leakage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> big data</title>
-      <link>https://bdai6.github.io/tags/big-data/</link>
-      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/tags/big-data/</guid>
       <description></description>
     </item>
     
@@ -3509,7 +3637,7 @@
     </item>
     
     <item>
-      <title>adders</title>
+      <title> adders</title>
       <link>https://bdai6.github.io/tags/adders/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/tags/adders/</guid>

@@ -151,6 +151,15 @@ The list of latest work is controlled by &lt;code&gt;theme/academic/layouts/auth
 
 &lt;p&gt;If a content file has front matter variables set between triple-minus &lt;code&gt;---&lt;/code&gt; lines, then it is YAML formatted. Otherwise, a content file will have front matter variables set between triple-plus &lt;code&gt;+++&lt;/code&gt; lines, indicating that it is TOML formatted.&lt;/p&gt;
 
+&lt;h2 id=&#34;create-content&#34;&gt;Create content&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;create a new project: &lt;code&gt;hugo new  --kind project project/my-project-name&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;create a new talk: &lt;code&gt;hugo new  --kind talk talk/my-talk-name&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;create a post: &lt;code&gt;hugo new  --kind post post/my-article-name&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;create a publication &lt;em&gt;manually&lt;/em&gt;: &lt;code&gt;hugo new --kind publication publication/&amp;lt;my-publication&amp;gt;&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&#34;syntax-highlight&#34;&gt;Syntax highlight&lt;/h2&gt;
 
 &lt;p&gt;Somehow syntax highlighting with &lt;span class=&#34;markup-quote&#34;&gt;```yaml&lt;/span&gt; doesn&amp;rsquo;t work, &lt;span class=&#34;markup-quote&#34;&gt;```json&lt;/span&gt; works instead.&lt;/p&gt;

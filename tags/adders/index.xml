@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>adders | Wisconsin Computational Intelligence Lab</title>
+    <title> adders | Wisconsin Computational Intelligence Lab</title>
     <link>https://bdai6.github.io/tags/adders/</link>
       <atom:link href="https://bdai6.github.io/tags/adders/index.xml" rel="self" type="application/rss+xml" />
-    <description>adders</description>
+    <description> adders</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2010 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
-      <title>adders</title>
+      <title> adders</title>
       <link>https://bdai6.github.io/tags/adders/</link>
     </image>
     

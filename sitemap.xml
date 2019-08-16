@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bdai6.github.io/courses/notes-on-hugo-academic/customize-hugo/</loc>
-    <lastmod>2019-08-14T00:00:00+01:00</lastmod>
+    <loc>https://bdai6.github.io/project/liquid-silicon/</loc>
+    <lastmod>2019-08-16T15:59:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/project/augmenting-computer-system/</loc>
-    <lastmod>2019-08-08T22:57:41-05:00</lastmod>
+    <loc>https://bdai6.github.io/courses/notes-on-hugo-academic/customize-hugo/</loc>
+    <lastmod>2019-08-14T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -33,8 +33,8 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/project/rethinking-computer-system/</loc>
-    <lastmod>2019-08-08T22:58:17-05:00</lastmod>
+    <loc>https://bdai6.github.io/project/two-d-ap/</loc>
+    <lastmod>2019-08-16T16:00:10-05:00</lastmod>
   </url>
   
   <url>
@@ -48,8 +48,217 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/project/large-graph/</loc>
+    <lastmod>2019-08-16T16:02:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/project/deep-learning/</loc>
+    <lastmod>2019-08-16T15:57:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/project/meg/</loc>
+    <lastmod>2019-08-16T15:58:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/project/virtualization/</loc>
+    <lastmod>2019-08-16T15:58:34-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/jialiang-zhang/</loc>
+    <lastmod>2019-08-16T16:02:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/soroosh-khoram/</loc>
+    <lastmod>2019-08-16T16:02:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/</loc>
+    <lastmod>2019-08-16T16:02:06-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/bfs/</loc>
+    <lastmod>2019-08-16T16:02:06-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/fpga-hmc/</loc>
+    <lastmod>2019-08-16T16:02:06-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/project/</loc>
+    <lastmod>2019-08-16T16:02:06-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/</loc>
+    <lastmod>2019-08-16T16:02:06-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/</loc>
-    <lastmod>2019-08-14T16:54:36-05:00</lastmod>
+    <lastmod>2019-08-16T16:02:06-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/graph/</loc>
+    <lastmod>2019-08-16T16:02:06-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/graph-analytics/</loc>
+    <lastmod>2019-08-16T16:02:06-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/associative-processing/</loc>
+    <lastmod>2019-08-16T16:00:10-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/general-purpose-computing/</loc>
+    <lastmod>2019-08-16T16:00:10-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/authors/yue-zha/</loc>
+    <lastmod>2019-08-16T15:59:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/big-data/</loc>
+    <lastmod>2019-08-16T15:59:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/liquid-siicon/</loc>
+    <lastmod>2019-08-16T15:59:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/machine-learning/</loc>
+    <lastmod>2019-08-16T15:59:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/processing-in-memory/</loc>
+    <lastmod>2019-08-16T15:59:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/reconfigurable/</loc>
+    <lastmod>2019-08-16T15:59:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/fpga/</loc>
+    <lastmod>2019-08-16T15:58:48-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/risc-v/</loc>
+    <lastmod>2019-08-16T15:58:48-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/in-memory/</loc>
+    <lastmod>2019-08-16T15:58:48-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/near-memory/</loc>
+    <lastmod>2019-08-16T15:58:48-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/nonvolatile-memory/</loc>
+    <lastmod>2019-08-16T15:58:48-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/open-source/</loc>
+    <lastmod>2019-08-16T15:58:48-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/cloud/</loc>
+    <lastmod>2019-08-16T15:58:34-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/multi-tenant/</loc>
+    <lastmod>2019-08-16T15:58:34-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/virtualization/</loc>
+    <lastmod>2019-08-16T15:58:34-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/ai/</loc>
+    <lastmod>2019-08-16T15:57:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/cnn/</loc>
+    <lastmod>2019-08-16T15:57:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/dnn/</loc>
+    <lastmod>2019-08-16T15:57:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/convolutional-neural-network/</loc>
+    <lastmod>2019-08-16T15:57:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/deep-learning/</loc>
+    <lastmod>2019-08-16T15:57:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/roofline-model/</loc>
+    <lastmod>2019-08-16T15:57:51-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -64,30 +273,8 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/authors/jing-li/</loc>
-    <lastmod>2019-08-08T22:58:17-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/</loc>
-    <lastmod>2019-08-14T16:54:36-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/project/</loc>
-    <lastmod>2019-08-08T22:58:17-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/cv/</loc>
     <lastmod>2019-08-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/jialiang-zhang/</loc>
-    <lastmod>2019-08-14T16:54:36-05:00</lastmod>
   </url>
   
   <url>
@@ -101,20 +288,8 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/</loc>
-    <lastmod>2019-08-14T16:54:36-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/graph/</loc>
-    <lastmod>2019-07-01T11:44:36-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/authors/yue-zha/</loc>
-    <lastmod>2019-08-14T16:43:32-05:00</lastmod>
+    <loc>https://bdai6.github.io/authors/jing-li/</loc>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -267,12 +442,6 @@
   <url>
     <loc>https://bdai6.github.io/publication/zhang-2019-fccm/</loc>
     <lastmod>2019-04-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/risc-v/</loc>
-    <lastmod>2019-08-14T16:54:36-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -753,11 +922,6 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/authors/soroosh-khoram/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/publication/zhang-2018-cvpr/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
@@ -778,12 +942,6 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/processing-in-memory/</loc>
-    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/publication/li-2018-cstic/</loc>
     <lastmod>2018-03-12T00:00:00+00:00</lastmod>
   </url>
@@ -794,24 +952,6 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/bfs/</loc>
-    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/graph-analytics/</loc>
-    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/graph-clustering/</loc>
-    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/tags/graph-processor/</loc>
     <lastmod>2018-02-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -819,12 +959,6 @@
   
   <url>
     <loc>https://bdai6.github.io/tags/hardware-accelerators/</loc>
-    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/hybrid-memory-cube/</loc>
     <lastmod>2018-02-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -860,6 +994,18 @@
   <url>
     <loc>https://bdai6.github.io/publication/zha-2018-fpga/</loc>
     <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/graph-clustering/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdai6.github.io/tags/hybrid-memory-cube/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1180,12 +1326,6 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/machine-learning/</loc>
-    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/tags/massive-scale-sparse-graphs/</loc>
     <lastmod>2017-04-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1235,12 +1375,6 @@
   
   <url>
     <loc>https://bdai6.github.io/tags/near-memory-processing/</loc>
-    <lastmod>2017-03-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/nonvolatile-memory/</loc>
     <lastmod>2017-03-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1400,12 +1534,6 @@
   </url>
   
   <url>
-    <loc>https://bdai6.github.io/tags/fpga/</loc>
-    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bdai6.github.io/tags/hybrid-memory-cubebfs/</loc>
     <lastmod>2017-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1470,12 +1598,6 @@
   <url>
     <loc>https://bdai6.github.io/tags/ternary-content-addressable-memory/</loc>
     <lastmod>2017-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/reconfigurable/</loc>
-    <lastmod>2016-11-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1826,12 +1948,6 @@
   <url>
     <loc>https://bdai6.github.io/tags/ultra-low-half-select-leakage/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/big-data/</loc>
-    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4156,6 +4272,12 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/adders/</loc>
+    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/authors/cheng-kok-koh/</loc>
     <lastmod>2010-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4186,12 +4308,6 @@
   
   <url>
     <loc>https://bdai6.github.io/authors/yuan-xie/</loc>
-    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/adders/</loc>
     <lastmod>2010-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

@@ -5,7 +5,7 @@
     <link>https://bdai6.github.io/authors/</link>
       <atom:link href="https://bdai6.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 08 Aug 2019 22:58:17 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Aug 2019 16:02:06 -0500</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
       <title>Authors</title>
@@ -14,8 +14,35 @@
     
     <item>
       <title></title>
+      <link>https://bdai6.github.io/authors/jialiang-zhang/</link>
+      <pubDate>Fri, 16 Aug 2019 16:02:06 -0500</pubDate>
+      <guid>https://bdai6.github.io/authors/jialiang-zhang/</guid>
+      <description>&lt;p&gt;Jialiang Zhang is a PhD student in the ECE department of UW-Madison. He received his B.E. degree from University of Electronic Science and Technology of China. His research focuses on hardware demonstration of emerging computer architecture concept. He is also an expert in high speed digital system and high performance mixed-signal circuit design.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://bdai6.github.io/authors/soroosh-khoram/</link>
+      <pubDate>Fri, 16 Aug 2019 16:02:06 -0500</pubDate>
+      <guid>https://bdai6.github.io/authors/soroosh-khoram/</guid>
+      <description>&lt;p&gt;Soroosh Khoram received his B.S. in digital systems from Sharif University of Technology, Iran in 2013, and M.S. in Microwave and Optics in 2015 from the same school. Later in 2015, he joined the graduate program of Electrical and Computer Engineering in University of Wisconsin – Madison to pursue his PhD. His research focuses on architecture design and algorithms mapping of novel computation paradigms. He is currently working on processing-in-memory accelerators and associative processors enabled by the emerging non-volatile memory technologies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://bdai6.github.io/authors/yue-zha/</link>
+      <pubDate>Fri, 16 Aug 2019 15:59:00 -0500</pubDate>
+      <guid>https://bdai6.github.io/authors/yue-zha/</guid>
+      <description>&lt;p&gt;Yue Zha received his B.S. degree in Physics from Peking University, China in 2013, and M.S. degree in Electrical and Computer Engineering from University of Wisconsin-Madison in 2015. He is currently pursuing his Ph.D. degree at the Department of Electrical and Computer Engineering, University of Wisconsin-Madison, WI. His research interests are reconfigurable computing device (conventional SRAM-based and novel RRAM-based), and CAD framework development.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://bdai6.github.io/authors/jing-li/</link>
-      <pubDate>Thu, 08 Aug 2019 22:58:17 -0500</pubDate>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/jing-li/</guid>
       <description>&lt;p&gt;Dr. Jing Li is an assistant professor and &lt;strong&gt;Dugald C. Jackson Faculty Scholar&lt;/strong&gt; at the department of Electrical and Computer Engineering and Computer Science (affiliated). She is part of &lt;a href=&#34;http://research.cs.wisc.edu/arch/uwarch/&#34; target=&#34;_blank&#34;&gt;Computer Architecture @ UW-Madison&lt;/a&gt; and &lt;a href=&#34;https://machinelearning.wisc.edu/&#34; target=&#34;_blank&#34;&gt;Machine Learning @ UW-Madison&lt;/a&gt;. She is one of the PIs in SRC JUMP center – Center for Research on Intelligent Storage and Processing-In-Memory (&lt;a href=&#34;https://crisp.engineering.virginia.edu/staff&#34; target=&#34;_blank&#34;&gt;CRISP&lt;/a&gt;). She spent her early career at &lt;a href=&#34;https://www.research.ibm.com/labs/watson/&#34; target=&#34;_blank&#34;&gt;IBM T. J. Watson Research Center&lt;/a&gt; as a &lt;em&gt;Research Staff Member&lt;/em&gt; after obtaining her PhD degree from Purdue University in 2009.&lt;/p&gt;
 
@@ -24,24 +51,6 @@
 &lt;p&gt;She is the recipient of prestigious &lt;strong&gt;NSF Career Award&lt;/strong&gt; in 2018, &lt;strong&gt;DARPA&amp;rsquo;s Young Faculty Award&lt;/strong&gt; (&lt;em&gt;one out of 2 in computer area and one out of 26 across all areas in science and technology nationwide, the first awardee in computer engineering and computer science at UW-Madison&lt;/em&gt;) in 2016, WARF Innovation Awards (WIA) Finalist (only 6 patented technologies out of 400+ patents got selected university wide), &lt;strong&gt;IBM Research Division Outstanding Technical Achievement Award&lt;/strong&gt; in 2012 for successfully achieving &lt;strong&gt;CEO milestone&lt;/strong&gt;, multiple invention achievement awards and high value patent application awards from IBM from 2010-2014, IBM Ph.D. Fellowship Award in 2008, Meissner Fellowship in 2004 from Purdue University, etc. Her research was reported by &lt;a href=&#34;https://ca.news.yahoo.com/liquid-silicon-chips-could-integrate-010242640.html&#34; target=&#34;_blank&#34;&gt;Yahoo News&lt;/a&gt;, &lt;a href=&#34;https://www.neweggbusiness.com/smartbuyer/components/liquid-silicon-computer-hardware/&#34; target=&#34;_blank&#34;&gt;Newegg Business&lt;/a&gt;, &lt;a href=&#34;https://www.digitaltrends.com/computing/liquid-silicon-merge-hardware-software-one-device/&#34; target=&#34;_blank&#34;&gt;Digital Trends&lt;/a&gt;, etc. And she was featured in Madison Magazine (Channel 3000) as a &lt;a href=&#34;https://www.channel3000.com/madison-magazine/city-life/a-rising-research-star/524062115&#34; target=&#34;_blank&#34;&gt;rising research star&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;She has been serving on the technical committee for the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (&lt;strong&gt;ASPLOS&lt;/strong&gt;), International Symposium on Computer Architecture (&lt;strong&gt;ISCA&lt;/strong&gt;), &lt;a href=&#34;https://www.sysml.cc/&#34; target=&#34;_blank&#34;&gt;SysML&lt;/a&gt;, International Symposium on High Performance Computer Architecture (&lt;strong&gt;HPCA&lt;/strong&gt;), International Symposium on Field-Programmable Gate Arrays (&lt;strong&gt;FPGA&lt;/strong&gt;), International Symposium on Field-Programmable Custom Computing Machines (&lt;strong&gt;FCCM&lt;/strong&gt;), Design Automation Conference (&lt;strong&gt;DAC&lt;/strong&gt;), International Conference on Computer‑Aided Design (&lt;strong&gt;ICCAD&lt;/strong&gt;), International Symposium on Low Power Electronics and Design (&lt;strong&gt;ISLPED&lt;/strong&gt;), International Symposium on Microarchitecture (&lt;strong&gt;MICRO&lt;/strong&gt;) (external), IEEE International Symposium on Circuits and Systems (&lt;strong&gt;ISCAS&lt;/strong&gt;), International Electron Devices Meeting (&lt;strong&gt;IEDM&lt;/strong&gt;), etc.. She served as the &lt;em&gt;advisory chair/general chair / technical chair / finance chair / publicity chair&lt;/em&gt; for a premier industry memory conference – International Memory Workshop (&lt;strong&gt;IMW&lt;/strong&gt;) and co-organized it with Intel/Micron/SK Hynix/CEA LETI to hold annual meetings with worldwide memory vendors. She is in the &lt;em&gt;Steering/Organizing Committee&lt;/em&gt; for &lt;strong&gt;IMW&lt;/strong&gt;, and serves as the &lt;em&gt;Publicity Chair&lt;/em&gt; for &lt;strong&gt;FPGA&amp;rsquo;20&lt;/strong&gt;, *FPGA&amp;rsquo;19** and &lt;strong&gt;ISLPED’18&lt;/strong&gt;, the &lt;em&gt;Demo Chair&lt;/em&gt; for &lt;strong&gt;SysML&amp;rsquo;20&lt;/strong&gt; . She is an editor for Journal of Low Power Electronics (&lt;strong&gt;JOLPE&lt;/strong&gt;). She is serving at ACM SIGDA Technical Committee on FPGAs and Reconfigurable Computing (&lt;strong&gt;TC-FPGA&lt;/strong&gt;).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://bdai6.github.io/authors/jialiang-zhang/</link>
-      <pubDate>Mon, 01 Jul 2019 11:44:36 -0500</pubDate>
-      <guid>https://bdai6.github.io/authors/jialiang-zhang/</guid>
-      <description>&lt;p&gt;Jialiang Zhang is a PhD student in the ECE department of UW-Madison. He received his B.E. degree from University of Electronic Science and Technology of China. His research focuses on hardware demonstration of emerging computer architecture concept. He is also an expert in high speed digital system and high performance mixed-signal circuit design.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://bdai6.github.io/authors/yue-zha/</link>
-      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/authors/yue-zha/</guid>
-      <description>&lt;p&gt;Yue Zha received his B.S. degree in Physics from Peking University, China in 2013, and M.S. degree in Electrical and Computer Engineering from University of Wisconsin-Madison in 2015. He is currently pursuing his Ph.D. degree at the Department of Electrical and Computer Engineering, University of Wisconsin-Madison, WI. His research interests are reconfigurable computing device (conventional SRAM-based and novel RRAM-based), and CAD framework development.&lt;/p&gt;
 </description>
     </item>
     
@@ -731,15 +740,6 @@
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://bdai6.github.io/authors/vivienne-sze/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://bdai6.github.io/authors/soroosh-khoram/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/authors/soroosh-khoram/</guid>
-      <description>&lt;p&gt;Soroosh Khoram received his B.S. in digital systems from Sharif University of Technology, Iran in 2013, and M.S. in Microwave and Optics in 2015 from the same school. Later in 2015, he joined the graduate program of Electrical and Computer Engineering in University of Wisconsin – Madison to pursue his PhD. His research focuses on architecture design and algorithms mapping of novel computation paradigms. He is currently working on processing-in-memory accelerators and associative processors enabled by the emerging non-volatile memory technologies.&lt;/p&gt;
-</description>
     </item>
     
     <item>

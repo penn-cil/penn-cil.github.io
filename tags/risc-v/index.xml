@@ -5,12 +5,21 @@
     <link>https://bdai6.github.io/tags/risc-v/</link>
       <atom:link href="https://bdai6.github.io/tags/risc-v/index.xml" rel="self" type="application/rss+xml" />
     <description>RISC-V</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Aug 2019 15:58:48 -0500</lastBuildDate>
     <image>
       <url>https://bdai6.github.io/img/logo.png</url>
       <title>RISC-V</title>
       <link>https://bdai6.github.io/tags/risc-v/</link>
     </image>
+    
+    <item>
+      <title>MEG</title>
+      <link>https://bdai6.github.io/project/meg/</link>
+      <pubDate>Fri, 16 Aug 2019 15:58:48 -0500</pubDate>
+      <guid>https://bdai6.github.io/project/meg/</guid>
+      <description>&lt;p&gt;Hardware-software co-design studies targeting next-generation computer systems that are equipped with emerging memories (HBM/HMC, NVM, etc.) are fundamentally hampered by a lack of scalable, performant and accurate simulation platform. Using software simulator is fundamentally bottlenecked by the low simulation speed and low fidelity, making it impractical to run realistic software stack. Such a challenge has limited effective cross-stack innovations (across computer architecture, OS, compiler, machine learning, and domain sciences). Past efforts have largely focused on simulation infrastructure for processor cores with highly simplified models of the memory subsystem. As a key contribution to the community (including SRC JUMP centers, broad academia and industry) to better drive cross-stack memory system research, we have been developing &lt;strong&gt;MEG&lt;/strong&gt; [&lt;a href=&#34;https://bdai6.github.io/publication/zhang-s019-fccm&#34;&gt;Zhang2019FCCM&lt;/a&gt;] – &lt;em&gt;an open source FPGA- based simulation platform that enables cycle-exact micro-architecture simulation for computer systems with a special focus on memory subsystem&lt;/em&gt; (heterogeneous memory, near/in-memory acceleration). In MEG, we combine silicon- proven RTL design of RISC-V cores with configurable heterogeneous memory subsystems (HMC/HBM/NVM). It is capable of running realistic software stacks including booting Linux and comprehensive application software with high fidelity (cycle-exact microarchitectural models derived from synthesizable RTL), flexibility (modifiable to include custom RTL user IP and/or more abstract models), reproducibility, observability, target software support and performance. MEG can be an effective complement to previous &lt;a href=&#34;https://www2.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-158.pdf&#34; target=&#34;_blank&#34;&gt;RAMP&lt;/a&gt; and more recent &lt;a href=&#34;https://fires.im/&#34; target=&#34;_blank&#34;&gt;Firesim&lt;/a&gt; projects in covering memory space and a contribution to the open source &lt;a href=&#34;https://riscv.org/&#34; target=&#34;_blank&#34;&gt;RISC-V&lt;/a&gt; community.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>MEG: A RISCV-based system simulation infrastructure for exploring memory optimization using FPGAs and Hybrid Memory Cube (Best Paper Nominee)</title>

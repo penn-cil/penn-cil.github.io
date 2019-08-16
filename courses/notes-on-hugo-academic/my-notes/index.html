@@ -21,14 +21,14 @@
   
   
 
-  <meta name="author" content="Jing Li">
+  <meta name="author" content="Jialiang Zhang">
 
   
   
   
     
   
-  <meta name="description" content="Table of Contents    Front Matter Syntax highlight Create a non-widget new page Cross-reference and link in Markdown and shortcodes Create a publication  Other approaches  Create Table of Contents What shortcodes can do  More on shortcodes  Deploy generated website to Git Pages Publications and other content are not sorted by newest first Insert an image with Markdown Lists with Markdown Associate Post, Publication, and Talk with projects">
+  <meta name="description" content="Table of Contents    Front Matter Create content Syntax highlight Create a non-widget new page Cross-reference and link in Markdown and shortcodes Create a publication  Other approaches  Create Table of Contents What shortcodes can do  More on shortcodes  Deploy generated website to Git Pages Publications and other content are not sorted by newest first Insert an image with Markdown Lists with Markdown Associate Post, Publication, and Talk with projects">
 
   
   <link rel="alternate" hreflang="en-us" href="https://bdai6.github.io/courses/notes-on-hugo-academic/my-notes/">
@@ -120,7 +120,7 @@
   <meta property="og:site_name" content="Wisconsin Computational Intelligence Lab">
   <meta property="og:url" content="https://bdai6.github.io/courses/notes-on-hugo-academic/my-notes/">
   <meta property="og:title" content="Note on sourcethemes-academic | Wisconsin Computational Intelligence Lab">
-  <meta property="og:description" content="Table of Contents    Front Matter Syntax highlight Create a non-widget new page Cross-reference and link in Markdown and shortcodes Create a publication  Other approaches  Create Table of Contents What shortcodes can do  More on shortcodes  Deploy generated website to Git Pages Publications and other content are not sorted by newest first Insert an image with Markdown Lists with Markdown Associate Post, Publication, and Talk with projects"><meta property="og:image" content="https://bdai6.github.io/img/logo.png">
+  <meta property="og:description" content="Table of Contents    Front Matter Create content Syntax highlight Create a non-widget new page Cross-reference and link in Markdown and shortcodes Create a publication  Other approaches  Create Table of Contents What shortcodes can do  More on shortcodes  Deploy generated website to Git Pages Publications and other content are not sorted by newest first Insert an image with Markdown Lists with Markdown Associate Post, Publication, and Talk with projects"><meta property="og:image" content="https://bdai6.github.io/img/logo.png">
   <meta property="twitter:image" content="https://bdai6.github.io/img/logo.png"><meta property="og:locale" content="en-us">
   
     
@@ -601,6 +601,7 @@
 <li>
 <ul>
 <li><a href="#front-matter">Front Matter</a></li>
+<li><a href="#create-content">Create content</a></li>
 <li><a href="#syntax-highlight">Syntax highlight</a></li>
 <li><a href="#create-a-non-widget-new-page">Create a non-widget new page</a></li>
 <li><a href="#cross-reference-and-link-in-markdown-and-shortcodes">Cross-reference and link in Markdown and shortcodes</a></li>
@@ -642,6 +643,7 @@
 <li>
 <ul>
 <li><a href="#front-matter">Front Matter</a></li>
+<li><a href="#create-content">Create content</a></li>
 <li><a href="#syntax-highlight">Syntax highlight</a></li>
 <li><a href="#create-a-non-widget-new-page">Create a non-widget new page</a></li>
 <li><a href="#cross-reference-and-link-in-markdown-and-shortcodes">Cross-reference and link in Markdown and shortcodes</a></li>
@@ -670,6 +672,15 @@
 <p>In the documentation and the example site, we will predominantly use YAML to format the front matter of <em>content</em> files and TOML to format the <em>configuration</em> files and <em>widget</em> files.</p>
 
 <p>If a content file has front matter variables set between triple-minus <code>---</code> lines, then it is YAML formatted. Otherwise, a content file will have front matter variables set between triple-plus <code>+++</code> lines, indicating that it is TOML formatted.</p>
+
+<h2 id="create-content">Create content</h2>
+
+<ul>
+<li>create a new project: <code>hugo new  --kind project project/my-project-name</code></li>
+<li>create a new talk: <code>hugo new  --kind talk talk/my-talk-name</code></li>
+<li>create a post: <code>hugo new  --kind post post/my-article-name</code></li>
+<li>create a publication <em>manually</em>: <code>hugo new --kind publication publication/&lt;my-publication&gt;</code></li>
+</ul>
 
 <h2 id="syntax-highlight">Syntax highlight</h2>
 
