@@ -1368,6 +1368,12 @@
   </url>
   
   <url>
+    <loc>https://bdai6.github.io/tags/3d-integration/</loc>
+    <lastmod>2017-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bdai6.github.io/tags/in-memory-processing/</loc>
     <lastmod>2017-03-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1375,12 +1381,6 @@
   
   <url>
     <loc>https://bdai6.github.io/tags/near-memory-processing/</loc>
-    <lastmod>2017-03-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdai6.github.io/tags/3d-integration/</loc>
     <lastmod>2017-03-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
