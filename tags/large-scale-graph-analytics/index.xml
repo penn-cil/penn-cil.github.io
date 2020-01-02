@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>large-scale graph analytics | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/large-scale-graph-analytics/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/large-scale-graph-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/large-scale-graph-analytics/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/large-scale-graph-analytics/index.xml" rel="self" type="application/rss+xml" />
     <description>large-scale graph analytics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 Apr 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>large-scale graph analytics</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/large-scale-graph-analytics/</link>
+      <link>https://jingjaneli.github.io/tags/large-scale-graph-analytics/</link>
     </image>
     
     <item>
       <title>Accelerating Large-Scale Graph Analytics with FPGA and HMC (Poster)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/khoram-2017-fccm/</link>
+      <link>https://jingjaneli.github.io/publication/khoram-2017-fccm/</link>
       <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/khoram-2017-fccm/</guid>
+      <guid>https://jingjaneli.github.io/publication/khoram-2017-fccm/</guid>
       <description>&lt;p&gt;Acceptance rate: underline25%, 32 out of 128&lt;/p&gt;
 </description>
     </item>

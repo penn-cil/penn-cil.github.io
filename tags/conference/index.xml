@@ -2,439 +2,439 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>conference | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/conference/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/conference/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>conference</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>conference</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/conference/</link>
+      <link>https://jingjaneli.github.io/tags/conference/</link>
     </image>
     
     <item>
       <title>ViTAL: Virtualizing FPGAs in the Cloud</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2020-asplos/</link>
+      <link>https://jingjaneli.github.io/publication/zha-2020-asplos/</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2020-asplos/</guid>
+      <guid>https://jingjaneli.github.io/publication/zha-2020-asplos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Liquid Silicon: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated ReRAM for Big Data/Machine Learning Applications</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2019-vlsic/</link>
+      <link>https://jingjaneli.github.io/publication/zha-2019-vlsic/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2019-vlsic/</guid>
+      <guid>https://jingjaneli.github.io/publication/zha-2019-vlsic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nb(1-x)O2 based Universal Selector with Ultra-high Endurance (&gt;10^12), high speed (10ns) and Excellent Vth Stability</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/luo-2019-vlsit/</link>
+      <link>https://jingjaneli.github.io/publication/luo-2019-vlsit/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/luo-2019-vlsit/</guid>
+      <guid>https://jingjaneli.github.io/publication/luo-2019-vlsit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MEG: A RISCV-based system simulation infrastructure for exploring memory optimization using FPGAs and Hybrid Memory Cube (Best Paper Nominee)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zhang-2019-fccm/</link>
+      <link>https://jingjaneli.github.io/publication/zhang-2019-fccm/</link>
       <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zhang-2019-fccm/</guid>
+      <guid>https://jingjaneli.github.io/publication/zhang-2019-fccm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unleashing the Power of Soft Logic for Convolutional Neural Network Acceleration via Product Quantization (Poster)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zhang-2019-fpga/</link>
+      <link>https://jingjaneli.github.io/publication/zhang-2019-fpga/</link>
       <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zhang-2019-fpga/</guid>
+      <guid>https://jingjaneli.github.io/publication/zhang-2019-fpga/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient Large-scale Approximate Nearest Neighbor Search on the OpenCL-FPGA</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zhang-2018-cvpr/</link>
+      <link>https://jingjaneli.github.io/publication/zhang-2018-cvpr/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zhang-2018-cvpr/</guid>
+      <guid>https://jingjaneli.github.io/publication/zhang-2018-cvpr/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline29%, 979 out of over 3300)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PQ-CNN: Accelerating Product Quantized Convolutional Neural Network (Poster)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zhang-2018-fccm/</link>
+      <link>https://jingjaneli.github.io/publication/zhang-2018-fccm/</link>
       <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zhang-2018-fccm/</guid>
+      <guid>https://jingjaneli.github.io/publication/zhang-2018-fccm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive Quantization of Neural Networks</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/khoram-2018-iclr/</link>
+      <link>https://jingjaneli.github.io/publication/khoram-2018-iclr/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/khoram-2018-iclr/</guid>
+      <guid>https://jingjaneli.github.io/publication/khoram-2018-iclr/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline34%, 314 out of 935)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Nonvolatile Memory Outlook: Technology Driven or Application Driven? (INVITED)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2018-cstic/</link>
+      <link>https://jingjaneli.github.io/publication/li-2018-cstic/</link>
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2018-cstic/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2018-cstic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accelerating  Graph  Analytics  By  Co-Optimizing  Storage  and  Access  on  an FPGA-HMC Platform</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/khoram-2018-fpga/</link>
+      <link>https://jingjaneli.github.io/publication/khoram-2018-fpga/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/khoram-2018-fpga/</guid>
+      <guid>https://jingjaneli.github.io/publication/khoram-2018-fpga/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline24%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Degree-aware Hybrid Graph Traversal on FPGA-HMC Platform</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zhang-2018-fpga/</link>
+      <link>https://jingjaneli.github.io/publication/zhang-2018-fpga/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zhang-2018-fpga/</guid>
+      <guid>https://jingjaneli.github.io/publication/zhang-2018-fpga/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline24%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Liquid  Silicon:  A Data-Centric Reconfigurable Architecture enabled by RRAM Technology</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2018-fpga/</link>
+      <link>https://jingjaneli.github.io/publication/zha-2018-fpga/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2018-fpga/</guid>
+      <guid>https://jingjaneli.github.io/publication/zha-2018-fpga/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline24%, Ranked &lt;strong&gt;#1&lt;/strong&gt; among 100+ submissions)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>RRAM-based reconfigurable in-memory computing architecture with hybrid routing</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2017-iccad/</link>
+      <link>https://jingjaneli.github.io/publication/zha-2017-iccad/</link>
       <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2017-iccad/</guid>
+      <guid>https://jingjaneli.github.io/publication/zha-2017-iccad/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline26%, 105 out of 399)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>RRAM-based  Reconfigurable  In-Memory  Computing  Architecture with Hybrid Routing (poster)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2017-dacwip/</link>
+      <link>https://jingjaneli.github.io/publication/zha-2017-dacwip/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2017-dacwip/</guid>
+      <guid>https://jingjaneli.github.io/publication/zha-2017-dacwip/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline29%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Accelerating Large-Scale Graph Analytics with FPGA and HMC (Poster)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/khoram-2017-fccm/</link>
+      <link>https://jingjaneli.github.io/publication/khoram-2017-fccm/</link>
       <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/khoram-2017-fccm/</guid>
+      <guid>https://jingjaneli.github.io/publication/khoram-2017-fccm/</guid>
       <description>&lt;p&gt;Acceptance rate: underline25%, 32 out of 128&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Challenges and Opportunities: From Near-memory Computing to In-memory Computing (INVITED)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/khoram-2017-ispd/</link>
+      <link>https://jingjaneli.github.io/publication/khoram-2017-ispd/</link>
       <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/khoram-2017-ispd/</guid>
+      <guid>https://jingjaneli.github.io/publication/khoram-2017-ispd/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline35%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Recent progress in RRAM technology: From compact models to applications (INVITED)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2017-cstic/</link>
+      <link>https://jingjaneli.github.io/publication/zha-2017-cstic/</link>
       <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2017-cstic/</guid>
+      <guid>https://jingjaneli.github.io/publication/zha-2017-cstic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Mixed-Signal Data-Centric Reconfigurable Architecture Enabled by RRAM Technology (poster)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2017-fpgaposter/</link>
+      <link>https://jingjaneli.github.io/publication/zha-2017-fpgaposter/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2017-fpgaposter/</guid>
+      <guid>https://jingjaneli.github.io/publication/zha-2017-fpgaposter/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline25%, 25 out of 101)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Boosting the Performance of FPGA-based Graph Processor Using Hybrid Memory Cube: A Case for Breadth First Search</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zhang-2017-fpga-bfs/</link>
+      <link>https://jingjaneli.github.io/publication/zhang-2017-fpga-bfs/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zhang-2017-fpga-bfs/</guid>
+      <guid>https://jingjaneli.github.io/publication/zhang-2017-fpga-bfs/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline25%, 25 out of 101)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Improving the Performance of OpenCL-based FPGA Accelerator for Convolutional Neural Network</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zhang-2017-fpga-cnn/</link>
+      <link>https://jingjaneli.github.io/publication/zhang-2017-fpga-cnn/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zhang-2017-fpga-cnn/</guid>
+      <guid>https://jingjaneli.github.io/publication/zhang-2017-fpga-cnn/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline25%, 25 out of 101)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Reconfigurable in-memory computing with resistive memory crossbar</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2016-iccad/</link>
+      <link>https://jingjaneli.github.io/publication/zha-2016-iccad/</link>
       <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2016-iccad/</guid>
+      <guid>https://jingjaneli.github.io/publication/zha-2016-iccad/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline24%, 97 out of 408)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Fully CMOS compatible 3D vertical RRAM with self-aligned self-selective cell enabling sub-5nm scaling</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/xu-2016-vlsi/</link>
+      <link>https://jingjaneli.github.io/publication/xu-2016-vlsi/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/xu-2016-vlsi/</guid>
+      <guid>https://jingjaneli.github.io/publication/xu-2016-vlsi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A compact model for RRAM including random telegraph noise</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/guan-2016-irps/</link>
+      <link>https://jingjaneli.github.io/publication/guan-2016-irps/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/guan-2016-irps/</guid>
+      <guid>https://jingjaneli.github.io/publication/guan-2016-irps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demonstration of 3D vertical RRAM with ultra low-leakage, high-selectivity and self-compliance memory cells</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/luo-2015-iedm/</link>
+      <link>https://jingjaneli.github.io/publication/luo-2015-iedm/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/luo-2015-iedm/</guid>
+      <guid>https://jingjaneli.github.io/publication/luo-2015-iedm/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Enabling phase-change memory for data-centric computing: Technology, circuitand system (INVITED)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2015-iscas/</link>
+      <link>https://jingjaneli.github.io/publication/li-2015-iscas/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2015-iscas/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2015-iscas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1Mb 0.41 um^2 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (Highlight Paper of the Year)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2013-vlsi/</link>
+      <link>https://jingjaneli.github.io/publication/li-2013-vlsi/</link>
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2013-vlsi/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2013-vlsi/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline27%, 109 out of 396)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A case for small row buffers in non-volatile main memories</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/meza-2012-iccd/</link>
+      <link>https://jingjaneli.github.io/publication/meza-2012-iccd/</link>
       <pubDate>Sun, 30 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/meza-2012-iccd/</guid>
+      <guid>https://jingjaneli.github.io/publication/meza-2012-iccd/</guid>
       <description>&lt;p&gt;(Acceptance rate: underline25%, 61 out of 241)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Optimization of programming current on endurance of phase change memory</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/kim-2012-vlsitsa/</link>
+      <link>https://jingjaneli.github.io/publication/kim-2012-vlsitsa/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/kim-2012-vlsitsa/</guid>
+      <guid>https://jingjaneli.github.io/publication/kim-2012-vlsitsa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resistance drift in phase change memory (INVITED)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2012-irps/</link>
+      <link>https://jingjaneli.github.io/publication/li-2012-irps/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2012-irps/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2012-irps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The impact of melting during reset operation on the reliability of phase change memory</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/du-2012-irps/</link>
+      <link>https://jingjaneli.github.io/publication/du-2012-irps/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/du-2012-irps/</guid>
+      <guid>https://jingjaneli.github.io/publication/du-2012-irps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A low power phase change memory using thermally confined TaN/TiN bottom electrode</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/wu-2011-iedm/</link>
+      <link>https://jingjaneli.github.io/publication/wu-2011-iedm/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/wu-2011-iedm/</guid>
+      <guid>https://jingjaneli.github.io/publication/wu-2011-iedm/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Explore physical origins of resistance drift in phase change memory and its implication for drift-insensitive materials</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2011-iedm/</link>
+      <link>https://jingjaneli.github.io/publication/li-2011-iedm/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2011-iedm/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2011-iedm/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Materials engineering for Phase Change Random Access Memory</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/raoux-2011-nvmts/</link>
+      <link>https://jingjaneli.github.io/publication/raoux-2011-nvmts/</link>
       <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/raoux-2011-nvmts/</guid>
+      <guid>https://jingjaneli.github.io/publication/raoux-2011-nvmts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Post-silicon calibration of analog CMOS using phase-change memory cells</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/wen-2011-esscirc/</link>
+      <link>https://jingjaneli.github.io/publication/wen-2011-esscirc/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/wen-2011-esscirc/</guid>
+      <guid>https://jingjaneli.github.io/publication/wen-2011-esscirc/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline38%, 121 out of 314)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A non-volatile look-up table design using PCM (phase-change memory) cells</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/wen-2011-vlsi/</link>
+      <link>https://jingjaneli.github.io/publication/wen-2011-vlsi/</link>
       <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/wen-2011-vlsi/</guid>
+      <guid>https://jingjaneli.github.io/publication/wen-2011-vlsi/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline28%, 115 out of 409)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Novel Reconfigurable Sensing Scheme for Variable Level Storage in Phase Change Memory</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2011-imw/</link>
+      <link>https://jingjaneli.github.io/publication/li-2011-imw/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2011-imw/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2011-imw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demonstration of CAM and TCAM Using Phase Change Devices</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/rajendran-2011-imw/</link>
+      <link>https://jingjaneli.github.io/publication/rajendran-2011-imw/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/rajendran-2011-imw/</guid>
+      <guid>https://jingjaneli.github.io/publication/rajendran-2011-imw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Physical model of the impact of metal grain work function variability on emerging dual metal gate MOSFETs and its implication for SRAM reliability</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zhang-2009-iedm/</link>
+      <link>https://jingjaneli.github.io/publication/zhang-2009-iedm/</link>
       <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zhang-2009-iedm/</guid>
+      <guid>https://jingjaneli.github.io/publication/zhang-2009-iedm/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Variation  Resilient  Spin  Torque  Transfer  MRAM (poster)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2009-gsrc/</link>
+      <link>https://jingjaneli.github.io/publication/li-2009-gsrc/</link>
       <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2009-gsrc/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2009-gsrc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Alternate Design Paradigm for Robust Spin-torque Transfer Magnetic RAM (STT MRAM) from Circuit/Architecture Perspective</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2009-aspdac/</link>
+      <link>https://jingjaneli.github.io/publication/li-2009-aspdac/</link>
       <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2009-aspdac/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2009-aspdac/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline33%, 116 out of 355)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Robust Heterogeneous System Design in Spintronics: Error Resilient Spin Torque MRAM (STT MRAM) Design</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2009-dac/</link>
+      <link>https://jingjaneli.github.io/publication/li-2009-dac/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2009-dac/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2009-dac/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline22%, 148 out of 684)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Variation-tolerant Spin-Torque Transfer (STT) MRAM array for yield enhancement</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2008-cicc/</link>
+      <link>https://jingjaneli.github.io/publication/li-2008-cicc/</link>
       <pubDate>Sun, 21 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2008-cicc/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2008-cicc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling of failure probability and statistical design of Spin-Torque Transfer Magnetic Random Access Memory (STT MRAM) array for yield enhancement</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2008-dac/</link>
+      <link>https://jingjaneli.github.io/publication/li-2008-dac/</link>
       <pubDate>Sun, 08 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2008-dac/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2008-dac/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline23%, 147 out of 639)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Modeling of Failure Probability and Statistical Design of Spin-Torque Transfer Magnetic RAM (STT MRAM) Array for Yield Enhancement</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2008-techcon/</link>
+      <link>https://jingjaneli.github.io/publication/li-2008-techcon/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2008-techcon/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2008-techcon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A generic and reconfigurable test paradigm using Low-cost integrated Poly-Si TFTs</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2007-itc/</link>
+      <link>https://jingjaneli.github.io/publication/li-2007-itc/</link>
       <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2007-itc/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2007-itc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variable-latency adder (VL-adder): new arithmetic circuit design practice to overcome NBTI</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2007-islped/</link>
+      <link>https://jingjaneli.github.io/publication/li-2007-islped/</link>
       <pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2007-islped/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2007-islped/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline39%, 74 out of 192)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>High Performance and Low Power Electronics on Flexible Substrate</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2007-dac/</link>
+      <link>https://jingjaneli.github.io/publication/li-2007-dac/</link>
       <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2007-dac/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2007-dac/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline13%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Novel Variation-Aware Circuit Design of Scaled LTPS TFT for Ultra low Power, Low-Cost Applications</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2007-icicdt/</link>
+      <link>https://jingjaneli.github.io/publication/li-2007-icicdt/</link>
       <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2007-icicdt/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2007-icicdt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Low Power and Variation Tolerant Digital Circuit Design in Sub-micron  Regime  using  Low  Cost LTPS TFTs</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2007-techcon/</link>
+      <link>https://jingjaneli.github.io/publication/li-2007-techcon/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2007-techcon/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2007-techcon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring Low Temperature Poly-Si for Low Cost and Low Power Sub-micron Digital Operation</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2006-drc/</link>
+      <link>https://jingjaneli.github.io/publication/li-2006-drc/</link>
       <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2006-drc/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2006-drc/</guid>
       <description></description>
     </item>
     

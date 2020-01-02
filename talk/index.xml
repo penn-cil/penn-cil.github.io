@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/talk/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/talk/</link>
+      <atom:link href="https://jingjaneli.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Apr 2019 16:00:00 -0700</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://www.seas.upenn.edu/~janeli/talk/</link>
+      <link>https://jingjaneli.github.io/talk/</link>
     </image>
     
     <item>
       <title>Liquid Silicon: A 10-year Journey Towards New Computing Paradigm</title>
-      <link>https://www.seas.upenn.edu/~janeli/talk/liquid-silicon-stanford-2019/</link>
+      <link>https://jingjaneli.github.io/talk/liquid-silicon-stanford-2019/</link>
       <pubDate>Wed, 03 Apr 2019 16:00:00 -0700</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/talk/liquid-silicon-stanford-2019/</guid>
+      <guid>https://jingjaneli.github.io/talk/liquid-silicon-stanford-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Liquid Silicon: A New Computing Paradigm Enabled by Monolithic 3D Cross-point Memory</title>
-      <link>https://www.seas.upenn.edu/~janeli/talk/liquid-silicon-uchicago-2018/</link>
+      <link>https://jingjaneli.github.io/talk/liquid-silicon-uchicago-2018/</link>
       <pubDate>Tue, 06 Nov 2018 15:30:00 -0500</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/talk/liquid-silicon-uchicago-2018/</guid>
+      <guid>https://jingjaneli.github.io/talk/liquid-silicon-uchicago-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Liquid Silicon: A New Computing Paradigm Enabled by Monolithic 3D Cross-point Memory</title>
-      <link>https://www.seas.upenn.edu/~janeli/talk/liquid-silicon-ucla-2018/</link>
+      <link>https://jingjaneli.github.io/talk/liquid-silicon-ucla-2018/</link>
       <pubDate>Mon, 15 Oct 2018 12:30:00 -0700</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/talk/liquid-silicon-ucla-2018/</guid>
+      <guid>https://jingjaneli.github.io/talk/liquid-silicon-ucla-2018/</guid>
       <description></description>
     </item>
     

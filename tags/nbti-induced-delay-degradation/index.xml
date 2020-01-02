@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>nbti-induced delay degradation | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/nbti-induced-delay-degradation/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/nbti-induced-delay-degradation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/nbti-induced-delay-degradation/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/nbti-induced-delay-degradation/index.xml" rel="self" type="application/rss+xml" />
     <description>nbti-induced delay degradation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Aug 2007 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>nbti-induced delay degradation</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/nbti-induced-delay-degradation/</link>
+      <link>https://jingjaneli.github.io/tags/nbti-induced-delay-degradation/</link>
     </image>
     
     <item>
       <title>Variable-latency adder (VL-adder): new arithmetic circuit design practice to overcome NBTI</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2007-islped/</link>
+      <link>https://jingjaneli.github.io/publication/li-2007-islped/</link>
       <pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2007-islped/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2007-islped/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline39%, 74 out of 192)&lt;/p&gt;
 </description>
     </item>

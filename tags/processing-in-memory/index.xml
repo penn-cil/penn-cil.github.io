@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>processing-in-memory | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/processing-in-memory/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/processing-in-memory/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/processing-in-memory/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/processing-in-memory/index.xml" rel="self" type="application/rss+xml" />
     <description>processing-in-memory</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Aug 2019 15:59:00 -0500</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>processing-in-memory</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/processing-in-memory/</link>
+      <link>https://jingjaneli.github.io/tags/processing-in-memory/</link>
     </image>
     
     <item>
       <title>Liquid Silicon</title>
-      <link>https://www.seas.upenn.edu/~janeli/project/liquid-silicon/</link>
+      <link>https://jingjaneli.github.io/project/liquid-silicon/</link>
       <pubDate>Fri, 16 Aug 2019 15:59:00 -0500</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/project/liquid-silicon/</guid>
-      <description>&lt;p&gt;Liquid Silicon (L-Si) is a general-purpose in-memory computing architecture with complete system support that addresses several key fundamental limitations of state-of-the-art reconfigurable data-flow architectures (including FPGA, TPU, CGRA, etc.) in supporting emerging machine learning and big data applications. As compared with most projects in literature which focus on part of the system stack, L-Si is a &lt;em&gt;full stack&lt;/em&gt; solution that comprises architecture [&lt;a href=&#34;https://www.seas.upenn.edu/~janeli/publication/zha-2018-fpga&#34;&gt;Zha2018FPGA&lt;/a&gt;], compiler [&lt;a href=&#34;https://www.seas.upenn.edu/~janeli/publication/zha-2016-iccad&#34;&gt;Zha2016ICCAD&lt;/a&gt;], programming model and system integration [&lt;a href=&#34;https://www.seas.upenn.edu/~janeli/publication/zha-2018-asplos&#34;&gt;Zha2018ASPLOS&lt;/a&gt;], with a real chip demonstration [&lt;a href=&#34;https://www.seas.upenn.edu/~janeli/publication/zha-2019-vlsic&#34;&gt;Zha2019VLSIC&lt;/a&gt;]. The computing model of L-Si is radically different from state-of-the-art reconfigurable data-flow architectures. It maximally reuses the memory array itself (instead of placing computation units near the array) to perform a) heavy weight computation (&lt;em&gt;logic&lt;/em&gt;), b) light weight computation(&lt;em&gt;search&lt;/em&gt;), c) data storage (&lt;em&gt;memory&lt;/em&gt;), and d) communication (&lt;em&gt;routing&lt;/em&gt;), with minimal requirement in CMOS supporting circuitry, which can thus be further placed beneath the array. Therefore, it inherits the great benefits of semiconductor memory in integration density and cost, and offers orders of magnitude more parallel data processing capability in situ in the memory array than the best-known solution today. For the &lt;strong&gt;first time&lt;/strong&gt;, it fundamentally blurs the boundary between computation and storage, by exploiting a continuum of general-purpose in-memory compute capabilities across the whole spectrum, from full memory to full computation, or intermediate states in between (partial memory and partial computation). Thus, it provides programmers (or compiler) more flexibility to customize hardware’s compute and memory resources to better match applications needs for higher performance and energy efficiency. We leverage such unique property and provide compiler support to facilitate the programming of applications written in high-level programming languages (e.g. OpenCL) and frameworks (e.g. TensorFlow, MapReduce) while fully exploiting the unique architectural capability of L-Si. We also provide scalable multi-context architectural support to minimize reconfiguration overhead for assisting virtualization when combined with our system stack.&lt;/p&gt;
+      <guid>https://jingjaneli.github.io/project/liquid-silicon/</guid>
+      <description>&lt;p&gt;Liquid Silicon (L-Si) is a general-purpose in-memory computing architecture with complete system support that addresses several key fundamental limitations of state-of-the-art reconfigurable data-flow architectures (including FPGA, TPU, CGRA, etc.) in supporting emerging machine learning and big data applications. As compared with most projects in literature which focus on part of the system stack, L-Si is a &lt;em&gt;full stack&lt;/em&gt; solution that comprises architecture [&lt;a href=&#34;https://jingjaneli.github.io/publication/zha-2018-fpga&#34;&gt;Zha2018FPGA&lt;/a&gt;], compiler [&lt;a href=&#34;https://jingjaneli.github.io/publication/zha-2016-iccad&#34;&gt;Zha2016ICCAD&lt;/a&gt;], programming model and system integration [&lt;a href=&#34;https://jingjaneli.github.io/publication/zha-2018-asplos&#34;&gt;Zha2018ASPLOS&lt;/a&gt;], with a real chip demonstration [&lt;a href=&#34;https://jingjaneli.github.io/publication/zha-2019-vlsic&#34;&gt;Zha2019VLSIC&lt;/a&gt;]. The computing model of L-Si is radically different from state-of-the-art reconfigurable data-flow architectures. It maximally reuses the memory array itself (instead of placing computation units near the array) to perform a) heavy weight computation (&lt;em&gt;logic&lt;/em&gt;), b) light weight computation(&lt;em&gt;search&lt;/em&gt;), c) data storage (&lt;em&gt;memory&lt;/em&gt;), and d) communication (&lt;em&gt;routing&lt;/em&gt;), with minimal requirement in CMOS supporting circuitry, which can thus be further placed beneath the array. Therefore, it inherits the great benefits of semiconductor memory in integration density and cost, and offers orders of magnitude more parallel data processing capability in situ in the memory array than the best-known solution today. For the &lt;strong&gt;first time&lt;/strong&gt;, it fundamentally blurs the boundary between computation and storage, by exploiting a continuum of general-purpose in-memory compute capabilities across the whole spectrum, from full memory to full computation, or intermediate states in between (partial memory and partial computation). Thus, it provides programmers (or compiler) more flexibility to customize hardware’s compute and memory resources to better match applications needs for higher performance and energy efficiency. We leverage such unique property and provide compiler support to facilitate the programming of applications written in high-level programming languages (e.g. OpenCL) and frameworks (e.g. TensorFlow, MapReduce) while fully exploiting the unique architectural capability of L-Si. We also provide scalable multi-context architectural support to minimize reconfiguration overhead for assisting virtualization when combined with our system stack.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.seas.upenn.edu/~janeli/img/LSi.png&#34; alt=&#34;L-Si timeline&#34; title=&#34;Timeline of Liquid Silicon project&#34; /&gt;&lt;em&gt;Timeline of L-Si project&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jingjaneli.github.io/img/LSi.png&#34; alt=&#34;L-Si timeline&#34; title=&#34;Timeline of Liquid Silicon project&#34; /&gt;&lt;em&gt;Timeline of L-Si project&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;To prove the feasibility of L-Si, we fabricated a test chip in 130 nm CMOS process with HfO2 RRAM – the &lt;strong&gt;first real-chip demonstration for general purpose in-memory computing using RRAM&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.seas.upenn.edu/~janeli/img/LSi-VLSI.png&#34; alt=&#34;L-Si die photo&#34; title=&#34;Die Photo and Chip Characteristics of L-Si&#34; /&gt;&lt;em&gt;Die Photo and Chip Characteristics of L-Si&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jingjaneli.github.io/img/LSi-VLSI.png&#34; alt=&#34;L-Si die photo&#34; title=&#34;Die Photo and Chip Characteristics of L-Si&#34; /&gt;&lt;em&gt;Die Photo and Chip Characteristics of L-Si&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;With proposed system support, we evaluated a broad class of legacy and emerging machine learning workloads. Our measurement confirmed the chip operates reliably at low voltage of 650 mV when running these workloads. It achieves 60.9 TOPS/W in performing neural network inferences and 480 GOPS/W in performing high-dimensional similarity search (a key big data application) at nominal voltage supply of 1.2V, showing &lt;strong&gt;&amp;gt; 3x&lt;/strong&gt; and &lt;strong&gt;~100x&lt;/strong&gt; power efficiency improvement over the state-of-the-art domain-specific CMOS-/RRAM-based accelerators without sacrificing the programmability. In addition, it outperforms the latest nonvolatile FPGA in energy efficiency by &lt;strong&gt;&amp;gt; 3x&lt;/strong&gt; in general compute-intensive applications. As L-Si is a fundamental new computing technology, moving further, we will explore how to scale it up to warehouse computers and scale it down to IoT devices by further specializing the software/hardware stacks.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.seas.upenn.edu/~janeli/img/LSi-VLSI-Results.png&#34; alt=&#34;Comparing L-Si with State-of-the-Art&#34; title=&#34;Comparing L-Si with State-of-the-Art&#34; /&gt;&lt;em&gt;Comparing L-Si with State-of-the-Art&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jingjaneli.github.io/img/LSi-VLSI-Results.png&#34; alt=&#34;Comparing L-Si with State-of-the-Art&#34; title=&#34;Comparing L-Si with State-of-the-Art&#34; /&gt;&lt;em&gt;Comparing L-Si with State-of-the-Art&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Liquid Silicon-Monona: A Reconfigurable Memory-Oriented Computing Fabric with Scalable Multi-Context Support</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2018-asplos/</link>
+      <link>https://jingjaneli.github.io/publication/zha-2018-asplos/</link>
       <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2018-asplos/</guid>
+      <guid>https://jingjaneli.github.io/publication/zha-2018-asplos/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline18.2%, 56 out of 307)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Liquid  Silicon:  A Data-Centric Reconfigurable Architecture enabled by RRAM Technology</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2018-fpga/</link>
+      <link>https://jingjaneli.github.io/publication/zha-2018-fpga/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2018-fpga/</guid>
+      <guid>https://jingjaneli.github.io/publication/zha-2018-fpga/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline24%, Ranked &lt;strong&gt;#1&lt;/strong&gt; among 100+ submissions)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>IMEC: A Fully Morphable In-Memory Computing Fabric Enabled by Resistive Crossbar</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2017-calimec/</link>
+      <link>https://jingjaneli.github.io/publication/zha-2017-calimec/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2017-calimec/</guid>
+      <guid>https://jingjaneli.github.io/publication/zha-2017-calimec/</guid>
       <description></description>
     </item>
     

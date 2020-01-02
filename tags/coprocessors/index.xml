@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>coprocessors | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/coprocessors/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/coprocessors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/coprocessors/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/coprocessors/index.xml" rel="self" type="application/rss+xml" />
     <description>coprocessors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jul 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>coprocessors</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/coprocessors/</link>
+      <link>https://jingjaneli.github.io/tags/coprocessors/</link>
     </image>
     
     <item>
       <title>CMA: A Reconfigurable Complex Matching Accelerator for Wire-speed Network Intrusion Detection</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2017-calcma/</link>
+      <link>https://jingjaneli.github.io/publication/zha-2017-calcma/</link>
       <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2017-calcma/</guid>
+      <guid>https://jingjaneli.github.io/publication/zha-2017-calcma/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>7 | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/publication_types/7/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/publication_types/7/</link>
+      <atom:link href="https://jingjaneli.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
     <description>7</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>7</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication_types/7/</link>
+      <link>https://jingjaneli.github.io/publication_types/7/</link>
     </image>
     
     <item>
       <title>Robust and Energy-efficient Heterogeneous System Design in Emerging Technologies (**Best Thesis Award nominee**)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2009-phd/</link>
+      <link>https://jingjaneli.github.io/publication/li-2009-phd/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2009-phd/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2009-phd/</guid>
       <description>&lt;p&gt;Advisor: Prof. Kaushik Roy&lt;/p&gt;
 </description>
     </item>

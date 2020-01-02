@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Etienne Nowak | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/authors/etienne-nowak/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/authors/etienne-nowak/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/authors/etienne-nowak/</link>
+      <atom:link href="https://jingjaneli.github.io/authors/etienne-nowak/index.xml" rel="self" type="application/rss+xml" />
     <description>Etienne Nowak</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Dec 2019 22:48:15 -0600</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>Etienne Nowak</title>
-      <link>https://www.seas.upenn.edu/~janeli/authors/etienne-nowak/</link>
+      <link>https://jingjaneli.github.io/authors/etienne-nowak/</link>
     </image>
     
     <item>
       <title>Our invited paper got accepted at JSSC</title>
-      <link>https://www.seas.upenn.edu/~janeli/post/liquid-silicon-jssc-2020/</link>
+      <link>https://jingjaneli.github.io/post/liquid-silicon-jssc-2020/</link>
       <pubDate>Tue, 24 Dec 2019 22:48:15 -0600</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/post/liquid-silicon-jssc-2020/</guid>
+      <guid>https://jingjaneli.github.io/post/liquid-silicon-jssc-2020/</guid>
       <description>&lt;p&gt;Yue Zha, Etienne Nowak, and Jing Li, &amp;ldquo;Liquid Silicon: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated ReRAM for Big Data/Machine Learning Applications (&lt;strong&gt;invited&lt;/strong&gt;)&amp;ldquo;, &lt;em&gt;IEEE Journal of Solid-State Circuits (&lt;strong&gt;JSSC&lt;/strong&gt;)&lt;/em&gt;, .&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Liquid Silicon: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated ReRAM for Big Data/Machine Learning Applications (INVITED)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2020-jssc/</link>
+      <link>https://jingjaneli.github.io/publication/zha-2020-jssc/</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2020-jssc/</guid>
+      <guid>https://jingjaneli.github.io/publication/zha-2020-jssc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Liquid Silicon: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated ReRAM for Big Data/Machine Learning Applications</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2019-vlsic/</link>
+      <link>https://jingjaneli.github.io/publication/zha-2019-vlsic/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2019-vlsic/</guid>
+      <guid>https://jingjaneli.github.io/publication/zha-2019-vlsic/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>energy consumption | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/energy-consumption/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/energy-consumption/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/energy-consumption/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/energy-consumption/index.xml" rel="self" type="application/rss+xml" />
     <description>energy consumption</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2007 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>energy consumption</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/energy-consumption/</link>
+      <link>https://jingjaneli.github.io/tags/energy-consumption/</link>
     </image>
     
     <item>
       <title>Poly-Si Thin-Film Transistors: An Efficient and Low-Cost Option for Digital Operation</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2007-ted/</link>
+      <link>https://jingjaneli.github.io/publication/li-2007-ted/</link>
       <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2007-ted/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2007-ted/</guid>
       <description></description>
     </item>
     

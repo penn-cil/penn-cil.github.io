@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>random-access storage | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/random-access-storage/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/random-access-storage/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/random-access-storage/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/random-access-storage/index.xml" rel="self" type="application/rss+xml" />
     <description>random-access storage</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>random-access storage</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/random-access-storage/</link>
+      <link>https://jingjaneli.github.io/tags/random-access-storage/</link>
     </image>
     
     <item>
       <title>Theory and Experiments of the Impact of Work-Function Variability on Threshold Voltage Variability in MOS Devices</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zhang-2012-ted/</link>
+      <link>https://jingjaneli.github.io/publication/zhang-2012-ted/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zhang-2012-ted/</guid>
+      <guid>https://jingjaneli.github.io/publication/zhang-2012-ted/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A non-volatile look-up table design using PCM (phase-change memory) cells</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/wen-2011-vlsi/</link>
+      <link>https://jingjaneli.github.io/publication/wen-2011-vlsi/</link>
       <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/wen-2011-vlsi/</guid>
+      <guid>https://jingjaneli.github.io/publication/wen-2011-vlsi/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline28%, 115 out of 409)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Design Paradigm for Robust Spin-Torque Transfer Magnetic RAM (STT MRAM) From Circuit/Architecture Perspective (Best Paper)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2010-tvlsi/</link>
+      <link>https://jingjaneli.github.io/publication/li-2010-tvlsi/</link>
       <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2010-tvlsi/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2010-tvlsi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling of failure probability and statistical design of Spin-Torque Transfer Magnetic Random Access Memory (STT MRAM) array for yield enhancement</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2008-dac/</link>
+      <link>https://jingjaneli.github.io/publication/li-2008-dac/</link>
       <pubDate>Sun, 08 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2008-dac/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2008-dac/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline23%, 147 out of 639)&lt;/p&gt;
 </description>
     </item>

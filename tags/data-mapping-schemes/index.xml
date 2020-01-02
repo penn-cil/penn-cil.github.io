@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>data mapping schemes | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/data-mapping-schemes/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/data-mapping-schemes/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/data-mapping-schemes/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/data-mapping-schemes/index.xml" rel="self" type="application/rss+xml" />
     <description>data mapping schemes</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 Sep 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>data mapping schemes</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/data-mapping-schemes/</link>
+      <link>https://jingjaneli.github.io/tags/data-mapping-schemes/</link>
     </image>
     
     <item>
       <title>A case for small row buffers in non-volatile main memories</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/meza-2012-iccd/</link>
+      <link>https://jingjaneli.github.io/publication/meza-2012-iccd/</link>
       <pubDate>Sun, 30 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/meza-2012-iccd/</guid>
+      <guid>https://jingjaneli.github.io/publication/meza-2012-iccd/</guid>
       <description>&lt;p&gt;(Acceptance rate: underline25%, 61 out of 241)&lt;/p&gt;
 </description>
     </item>

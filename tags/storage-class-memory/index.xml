@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>storage class memory | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/storage-class-memory/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/storage-class-memory/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/storage-class-memory/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/storage-class-memory/index.xml" rel="self" type="application/rss+xml" />
     <description>storage class memory</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 12 Mar 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>storage class memory</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/storage-class-memory/</link>
+      <link>https://jingjaneli.github.io/tags/storage-class-memory/</link>
     </image>
     
     <item>
       <title>Recent progress in RRAM technology: From compact models to applications (INVITED)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2017-cstic/</link>
+      <link>https://jingjaneli.github.io/publication/zha-2017-cstic/</link>
       <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2017-cstic/</guid>
+      <guid>https://jingjaneli.github.io/publication/zha-2017-cstic/</guid>
       <description></description>
     </item>
     

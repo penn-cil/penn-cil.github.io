@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tcam | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/tcam/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/tcam/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/tcam/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/tcam/index.xml" rel="self" type="application/rss+xml" />
     <description>tcam</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Feb 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>tcam</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/tcam/</link>
+      <link>https://jingjaneli.github.io/tags/tcam/</link>
     </image>
     
     <item>
       <title>Liquid  Silicon:  A Data-Centric Reconfigurable Architecture enabled by RRAM Technology</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2018-fpga/</link>
+      <link>https://jingjaneli.github.io/publication/zha-2018-fpga/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2018-fpga/</guid>
+      <guid>https://jingjaneli.github.io/publication/zha-2018-fpga/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline24%, Ranked &lt;strong&gt;#1&lt;/strong&gt; among 100+ submissions)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>CMA: A Reconfigurable Complex Matching Accelerator for Wire-speed Network Intrusion Detection</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2017-calcma/</link>
+      <link>https://jingjaneli.github.io/publication/zha-2017-calcma/</link>
       <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2017-calcma/</guid>
+      <guid>https://jingjaneli.github.io/publication/zha-2017-calcma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IMEC: A Fully Morphable In-Memory Computing Fabric Enabled by Resistive Crossbar</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2017-calimec/</link>
+      <link>https://jingjaneli.github.io/publication/zha-2017-calimec/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2017-calimec/</guid>
+      <guid>https://jingjaneli.github.io/publication/zha-2017-calimec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enabling phase-change memory for data-centric computing: Technology, circuitand system (INVITED)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2015-iscas/</link>
+      <link>https://jingjaneli.github.io/publication/li-2015-iscas/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2015-iscas/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2015-iscas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enabling phase-change memory for data-centric computing: Technology, circuitand system (INVITED)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2015-iscas/</link>
+      <link>https://jingjaneli.github.io/publication/li-2015-iscas/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2015-iscas/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2015-iscas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demonstration of CAM and TCAM Using Phase Change Devices</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/rajendran-2011-imw/</link>
+      <link>https://jingjaneli.github.io/publication/rajendran-2011-imw/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/rajendran-2011-imw/</guid>
+      <guid>https://jingjaneli.github.io/publication/rajendran-2011-imw/</guid>
       <description></description>
     </item>
     

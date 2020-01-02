@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rhombohedral phase | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/rhombohedral-phase/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/rhombohedral-phase/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/rhombohedral-phase/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/rhombohedral-phase/index.xml" rel="self" type="application/rss+xml" />
     <description>rhombohedral phase</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>rhombohedral phase</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/rhombohedral-phase/</link>
+      <link>https://jingjaneli.github.io/tags/rhombohedral-phase/</link>
     </image>
     
     <item>
       <title>Materials engineering for Phase Change Random Access Memory</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/raoux-2011-nvmts/</link>
+      <link>https://jingjaneli.github.io/publication/raoux-2011-nvmts/</link>
       <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/raoux-2011-nvmts/</guid>
+      <guid>https://jingjaneli.github.io/publication/raoux-2011-nvmts/</guid>
       <description></description>
     </item>
     

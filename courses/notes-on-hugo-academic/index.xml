@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Overview | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/courses/notes-on-hugo-academic/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/courses/notes-on-hugo-academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/courses/notes-on-hugo-academic/</link>
+      <atom:link href="https://jingjaneli.github.io/courses/notes-on-hugo-academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Overview</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 09 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>Overview</title>
-      <link>https://www.seas.upenn.edu/~janeli/courses/notes-on-hugo-academic/</link>
+      <link>https://jingjaneli.github.io/courses/notes-on-hugo-academic/</link>
     </image>
     
     <item>
       <title>How to customize Academic website with Hugo</title>
-      <link>https://www.seas.upenn.edu/~janeli/courses/notes-on-hugo-academic/customize-hugo/</link>
+      <link>https://jingjaneli.github.io/courses/notes-on-hugo-academic/customize-hugo/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/courses/notes-on-hugo-academic/customize-hugo/</guid>
+      <guid>https://jingjaneli.github.io/courses/notes-on-hugo-academic/customize-hugo/</guid>
       <description>
 
 &lt;p&gt;Here I will use one simple example to briefly show how to customize Academic theme with Hugo/Go programming. More information can be found from &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo manual&lt;/a&gt;. Especially, &lt;a href=&#34;https://gohugo.io/templates/introduction/&#34; target=&#34;_blank&#34;&gt;Introduction to Hugo templating&lt;/a&gt;, &lt;a href=&#34;https://gohugo.io/functions/&#34; target=&#34;_blank&#34;&gt;Hugo functions&lt;/a&gt;, and &lt;a href=&#34;https://gohugo.io/variables/&#34; target=&#34;_blank&#34;&gt;Hugo variables&lt;/a&gt; are helpful for beginners.&lt;/p&gt;
@@ -24,7 +24,7 @@
 &lt;h2 id=&#34;the-example&#34;&gt;The Example&lt;/h2&gt;
 
 &lt;p&gt;Currently Academic lists everything (&lt;em&gt;posts&lt;/em&gt;, &lt;em&gt;publications&lt;/em&gt;, etc) written by the author all together under &lt;strong&gt;Latest&lt;/strong&gt; (see the screenshot below).
-&lt;img src=&#34;https://www.seas.upenn.edu/~janeli/img/academic-default.png&#34; alt=&#34;default display&#34; title=&#34;Default&#34; /&gt;
+&lt;img src=&#34;https://jingjaneli.github.io/img/academic-default.png&#34; alt=&#34;default display&#34; title=&#34;Default&#34; /&gt;
 Similar to &lt;a href=&#34;https://bromberglab.org/authors/yannick-mahlich/&#34; target=&#34;_blank&#34;&gt;this example&lt;/a&gt;, we would like to list and count these items in separate sections.
 The list of latest work is controlled by &lt;code&gt;theme/academic/layouts/authors/list.html&lt;/code&gt;. So the question is how to modify the following code to achieve our goal.&lt;/p&gt;
 
@@ -135,9 +135,9 @@ The list of latest work is controlled by &lt;code&gt;theme/academic/layouts/auth
     
     <item>
       <title>Note on sourcethemes-academic</title>
-      <link>https://www.seas.upenn.edu/~janeli/courses/notes-on-hugo-academic/my-notes/</link>
+      <link>https://jingjaneli.github.io/courses/notes-on-hugo-academic/my-notes/</link>
       <pubDate>Fri, 09 Aug 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/courses/notes-on-hugo-academic/my-notes/</guid>
+      <guid>https://jingjaneli.github.io/courses/notes-on-hugo-academic/my-notes/</guid>
       <description>
 
 &lt;p&gt;&lt;h2&gt;Table of Contents&lt;/h2&gt;
@@ -190,7 +190,7 @@ header:
 &lt;h2 id=&#34;cross-reference-and-link-in-markdown-and-shortcodes&#34;&gt;Cross-reference and link in Markdown and shortcodes&lt;/h2&gt;
 
 &lt;p&gt;What I&amp;rsquo;d like to achieve is to cross-reference some content on my website) to another page. For example, to link &lt;code&gt;cv&lt;/code&gt; to this note. The &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#linking-to-your-new-page&#34; target=&#34;_blank&#34;&gt;reference&lt;/a&gt; suggests using &lt;code&gt;[My CV](&lt;/code&gt;&lt;code&gt;{&lt;/code&gt;&lt;code&gt;{&lt;/code&gt;&lt;code&gt;&amp;lt; ref &amp;quot;cv/index.md&amp;quot;&lt;/code&gt; &lt;code&gt;&amp;gt;}})&lt;/code&gt;, and I found
-&lt;code&gt;[My CV](/cv/)&lt;/code&gt; works too (&lt;a href=&#34;https://www.seas.upenn.edu/~janeli/cv/&#34;&gt;My CV&lt;/a&gt;). Similary, I can use &lt;a href=&#34;https://www.seas.upenn.edu/~janeli/publication/zha-2019-vlsic/&#34;&gt;my publication in VLSI&amp;rsquo;19&lt;/a&gt; with &lt;code&gt;[my publication in VLSI&#39;19](/publication/zha-2019-vlsic/)&lt;/code&gt;, where there is a &lt;code&gt;index.md&lt;/code&gt; file in &lt;code&gt;/publication/zha-2019-vlsic/&lt;/code&gt;;  or &lt;code&gt;[my research](/research/)&lt;/code&gt; &amp;ndash; &lt;a href=&#34;https://www.seas.upenn.edu/~janeli/research/&#34;&gt;my research&lt;/a&gt;, &lt;code&gt;[a project](/project/augmenting-computer-system)&lt;/code&gt; &amp;ndash; &lt;a href=&#34;https://www.seas.upenn.edu/~janeli/project/augmenting-computer-system&#34;&gt;a project&lt;/a&gt;, &lt;a href=&#34;https://www.seas.upenn.edu/~janeli/courses/example&#34;&gt;a course&lt;/a&gt;, &lt;a href=&#34;https://www.seas.upenn.edu/~janeli/post/getting-started/&#34;&gt;a post&lt;/a&gt;, etc, &lt;em&gt;as long as there is a &lt;code&gt;index.md&lt;/code&gt; or &lt;code&gt;_index.md&lt;/code&gt; in the folder&lt;/em&gt;.&lt;/p&gt;
+&lt;code&gt;[My CV](/cv/)&lt;/code&gt; works too (&lt;a href=&#34;https://jingjaneli.github.io/cv/&#34;&gt;My CV&lt;/a&gt;). Similary, I can use &lt;a href=&#34;https://jingjaneli.github.io/publication/zha-2019-vlsic/&#34;&gt;my publication in VLSI&amp;rsquo;19&lt;/a&gt; with &lt;code&gt;[my publication in VLSI&#39;19](/publication/zha-2019-vlsic/)&lt;/code&gt;, where there is a &lt;code&gt;index.md&lt;/code&gt; file in &lt;code&gt;/publication/zha-2019-vlsic/&lt;/code&gt;;  or &lt;code&gt;[my research](/research/)&lt;/code&gt; &amp;ndash; &lt;a href=&#34;https://jingjaneli.github.io/research/&#34;&gt;my research&lt;/a&gt;, &lt;code&gt;[a project](/project/augmenting-computer-system)&lt;/code&gt; &amp;ndash; &lt;a href=&#34;https://jingjaneli.github.io/project/augmenting-computer-system&#34;&gt;a project&lt;/a&gt;, &lt;a href=&#34;https://jingjaneli.github.io/courses/example&#34;&gt;a course&lt;/a&gt;, &lt;a href=&#34;https://jingjaneli.github.io/post/getting-started/&#34;&gt;a post&lt;/a&gt;, etc, &lt;em&gt;as long as there is a &lt;code&gt;index.md&lt;/code&gt; or &lt;code&gt;_index.md&lt;/code&gt; in the folder&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Paths without a leading &lt;code&gt;/&lt;/code&gt; will first be tried resolved relative to the current page&lt;/strong&gt;. Therefore the &lt;strong&gt;URL should start with a &lt;code&gt;/&lt;/code&gt;&lt;/strong&gt; which will casue it to &lt;em&gt;correctly&lt;/em&gt; concatenate itself with the root domain of your baseURL defined in &lt;code&gt;config.toml&lt;/code&gt; &amp;ndash; &lt;code&gt;localhost:1313/post/getting-started/&lt;/code&gt; in developer mode, rather than &lt;code&gt;localhost:1313/&amp;lt;address of this note&amp;gt;/post/getting-started/&lt;/code&gt;.&lt;/p&gt;
 
@@ -230,15 +230,15 @@ header:
 &lt;h2 id=&#34;what-shortcodes-can-do&#34;&gt;What shortcodes can do&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://gohugo.io/content-management/shortcodes/&#34; target=&#34;_blank&#34;&gt;Shortcodes&lt;/a&gt; are plugins which are bundled with Academic or inherited from Hugo. From previous sections, we can see that sometimes it is not as straighforward as Markdown for example in dealing with &lt;a href=&#34;#cross-reference-and-link-in-markdown-and-shortcodes&#34;&gt;links&lt;/a&gt;. But it is actually more flexible and powerful, as we saw in the examples of  &lt;a href=&#34;#syntax-highlight&#34;&gt;highlighting&lt;/a&gt; and &lt;a href=&#34;#create-table-of-contents&#34;&gt;table of contents&lt;/a&gt;, etc. One more example,
-&lt;code&gt;{&lt;/code&gt;&lt;code&gt;{% staticref &amp;quot;files/CV-JingLi.pdf&amp;quot; &amp;quot;newtab&amp;quot; %}&lt;/code&gt;&lt;code&gt;}Download my CV{&lt;/code&gt;&lt;code&gt;{% /staticref %}&lt;/code&gt;&lt;code&gt;}&lt;/code&gt; is able to open a new tab for &lt;a href=&#34;https://www.seas.upenn.edu/~janeli/~janeli/files/CV-JingLi.pdf&#34; target=&#34;_blank&#34;&gt;Download my CV&lt;/a&gt;, while &lt;code&gt;[Download my CV](/files/CV-JingLi.pdf)&lt;/code&gt; cannot.&lt;/p&gt;
+&lt;code&gt;{&lt;/code&gt;&lt;code&gt;{% staticref &amp;quot;files/CV-JingLi.pdf&amp;quot; &amp;quot;newtab&amp;quot; %}&lt;/code&gt;&lt;code&gt;}Download my CV{&lt;/code&gt;&lt;code&gt;{% /staticref %}&lt;/code&gt;&lt;code&gt;}&lt;/code&gt; is able to open a new tab for &lt;a href=&#34;https://jingjaneli.github.io/files/CV-JingLi.pdf&#34; target=&#34;_blank&#34;&gt;Download my CV&lt;/a&gt;, while &lt;code&gt;[Download my CV](/files/CV-JingLi.pdf)&lt;/code&gt; cannot.&lt;/p&gt;
 
 &lt;p&gt;Some more examples can be found &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;code&gt;&amp;lt;a href=&amp;quot;/~janeli/files/cv.pdf&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Download my CV&amp;lt;/a&amp;gt;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;lt;a href=&amp;quot;/files/cv.pdf&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Download my CV&amp;lt;/a&amp;gt;&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;code&gt;[A publication](https://www.seas.upenn.edu/~janeli/publication/zha-2019-vlsic/)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;[A publication](https://jingjaneli.github.io/publication/zha-2019-vlsic/)&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;code&gt;[My CV](https://www.seas.upenn.edu/~janeli/cv/)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;[My CV](https://jingjaneli.github.io/cv/)&lt;/code&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;more-on-shortcodes&#34;&gt;More on shortcodes&lt;/h3&gt;
 
@@ -259,15 +259,15 @@ header:
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Image with title:
 &lt;code&gt;![PennCIL logo](/img/icon-192.png &amp;quot;Title: PennCIL logo&amp;quot;)&lt;/code&gt;
-&lt;img src=&#34;https://www.seas.upenn.edu/~janeli/img/icon-192.png&#34; alt=&#34;PennCIL logo&#34; title=&#34;Title: PennCIL logo&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;img src=&#34;https://jingjaneli.github.io/img/icon-192.png&#34; alt=&#34;PennCIL logo&#34; title=&#34;Title: PennCIL logo&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Image with caption:
 &lt;code&gt;![PennCIL logo](/img/icon-192.png &amp;quot;Title: PennCIL logo&amp;quot;)*Caption: PennCIL logo*&lt;/code&gt;
-&lt;img src=&#34;https://www.seas.upenn.edu/~janeli/img/icon-192.png&#34; alt=&#34;PennCIL logo&#34; title=&#34;Title: PennCIL logo&#34; /&gt;&lt;em&gt;Caption: PennCIL logo&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;img src=&#34;https://jingjaneli.github.io/img/icon-192.png&#34; alt=&#34;PennCIL logo&#34; title=&#34;Title: PennCIL logo&#34; /&gt;&lt;em&gt;Caption: PennCIL logo&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Image with title, caption, and &lt;strong&gt;clickable link&lt;/strong&gt;:
 &lt;code&gt;[![PennCIL logo](/img/icon-192.png &amp;quot;Title: PennCIL logo&amp;quot;)*Caption: PennCIL logo*](/#research)&lt;/code&gt;
-&lt;a href=&#34;https://www.seas.upenn.edu/~janeli/#research&#34;&gt;&lt;img src=&#34;https://www.seas.upenn.edu/~janeli/img/icon-192.png&#34; alt=&#34;PennCIL logo&#34; title=&#34;Title: PennCIL logo&#34; /&gt;&lt;em&gt;Caption: PennCIL logo&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;a href=&#34;https://jingjaneli.github.io/#research&#34;&gt;&lt;img src=&#34;https://jingjaneli.github.io/img/icon-192.png&#34; alt=&#34;PennCIL logo&#34; title=&#34;Title: PennCIL logo&#34; /&gt;&lt;em&gt;Caption: PennCIL logo&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;code&gt;*Caption: PennCIL logo*&lt;/code&gt; can be removed without affecting the link. This code is essentially achieved by nesting two markdown commands, i.e., &lt;em&gt;image&lt;/em&gt; &lt;code&gt;![]()&lt;/code&gt; &lt;em&gt;within link&lt;/em&gt; &lt;code&gt;[]()&lt;/code&gt;.&lt;/p&gt;
@@ -313,9 +313,9 @@ header:
     
     <item>
       <title>How to create an image gallery</title>
-      <link>https://www.seas.upenn.edu/~janeli/courses/notes-on-hugo-academic/create-gallery/</link>
+      <link>https://jingjaneli.github.io/courses/notes-on-hugo-academic/create-gallery/</link>
       <pubDate>Fri, 09 Aug 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/courses/notes-on-hugo-academic/create-gallery/</guid>
+      <guid>https://jingjaneli.github.io/courses/notes-on-hugo-academic/create-gallery/</guid>
       <description>
 
 &lt;p&gt;&lt;h2&gt;Table of Contents&lt;/h2&gt;
@@ -350,7 +350,7 @@ HAHAHUGOSHORTCODE-TOC0-HBHB&lt;/p&gt;
 
 &lt;h3 id=&#34;for-homepage&#34;&gt;For homepage&lt;/h3&gt;
 
-&lt;p&gt;The aforementioned method only works for &lt;code&gt;yaml&lt;/code&gt; format, while the widget page (&lt;em&gt;homepage&lt;/em&gt;) uses &lt;code&gt;toml&lt;/code&gt;. To make it work, it turned out I had to follow &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues/398#issuecomment-357444202&#34; target=&#34;_blank&#34;&gt;this instruction&lt;/a&gt; to create a gallery. The following lines are in the front matter of &lt;code&gt;sponsers.md&lt;/code&gt;. Refer to &lt;a href=&#34;https://www.seas.upenn.edu/~janeli/#sponsors&#34;&gt;Sponsers&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The aforementioned method only works for &lt;code&gt;yaml&lt;/code&gt; format, while the widget page (&lt;em&gt;homepage&lt;/em&gt;) uses &lt;code&gt;toml&lt;/code&gt;. To make it work, it turned out I had to follow &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues/398#issuecomment-357444202&#34; target=&#34;_blank&#34;&gt;this instruction&lt;/a&gt; to create a gallery. The following lines are in the front matter of &lt;code&gt;sponsers.md&lt;/code&gt;. Refer to &lt;a href=&#34;https://jingjaneli.github.io/#sponsors&#34;&gt;Sponsers&lt;/a&gt;.&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt; # Gallery
 [[gallery_item]]
@@ -363,7 +363,7 @@ caption = &amp;quot;DARPA&amp;quot;
 &lt;p&gt;Images are uploaded to &lt;code&gt;content/img&lt;/code&gt; (if not referencing image URLs
 ). And gallary is initialized in &lt;code&gt;sponsor.md&lt;/code&gt; main body using &lt;code&gt;{&lt;/code&gt;&lt;code&gt;{&amp;lt; gallery album=&amp;quot;sponsors&amp;quot; &amp;gt;}&lt;/code&gt;&lt;code&gt;}&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;Evidently from &lt;a href=&#34;https://www.seas.upenn.edu/~janeli/#sponsors&#34;&gt;Sponsers&lt;/a&gt;, we have to manually enter each &lt;code&gt;gallery_item&lt;/code&gt;. It is true that we can write a simple python script to automate the operation, but &lt;em&gt;the images in this gallery are not well aligned&lt;/em&gt;, and &lt;em&gt;the sizes cannot be adjusted&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Evidently from &lt;a href=&#34;https://jingjaneli.github.io/#sponsors&#34;&gt;Sponsers&lt;/a&gt;, we have to manually enter each &lt;code&gt;gallery_item&lt;/code&gt;. It is true that we can write a simple python script to automate the operation, but &lt;em&gt;the images in this gallery are not well aligned&lt;/em&gt;, and &lt;em&gt;the sizes cannot be adjusted&lt;/em&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;hugo-easy-gallery&#34;&gt;Hugo Easy Gallery&lt;/h2&gt;
 

@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/post/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/post/</link>
+      <atom:link href="https://jingjaneli.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Dec 2019 22:48:15 -0600</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>Posts</title>
-      <link>https://www.seas.upenn.edu/~janeli/post/</link>
+      <link>https://jingjaneli.github.io/post/</link>
     </image>
     
     <item>
       <title>Our invited paper got accepted at JSSC</title>
-      <link>https://www.seas.upenn.edu/~janeli/post/liquid-silicon-jssc-2020/</link>
+      <link>https://jingjaneli.github.io/post/liquid-silicon-jssc-2020/</link>
       <pubDate>Tue, 24 Dec 2019 22:48:15 -0600</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/post/liquid-silicon-jssc-2020/</guid>
+      <guid>https://jingjaneli.github.io/post/liquid-silicon-jssc-2020/</guid>
       <description>&lt;p&gt;Yue Zha, Etienne Nowak, and Jing Li, &amp;ldquo;Liquid Silicon: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated ReRAM for Big Data/Machine Learning Applications (&lt;strong&gt;invited&lt;/strong&gt;)&amp;ldquo;, &lt;em&gt;IEEE Journal of Solid-State Circuits (&lt;strong&gt;JSSC&lt;/strong&gt;)&lt;/em&gt;, .&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Our paper got accepted at ASPLOS 2020</title>
-      <link>https://www.seas.upenn.edu/~janeli/post/fpga-virtualization-asplos-2020/</link>
+      <link>https://jingjaneli.github.io/post/fpga-virtualization-asplos-2020/</link>
       <pubDate>Tue, 24 Dec 2019 22:48:15 -0600</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/post/fpga-virtualization-asplos-2020/</guid>
+      <guid>https://jingjaneli.github.io/post/fpga-virtualization-asplos-2020/</guid>
       <description>&lt;p&gt;Yue Zha and Jing Li, &amp;ldquo;ViTAL: Virtualizing FPGAs in the Cloud,&amp;ldquo;, in &lt;em&gt;the 24th ACM International Conference on Architectural Support for Programming Languages and Operating Systems&lt;/em&gt; (&lt;strong&gt;ASPLOS&lt;/strong&gt; &amp;lsquo;20).&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Our graph analytics system ranked No. 1 on GreenGraph500</title>
-      <link>https://www.seas.upenn.edu/~janeli/post/greengraph5000/</link>
+      <link>https://jingjaneli.github.io/post/greengraph5000/</link>
       <pubDate>Mon, 01 Jul 2019 11:44:36 -0500</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/post/greengraph5000/</guid>
+      <guid>https://jingjaneli.github.io/post/greengraph5000/</guid>
       <description>&lt;p&gt;Our FPGA-based scalable graph analytics system is ranked No. 1 on the latest &lt;a href=&#34;http://graph500.org/?page_id=724&#34; target=&#34;_blank&#34;&gt;GreenGraph500 list&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Our paper got accepted at 2019 Symposium on VLSI Circuits</title>
-      <link>https://www.seas.upenn.edu/~janeli/post/liquid-silicon-vlsic-2019/</link>
+      <link>https://jingjaneli.github.io/post/liquid-silicon-vlsic-2019/</link>
       <pubDate>Sun, 17 Mar 2019 16:43:32 -0500</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/post/liquid-silicon-vlsic-2019/</guid>
+      <guid>https://jingjaneli.github.io/post/liquid-silicon-vlsic-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Our RISC-V paper got accepted at FCCM’19 and nominated Best Paper</title>
-      <link>https://www.seas.upenn.edu/~janeli/post/meg-fccm-2019/</link>
+      <link>https://jingjaneli.github.io/post/meg-fccm-2019/</link>
       <pubDate>Sun, 03 Mar 2019 16:54:36 -0500</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/post/meg-fccm-2019/</guid>
+      <guid>https://jingjaneli.github.io/post/meg-fccm-2019/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>threshold voltage | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/threshold-voltage/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/threshold-voltage/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/threshold-voltage/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/threshold-voltage/index.xml" rel="self" type="application/rss+xml" />
     <description>threshold voltage</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>threshold voltage</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/threshold-voltage/</link>
+      <link>https://jingjaneli.github.io/tags/threshold-voltage/</link>
     </image>
     
     <item>
       <title>Fully CMOS compatible 3D vertical RRAM with self-aligned self-selective cell enabling sub-5nm scaling</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/xu-2016-vlsi/</link>
+      <link>https://jingjaneli.github.io/publication/xu-2016-vlsi/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/xu-2016-vlsi/</guid>
+      <guid>https://jingjaneli.github.io/publication/xu-2016-vlsi/</guid>
       <description></description>
     </item>
     

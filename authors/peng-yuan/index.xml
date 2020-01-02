@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peng Yuan | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/authors/peng-yuan/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/authors/peng-yuan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/authors/peng-yuan/</link>
+      <atom:link href="https://jingjaneli.github.io/authors/peng-yuan/index.xml" rel="self" type="application/rss+xml" />
     <description>Peng Yuan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>Peng Yuan</title>
-      <link>https://www.seas.upenn.edu/~janeli/authors/peng-yuan/</link>
+      <link>https://jingjaneli.github.io/authors/peng-yuan/</link>
     </image>
     
     <item>
       <title>Nb(1-x)O2 based Universal Selector with Ultra-high Endurance (&gt;10^12), high speed (10ns) and Excellent Vth Stability</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/luo-2019-vlsit/</link>
+      <link>https://jingjaneli.github.io/publication/luo-2019-vlsit/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/luo-2019-vlsit/</guid>
+      <guid>https://jingjaneli.github.io/publication/luo-2019-vlsit/</guid>
       <description></description>
     </item>
     

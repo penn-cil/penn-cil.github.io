@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> hybrid memory cube:bfs | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/hybrid-memory-cubebfs/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/hybrid-memory-cubebfs/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/hybrid-memory-cubebfs/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/hybrid-memory-cubebfs/index.xml" rel="self" type="application/rss+xml" />
     <description> hybrid memory cube:bfs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Feb 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title> hybrid memory cube:bfs</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/hybrid-memory-cubebfs/</link>
+      <link>https://jingjaneli.github.io/tags/hybrid-memory-cubebfs/</link>
     </image>
     
     <item>
       <title>Boosting the Performance of FPGA-based Graph Processor Using Hybrid Memory Cube: A Case for Breadth First Search</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zhang-2017-fpga-bfs/</link>
+      <link>https://jingjaneli.github.io/publication/zhang-2017-fpga-bfs/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zhang-2017-fpga-bfs/</guid>
+      <guid>https://jingjaneli.github.io/publication/zhang-2017-fpga-bfs/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline25%, 25 out of 101)&lt;/p&gt;
 </description>
     </item>

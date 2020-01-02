@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> monolithic stacking | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/monolithic-stacking/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/monolithic-stacking/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/monolithic-stacking/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/monolithic-stacking/index.xml" rel="self" type="application/rss+xml" />
     <description> monolithic stacking</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Feb 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title> monolithic stacking</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/monolithic-stacking/</link>
+      <link>https://jingjaneli.github.io/tags/monolithic-stacking/</link>
     </image>
     
     <item>
       <title>Liquid  Silicon:  A Data-Centric Reconfigurable Architecture enabled by RRAM Technology</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2018-fpga/</link>
+      <link>https://jingjaneli.github.io/publication/zha-2018-fpga/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2018-fpga/</guid>
+      <guid>https://jingjaneli.github.io/publication/zha-2018-fpga/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline24%, Ranked &lt;strong&gt;#1&lt;/strong&gt; among 100+ submissions)&lt;/p&gt;
 </description>
     </item>

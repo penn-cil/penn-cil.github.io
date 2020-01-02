@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ternary content addressable memory | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/ternary-content-addressable-memory/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/ternary-content-addressable-memory/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/ternary-content-addressable-memory/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/ternary-content-addressable-memory/index.xml" rel="self" type="application/rss+xml" />
     <description>ternary content addressable memory</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Feb 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>ternary content addressable memory</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/ternary-content-addressable-memory/</link>
+      <link>https://jingjaneli.github.io/tags/ternary-content-addressable-memory/</link>
     </image>
     
     <item>
       <title>A Mixed-Signal Data-Centric Reconfigurable Architecture Enabled by RRAM Technology (poster)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2017-fpgaposter/</link>
+      <link>https://jingjaneli.github.io/publication/zha-2017-fpgaposter/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2017-fpgaposter/</guid>
+      <guid>https://jingjaneli.github.io/publication/zha-2017-fpgaposter/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline25%, 25 out of 101)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Enabling phase-change memory for data-centric computing: Technology, circuitand system (INVITED)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2015-iscas/</link>
+      <link>https://jingjaneli.github.io/publication/li-2015-iscas/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2015-iscas/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2015-iscas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enabling phase-change memory for data-centric computing: Technology, circuitand system (INVITED)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2015-iscas/</link>
+      <link>https://jingjaneli.github.io/publication/li-2015-iscas/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2015-iscas/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2015-iscas/</guid>
       <description></description>
     </item>
     

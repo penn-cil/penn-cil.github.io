@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ashish Goel | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/authors/ashish-goel/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/authors/ashish-goel/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/authors/ashish-goel/</link>
+      <atom:link href="https://jingjaneli.github.io/authors/ashish-goel/index.xml" rel="self" type="application/rss+xml" />
     <description>Ashish Goel</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2010 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>Ashish Goel</title>
-      <link>https://www.seas.upenn.edu/~janeli/authors/ashish-goel/</link>
+      <link>https://jingjaneli.github.io/authors/ashish-goel/</link>
     </image>
     
     <item>
       <title>Design Paradigm for Robust Spin-Torque Transfer Magnetic RAM (STT MRAM) From Circuit/Architecture Perspective (Best Paper)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2010-tvlsi/</link>
+      <link>https://jingjaneli.github.io/publication/li-2010-tvlsi/</link>
       <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2010-tvlsi/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2010-tvlsi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Alternate Design Paradigm for Robust Spin-torque Transfer Magnetic RAM (STT MRAM) from Circuit/Architecture Perspective</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2009-aspdac/</link>
+      <link>https://jingjaneli.github.io/publication/li-2009-aspdac/</link>
       <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2009-aspdac/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2009-aspdac/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline33%, 116 out of 355)&lt;/p&gt;
 </description>
     </item>

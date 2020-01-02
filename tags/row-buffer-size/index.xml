@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>row buffer size | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/row-buffer-size/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/row-buffer-size/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/row-buffer-size/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/row-buffer-size/index.xml" rel="self" type="application/rss+xml" />
     <description>row buffer size</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 Sep 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>row buffer size</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/row-buffer-size/</link>
+      <link>https://jingjaneli.github.io/tags/row-buffer-size/</link>
     </image>
     
     <item>
       <title>A case for small row buffers in non-volatile main memories</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/meza-2012-iccd/</link>
+      <link>https://jingjaneli.github.io/publication/meza-2012-iccd/</link>
       <pubDate>Sun, 30 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/meza-2012-iccd/</guid>
+      <guid>https://jingjaneli.github.io/publication/meza-2012-iccd/</guid>
       <description>&lt;p&gt;(Acceptance rate: underline25%, 61 out of 241)&lt;/p&gt;
 </description>
     </item>

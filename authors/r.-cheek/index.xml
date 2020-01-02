@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R. Cheek | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/authors/r.-cheek/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/authors/r.-cheek/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/authors/r.-cheek/</link>
+      <atom:link href="https://jingjaneli.github.io/authors/r.-cheek/index.xml" rel="self" type="application/rss+xml" />
     <description>R. Cheek</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>R. Cheek</title>
-      <link>https://www.seas.upenn.edu/~janeli/authors/r.-cheek/</link>
+      <link>https://jingjaneli.github.io/authors/r.-cheek/</link>
     </image>
     
     <item>
       <title>Optimization of programming current on endurance of phase change memory</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/kim-2012-vlsitsa/</link>
+      <link>https://jingjaneli.github.io/publication/kim-2012-vlsitsa/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/kim-2012-vlsitsa/</guid>
+      <guid>https://jingjaneli.github.io/publication/kim-2012-vlsitsa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The impact of melting during reset operation on the reliability of phase change memory</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/du-2012-irps/</link>
+      <link>https://jingjaneli.github.io/publication/du-2012-irps/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/du-2012-irps/</guid>
+      <guid>https://jingjaneli.github.io/publication/du-2012-irps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A low power phase change memory using thermally confined TaN/TiN bottom electrode</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/wu-2011-iedm/</link>
+      <link>https://jingjaneli.github.io/publication/wu-2011-iedm/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/wu-2011-iedm/</guid>
+      <guid>https://jingjaneli.github.io/publication/wu-2011-iedm/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Novel Reconfigurable Sensing Scheme for Variable Level Storage in Phase Change Memory</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2011-imw/</link>
+      <link>https://jingjaneli.github.io/publication/li-2011-imw/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2011-imw/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2011-imw/</guid>
       <description></description>
     </item>
     

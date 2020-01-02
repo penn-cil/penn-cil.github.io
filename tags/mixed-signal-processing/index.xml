@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> mixed-signal processing | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/mixed-signal-processing/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/mixed-signal-processing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/mixed-signal-processing/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/mixed-signal-processing/index.xml" rel="self" type="application/rss+xml" />
     <description> mixed-signal processing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Feb 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title> mixed-signal processing</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/mixed-signal-processing/</link>
+      <link>https://jingjaneli.github.io/tags/mixed-signal-processing/</link>
     </image>
     
     <item>
       <title>A Mixed-Signal Data-Centric Reconfigurable Architecture Enabled by RRAM Technology (poster)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2017-fpgaposter/</link>
+      <link>https://jingjaneli.github.io/publication/zha-2017-fpgaposter/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2017-fpgaposter/</guid>
+      <guid>https://jingjaneli.github.io/publication/zha-2017-fpgaposter/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline25%, 25 out of 101)&lt;/p&gt;
 </description>
     </item>

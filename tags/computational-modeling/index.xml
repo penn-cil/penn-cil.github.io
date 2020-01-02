@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>computational modeling | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/computational-modeling/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/computational-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/computational-modeling/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/computational-modeling/index.xml" rel="self" type="application/rss+xml" />
     <description>computational modeling</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>computational modeling</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/computational-modeling/</link>
+      <link>https://jingjaneli.github.io/tags/computational-modeling/</link>
     </image>
     
     <item>
       <title>An Alternative Analytical Approach to Associative Processing (Best of CAL)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/khoram-2018-cal/</link>
+      <link>https://jingjaneli.github.io/publication/khoram-2018-cal/</link>
       <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/khoram-2018-cal/</guid>
+      <guid>https://jingjaneli.github.io/publication/khoram-2018-cal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent progress in RRAM technology: From compact models to applications (INVITED)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2017-cstic/</link>
+      <link>https://jingjaneli.github.io/publication/zha-2017-cstic/</link>
       <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2017-cstic/</guid>
+      <guid>https://jingjaneli.github.io/publication/zha-2017-cstic/</guid>
       <description></description>
     </item>
     

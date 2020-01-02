@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>content addressable memory | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/content-addressable-memory/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/content-addressable-memory/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/content-addressable-memory/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/content-addressable-memory/index.xml" rel="self" type="application/rss+xml" />
     <description>content addressable memory</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>content addressable memory</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/content-addressable-memory/</link>
+      <link>https://jingjaneli.github.io/tags/content-addressable-memory/</link>
     </image>
     
     <item>
       <title>Demonstration of CAM and TCAM Using Phase Change Devices</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/rajendran-2011-imw/</link>
+      <link>https://jingjaneli.github.io/publication/rajendran-2011-imw/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/rajendran-2011-imw/</guid>
+      <guid>https://jingjaneli.github.io/publication/rajendran-2011-imw/</guid>
       <description></description>
     </item>
     

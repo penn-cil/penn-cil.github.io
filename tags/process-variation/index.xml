@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>process variation | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/process-variation/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/process-variation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/process-variation/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/process-variation/index.xml" rel="self" type="application/rss+xml" />
     <description>process variation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>process variation</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/process-variation/</link>
+      <link>https://jingjaneli.github.io/tags/process-variation/</link>
     </image>
     
     <item>
       <title>Variation Estimation and Compensation Technique in Scaled LTPS TFT Circuits for Low-Power Low-Cost Applications</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2009-tcad/</link>
+      <link>https://jingjaneli.github.io/publication/li-2009-tcad/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2009-tcad/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2009-tcad/</guid>
       <description></description>
     </item>
     

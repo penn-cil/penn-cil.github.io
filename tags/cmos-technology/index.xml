@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cmos technology | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/cmos-technology/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/cmos-technology/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/cmos-technology/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/cmos-technology/index.xml" rel="self" type="application/rss+xml" />
     <description>cmos technology</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>cmos technology</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/cmos-technology/</link>
+      <link>https://jingjaneli.github.io/tags/cmos-technology/</link>
     </image>
     
     <item>
       <title>1 Mb 0.41 um^2 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (INVITED)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2014-jssc/</link>
+      <link>https://jingjaneli.github.io/publication/li-2014-jssc/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2014-jssc/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2014-jssc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A non-volatile look-up table design using PCM (phase-change memory) cells</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/wen-2011-vlsi/</link>
+      <link>https://jingjaneli.github.io/publication/wen-2011-vlsi/</link>
       <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/wen-2011-vlsi/</guid>
+      <guid>https://jingjaneli.github.io/publication/wen-2011-vlsi/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline28%, 115 out of 409)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Novel Reconfigurable Sensing Scheme for Variable Level Storage in Phase Change Memory</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2011-imw/</link>
+      <link>https://jingjaneli.github.io/publication/li-2011-imw/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2011-imw/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2011-imw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variation Estimation and Compensation Technique in Scaled LTPS TFT Circuits for Low-Power Low-Cost Applications</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2009-tcad/</link>
+      <link>https://jingjaneli.github.io/publication/li-2009-tcad/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2009-tcad/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2009-tcad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variation Estimation and Compensation Technique in Scaled LTPS TFT Circuits for Low-Power Low-Cost Applications</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2009-tcad/</link>
+      <link>https://jingjaneli.github.io/publication/li-2009-tcad/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2009-tcad/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2009-tcad/</guid>
       <description></description>
     </item>
     

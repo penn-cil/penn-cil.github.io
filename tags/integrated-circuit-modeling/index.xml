@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>integrated circuit modeling | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/integrated-circuit-modeling/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/integrated-circuit-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/integrated-circuit-modeling/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/integrated-circuit-modeling/index.xml" rel="self" type="application/rss+xml" />
     <description>integrated circuit modeling</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>integrated circuit modeling</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/integrated-circuit-modeling/</link>
+      <link>https://jingjaneli.github.io/tags/integrated-circuit-modeling/</link>
     </image>
     
     <item>
       <title>A compact model for RRAM including random telegraph noise</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/guan-2016-irps/</link>
+      <link>https://jingjaneli.github.io/publication/guan-2016-irps/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/guan-2016-irps/</guid>
+      <guid>https://jingjaneli.github.io/publication/guan-2016-irps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theory and Experiments of the Impact of Work-Function Variability on Threshold Voltage Variability in MOS Devices</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zhang-2012-ted/</link>
+      <link>https://jingjaneli.github.io/publication/zhang-2012-ted/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zhang-2012-ted/</guid>
+      <guid>https://jingjaneli.github.io/publication/zhang-2012-ted/</guid>
       <description></description>
     </item>
     

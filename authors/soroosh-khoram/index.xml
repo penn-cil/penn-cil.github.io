@@ -2,98 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Soroosh Khoram | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/authors/soroosh-khoram/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/authors/soroosh-khoram/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/authors/soroosh-khoram/</link>
+      <atom:link href="https://jingjaneli.github.io/authors/soroosh-khoram/index.xml" rel="self" type="application/rss+xml" />
     <description>Soroosh Khoram</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>Soroosh Khoram</title>
-      <link>https://www.seas.upenn.edu/~janeli/authors/soroosh-khoram/</link>
+      <link>https://jingjaneli.github.io/authors/soroosh-khoram/</link>
     </image>
     
     <item>
       <title>Interleaved Composite Quantization for High-Dimensional Similarity Search</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/khoram-2019-interleaved/</link>
+      <link>https://jingjaneli.github.io/publication/khoram-2019-interleaved/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/khoram-2019-interleaved/</guid>
+      <guid>https://jingjaneli.github.io/publication/khoram-2019-interleaved/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TOCO: A Framework for Compressing Neural Network Models Based on Tolerance Analysis</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/khoram-2019-toco/</link>
+      <link>https://jingjaneli.github.io/publication/khoram-2019-toco/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/khoram-2019-toco/</guid>
+      <guid>https://jingjaneli.github.io/publication/khoram-2019-toco/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient Large-scale Approximate Nearest Neighbor Search on the OpenCL-FPGA</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zhang-2018-cvpr/</link>
+      <link>https://jingjaneli.github.io/publication/zhang-2018-cvpr/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zhang-2018-cvpr/</guid>
+      <guid>https://jingjaneli.github.io/publication/zhang-2018-cvpr/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline29%, 979 out of over 3300)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adaptive Quantization of Neural Networks</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/khoram-2018-iclr/</link>
+      <link>https://jingjaneli.github.io/publication/khoram-2018-iclr/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/khoram-2018-iclr/</guid>
+      <guid>https://jingjaneli.github.io/publication/khoram-2018-iclr/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline34%, 314 out of 935)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Accelerating  Graph  Analytics  By  Co-Optimizing  Storage  and  Access  on  an FPGA-HMC Platform</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/khoram-2018-fpga/</link>
+      <link>https://jingjaneli.github.io/publication/khoram-2018-fpga/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/khoram-2018-fpga/</guid>
+      <guid>https://jingjaneli.github.io/publication/khoram-2018-fpga/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline24%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Computing Generalized Matrix Inverse on Spiking Neural Substrate</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/shukla-2018-frontiers/</link>
+      <link>https://jingjaneli.github.io/publication/shukla-2018-frontiers/</link>
       <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/shukla-2018-frontiers/</guid>
+      <guid>https://jingjaneli.github.io/publication/shukla-2018-frontiers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Alternative Analytical Approach to Associative Processing (Best of CAL)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/khoram-2018-cal/</link>
+      <link>https://jingjaneli.github.io/publication/khoram-2018-cal/</link>
       <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/khoram-2018-cal/</guid>
+      <guid>https://jingjaneli.github.io/publication/khoram-2018-cal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accelerating Large-Scale Graph Analytics with FPGA and HMC (Poster)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/khoram-2017-fccm/</link>
+      <link>https://jingjaneli.github.io/publication/khoram-2017-fccm/</link>
       <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/khoram-2017-fccm/</guid>
+      <guid>https://jingjaneli.github.io/publication/khoram-2017-fccm/</guid>
       <description>&lt;p&gt;Acceptance rate: underline25%, 32 out of 128&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Challenges and Opportunities: From Near-memory Computing to In-memory Computing (INVITED)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/khoram-2017-ispd/</link>
+      <link>https://jingjaneli.github.io/publication/khoram-2017-ispd/</link>
       <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/khoram-2017-ispd/</guid>
+      <guid>https://jingjaneli.github.io/publication/khoram-2017-ispd/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline35%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Boosting the Performance of FPGA-based Graph Processor Using Hybrid Memory Cube: A Case for Breadth First Search</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zhang-2017-fpga-bfs/</link>
+      <link>https://jingjaneli.github.io/publication/zhang-2017-fpga-bfs/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zhang-2017-fpga-bfs/</guid>
+      <guid>https://jingjaneli.github.io/publication/zhang-2017-fpga-bfs/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline25%, 25 out of 101)&lt;/p&gt;
 </description>
     </item>

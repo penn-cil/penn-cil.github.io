@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hybrid memory cube | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/hybrid-memory-cube/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/hybrid-memory-cube/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/hybrid-memory-cube/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/hybrid-memory-cube/index.xml" rel="self" type="application/rss+xml" />
     <description>hybrid memory cube</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Feb 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>hybrid memory cube</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/hybrid-memory-cube/</link>
+      <link>https://jingjaneli.github.io/tags/hybrid-memory-cube/</link>
     </image>
     
     <item>
       <title>Accelerating  Graph  Analytics  By  Co-Optimizing  Storage  and  Access  on  an FPGA-HMC Platform</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/khoram-2018-fpga/</link>
+      <link>https://jingjaneli.github.io/publication/khoram-2018-fpga/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/khoram-2018-fpga/</guid>
+      <guid>https://jingjaneli.github.io/publication/khoram-2018-fpga/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline24%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Degree-aware Hybrid Graph Traversal on FPGA-HMC Platform</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zhang-2018-fpga/</link>
+      <link>https://jingjaneli.github.io/publication/zhang-2018-fpga/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zhang-2018-fpga/</guid>
+      <guid>https://jingjaneli.github.io/publication/zhang-2018-fpga/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline24%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Accelerating Large-Scale Graph Analytics with FPGA and HMC (Poster)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/khoram-2017-fccm/</link>
+      <link>https://jingjaneli.github.io/publication/khoram-2017-fccm/</link>
       <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/khoram-2017-fccm/</guid>
+      <guid>https://jingjaneli.github.io/publication/khoram-2017-fccm/</guid>
       <description>&lt;p&gt;Acceptance rate: underline25%, 32 out of 128&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Accelerating Large-Scale Graph Analytics with FPGA and HMC (Poster)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/khoram-2017-fccm/</link>
+      <link>https://jingjaneli.github.io/publication/khoram-2017-fccm/</link>
       <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/khoram-2017-fccm/</guid>
+      <guid>https://jingjaneli.github.io/publication/khoram-2017-fccm/</guid>
       <description>&lt;p&gt;Acceptance rate: underline25%, 32 out of 128&lt;/p&gt;
 </description>
     </item>

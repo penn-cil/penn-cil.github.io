@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>digital circuits | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/digital-circuits/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/digital-circuits/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/digital-circuits/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/digital-circuits/index.xml" rel="self" type="application/rss+xml" />
     <description>digital circuits</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 May 2007 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>digital circuits</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/digital-circuits/</link>
+      <link>https://jingjaneli.github.io/tags/digital-circuits/</link>
     </image>
     
     <item>
       <title>Novel Variation-Aware Circuit Design of Scaled LTPS TFT for Ultra low Power, Low-Cost Applications</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2007-icicdt/</link>
+      <link>https://jingjaneli.github.io/publication/li-2007-icicdt/</link>
       <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2007-icicdt/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2007-icicdt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring Low Temperature Poly-Si for Low Cost and Low Power Sub-micron Digital Operation</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2006-drc/</link>
+      <link>https://jingjaneli.github.io/publication/li-2006-drc/</link>
       <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2006-drc/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2006-drc/</guid>
       <description></description>
     </item>
     

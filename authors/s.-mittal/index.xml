@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S. Mittal | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/authors/s.-mittal/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/authors/s.-mittal/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/authors/s.-mittal/</link>
+      <atom:link href="https://jingjaneli.github.io/authors/s.-mittal/index.xml" rel="self" type="application/rss+xml" />
     <description>S. Mittal</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>S. Mittal</title>
-      <link>https://www.seas.upenn.edu/~janeli/authors/s.-mittal/</link>
+      <link>https://jingjaneli.github.io/authors/s.-mittal/</link>
     </image>
     
     <item>
       <title>Optimization of programming current on endurance of phase change memory</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/kim-2012-vlsitsa/</link>
+      <link>https://jingjaneli.github.io/publication/kim-2012-vlsitsa/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/kim-2012-vlsitsa/</guid>
+      <guid>https://jingjaneli.github.io/publication/kim-2012-vlsitsa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The impact of melting during reset operation on the reliability of phase change memory</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/du-2012-irps/</link>
+      <link>https://jingjaneli.github.io/publication/du-2012-irps/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/du-2012-irps/</guid>
+      <guid>https://jingjaneli.github.io/publication/du-2012-irps/</guid>
       <description></description>
     </item>
     

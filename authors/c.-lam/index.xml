@@ -2,64 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C. Lam | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/authors/c.-lam/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/authors/c.-lam/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/authors/c.-lam/</link>
+      <atom:link href="https://jingjaneli.github.io/authors/c.-lam/index.xml" rel="self" type="application/rss+xml" />
     <description>C. Lam</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>C. Lam</title>
-      <link>https://www.seas.upenn.edu/~janeli/authors/c.-lam/</link>
+      <link>https://jingjaneli.github.io/authors/c.-lam/</link>
     </image>
     
     <item>
       <title>Optimization of programming current on endurance of phase change memory</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/kim-2012-vlsitsa/</link>
+      <link>https://jingjaneli.github.io/publication/kim-2012-vlsitsa/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/kim-2012-vlsitsa/</guid>
+      <guid>https://jingjaneli.github.io/publication/kim-2012-vlsitsa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A low power phase change memory using thermally confined TaN/TiN bottom electrode</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/wu-2011-iedm/</link>
+      <link>https://jingjaneli.github.io/publication/wu-2011-iedm/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/wu-2011-iedm/</guid>
+      <guid>https://jingjaneli.github.io/publication/wu-2011-iedm/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Explore physical origins of resistance drift in phase change memory and its implication for drift-insensitive materials</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2011-iedm/</link>
+      <link>https://jingjaneli.github.io/publication/li-2011-iedm/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2011-iedm/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2011-iedm/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A non-volatile look-up table design using PCM (phase-change memory) cells</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/wen-2011-vlsi/</link>
+      <link>https://jingjaneli.github.io/publication/wen-2011-vlsi/</link>
       <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/wen-2011-vlsi/</guid>
+      <guid>https://jingjaneli.github.io/publication/wen-2011-vlsi/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline28%, 115 out of 409)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Novel Reconfigurable Sensing Scheme for Variable Level Storage in Phase Change Memory</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2011-imw/</link>
+      <link>https://jingjaneli.github.io/publication/li-2011-imw/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2011-imw/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2011-imw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demonstration of CAM and TCAM Using Phase Change Devices</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/rajendran-2011-imw/</link>
+      <link>https://jingjaneli.github.io/publication/rajendran-2011-imw/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/rajendran-2011-imw/</guid>
+      <guid>https://jingjaneli.github.io/publication/rajendran-2011-imw/</guid>
       <description></description>
     </item>
     

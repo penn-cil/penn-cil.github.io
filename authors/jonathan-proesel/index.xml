@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jonathan Proesel | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/authors/jonathan-proesel/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/authors/jonathan-proesel/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/authors/jonathan-proesel/</link>
+      <atom:link href="https://jingjaneli.github.io/authors/jonathan-proesel/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonathan Proesel</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>Jonathan Proesel</title>
-      <link>https://www.seas.upenn.edu/~janeli/authors/jonathan-proesel/</link>
+      <link>https://jingjaneli.github.io/authors/jonathan-proesel/</link>
     </image>
     
     <item>
       <title>Post-silicon calibration of analog CMOS using phase-change memory cells</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/wen-2011-esscirc/</link>
+      <link>https://jingjaneli.github.io/publication/wen-2011-esscirc/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/wen-2011-esscirc/</guid>
+      <guid>https://jingjaneli.github.io/publication/wen-2011-esscirc/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline38%, 121 out of 314)&lt;/p&gt;
 </description>
     </item>

@@ -2,105 +2,105 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>resistance | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/resistance/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/resistance/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/resistance/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/resistance/index.xml" rel="self" type="application/rss+xml" />
     <description>resistance</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 12 Mar 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>resistance</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/resistance/</link>
+      <link>https://jingjaneli.github.io/tags/resistance/</link>
     </image>
     
     <item>
       <title>Recent progress in RRAM technology: From compact models to applications (INVITED)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2017-cstic/</link>
+      <link>https://jingjaneli.github.io/publication/zha-2017-cstic/</link>
       <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2017-cstic/</guid>
+      <guid>https://jingjaneli.github.io/publication/zha-2017-cstic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fully CMOS compatible 3D vertical RRAM with self-aligned self-selective cell enabling sub-5nm scaling</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/xu-2016-vlsi/</link>
+      <link>https://jingjaneli.github.io/publication/xu-2016-vlsi/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/xu-2016-vlsi/</guid>
+      <guid>https://jingjaneli.github.io/publication/xu-2016-vlsi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demonstration of 3D vertical RRAM with ultra low-leakage, high-selectivity and self-compliance memory cells</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/luo-2015-iedm/</link>
+      <link>https://jingjaneli.github.io/publication/luo-2015-iedm/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/luo-2015-iedm/</guid>
+      <guid>https://jingjaneli.github.io/publication/luo-2015-iedm/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Optimization of programming current on endurance of phase change memory</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/kim-2012-vlsitsa/</link>
+      <link>https://jingjaneli.github.io/publication/kim-2012-vlsitsa/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/kim-2012-vlsitsa/</guid>
+      <guid>https://jingjaneli.github.io/publication/kim-2012-vlsitsa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resistance drift in phase change memory (INVITED)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2012-irps/</link>
+      <link>https://jingjaneli.github.io/publication/li-2012-irps/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2012-irps/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2012-irps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The impact of melting during reset operation on the reliability of phase change memory</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/du-2012-irps/</link>
+      <link>https://jingjaneli.github.io/publication/du-2012-irps/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/du-2012-irps/</guid>
+      <guid>https://jingjaneli.github.io/publication/du-2012-irps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explore physical origins of resistance drift in phase change memory and its implication for drift-insensitive materials</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2011-iedm/</link>
+      <link>https://jingjaneli.github.io/publication/li-2011-iedm/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2011-iedm/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2011-iedm/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Post-silicon calibration of analog CMOS using phase-change memory cells</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/wen-2011-esscirc/</link>
+      <link>https://jingjaneli.github.io/publication/wen-2011-esscirc/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/wen-2011-esscirc/</guid>
+      <guid>https://jingjaneli.github.io/publication/wen-2011-esscirc/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline38%, 121 out of 314)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A non-volatile look-up table design using PCM (phase-change memory) cells</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/wen-2011-vlsi/</link>
+      <link>https://jingjaneli.github.io/publication/wen-2011-vlsi/</link>
       <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/wen-2011-vlsi/</guid>
+      <guid>https://jingjaneli.github.io/publication/wen-2011-vlsi/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline28%, 115 out of 409)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Novel Reconfigurable Sensing Scheme for Variable Level Storage in Phase Change Memory</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2011-imw/</link>
+      <link>https://jingjaneli.github.io/publication/li-2011-imw/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2011-imw/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2011-imw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demonstration of CAM and TCAM Using Phase Change Devices</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/rajendran-2011-imw/</link>
+      <link>https://jingjaneli.github.io/publication/rajendran-2011-imw/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/rajendran-2011-imw/</guid>
+      <guid>https://jingjaneli.github.io/publication/rajendran-2011-imw/</guid>
       <description></description>
     </item>
     

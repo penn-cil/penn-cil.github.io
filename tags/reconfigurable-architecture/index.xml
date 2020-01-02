@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> reconfigurable architecture | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/reconfigurable-architecture/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/reconfigurable-architecture/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/reconfigurable-architecture/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/reconfigurable-architecture/index.xml" rel="self" type="application/rss+xml" />
     <description> reconfigurable architecture</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Feb 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title> reconfigurable architecture</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/reconfigurable-architecture/</link>
+      <link>https://jingjaneli.github.io/tags/reconfigurable-architecture/</link>
     </image>
     
     <item>
       <title>Liquid  Silicon:  A Data-Centric Reconfigurable Architecture enabled by RRAM Technology</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2018-fpga/</link>
+      <link>https://jingjaneli.github.io/publication/zha-2018-fpga/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2018-fpga/</guid>
+      <guid>https://jingjaneli.github.io/publication/zha-2018-fpga/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline24%, Ranked &lt;strong&gt;#1&lt;/strong&gt; among 100+ submissions)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>RRAM-based reconfigurable in-memory computing architecture with hybrid routing</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2017-iccad/</link>
+      <link>https://jingjaneli.github.io/publication/zha-2017-iccad/</link>
       <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2017-iccad/</guid>
+      <guid>https://jingjaneli.github.io/publication/zha-2017-iccad/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline26%, 105 out of 399)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Mixed-Signal Data-Centric Reconfigurable Architecture Enabled by RRAM Technology (poster)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2017-fpgaposter/</link>
+      <link>https://jingjaneli.github.io/publication/zha-2017-fpgaposter/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2017-fpgaposter/</guid>
+      <guid>https://jingjaneli.github.io/publication/zha-2017-fpgaposter/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline25%, 25 out of 101)&lt;/p&gt;
 </description>
     </item>

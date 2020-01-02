@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> failure analysis | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/failure-analysis/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/failure-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/failure-analysis/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/failure-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description> failure analysis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title> failure analysis</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/failure-analysis/</link>
+      <link>https://jingjaneli.github.io/tags/failure-analysis/</link>
     </image>
     
     <item>
       <title>Theory and Experiments of the Impact of Work-Function Variability on Threshold Voltage Variability in MOS Devices</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zhang-2012-ted/</link>
+      <link>https://jingjaneli.github.io/publication/zhang-2012-ted/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zhang-2012-ted/</guid>
+      <guid>https://jingjaneli.github.io/publication/zhang-2012-ted/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimization of programming current on endurance of phase change memory</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/kim-2012-vlsitsa/</link>
+      <link>https://jingjaneli.github.io/publication/kim-2012-vlsitsa/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/kim-2012-vlsitsa/</guid>
+      <guid>https://jingjaneli.github.io/publication/kim-2012-vlsitsa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design Paradigm for Robust Spin-Torque Transfer Magnetic RAM (STT MRAM) From Circuit/Architecture Perspective (Best Paper)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2010-tvlsi/</link>
+      <link>https://jingjaneli.github.io/publication/li-2010-tvlsi/</link>
       <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2010-tvlsi/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2010-tvlsi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling of failure probability and statistical design of Spin-Torque Transfer Magnetic Random Access Memory (STT MRAM) array for yield enhancement</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2008-dac/</link>
+      <link>https://jingjaneli.github.io/publication/li-2008-dac/</link>
       <pubDate>Sun, 08 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2008-dac/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2008-dac/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline23%, 147 out of 639)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Modeling of failure probability and statistical design of Spin-Torque Transfer Magnetic Random Access Memory (STT MRAM) array for yield enhancement</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2008-dac/</link>
+      <link>https://jingjaneli.github.io/publication/li-2008-dac/</link>
       <pubDate>Sun, 08 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2008-dac/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2008-dac/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline23%, 147 out of 639)&lt;/p&gt;
 </description>
     </item>

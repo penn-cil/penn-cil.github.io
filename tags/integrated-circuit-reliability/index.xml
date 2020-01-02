@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>integrated circuit reliability | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/integrated-circuit-reliability/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/integrated-circuit-reliability/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/integrated-circuit-reliability/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/integrated-circuit-reliability/index.xml" rel="self" type="application/rss+xml" />
     <description>integrated circuit reliability</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>integrated circuit reliability</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/integrated-circuit-reliability/</link>
+      <link>https://jingjaneli.github.io/tags/integrated-circuit-reliability/</link>
     </image>
     
     <item>
       <title>A compact model for RRAM including random telegraph noise</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/guan-2016-irps/</link>
+      <link>https://jingjaneli.github.io/publication/guan-2016-irps/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/guan-2016-irps/</guid>
+      <guid>https://jingjaneli.github.io/publication/guan-2016-irps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1Mb 0.41 um^2 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (Highlight Paper of the Year)</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/li-2013-vlsi/</link>
+      <link>https://jingjaneli.github.io/publication/li-2013-vlsi/</link>
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2013-vlsi/</guid>
+      <guid>https://jingjaneli.github.io/publication/li-2013-vlsi/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline27%, 109 out of 396)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A low power phase change memory using thermally confined TaN/TiN bottom electrode</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/wu-2011-iedm/</link>
+      <link>https://jingjaneli.github.io/publication/wu-2011-iedm/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/wu-2011-iedm/</guid>
+      <guid>https://jingjaneli.github.io/publication/wu-2011-iedm/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Physical model of the impact of metal grain work function variability on emerging dual metal gate MOSFETs and its implication for SRAM reliability</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/zhang-2009-iedm/</link>
+      <link>https://jingjaneli.github.io/publication/zhang-2009-iedm/</link>
       <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/zhang-2009-iedm/</guid>
+      <guid>https://jingjaneli.github.io/publication/zhang-2009-iedm/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
 </description>
     </item>

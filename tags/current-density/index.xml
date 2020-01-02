@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>current density | Penn Computational Intelligence Lab</title>
-    <link>https://www.seas.upenn.edu/~janeli/tags/current-density/</link>
-      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/current-density/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjaneli.github.io/tags/current-density/</link>
+      <atom:link href="https://jingjaneli.github.io/tags/current-density/index.xml" rel="self" type="application/rss+xml" />
     <description>current density</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <url>https://jingjaneli.github.io/img/logo.png</url>
       <title>current density</title>
-      <link>https://www.seas.upenn.edu/~janeli/tags/current-density/</link>
+      <link>https://jingjaneli.github.io/tags/current-density/</link>
     </image>
     
     <item>
       <title>Optimization of programming current on endurance of phase change memory</title>
-      <link>https://www.seas.upenn.edu/~janeli/publication/kim-2012-vlsitsa/</link>
+      <link>https://jingjaneli.github.io/publication/kim-2012-vlsitsa/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.seas.upenn.edu/~janeli/publication/kim-2012-vlsitsa/</guid>
+      <guid>https://jingjaneli.github.io/publication/kim-2012-vlsitsa/</guid>
       <description></description>
     </item>
     
