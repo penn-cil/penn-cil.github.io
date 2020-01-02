@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>crystallization | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/tags/crystallization/</link>
-      <atom:link href="https://jingjaneli.github.io/tags/crystallization/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/tags/crystallization/</link>
+      <atom:link href="https://penn-cil.github.io/tags/crystallization/index.xml" rel="self" type="application/rss+xml" />
     <description>crystallization</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2007 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>crystallization</title>
-      <link>https://jingjaneli.github.io/tags/crystallization/</link>
+      <link>https://penn-cil.github.io/tags/crystallization/</link>
     </image>
     
     <item>
       <title>A generic and reconfigurable test paradigm using Low-cost integrated Poly-Si TFTs</title>
-      <link>https://jingjaneli.github.io/publication/li-2007-itc/</link>
+      <link>https://penn-cil.github.io/publication/li-2007-itc/</link>
       <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2007-itc/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2007-itc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring Low Temperature Poly-Si for Low Cost and Low Power Sub-micron Digital Operation</title>
-      <link>https://jingjaneli.github.io/publication/li-2006-drc/</link>
+      <link>https://penn-cil.github.io/publication/li-2006-drc/</link>
       <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2006-drc/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2006-drc/</guid>
       <description></description>
     </item>
     

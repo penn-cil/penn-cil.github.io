@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>etching | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/tags/etching/</link>
-      <atom:link href="https://jingjaneli.github.io/tags/etching/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/tags/etching/</link>
+      <atom:link href="https://penn-cil.github.io/tags/etching/index.xml" rel="self" type="application/rss+xml" />
     <description>etching</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>etching</title>
-      <link>https://jingjaneli.github.io/tags/etching/</link>
+      <link>https://penn-cil.github.io/tags/etching/</link>
     </image>
     
     <item>
       <title>Fully CMOS compatible 3D vertical RRAM with self-aligned self-selective cell enabling sub-5nm scaling</title>
-      <link>https://jingjaneli.github.io/publication/xu-2016-vlsi/</link>
+      <link>https://penn-cil.github.io/publication/xu-2016-vlsi/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/xu-2016-vlsi/</guid>
+      <guid>https://penn-cil.github.io/publication/xu-2016-vlsi/</guid>
       <description></description>
     </item>
     

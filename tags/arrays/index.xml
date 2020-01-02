@@ -2,64 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> arrays | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/tags/arrays/</link>
-      <atom:link href="https://jingjaneli.github.io/tags/arrays/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/tags/arrays/</link>
+      <atom:link href="https://penn-cil.github.io/tags/arrays/index.xml" rel="self" type="application/rss+xml" />
     <description> arrays</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title> arrays</title>
-      <link>https://jingjaneli.github.io/tags/arrays/</link>
+      <link>https://penn-cil.github.io/tags/arrays/</link>
     </image>
     
     <item>
       <title>1 Mb 0.41 um^2 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (INVITED)</title>
-      <link>https://jingjaneli.github.io/publication/li-2014-jssc/</link>
+      <link>https://penn-cil.github.io/publication/li-2014-jssc/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2014-jssc/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2014-jssc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1Mb 0.41 um^2 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (Highlight Paper of the Year)</title>
-      <link>https://jingjaneli.github.io/publication/li-2013-vlsi/</link>
+      <link>https://penn-cil.github.io/publication/li-2013-vlsi/</link>
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2013-vlsi/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2013-vlsi/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline27%, 109 out of 396)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A case for small row buffers in non-volatile main memories</title>
-      <link>https://jingjaneli.github.io/publication/meza-2012-iccd/</link>
+      <link>https://penn-cil.github.io/publication/meza-2012-iccd/</link>
       <pubDate>Sun, 30 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/meza-2012-iccd/</guid>
+      <guid>https://penn-cil.github.io/publication/meza-2012-iccd/</guid>
       <description>&lt;p&gt;(Acceptance rate: underline25%, 61 out of 241)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The impact of melting during reset operation on the reliability of phase change memory</title>
-      <link>https://jingjaneli.github.io/publication/du-2012-irps/</link>
+      <link>https://penn-cil.github.io/publication/du-2012-irps/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/du-2012-irps/</guid>
+      <guid>https://penn-cil.github.io/publication/du-2012-irps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Post-silicon calibration of analog CMOS using phase-change memory cells</title>
-      <link>https://jingjaneli.github.io/publication/wen-2011-esscirc/</link>
+      <link>https://penn-cil.github.io/publication/wen-2011-esscirc/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/wen-2011-esscirc/</guid>
+      <guid>https://penn-cil.github.io/publication/wen-2011-esscirc/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline38%, 121 out of 314)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Demonstration of CAM and TCAM Using Phase Change Devices</title>
-      <link>https://jingjaneli.github.io/publication/rajendran-2011-imw/</link>
+      <link>https://penn-cil.github.io/publication/rajendran-2011-imw/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/rajendran-2011-imw/</guid>
+      <guid>https://penn-cil.github.io/publication/rajendran-2011-imw/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> near-memory processing | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/tags/near-memory-processing/</link>
-      <atom:link href="https://jingjaneli.github.io/tags/near-memory-processing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/tags/near-memory-processing/</link>
+      <atom:link href="https://penn-cil.github.io/tags/near-memory-processing/index.xml" rel="self" type="application/rss+xml" />
     <description> near-memory processing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Mar 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title> near-memory processing</title>
-      <link>https://jingjaneli.github.io/tags/near-memory-processing/</link>
+      <link>https://penn-cil.github.io/tags/near-memory-processing/</link>
     </image>
     
     <item>
       <title>Challenges and Opportunities: From Near-memory Computing to In-memory Computing (INVITED)</title>
-      <link>https://jingjaneli.github.io/publication/khoram-2017-ispd/</link>
+      <link>https://penn-cil.github.io/publication/khoram-2017-ispd/</link>
       <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/khoram-2017-ispd/</guid>
+      <guid>https://penn-cil.github.io/publication/khoram-2017-ispd/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline35%)&lt;/p&gt;
 </description>
     </item>

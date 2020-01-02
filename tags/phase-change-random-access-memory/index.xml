@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>phase change random access memory | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/tags/phase-change-random-access-memory/</link>
-      <atom:link href="https://jingjaneli.github.io/tags/phase-change-random-access-memory/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/tags/phase-change-random-access-memory/</link>
+      <atom:link href="https://penn-cil.github.io/tags/phase-change-random-access-memory/index.xml" rel="self" type="application/rss+xml" />
     <description>phase change random access memory</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>phase change random access memory</title>
-      <link>https://jingjaneli.github.io/tags/phase-change-random-access-memory/</link>
+      <link>https://penn-cil.github.io/tags/phase-change-random-access-memory/</link>
     </image>
     
     <item>
       <title>Materials engineering for Phase Change Random Access Memory</title>
-      <link>https://jingjaneli.github.io/publication/raoux-2011-nvmts/</link>
+      <link>https://penn-cil.github.io/publication/raoux-2011-nvmts/</link>
       <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/raoux-2011-nvmts/</guid>
+      <guid>https://penn-cil.github.io/publication/raoux-2011-nvmts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Materials engineering for Phase Change Random Access Memory</title>
-      <link>https://jingjaneli.github.io/publication/raoux-2011-nvmts/</link>
+      <link>https://penn-cil.github.io/publication/raoux-2011-nvmts/</link>
       <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/raoux-2011-nvmts/</guid>
+      <guid>https://penn-cil.github.io/publication/raoux-2011-nvmts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Post-silicon calibration of analog CMOS using phase-change memory cells</title>
-      <link>https://jingjaneli.github.io/publication/wen-2011-esscirc/</link>
+      <link>https://penn-cil.github.io/publication/wen-2011-esscirc/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/wen-2011-esscirc/</guid>
+      <guid>https://penn-cil.github.io/publication/wen-2011-esscirc/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline38%, 121 out of 314)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A non-volatile look-up table design using PCM (phase-change memory) cells</title>
-      <link>https://jingjaneli.github.io/publication/wen-2011-vlsi/</link>
+      <link>https://penn-cil.github.io/publication/wen-2011-vlsi/</link>
       <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/wen-2011-vlsi/</guid>
+      <guid>https://penn-cil.github.io/publication/wen-2011-vlsi/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline28%, 115 out of 409)&lt;/p&gt;
 </description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>parallel processing | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/tags/parallel-processing/</link>
-      <atom:link href="https://jingjaneli.github.io/tags/parallel-processing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/tags/parallel-processing/</link>
+      <atom:link href="https://penn-cil.github.io/tags/parallel-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>parallel processing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>parallel processing</title>
-      <link>https://jingjaneli.github.io/tags/parallel-processing/</link>
+      <link>https://penn-cil.github.io/tags/parallel-processing/</link>
     </image>
     
     <item>
       <title>An Alternative Analytical Approach to Associative Processing (Best of CAL)</title>
-      <link>https://jingjaneli.github.io/publication/khoram-2018-cal/</link>
+      <link>https://penn-cil.github.io/publication/khoram-2018-cal/</link>
       <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/khoram-2018-cal/</guid>
+      <guid>https://penn-cil.github.io/publication/khoram-2018-cal/</guid>
       <description></description>
     </item>
     

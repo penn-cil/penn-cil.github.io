@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>encoding | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/tags/encoding/</link>
-      <atom:link href="https://jingjaneli.github.io/tags/encoding/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/tags/encoding/</link>
+      <atom:link href="https://penn-cil.github.io/tags/encoding/index.xml" rel="self" type="application/rss+xml" />
     <description>encoding</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jul 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>encoding</title>
-      <link>https://jingjaneli.github.io/tags/encoding/</link>
+      <link>https://penn-cil.github.io/tags/encoding/</link>
     </image>
     
     <item>
       <title>CMA: A Reconfigurable Complex Matching Accelerator for Wire-speed Network Intrusion Detection</title>
-      <link>https://jingjaneli.github.io/publication/zha-2017-calcma/</link>
+      <link>https://penn-cil.github.io/publication/zha-2017-calcma/</link>
       <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/zha-2017-calcma/</guid>
+      <guid>https://penn-cil.github.io/publication/zha-2017-calcma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enabling phase-change memory for data-centric computing: Technology, circuitand system (INVITED)</title>
-      <link>https://jingjaneli.github.io/publication/li-2015-iscas/</link>
+      <link>https://penn-cil.github.io/publication/li-2015-iscas/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2015-iscas/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2015-iscas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1 Mb 0.41 um^2 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (INVITED)</title>
-      <link>https://jingjaneli.github.io/publication/li-2014-jssc/</link>
+      <link>https://penn-cil.github.io/publication/li-2014-jssc/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2014-jssc/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2014-jssc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1 Mb 0.41 um^2 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (INVITED)</title>
-      <link>https://jingjaneli.github.io/publication/li-2014-jssc/</link>
+      <link>https://penn-cil.github.io/publication/li-2014-jssc/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2014-jssc/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2014-jssc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1 Mb 0.41 um^2 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (INVITED)</title>
-      <link>https://jingjaneli.github.io/publication/li-2014-jssc/</link>
+      <link>https://penn-cil.github.io/publication/li-2014-jssc/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2014-jssc/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2014-jssc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1Mb 0.41 um^2 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (Highlight Paper of the Year)</title>
-      <link>https://jingjaneli.github.io/publication/li-2013-vlsi/</link>
+      <link>https://penn-cil.github.io/publication/li-2013-vlsi/</link>
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2013-vlsi/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2013-vlsi/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline27%, 109 out of 396)&lt;/p&gt;
 </description>
     </item>

@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>programming | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/tags/programming/</link>
-      <atom:link href="https://jingjaneli.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/tags/programming/</link>
+      <atom:link href="https://penn-cil.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <description>programming</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>programming</title>
-      <link>https://jingjaneli.github.io/tags/programming/</link>
+      <link>https://penn-cil.github.io/tags/programming/</link>
     </image>
     
     <item>
       <title>Fully CMOS compatible 3D vertical RRAM with self-aligned self-selective cell enabling sub-5nm scaling</title>
-      <link>https://jingjaneli.github.io/publication/xu-2016-vlsi/</link>
+      <link>https://penn-cil.github.io/publication/xu-2016-vlsi/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/xu-2016-vlsi/</guid>
+      <guid>https://penn-cil.github.io/publication/xu-2016-vlsi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimization of programming current on endurance of phase change memory</title>
-      <link>https://jingjaneli.github.io/publication/kim-2012-vlsitsa/</link>
+      <link>https://penn-cil.github.io/publication/kim-2012-vlsitsa/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/kim-2012-vlsitsa/</guid>
+      <guid>https://penn-cil.github.io/publication/kim-2012-vlsitsa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explore physical origins of resistance drift in phase change memory and its implication for drift-insensitive materials</title>
-      <link>https://jingjaneli.github.io/publication/li-2011-iedm/</link>
+      <link>https://penn-cil.github.io/publication/li-2011-iedm/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2011-iedm/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2011-iedm/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Demonstration of CAM and TCAM Using Phase Change Devices</title>
-      <link>https://jingjaneli.github.io/publication/rajendran-2011-imw/</link>
+      <link>https://penn-cil.github.io/publication/rajendran-2011-imw/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/rajendran-2011-imw/</guid>
+      <guid>https://penn-cil.github.io/publication/rajendran-2011-imw/</guid>
       <description></description>
     </item>
     

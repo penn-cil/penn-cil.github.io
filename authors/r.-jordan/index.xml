@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R. Jordan | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/authors/r.-jordan/</link>
-      <atom:link href="https://jingjaneli.github.io/authors/r.-jordan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/authors/r.-jordan/</link>
+      <atom:link href="https://penn-cil.github.io/authors/r.-jordan/index.xml" rel="self" type="application/rss+xml" />
     <description>R. Jordan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>R. Jordan</title>
-      <link>https://jingjaneli.github.io/authors/r.-jordan/</link>
+      <link>https://penn-cil.github.io/authors/r.-jordan/</link>
     </image>
     
     <item>
       <title>A Novel Reconfigurable Sensing Scheme for Variable Level Storage in Phase Change Memory</title>
-      <link>https://jingjaneli.github.io/publication/li-2011-imw/</link>
+      <link>https://penn-cil.github.io/publication/li-2011-imw/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2011-imw/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2011-imw/</guid>
       <description></description>
     </item>
     

@@ -2,91 +2,91 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>low-power electronics | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/tags/low-power-electronics/</link>
-      <atom:link href="https://jingjaneli.github.io/tags/low-power-electronics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/tags/low-power-electronics/</link>
+      <atom:link href="https://penn-cil.github.io/tags/low-power-electronics/index.xml" rel="self" type="application/rss+xml" />
     <description>low-power electronics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jun 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>low-power electronics</title>
-      <link>https://jingjaneli.github.io/tags/low-power-electronics/</link>
+      <link>https://penn-cil.github.io/tags/low-power-electronics/</link>
     </image>
     
     <item>
       <title>1Mb 0.41 um^2 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (Highlight Paper of the Year)</title>
-      <link>https://jingjaneli.github.io/publication/li-2013-vlsi/</link>
+      <link>https://penn-cil.github.io/publication/li-2013-vlsi/</link>
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2013-vlsi/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2013-vlsi/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline27%, 109 out of 396)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A low power phase change memory using thermally confined TaN/TiN bottom electrode</title>
-      <link>https://jingjaneli.github.io/publication/wu-2011-iedm/</link>
+      <link>https://penn-cil.github.io/publication/wu-2011-iedm/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/wu-2011-iedm/</guid>
+      <guid>https://penn-cil.github.io/publication/wu-2011-iedm/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Variation Estimation and Compensation Technique in Scaled LTPS TFT Circuits for Low-Power Low-Cost Applications</title>
-      <link>https://jingjaneli.github.io/publication/li-2009-tcad/</link>
+      <link>https://penn-cil.github.io/publication/li-2009-tcad/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2009-tcad/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2009-tcad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poly-Si Thin-Film Transistors: An Efficient and Low-Cost Option for Digital Operation</title>
-      <link>https://jingjaneli.github.io/publication/li-2007-ted/</link>
+      <link>https://penn-cil.github.io/publication/li-2007-ted/</link>
       <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2007-ted/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2007-ted/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variable-latency adder (VL-adder): new arithmetic circuit design practice to overcome NBTI</title>
-      <link>https://jingjaneli.github.io/publication/li-2007-islped/</link>
+      <link>https://penn-cil.github.io/publication/li-2007-islped/</link>
       <pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2007-islped/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2007-islped/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline39%, 74 out of 192)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>High Performance and Low Power Electronics on Flexible Substrate</title>
-      <link>https://jingjaneli.github.io/publication/li-2007-dac/</link>
+      <link>https://penn-cil.github.io/publication/li-2007-dac/</link>
       <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2007-dac/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2007-dac/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline13%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>High Performance and Low Power Electronics on Flexible Substrate</title>
-      <link>https://jingjaneli.github.io/publication/li-2007-dac/</link>
+      <link>https://penn-cil.github.io/publication/li-2007-dac/</link>
       <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2007-dac/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2007-dac/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline13%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>High Performance and Low Power Electronics on Flexible Substrate</title>
-      <link>https://jingjaneli.github.io/publication/li-2007-dac/</link>
+      <link>https://penn-cil.github.io/publication/li-2007-dac/</link>
       <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2007-dac/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2007-dac/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline13%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Novel Variation-Aware Circuit Design of Scaled LTPS TFT for Ultra low Power, Low-Cost Applications</title>
-      <link>https://jingjaneli.github.io/publication/li-2007-icicdt/</link>
+      <link>https://penn-cil.github.io/publication/li-2007-icicdt/</link>
       <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2007-icicdt/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2007-icicdt/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ionic conductivity | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/tags/ionic-conductivity/</link>
-      <atom:link href="https://jingjaneli.github.io/tags/ionic-conductivity/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/tags/ionic-conductivity/</link>
+      <atom:link href="https://penn-cil.github.io/tags/ionic-conductivity/index.xml" rel="self" type="application/rss+xml" />
     <description>ionic conductivity</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>ionic conductivity</title>
-      <link>https://jingjaneli.github.io/tags/ionic-conductivity/</link>
+      <link>https://penn-cil.github.io/tags/ionic-conductivity/</link>
     </image>
     
     <item>
       <title>Demonstration of 3D vertical RRAM with ultra low-leakage, high-selectivity and self-compliance memory cells</title>
-      <link>https://jingjaneli.github.io/publication/luo-2015-iedm/</link>
+      <link>https://penn-cil.github.io/publication/luo-2015-iedm/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/luo-2015-iedm/</guid>
+      <guid>https://penn-cil.github.io/publication/luo-2015-iedm/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
 </description>
     </item>

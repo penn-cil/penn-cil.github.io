@@ -2,141 +2,141 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/publication_types/2/</link>
-      <atom:link href="https://jingjaneli.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/publication_types/2/</link>
+      <atom:link href="https://penn-cil.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>2</title>
-      <link>https://jingjaneli.github.io/publication_types/2/</link>
+      <link>https://penn-cil.github.io/publication_types/2/</link>
     </image>
     
     <item>
       <title>Liquid Silicon: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated ReRAM for Big Data/Machine Learning Applications (INVITED)</title>
-      <link>https://jingjaneli.github.io/publication/zha-2020-jssc/</link>
+      <link>https://penn-cil.github.io/publication/zha-2020-jssc/</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/zha-2020-jssc/</guid>
+      <guid>https://penn-cil.github.io/publication/zha-2020-jssc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Specialization: A New Path towards Low Power (INVITED)</title>
-      <link>https://jingjaneli.github.io/publication/zha-2018-jolpe/</link>
+      <link>https://penn-cil.github.io/publication/zha-2018-jolpe/</link>
       <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/zha-2018-jolpe/</guid>
+      <guid>https://penn-cil.github.io/publication/zha-2018-jolpe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computing Generalized Matrix Inverse on Spiking Neural Substrate</title>
-      <link>https://jingjaneli.github.io/publication/shukla-2018-frontiers/</link>
+      <link>https://penn-cil.github.io/publication/shukla-2018-frontiers/</link>
       <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/shukla-2018-frontiers/</guid>
+      <guid>https://penn-cil.github.io/publication/shukla-2018-frontiers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Alternative Analytical Approach to Associative Processing (Best of CAL)</title>
-      <link>https://jingjaneli.github.io/publication/khoram-2018-cal/</link>
+      <link>https://penn-cil.github.io/publication/khoram-2018-cal/</link>
       <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/khoram-2018-cal/</guid>
+      <guid>https://penn-cil.github.io/publication/khoram-2018-cal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CMA: A Reconfigurable Complex Matching Accelerator for Wire-speed Network Intrusion Detection</title>
-      <link>https://jingjaneli.github.io/publication/zha-2017-calcma/</link>
+      <link>https://penn-cil.github.io/publication/zha-2017-calcma/</link>
       <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/zha-2017-calcma/</guid>
+      <guid>https://penn-cil.github.io/publication/zha-2017-calcma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IMEC: A Fully Morphable In-Memory Computing Fabric Enabled by Resistive Crossbar</title>
-      <link>https://jingjaneli.github.io/publication/zha-2017-calimec/</link>
+      <link>https://penn-cil.github.io/publication/zha-2017-calimec/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/zha-2017-calimec/</guid>
+      <guid>https://penn-cil.github.io/publication/zha-2017-calimec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1 Mb 0.41 um^2 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (INVITED)</title>
-      <link>https://jingjaneli.github.io/publication/li-2014-jssc/</link>
+      <link>https://penn-cil.github.io/publication/li-2014-jssc/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2014-jssc/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2014-jssc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assisted cubic to hexagonal phase transition in GeSbTe thin films on silicon nitride</title>
-      <link>https://jingjaneli.github.io/publication/cil-2013-thinfilm/</link>
+      <link>https://penn-cil.github.io/publication/cil-2013-thinfilm/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/cil-2013-thinfilm/</guid>
+      <guid>https://penn-cil.github.io/publication/cil-2013-thinfilm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theory and Experiments of the Impact of Work-Function Variability on Threshold Voltage Variability in MOS Devices</title>
-      <link>https://jingjaneli.github.io/publication/zhang-2012-ted/</link>
+      <link>https://penn-cil.github.io/publication/zhang-2012-ted/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/zhang-2012-ted/</guid>
+      <guid>https://penn-cil.github.io/publication/zhang-2012-ted/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The impact of heater-recess and load matching in phase change memory mushroom cells</title>
-      <link>https://jingjaneli.github.io/publication/cywar-2012-nano/</link>
+      <link>https://penn-cil.github.io/publication/cywar-2012-nano/</link>
       <pubDate>Thu, 10 May 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/cywar-2012-nano/</guid>
+      <guid>https://penn-cil.github.io/publication/cywar-2012-nano/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phase change memory (INVITED)</title>
-      <link>https://jingjaneli.github.io/publication/li-2011-sciencechina/</link>
+      <link>https://penn-cil.github.io/publication/li-2011-sciencechina/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2011-sciencechina/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2011-sciencechina/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design Paradigm for Robust Spin-Torque Transfer Magnetic RAM (STT MRAM) From Circuit/Architecture Perspective (Best Paper)</title>
-      <link>https://jingjaneli.github.io/publication/li-2010-tvlsi/</link>
+      <link>https://penn-cil.github.io/publication/li-2010-tvlsi/</link>
       <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2010-tvlsi/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2010-tvlsi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variable-Latency Adder (VL-Adder) Designs for Low Power and NBTI Tolerance</title>
-      <link>https://jingjaneli.github.io/publication/chen-2010-tvlsi/</link>
+      <link>https://penn-cil.github.io/publication/chen-2010-tvlsi/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/chen-2010-tvlsi/</guid>
+      <guid>https://penn-cil.github.io/publication/chen-2010-tvlsi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variation Estimation and Compensation Technique in Scaled LTPS TFT Circuits for Low-Power Low-Cost Applications</title>
-      <link>https://jingjaneli.github.io/publication/li-2009-tcad/</link>
+      <link>https://penn-cil.github.io/publication/li-2009-tcad/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2009-tcad/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2009-tcad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Alternate Design Paradigm for Low-power, Low-cost, Testable Hybrid Systems Using Scaled LTPS TFTs (INVITED)</title>
-      <link>https://jingjaneli.github.io/publication/li-2008-jetc/</link>
+      <link>https://penn-cil.github.io/publication/li-2008-jetc/</link>
       <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2008-jetc/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2008-jetc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poly-Si Thin-Film Transistors: An Efficient and Low-Cost Option for Digital Operation</title>
-      <link>https://jingjaneli.github.io/publication/li-2007-ted/</link>
+      <link>https://penn-cil.github.io/publication/li-2007-ted/</link>
       <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2007-ted/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2007-ted/</guid>
       <description></description>
     </item>
     

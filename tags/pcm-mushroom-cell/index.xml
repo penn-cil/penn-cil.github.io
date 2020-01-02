@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>pcm mushroom cell | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/tags/pcm-mushroom-cell/</link>
-      <atom:link href="https://jingjaneli.github.io/tags/pcm-mushroom-cell/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/tags/pcm-mushroom-cell/</link>
+      <atom:link href="https://penn-cil.github.io/tags/pcm-mushroom-cell/index.xml" rel="self" type="application/rss+xml" />
     <description>pcm mushroom cell</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jun 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>pcm mushroom cell</title>
-      <link>https://jingjaneli.github.io/tags/pcm-mushroom-cell/</link>
+      <link>https://penn-cil.github.io/tags/pcm-mushroom-cell/</link>
     </image>
     
     <item>
       <title>A non-volatile look-up table design using PCM (phase-change memory) cells</title>
-      <link>https://jingjaneli.github.io/publication/wen-2011-vlsi/</link>
+      <link>https://penn-cil.github.io/publication/wen-2011-vlsi/</link>
       <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/wen-2011-vlsi/</guid>
+      <guid>https://penn-cil.github.io/publication/wen-2011-vlsi/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline28%, 115 out of 409)&lt;/p&gt;
 </description>
     </item>

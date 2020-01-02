@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>read-write memory | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/tags/read-write-memory/</link>
-      <atom:link href="https://jingjaneli.github.io/tags/read-write-memory/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/tags/read-write-memory/</link>
+      <atom:link href="https://penn-cil.github.io/tags/read-write-memory/index.xml" rel="self" type="application/rss+xml" />
     <description>read-write memory</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2010 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>read-write memory</title>
-      <link>https://jingjaneli.github.io/tags/read-write-memory/</link>
+      <link>https://penn-cil.github.io/tags/read-write-memory/</link>
     </image>
     
     <item>
       <title>Design Paradigm for Robust Spin-Torque Transfer Magnetic RAM (STT MRAM) From Circuit/Architecture Perspective (Best Paper)</title>
-      <link>https://jingjaneli.github.io/publication/li-2010-tvlsi/</link>
+      <link>https://penn-cil.github.io/publication/li-2010-tvlsi/</link>
       <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2010-tvlsi/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2010-tvlsi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variation-tolerant Spin-Torque Transfer (STT) MRAM array for yield enhancement</title>
-      <link>https://jingjaneli.github.io/publication/li-2008-cicc/</link>
+      <link>https://penn-cil.github.io/publication/li-2008-cicc/</link>
       <pubDate>Sun, 21 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2008-cicc/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2008-cicc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling of failure probability and statistical design of Spin-Torque Transfer Magnetic Random Access Memory (STT MRAM) array for yield enhancement</title>
-      <link>https://jingjaneli.github.io/publication/li-2008-dac/</link>
+      <link>https://penn-cil.github.io/publication/li-2008-dac/</link>
       <pubDate>Sun, 08 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2008-dac/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2008-dac/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline23%, 147 out of 639)&lt;/p&gt;
 </description>
     </item>

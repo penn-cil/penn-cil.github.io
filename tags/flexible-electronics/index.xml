@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title> flexible electronics | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/tags/flexible-electronics/</link>
-      <atom:link href="https://jingjaneli.github.io/tags/flexible-electronics/index.xml" rel="self" type="application/rss+xml" />
-    <description> flexible electronics</description>
+    <title>flexible electronics | Penn Computational Intelligence Lab</title>
+    <link>https://penn-cil.github.io/tags/flexible-electronics/</link>
+      <atom:link href="https://penn-cil.github.io/tags/flexible-electronics/index.xml" rel="self" type="application/rss+xml" />
+    <description>flexible electronics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2007 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
-      <title> flexible electronics</title>
-      <link>https://jingjaneli.github.io/tags/flexible-electronics/</link>
+      <url>https://penn-cil.github.io/img/logo.png</url>
+      <title>flexible electronics</title>
+      <link>https://penn-cil.github.io/tags/flexible-electronics/</link>
     </image>
     
     <item>
       <title>High Performance and Low Power Electronics on Flexible Substrate</title>
-      <link>https://jingjaneli.github.io/publication/li-2007-dac/</link>
+      <link>https://penn-cil.github.io/publication/li-2007-dac/</link>
       <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2007-dac/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2007-dac/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline13%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Novel Variation-Aware Circuit Design of Scaled LTPS TFT for Ultra low Power, Low-Cost Applications</title>
-      <link>https://jingjaneli.github.io/publication/li-2007-icicdt/</link>
+      <link>https://penn-cil.github.io/publication/li-2007-icicdt/</link>
       <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2007-icicdt/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2007-icicdt/</guid>
       <description></description>
     </item>
     

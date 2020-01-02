@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>arithmetic circuit design | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/tags/arithmetic-circuit-design/</link>
-      <atom:link href="https://jingjaneli.github.io/tags/arithmetic-circuit-design/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/tags/arithmetic-circuit-design/</link>
+      <atom:link href="https://penn-cil.github.io/tags/arithmetic-circuit-design/index.xml" rel="self" type="application/rss+xml" />
     <description>arithmetic circuit design</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Aug 2007 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>arithmetic circuit design</title>
-      <link>https://jingjaneli.github.io/tags/arithmetic-circuit-design/</link>
+      <link>https://penn-cil.github.io/tags/arithmetic-circuit-design/</link>
     </image>
     
     <item>
       <title>Variable-latency adder (VL-adder): new arithmetic circuit design practice to overcome NBTI</title>
-      <link>https://jingjaneli.github.io/publication/li-2007-islped/</link>
+      <link>https://penn-cil.github.io/publication/li-2007-islped/</link>
       <pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2007-islped/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2007-islped/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline39%, 74 out of 192)&lt;/p&gt;
 </description>
     </item>

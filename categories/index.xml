@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/categories/</link>
-      <atom:link href="https://jingjaneli.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/categories/</link>
+      <atom:link href="https://penn-cil.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>Categories</title>
-      <link>https://jingjaneli.github.io/categories/</link>
+      <link>https://penn-cil.github.io/categories/</link>
     </image>
     
   </channel>

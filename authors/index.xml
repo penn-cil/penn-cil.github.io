@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/authors/</link>
-      <atom:link href="https://jingjaneli.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/authors/</link>
+      <atom:link href="https://penn-cil.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Dec 2019 22:48:15 -0600</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>Authors</title>
-      <link>https://jingjaneli.github.io/authors/</link>
+      <link>https://penn-cil.github.io/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://jingjaneli.github.io/authors/jing-li/</link>
+      <link>https://penn-cil.github.io/authors/jing-li/</link>
       <pubDate>Tue, 24 Dec 2019 22:48:15 -0600</pubDate>
-      <guid>https://jingjaneli.github.io/authors/jing-li/</guid>
+      <guid>https://penn-cil.github.io/authors/jing-li/</guid>
       <description>&lt;p&gt;Dr. Jing (Jane) Li is the Eduardo D. Glandt Faculty Fellow and Associate Professor at the Department of Electrical and System Engineering at the University of Pennsylvania. Previously she was the Dugald C. Jackson Assistant Professor at the University of Wisconsin–Madison and a faculty affiliate with the UW-Madison &lt;a href=&#34;http://pages.cs.wisc.edu/~arch/uwarch/&#34; target=&#34;_blank&#34;&gt;Computer Architecture group&lt;/a&gt; and &lt;a href=&#34;https://machinelearning.wisc.edu/&#34; target=&#34;_blank&#34;&gt;Machine Learning group&lt;/a&gt;. She is one of the PIs in SRC JUMP center – Center for Research on Intelligent Storage and Processing-In-Memory (&lt;a href=&#34;https://crisp.engineering.virginia.edu/staff&#34; target=&#34;_blank&#34;&gt;CRISP&lt;/a&gt;). She spent her early career at &lt;a href=&#34;https://www.research.ibm.com/labs/watson/&#34; target=&#34;_blank&#34;&gt;IBM T. J. Watson Research Center&lt;/a&gt; as a &lt;em&gt;Research Staff Member&lt;/em&gt; after obtaining her PhD degree from Purdue University in 2009.&lt;/p&gt;
 
 &lt;p&gt;She is attracted to &lt;em&gt;all the big problems&lt;/em&gt; she can find in computer system across the stack regardless the specific sub-areas. She is a passionate &lt;strong&gt;computer experimentalist&lt;/strong&gt; and enjoy building &lt;em&gt;real&lt;/em&gt; computer systems (both hardware and software). She has made contributions to the following &amp;ldquo;&lt;em&gt;memory-centric&lt;/em&gt;&amp;rdquo; areas: 1) domain-specific accelerator and its interaction with emerging memories (HMC/HBM/NVM), 2) programmable in-memory computing architecture enabled by emerging nonvolatile memories (PCM/RRAM), 3) system support (e.g., virtualization) for accelerators (e.g., FPGA), and 4) FPGA-based full system simulation infrastructure (MEG) for memory system research. She has strong ties with leading technology companies and has successful technology transfer experience (&lt;strong&gt;&amp;gt;40 issued/pending patents&lt;/strong&gt;).&lt;/p&gt;
@@ -29,731 +29,731 @@
     
     <item>
       <title></title>
-      <link>https://jingjaneli.github.io/authors/yue-zha/</link>
+      <link>https://penn-cil.github.io/authors/yue-zha/</link>
       <pubDate>Tue, 24 Dec 2019 22:48:15 -0600</pubDate>
-      <guid>https://jingjaneli.github.io/authors/yue-zha/</guid>
+      <guid>https://penn-cil.github.io/authors/yue-zha/</guid>
       <description>&lt;p&gt;Yue Zha received his B.S. degree in Physics from Peking University, China in 2013, and M.S. degree in Electrical and Computer Engineering from University of Wisconsin-Madison in 2015. He is currently pursuing his Ph.D. degree at the Department of Electrical and Computer Engineering, University of Wisconsin-Madison, WI. His research interests are reconfigurable computing device (conventional SRAM-based and novel RRAM-based), and CAD framework development.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Etienne Nowak</title>
-      <link>https://jingjaneli.github.io/authors/etienne-nowak/</link>
+      <link>https://penn-cil.github.io/authors/etienne-nowak/</link>
       <pubDate>Tue, 24 Dec 2019 22:48:15 -0600</pubDate>
-      <guid>https://jingjaneli.github.io/authors/etienne-nowak/</guid>
+      <guid>https://penn-cil.github.io/authors/etienne-nowak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Soroosh Khoram</title>
-      <link>https://jingjaneli.github.io/authors/soroosh-khoram/</link>
+      <link>https://penn-cil.github.io/authors/soroosh-khoram/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/soroosh-khoram/</guid>
+      <guid>https://penn-cil.github.io/authors/soroosh-khoram/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stephen J Wright</title>
-      <link>https://jingjaneli.github.io/authors/stephen-j-wright/</link>
+      <link>https://penn-cil.github.io/authors/stephen-j-wright/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/stephen-j-wright/</guid>
+      <guid>https://penn-cil.github.io/authors/stephen-j-wright/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jingjaneli.github.io/authors/jialiang-zhang/</link>
+      <link>https://penn-cil.github.io/authors/jialiang-zhang/</link>
       <pubDate>Fri, 16 Aug 2019 16:02:06 -0500</pubDate>
-      <guid>https://jingjaneli.github.io/authors/jialiang-zhang/</guid>
+      <guid>https://penn-cil.github.io/authors/jialiang-zhang/</guid>
       <description>&lt;p&gt;Jialiang Zhang is a PhD student in the ECE department of UW-Madison. He received his B.E. degree from University of Electronic Science and Technology of China. His research focuses on hardware demonstration of emerging computer architecture concept. He is also an expert in high speed digital system and high performance mixed-signal circuit design.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hangbing Lv</title>
-      <link>https://jingjaneli.github.io/authors/hangbing-lv/</link>
+      <link>https://penn-cil.github.io/authors/hangbing-lv/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/hangbing-lv/</guid>
+      <guid>https://penn-cil.github.io/authors/hangbing-lv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jiahao Yin</title>
-      <link>https://jingjaneli.github.io/authors/jiahao-yin/</link>
+      <link>https://penn-cil.github.io/authors/jiahao-yin/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/jiahao-yin/</guid>
+      <guid>https://penn-cil.github.io/authors/jiahao-yin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jie Yu</title>
-      <link>https://jingjaneli.github.io/authors/jie-yu/</link>
+      <link>https://penn-cil.github.io/authors/jie-yu/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/jie-yu/</guid>
+      <guid>https://penn-cil.github.io/authors/jie-yu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kan-Hao Xue</title>
-      <link>https://jingjaneli.github.io/authors/kan-hao-xue/</link>
+      <link>https://penn-cil.github.io/authors/kan-hao-xue/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/kan-hao-xue/</guid>
+      <guid>https://penn-cil.github.io/authors/kan-hao-xue/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lu Tai</title>
-      <link>https://jingjaneli.github.io/authors/lu-tai/</link>
+      <link>https://penn-cil.github.io/authors/lu-tai/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/lu-tai/</guid>
+      <guid>https://penn-cil.github.io/authors/lu-tai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ming Liu</title>
-      <link>https://jingjaneli.github.io/authors/ming-liu/</link>
+      <link>https://penn-cil.github.io/authors/ming-liu/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/ming-liu/</guid>
+      <guid>https://penn-cil.github.io/authors/ming-liu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Peng Yuan</title>
-      <link>https://jingjaneli.github.io/authors/peng-yuan/</link>
+      <link>https://penn-cil.github.io/authors/peng-yuan/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/peng-yuan/</guid>
+      <guid>https://penn-cil.github.io/authors/peng-yuan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Qi Liu</title>
-      <link>https://jingjaneli.github.io/authors/qi-liu/</link>
+      <link>https://penn-cil.github.io/authors/qi-liu/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/qi-liu/</guid>
+      <guid>https://penn-cil.github.io/authors/qi-liu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Qing Luo</title>
-      <link>https://jingjaneli.github.io/authors/qing-luo/</link>
+      <link>https://penn-cil.github.io/authors/qing-luo/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/qing-luo/</guid>
+      <guid>https://penn-cil.github.io/authors/qing-luo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shibing Long</title>
-      <link>https://jingjaneli.github.io/authors/shibing-long/</link>
+      <link>https://penn-cil.github.io/authors/shibing-long/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/shibing-long/</guid>
+      <guid>https://penn-cil.github.io/authors/shibing-long/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tiancheng Gong</title>
-      <link>https://jingjaneli.github.io/authors/tiancheng-gong/</link>
+      <link>https://penn-cil.github.io/authors/tiancheng-gong/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/tiancheng-gong/</guid>
+      <guid>https://penn-cil.github.io/authors/tiancheng-gong/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xiaoxin Xu</title>
-      <link>https://jingjaneli.github.io/authors/xiaoxin-xu/</link>
+      <link>https://penn-cil.github.io/authors/xiaoxin-xu/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/xiaoxin-xu/</guid>
+      <guid>https://penn-cil.github.io/authors/xiaoxin-xu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xumeng Zhang</title>
-      <link>https://jingjaneli.github.io/authors/xumeng-zhang/</link>
+      <link>https://penn-cil.github.io/authors/xumeng-zhang/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/xumeng-zhang/</guid>
+      <guid>https://penn-cil.github.io/authors/xumeng-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yan Cheng</title>
-      <link>https://jingjaneli.github.io/authors/yan-cheng/</link>
+      <link>https://penn-cil.github.io/authors/yan-cheng/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/yan-cheng/</guid>
+      <guid>https://penn-cil.github.io/authors/yan-cheng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gaurav Jain</title>
-      <link>https://jingjaneli.github.io/authors/gaurav-jain/</link>
+      <link>https://penn-cil.github.io/authors/gaurav-jain/</link>
       <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/gaurav-jain/</guid>
+      <guid>https://penn-cil.github.io/authors/gaurav-jain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jonathan Ta</title>
-      <link>https://jingjaneli.github.io/authors/jonathan-ta/</link>
+      <link>https://penn-cil.github.io/authors/jonathan-ta/</link>
       <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/jonathan-ta/</guid>
+      <guid>https://penn-cil.github.io/authors/jonathan-ta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yang Liu</title>
-      <link>https://jingjaneli.github.io/authors/yang-liu/</link>
+      <link>https://penn-cil.github.io/authors/yang-liu/</link>
       <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/yang-liu/</guid>
+      <guid>https://penn-cil.github.io/authors/yang-liu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Afshin Rostamizadeh</title>
-      <link>https://jingjaneli.github.io/authors/afshin-rostamizadeh/</link>
+      <link>https://penn-cil.github.io/authors/afshin-rostamizadeh/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/afshin-rostamizadeh/</guid>
+      <guid>https://penn-cil.github.io/authors/afshin-rostamizadeh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alex Smola</title>
-      <link>https://jingjaneli.github.io/authors/alex-smola/</link>
+      <link>https://penn-cil.github.io/authors/alex-smola/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/alex-smola/</guid>
+      <guid>https://penn-cil.github.io/authors/alex-smola/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alexander Ratner</title>
-      <link>https://jingjaneli.github.io/authors/alexander-ratner/</link>
+      <link>https://penn-cil.github.io/authors/alexander-ratner/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/alexander-ratner/</guid>
+      <guid>https://penn-cil.github.io/authors/alexander-ratner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alexandros Dimakis</title>
-      <link>https://jingjaneli.github.io/authors/alexandros-dimakis/</link>
+      <link>https://penn-cil.github.io/authors/alexandros-dimakis/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/alexandros-dimakis/</guid>
+      <guid>https://penn-cil.github.io/authors/alexandros-dimakis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ameet Talwalkar</title>
-      <link>https://jingjaneli.github.io/authors/ameet-talwalkar/</link>
+      <link>https://penn-cil.github.io/authors/ameet-talwalkar/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/ameet-talwalkar/</guid>
+      <guid>https://penn-cil.github.io/authors/ameet-talwalkar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anastasios Kyrillidis</title>
-      <link>https://jingjaneli.github.io/authors/anastasios-kyrillidis/</link>
+      <link>https://penn-cil.github.io/authors/anastasios-kyrillidis/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/anastasios-kyrillidis/</guid>
+      <guid>https://penn-cil.github.io/authors/anastasios-kyrillidis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Andrew Gordon Wilson</title>
-      <link>https://jingjaneli.github.io/authors/andrew-gordon-wilson/</link>
+      <link>https://penn-cil.github.io/authors/andrew-gordon-wilson/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/andrew-gordon-wilson/</guid>
+      <guid>https://penn-cil.github.io/authors/andrew-gordon-wilson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aparna Lakshmiratan</title>
-      <link>https://jingjaneli.github.io/authors/aparna-lakshmiratan/</link>
+      <link>https://penn-cil.github.io/authors/aparna-lakshmiratan/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/aparna-lakshmiratan/</guid>
+      <guid>https://penn-cil.github.io/authors/aparna-lakshmiratan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Arun Kumar</title>
-      <link>https://jingjaneli.github.io/authors/arun-kumar/</link>
+      <link>https://penn-cil.github.io/authors/arun-kumar/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/arun-kumar/</guid>
+      <guid>https://penn-cil.github.io/authors/arun-kumar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bill Dally</title>
-      <link>https://jingjaneli.github.io/authors/bill-dally/</link>
+      <link>https://penn-cil.github.io/authors/bill-dally/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/bill-dally/</guid>
+      <guid>https://penn-cil.github.io/authors/bill-dally/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bryan Catanzaro</title>
-      <link>https://jingjaneli.github.io/authors/bryan-catanzaro/</link>
+      <link>https://penn-cil.github.io/authors/bryan-catanzaro/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/bryan-catanzaro/</guid>
+      <guid>https://penn-cil.github.io/authors/bryan-catanzaro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ce Zhang</title>
-      <link>https://jingjaneli.github.io/authors/ce-zhang/</link>
+      <link>https://penn-cil.github.io/authors/ce-zhang/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/ce-zhang/</guid>
+      <guid>https://penn-cil.github.io/authors/ce-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Charles Elkan</title>
-      <link>https://jingjaneli.github.io/authors/charles-elkan/</link>
+      <link>https://penn-cil.github.io/authors/charles-elkan/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/charles-elkan/</guid>
+      <guid>https://penn-cil.github.io/authors/charles-elkan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Christopher De Sa</title>
-      <link>https://jingjaneli.github.io/authors/christopher-de-sa/</link>
+      <link>https://penn-cil.github.io/authors/christopher-de-sa/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/christopher-de-sa/</guid>
+      <guid>https://penn-cil.github.io/authors/christopher-de-sa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Christopher Ré</title>
-      <link>https://jingjaneli.github.io/authors/christopher-re/</link>
+      <link>https://penn-cil.github.io/authors/christopher-re/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/christopher-re/</guid>
+      <guid>https://penn-cil.github.io/authors/christopher-re/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dan Alistarh</title>
-      <link>https://jingjaneli.github.io/authors/dan-alistarh/</link>
+      <link>https://penn-cil.github.io/authors/dan-alistarh/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/dan-alistarh/</guid>
+      <guid>https://penn-cil.github.io/authors/dan-alistarh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>David G. Andersen</title>
-      <link>https://jingjaneli.github.io/authors/david-g.-andersen/</link>
+      <link>https://penn-cil.github.io/authors/david-g.-andersen/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/david-g.-andersen/</guid>
+      <guid>https://penn-cil.github.io/authors/david-g.-andersen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dawn Song</title>
-      <link>https://jingjaneli.github.io/authors/dawn-song/</link>
+      <link>https://penn-cil.github.io/authors/dawn-song/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/dawn-song/</guid>
+      <guid>https://penn-cil.github.io/authors/dawn-song/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Derek Murray</title>
-      <link>https://jingjaneli.github.io/authors/derek-murray/</link>
+      <link>https://penn-cil.github.io/authors/derek-murray/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/derek-murray/</guid>
+      <guid>https://penn-cil.github.io/authors/derek-murray/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dimitris Papailiopoulos</title>
-      <link>https://jingjaneli.github.io/authors/dimitris-papailiopoulos/</link>
+      <link>https://penn-cil.github.io/authors/dimitris-papailiopoulos/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/dimitris-papailiopoulos/</guid>
+      <guid>https://penn-cil.github.io/authors/dimitris-papailiopoulos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eric Chung</title>
-      <link>https://jingjaneli.github.io/authors/eric-chung/</link>
+      <link>https://penn-cil.github.io/authors/eric-chung/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/eric-chung/</guid>
+      <guid>https://penn-cil.github.io/authors/eric-chung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eric Xing</title>
-      <link>https://jingjaneli.github.io/authors/eric-xing/</link>
+      <link>https://penn-cil.github.io/authors/eric-xing/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/eric-xing/</guid>
+      <guid>https://penn-cil.github.io/authors/eric-xing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Erik Meijer</title>
-      <link>https://jingjaneli.github.io/authors/erik-meijer/</link>
+      <link>https://penn-cil.github.io/authors/erik-meijer/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/erik-meijer/</guid>
+      <guid>https://penn-cil.github.io/authors/erik-meijer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evan Sparks</title>
-      <link>https://jingjaneli.github.io/authors/evan-sparks/</link>
+      <link>https://penn-cil.github.io/authors/evan-sparks/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/evan-sparks/</guid>
+      <guid>https://penn-cil.github.io/authors/evan-sparks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Furong Huang</title>
-      <link>https://jingjaneli.github.io/authors/furong-huang/</link>
+      <link>https://penn-cil.github.io/authors/furong-huang/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/furong-huang/</guid>
+      <guid>https://penn-cil.github.io/authors/furong-huang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Garth A. Gibson</title>
-      <link>https://jingjaneli.github.io/authors/garth-a.-gibson/</link>
+      <link>https://penn-cil.github.io/authors/garth-a.-gibson/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/garth-a.-gibson/</guid>
+      <guid>https://penn-cil.github.io/authors/garth-a.-gibson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gauri Joshi</title>
-      <link>https://jingjaneli.github.io/authors/gauri-joshi/</link>
+      <link>https://penn-cil.github.io/authors/gauri-joshi/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/gauri-joshi/</guid>
+      <guid>https://penn-cil.github.io/authors/gauri-joshi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gennady Pekhimenko</title>
-      <link>https://jingjaneli.github.io/authors/gennady-pekhimenko/</link>
+      <link>https://penn-cil.github.io/authors/gennady-pekhimenko/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/gennady-pekhimenko/</guid>
+      <guid>https://penn-cil.github.io/authors/gennady-pekhimenko/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gregory R. Ganger</title>
-      <link>https://jingjaneli.github.io/authors/gregory-r.-ganger/</link>
+      <link>https://penn-cil.github.io/authors/gregory-r.-ganger/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/gregory-r.-ganger/</guid>
+      <guid>https://penn-cil.github.io/authors/gregory-r.-ganger/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grigori Fursin</title>
-      <link>https://jingjaneli.github.io/authors/grigori-fursin/</link>
+      <link>https://penn-cil.github.io/authors/grigori-fursin/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/grigori-fursin/</guid>
+      <guid>https://penn-cil.github.io/authors/grigori-fursin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gustavo Alonso</title>
-      <link>https://jingjaneli.github.io/authors/gustavo-alonso/</link>
+      <link>https://penn-cil.github.io/authors/gustavo-alonso/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/gustavo-alonso/</guid>
+      <guid>https://penn-cil.github.io/authors/gustavo-alonso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H. Brendan McMahan</title>
-      <link>https://jingjaneli.github.io/authors/h.-brendan-mcmahan/</link>
+      <link>https://penn-cil.github.io/authors/h.-brendan-mcmahan/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/h.-brendan-mcmahan/</guid>
+      <guid>https://penn-cil.github.io/authors/h.-brendan-mcmahan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hanie Sedghi</title>
-      <link>https://jingjaneli.github.io/authors/hanie-sedghi/</link>
+      <link>https://penn-cil.github.io/authors/hanie-sedghi/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/hanie-sedghi/</guid>
+      <guid>https://penn-cil.github.io/authors/hanie-sedghi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inderjit S. Dhillon</title>
-      <link>https://jingjaneli.github.io/authors/inderjit-s.-dhillon/</link>
+      <link>https://penn-cil.github.io/authors/inderjit-s.-dhillon/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/inderjit-s.-dhillon/</guid>
+      <guid>https://penn-cil.github.io/authors/inderjit-s.-dhillon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ioannis Mitliagkas</title>
-      <link>https://jingjaneli.github.io/authors/ioannis-mitliagkas/</link>
+      <link>https://penn-cil.github.io/authors/ioannis-mitliagkas/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/ioannis-mitliagkas/</guid>
+      <guid>https://penn-cil.github.io/authors/ioannis-mitliagkas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ion Stoica</title>
-      <link>https://jingjaneli.github.io/authors/ion-stoica/</link>
+      <link>https://penn-cil.github.io/authors/ion-stoica/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/ion-stoica/</guid>
+      <guid>https://penn-cil.github.io/authors/ion-stoica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jakub Konečný</title>
-      <link>https://jingjaneli.github.io/authors/jakub-konecny/</link>
+      <link>https://penn-cil.github.io/authors/jakub-konecny/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/jakub-konecny/</guid>
+      <guid>https://penn-cil.github.io/authors/jakub-konecny/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jason Knight</title>
-      <link>https://jingjaneli.github.io/authors/jason-knight/</link>
+      <link>https://penn-cil.github.io/authors/jason-knight/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/jason-knight/</guid>
+      <guid>https://penn-cil.github.io/authors/jason-knight/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jeff Dean</title>
-      <link>https://jingjaneli.github.io/authors/jeff-dean/</link>
+      <link>https://penn-cil.github.io/authors/jeff-dean/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/jeff-dean/</guid>
+      <guid>https://penn-cil.github.io/authors/jeff-dean/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jennifer Chayes</title>
-      <link>https://jingjaneli.github.io/authors/jennifer-chayes/</link>
+      <link>https://penn-cil.github.io/authors/jennifer-chayes/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/jennifer-chayes/</guid>
+      <guid>https://penn-cil.github.io/authors/jennifer-chayes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joaquin Vanschoren</title>
-      <link>https://jingjaneli.github.io/authors/joaquin-vanschoren/</link>
+      <link>https://penn-cil.github.io/authors/joaquin-vanschoren/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/joaquin-vanschoren/</guid>
+      <guid>https://penn-cil.github.io/authors/joaquin-vanschoren/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joseph E. Gonzalez</title>
-      <link>https://jingjaneli.github.io/authors/joseph-e.-gonzalez/</link>
+      <link>https://penn-cil.github.io/authors/joseph-e.-gonzalez/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/joseph-e.-gonzalez/</guid>
+      <guid>https://penn-cil.github.io/authors/joseph-e.-gonzalez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Justin Gottschlich</title>
-      <link>https://jingjaneli.github.io/authors/justin-gottschlich/</link>
+      <link>https://penn-cil.github.io/authors/justin-gottschlich/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/justin-gottschlich/</guid>
+      <guid>https://penn-cil.github.io/authors/justin-gottschlich/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kevin Jamieson</title>
-      <link>https://jingjaneli.github.io/authors/kevin-jamieson/</link>
+      <link>https://penn-cil.github.io/authors/kevin-jamieson/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/kevin-jamieson/</guid>
+      <guid>https://penn-cil.github.io/authors/kevin-jamieson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kim Hazelwood</title>
-      <link>https://jingjaneli.github.io/authors/kim-hazelwood/</link>
+      <link>https://penn-cil.github.io/authors/kim-hazelwood/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/kim-hazelwood/</guid>
+      <guid>https://penn-cil.github.io/authors/kim-hazelwood/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kunle Olukotun</title>
-      <link>https://jingjaneli.github.io/authors/kunle-olukotun/</link>
+      <link>https://penn-cil.github.io/authors/kunle-olukotun/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/kunle-olukotun/</guid>
+      <guid>https://penn-cil.github.io/authors/kunle-olukotun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lise Getoor</title>
-      <link>https://jingjaneli.github.io/authors/lise-getoor/</link>
+      <link>https://penn-cil.github.io/authors/lise-getoor/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/lise-getoor/</guid>
+      <guid>https://penn-cil.github.io/authors/lise-getoor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Madeleine Udell</title>
-      <link>https://jingjaneli.github.io/authors/madeleine-udell/</link>
+      <link>https://penn-cil.github.io/authors/madeleine-udell/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/madeleine-udell/</guid>
+      <guid>https://penn-cil.github.io/authors/madeleine-udell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markus Weimer</title>
-      <link>https://jingjaneli.github.io/authors/markus-weimer/</link>
+      <link>https://penn-cil.github.io/authors/markus-weimer/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/markus-weimer/</guid>
+      <guid>https://penn-cil.github.io/authors/markus-weimer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Martin Jaggi</title>
-      <link>https://jingjaneli.github.io/authors/martin-jaggi/</link>
+      <link>https://penn-cil.github.io/authors/martin-jaggi/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/martin-jaggi/</guid>
+      <guid>https://penn-cil.github.io/authors/martin-jaggi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matei Zaharia</title>
-      <link>https://jingjaneli.github.io/authors/matei-zaharia/</link>
+      <link>https://penn-cil.github.io/authors/matei-zaharia/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/matei-zaharia/</guid>
+      <guid>https://penn-cil.github.io/authors/matei-zaharia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Michael I. Jordan</title>
-      <link>https://jingjaneli.github.io/authors/michael-i.-jordan/</link>
+      <link>https://penn-cil.github.io/authors/michael-i.-jordan/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/michael-i.-jordan/</guid>
+      <guid>https://penn-cil.github.io/authors/michael-i.-jordan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nicholas Carlini</title>
-      <link>https://jingjaneli.github.io/authors/nicholas-carlini/</link>
+      <link>https://penn-cil.github.io/authors/nicholas-carlini/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/nicholas-carlini/</guid>
+      <guid>https://penn-cil.github.io/authors/nicholas-carlini/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Peter Bailis</title>
-      <link>https://jingjaneli.github.io/authors/peter-bailis/</link>
+      <link>https://penn-cil.github.io/authors/peter-bailis/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/peter-bailis/</guid>
+      <guid>https://penn-cil.github.io/authors/peter-bailis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phillip B. Gibbons</title>
-      <link>https://jingjaneli.github.io/authors/phillip-b.-gibbons/</link>
+      <link>https://penn-cil.github.io/authors/phillip-b.-gibbons/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/phillip-b.-gibbons/</guid>
+      <guid>https://penn-cil.github.io/authors/phillip-b.-gibbons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pradeep Dubey</title>
-      <link>https://jingjaneli.github.io/authors/pradeep-dubey/</link>
+      <link>https://penn-cil.github.io/authors/pradeep-dubey/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/pradeep-dubey/</guid>
+      <guid>https://penn-cil.github.io/authors/pradeep-dubey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rajat Monga</title>
-      <link>https://jingjaneli.github.io/authors/rajat-monga/</link>
+      <link>https://penn-cil.github.io/authors/rajat-monga/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/rajat-monga/</guid>
+      <guid>https://penn-cil.github.io/authors/rajat-monga/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rania Khalaf</title>
-      <link>https://jingjaneli.github.io/authors/rania-khalaf/</link>
+      <link>https://penn-cil.github.io/authors/rania-khalaf/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/rania-khalaf/</guid>
+      <guid>https://penn-cil.github.io/authors/rania-khalaf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rashmi Vinayak</title>
-      <link>https://jingjaneli.github.io/authors/rashmi-vinayak/</link>
+      <link>https://penn-cil.github.io/authors/rashmi-vinayak/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/rashmi-vinayak/</guid>
+      <guid>https://penn-cil.github.io/authors/rashmi-vinayak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Samuel Madden</title>
-      <link>https://jingjaneli.github.io/authors/samuel-madden/</link>
+      <link>https://penn-cil.github.io/authors/samuel-madden/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/samuel-madden/</guid>
+      <guid>https://penn-cil.github.io/authors/samuel-madden/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sarah Bird</title>
-      <link>https://jingjaneli.github.io/authors/sarah-bird/</link>
+      <link>https://penn-cil.github.io/authors/sarah-bird/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/sarah-bird/</guid>
+      <guid>https://penn-cil.github.io/authors/sarah-bird/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shivaram Venkataraman</title>
-      <link>https://jingjaneli.github.io/authors/shivaram-venkataraman/</link>
+      <link>https://penn-cil.github.io/authors/shivaram-venkataraman/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/shivaram-venkataraman/</guid>
+      <guid>https://penn-cil.github.io/authors/shivaram-venkataraman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Siddhartha Sen</title>
-      <link>https://jingjaneli.github.io/authors/siddhartha-sen/</link>
+      <link>https://penn-cil.github.io/authors/siddhartha-sen/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/siddhartha-sen/</guid>
+      <guid>https://penn-cil.github.io/authors/siddhartha-sen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Song Han</title>
-      <link>https://jingjaneli.github.io/authors/song-han/</link>
+      <link>https://penn-cil.github.io/authors/song-han/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/song-han/</guid>
+      <guid>https://penn-cil.github.io/authors/song-han/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theodoros Rekatsinas</title>
-      <link>https://jingjaneli.github.io/authors/theodoros-rekatsinas/</link>
+      <link>https://penn-cil.github.io/authors/theodoros-rekatsinas/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/theodoros-rekatsinas/</guid>
+      <guid>https://penn-cil.github.io/authors/theodoros-rekatsinas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tim Kraska</title>
-      <link>https://jingjaneli.github.io/authors/tim-kraska/</link>
+      <link>https://penn-cil.github.io/authors/tim-kraska/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/tim-kraska/</guid>
+      <guid>https://penn-cil.github.io/authors/tim-kraska/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Virginia Smith</title>
-      <link>https://jingjaneli.github.io/authors/virginia-smith/</link>
+      <link>https://penn-cil.github.io/authors/virginia-smith/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/virginia-smith/</guid>
+      <guid>https://penn-cil.github.io/authors/virginia-smith/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vivienne Sze</title>
-      <link>https://jingjaneli.github.io/authors/vivienne-sze/</link>
+      <link>https://penn-cil.github.io/authors/vivienne-sze/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/vivienne-sze/</guid>
+      <guid>https://penn-cil.github.io/authors/vivienne-sze/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jingjaneli.github.io/authors/maxwell-strange/</link>
+      <link>https://penn-cil.github.io/authors/maxwell-strange/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/maxwell-strange/</guid>
+      <guid>https://penn-cil.github.io/authors/maxwell-strange/</guid>
       <description>&lt;p&gt;Maxwell Strange was an undergraduate student at the University of Wisconsin-Madison pursuing degrees in both Computer Engineering and Computer Science. At WiCIL, his current research interests included workload acceleration through software/hardware co-optimization as well as signals applications. He was the president of the IEEE student organization on campus as well.&lt;/p&gt;
 
 &lt;p&gt;Maxwell is now a PhD student at Electrical Engineering Department at Stanford University.&lt;/p&gt;
@@ -762,929 +762,929 @@
     
     <item>
       <title>Erik Jorgensen</title>
-      <link>https://jingjaneli.github.io/authors/erik-jorgensen/</link>
+      <link>https://penn-cil.github.io/authors/erik-jorgensen/</link>
       <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/erik-jorgensen/</guid>
+      <guid>https://penn-cil.github.io/authors/erik-jorgensen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mikko Lipasti</title>
-      <link>https://jingjaneli.github.io/authors/mikko-lipasti/</link>
+      <link>https://penn-cil.github.io/authors/mikko-lipasti/</link>
       <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/mikko-lipasti/</guid>
+      <guid>https://penn-cil.github.io/authors/mikko-lipasti/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rohit Shukla</title>
-      <link>https://jingjaneli.github.io/authors/rohit-shukla/</link>
+      <link>https://penn-cil.github.io/authors/rohit-shukla/</link>
       <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/rohit-shukla/</guid>
+      <guid>https://penn-cil.github.io/authors/rohit-shukla/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stephen Wright</title>
-      <link>https://jingjaneli.github.io/authors/stephen-wright/</link>
+      <link>https://penn-cil.github.io/authors/stephen-wright/</link>
       <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/stephen-wright/</guid>
+      <guid>https://penn-cil.github.io/authors/stephen-wright/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zhiqiang Wei</title>
-      <link>https://jingjaneli.github.io/authors/zhiqiang-wei/</link>
+      <link>https://penn-cil.github.io/authors/zhiqiang-wei/</link>
       <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/zhiqiang-wei/</guid>
+      <guid>https://penn-cil.github.io/authors/zhiqiang-wei/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Steve S. Chung</title>
-      <link>https://jingjaneli.github.io/authors/steve-s.-chung/</link>
+      <link>https://penn-cil.github.io/authors/steve-s.-chung/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/steve-s.-chung/</guid>
+      <guid>https://penn-cil.github.io/authors/steve-s.-chung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bochen Guan</title>
-      <link>https://jingjaneli.github.io/authors/bochen-guan/</link>
+      <link>https://penn-cil.github.io/authors/bochen-guan/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/bochen-guan/</guid>
+      <guid>https://penn-cil.github.io/authors/bochen-guan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Haitao Sun</title>
-      <link>https://jingjaneli.github.io/authors/haitao-sun/</link>
+      <link>https://penn-cil.github.io/authors/haitao-sun/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/haitao-sun/</guid>
+      <guid>https://penn-cil.github.io/authors/haitao-sun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hongtao Liu</title>
-      <link>https://jingjaneli.github.io/authors/hongtao-liu/</link>
+      <link>https://penn-cil.github.io/authors/hongtao-liu/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/hongtao-liu/</guid>
+      <guid>https://penn-cil.github.io/authors/hongtao-liu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jianfeng Gao</title>
-      <link>https://jingjaneli.github.io/authors/jianfeng-gao/</link>
+      <link>https://penn-cil.github.io/authors/jianfeng-gao/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/jianfeng-gao/</guid>
+      <guid>https://penn-cil.github.io/authors/jianfeng-gao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ling Li</title>
-      <link>https://jingjaneli.github.io/authors/ling-li/</link>
+      <link>https://penn-cil.github.io/authors/ling-li/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/ling-li/</guid>
+      <guid>https://penn-cil.github.io/authors/ling-li/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nianduan Lu</title>
-      <link>https://jingjaneli.github.io/authors/nianduan-lu/</link>
+      <link>https://penn-cil.github.io/authors/nianduan-lu/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/nianduan-lu/</guid>
+      <guid>https://penn-cil.github.io/authors/nianduan-lu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writam Banerjee</title>
-      <link>https://jingjaneli.github.io/authors/writam-banerjee/</link>
+      <link>https://penn-cil.github.io/authors/writam-banerjee/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/writam-banerjee/</guid>
+      <guid>https://penn-cil.github.io/authors/writam-banerjee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leland Chang</title>
-      <link>https://jingjaneli.github.io/authors/leland-chang/</link>
+      <link>https://penn-cil.github.io/authors/leland-chang/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/leland-chang/</guid>
+      <guid>https://penn-cil.github.io/authors/leland-chang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Masatoshi Ishii</title>
-      <link>https://jingjaneli.github.io/authors/masatoshi-ishii/</link>
+      <link>https://penn-cil.github.io/authors/masatoshi-ishii/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/masatoshi-ishii/</guid>
+      <guid>https://penn-cil.github.io/authors/masatoshi-ishii/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robert Montoye</title>
-      <link>https://jingjaneli.github.io/authors/robert-montoye/</link>
+      <link>https://penn-cil.github.io/authors/robert-montoye/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/robert-montoye/</guid>
+      <guid>https://penn-cil.github.io/authors/robert-montoye/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gary Ditlow</title>
-      <link>https://jingjaneli.github.io/authors/gary-ditlow/</link>
+      <link>https://penn-cil.github.io/authors/gary-ditlow/</link>
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/gary-ditlow/</guid>
+      <guid>https://penn-cil.github.io/authors/gary-ditlow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kevin Stawiasz</title>
-      <link>https://jingjaneli.github.io/authors/kevin-stawiasz/</link>
+      <link>https://penn-cil.github.io/authors/kevin-stawiasz/</link>
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/kevin-stawiasz/</guid>
+      <guid>https://penn-cil.github.io/authors/kevin-stawiasz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kim Maloney</title>
-      <link>https://jingjaneli.github.io/authors/kim-maloney/</link>
+      <link>https://penn-cil.github.io/authors/kim-maloney/</link>
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/kim-maloney/</guid>
+      <guid>https://penn-cil.github.io/authors/kim-maloney/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Richard Jordan</title>
-      <link>https://jingjaneli.github.io/authors/richard-jordan/</link>
+      <link>https://penn-cil.github.io/authors/richard-jordan/</link>
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/richard-jordan/</guid>
+      <guid>https://penn-cil.github.io/authors/richard-jordan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scott Lewis</title>
-      <link>https://jingjaneli.github.io/authors/scott-lewis/</link>
+      <link>https://penn-cil.github.io/authors/scott-lewis/</link>
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/scott-lewis/</guid>
+      <guid>https://penn-cil.github.io/authors/scott-lewis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Takeshi Nishida</title>
-      <link>https://jingjaneli.github.io/authors/takeshi-nishida/</link>
+      <link>https://penn-cil.github.io/authors/takeshi-nishida/</link>
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/takeshi-nishida/</guid>
+      <guid>https://penn-cil.github.io/authors/takeshi-nishida/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tom Maffitt</title>
-      <link>https://jingjaneli.github.io/authors/tom-maffitt/</link>
+      <link>https://penn-cil.github.io/authors/tom-maffitt/</link>
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/tom-maffitt/</guid>
+      <guid>https://penn-cil.github.io/authors/tom-maffitt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>others</title>
-      <link>https://jingjaneli.github.io/authors/others/</link>
+      <link>https://penn-cil.github.io/authors/others/</link>
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/others/</guid>
+      <guid>https://penn-cil.github.io/authors/others/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CH Lam</title>
-      <link>https://jingjaneli.github.io/authors/ch-lam/</link>
+      <link>https://penn-cil.github.io/authors/ch-lam/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/ch-lam/</guid>
+      <guid>https://penn-cil.github.io/authors/ch-lam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H Silva</title>
-      <link>https://jingjaneli.github.io/authors/h-silva/</link>
+      <link>https://penn-cil.github.io/authors/h-silva/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/h-silva/</guid>
+      <guid>https://penn-cil.github.io/authors/h-silva/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K Cil</title>
-      <link>https://jingjaneli.github.io/authors/k-cil/</link>
+      <link>https://penn-cil.github.io/authors/k-cil/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/k-cil/</guid>
+      <guid>https://penn-cil.github.io/authors/k-cil/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Y Zhu</title>
-      <link>https://jingjaneli.github.io/authors/y-zhu/</link>
+      <link>https://penn-cil.github.io/authors/y-zhu/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/y-zhu/</guid>
+      <guid>https://penn-cil.github.io/authors/y-zhu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Justin Meza</title>
-      <link>https://jingjaneli.github.io/authors/justin-meza/</link>
+      <link>https://penn-cil.github.io/authors/justin-meza/</link>
       <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/justin-meza/</guid>
+      <guid>https://penn-cil.github.io/authors/justin-meza/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Onur Mutlu</title>
-      <link>https://jingjaneli.github.io/authors/onur-mutlu/</link>
+      <link>https://penn-cil.github.io/authors/onur-mutlu/</link>
       <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/onur-mutlu/</guid>
+      <guid>https://penn-cil.github.io/authors/onur-mutlu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blanka Magyari-Kope</title>
-      <link>https://jingjaneli.github.io/authors/blanka-magyari-kope/</link>
+      <link>https://penn-cil.github.io/authors/blanka-magyari-kope/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/blanka-magyari-kope/</guid>
+      <guid>https://penn-cil.github.io/authors/blanka-magyari-kope/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bruce M. Clemens</title>
-      <link>https://jingjaneli.github.io/authors/bruce-m.-clemens/</link>
+      <link>https://penn-cil.github.io/authors/bruce-m.-clemens/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/bruce-m.-clemens/</guid>
+      <guid>https://penn-cil.github.io/authors/bruce-m.-clemens/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jerome Mitard</title>
-      <link>https://jingjaneli.github.io/authors/jerome-mitard/</link>
+      <link>https://penn-cil.github.io/authors/jerome-mitard/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/jerome-mitard/</guid>
+      <guid>https://penn-cil.github.io/authors/jerome-mitard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lars-Ake Ragnarsson</title>
-      <link>https://jingjaneli.github.io/authors/lars-ake-ragnarsson/</link>
+      <link>https://penn-cil.github.io/authors/lars-ake-ragnarsson/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/lars-ake-ragnarsson/</guid>
+      <guid>https://penn-cil.github.io/authors/lars-ake-ragnarsson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Melody E. Grubbs</title>
-      <link>https://jingjaneli.github.io/authors/melody-e.-grubbs/</link>
+      <link>https://penn-cil.github.io/authors/melody-e.-grubbs/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/melody-e.-grubbs/</guid>
+      <guid>https://penn-cil.github.io/authors/melody-e.-grubbs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Michael Deal</title>
-      <link>https://jingjaneli.github.io/authors/michael-deal/</link>
+      <link>https://penn-cil.github.io/authors/michael-deal/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/michael-deal/</guid>
+      <guid>https://penn-cil.github.io/authors/michael-deal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tomas Hoffmann</title>
-      <link>https://jingjaneli.github.io/authors/tomas-hoffmann/</link>
+      <link>https://penn-cil.github.io/authors/tomas-hoffmann/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/tomas-hoffmann/</guid>
+      <guid>https://penn-cil.github.io/authors/tomas-hoffmann/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xiao Zhang</title>
-      <link>https://jingjaneli.github.io/authors/xiao-zhang/</link>
+      <link>https://penn-cil.github.io/authors/xiao-zhang/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/xiao-zhang/</guid>
+      <guid>https://penn-cil.github.io/authors/xiao-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yoshio Nishi</title>
-      <link>https://jingjaneli.github.io/authors/yoshio-nishi/</link>
+      <link>https://penn-cil.github.io/authors/yoshio-nishi/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/yoshio-nishi/</guid>
+      <guid>https://penn-cil.github.io/authors/yoshio-nishi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adam Cywar</title>
-      <link>https://jingjaneli.github.io/authors/adam-cywar/</link>
+      <link>https://penn-cil.github.io/authors/adam-cywar/</link>
       <pubDate>Thu, 10 May 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/adam-cywar/</guid>
+      <guid>https://penn-cil.github.io/authors/adam-cywar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chung Lam</title>
-      <link>https://jingjaneli.github.io/authors/chung-lam/</link>
+      <link>https://penn-cil.github.io/authors/chung-lam/</link>
       <pubDate>Thu, 10 May 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/chung-lam/</guid>
+      <guid>https://penn-cil.github.io/authors/chung-lam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Helena Silva</title>
-      <link>https://jingjaneli.github.io/authors/helena-silva/</link>
+      <link>https://penn-cil.github.io/authors/helena-silva/</link>
       <pubDate>Thu, 10 May 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/helena-silva/</guid>
+      <guid>https://penn-cil.github.io/authors/helena-silva/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Ray</title>
-      <link>https://jingjaneli.github.io/authors/a.-ray/</link>
+      <link>https://penn-cil.github.io/authors/a.-ray/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/a.-ray/</guid>
+      <guid>https://penn-cil.github.io/authors/a.-ray/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Schrott</title>
-      <link>https://jingjaneli.github.io/authors/a.-schrott/</link>
+      <link>https://penn-cil.github.io/authors/a.-schrott/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/a.-schrott/</guid>
+      <guid>https://penn-cil.github.io/authors/a.-schrott/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Binquan Luan</title>
-      <link>https://jingjaneli.github.io/authors/binquan-luan/</link>
+      <link>https://penn-cil.github.io/authors/binquan-luan/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/binquan-luan/</guid>
+      <guid>https://penn-cil.github.io/authors/binquan-luan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. Lam</title>
-      <link>https://jingjaneli.github.io/authors/c.-lam/</link>
+      <link>https://penn-cil.github.io/authors/c.-lam/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/c.-lam/</guid>
+      <guid>https://penn-cil.github.io/authors/c.-lam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. A. Joseph</title>
-      <link>https://jingjaneli.github.io/authors/e.-a.-joseph/</link>
+      <link>https://penn-cil.github.io/authors/e.-a.-joseph/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/e.-a.-joseph/</guid>
+      <guid>https://penn-cil.github.io/authors/e.-a.-joseph/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. K. Lai</title>
-      <link>https://jingjaneli.github.io/authors/e.-k.-lai/</link>
+      <link>https://penn-cil.github.io/authors/e.-k.-lai/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/e.-k.-lai/</guid>
+      <guid>https://penn-cil.github.io/authors/e.-k.-lai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H. L. Lung</title>
-      <link>https://jingjaneli.github.io/authors/h.-l.-lung/</link>
+      <link>https://penn-cil.github.io/authors/h.-l.-lung/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/h.-l.-lung/</guid>
+      <guid>https://penn-cil.github.io/authors/h.-l.-lung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H. Y. Cheng</title>
-      <link>https://jingjaneli.github.io/authors/h.-y.-cheng/</link>
+      <link>https://penn-cil.github.io/authors/h.-y.-cheng/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/h.-y.-cheng/</guid>
+      <guid>https://penn-cil.github.io/authors/h.-y.-cheng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Y. Wu</title>
-      <link>https://jingjaneli.github.io/authors/j.-y.-wu/</link>
+      <link>https://penn-cil.github.io/authors/j.-y.-wu/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/j.-y.-wu/</guid>
+      <guid>https://penn-cil.github.io/authors/j.-y.-wu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Breitwisch</title>
-      <link>https://jingjaneli.github.io/authors/m.-breitwisch/</link>
+      <link>https://penn-cil.github.io/authors/m.-breitwisch/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/m.-breitwisch/</guid>
+      <guid>https://penn-cil.github.io/authors/m.-breitwisch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. H. Lee</title>
-      <link>https://jingjaneli.github.io/authors/m.-h.-lee/</link>
+      <link>https://penn-cil.github.io/authors/m.-h.-lee/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/m.-h.-lee/</guid>
+      <guid>https://penn-cil.github.io/authors/m.-h.-lee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. J. BrightSky</title>
-      <link>https://jingjaneli.github.io/authors/m.-j.-brightsky/</link>
+      <link>https://penn-cil.github.io/authors/m.-j.-brightsky/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/m.-j.-brightsky/</guid>
+      <guid>https://penn-cil.github.io/authors/m.-j.-brightsky/</guid>
       <description></description>
     </item>
     
     <item>
       <title>P. Y. Du</title>
-      <link>https://jingjaneli.github.io/authors/p.-y.-du/</link>
+      <link>https://penn-cil.github.io/authors/p.-y.-du/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/p.-y.-du/</guid>
+      <guid>https://penn-cil.github.io/authors/p.-y.-du/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pei-Ying Du</title>
-      <link>https://jingjaneli.github.io/authors/pei-ying-du/</link>
+      <link>https://penn-cil.github.io/authors/pei-ying-du/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/pei-ying-du/</guid>
+      <guid>https://penn-cil.github.io/authors/pei-ying-du/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. Cheek</title>
-      <link>https://jingjaneli.github.io/authors/r.-cheek/</link>
+      <link>https://penn-cil.github.io/authors/r.-cheek/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/r.-cheek/</guid>
+      <guid>https://penn-cil.github.io/authors/r.-cheek/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. C. Lai</title>
-      <link>https://jingjaneli.github.io/authors/s.-c.-lai/</link>
+      <link>https://penn-cil.github.io/authors/s.-c.-lai/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/s.-c.-lai/</guid>
+      <guid>https://penn-cil.github.io/authors/s.-c.-lai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Kim</title>
-      <link>https://jingjaneli.github.io/authors/s.-kim/</link>
+      <link>https://penn-cil.github.io/authors/s.-kim/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/s.-kim/</guid>
+      <guid>https://penn-cil.github.io/authors/s.-kim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Mittal</title>
-      <link>https://jingjaneli.github.io/authors/s.-mittal/</link>
+      <link>https://penn-cil.github.io/authors/s.-mittal/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/s.-mittal/</guid>
+      <guid>https://penn-cil.github.io/authors/s.-mittal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Raoux</title>
-      <link>https://jingjaneli.github.io/authors/s.-raoux/</link>
+      <link>https://penn-cil.github.io/authors/s.-raoux/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/s.-raoux/</guid>
+      <guid>https://penn-cil.github.io/authors/s.-raoux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T. H. Hsu</title>
-      <link>https://jingjaneli.github.io/authors/t.-h.-hsu/</link>
+      <link>https://penn-cil.github.io/authors/t.-h.-hsu/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/t.-h.-hsu/</guid>
+      <guid>https://penn-cil.github.io/authors/t.-h.-hsu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T. Y. Wang</title>
-      <link>https://jingjaneli.github.io/authors/t.-y.-wang/</link>
+      <link>https://penn-cil.github.io/authors/t.-y.-wang/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/t.-y.-wang/</guid>
+      <guid>https://penn-cil.github.io/authors/t.-y.-wang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Y. Zhu</title>
-      <link>https://jingjaneli.github.io/authors/y.-zhu/</link>
+      <link>https://penn-cil.github.io/authors/y.-zhu/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/y.-zhu/</guid>
+      <guid>https://penn-cil.github.io/authors/y.-zhu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. Newns</title>
-      <link>https://jingjaneli.github.io/authors/d.-newns/</link>
+      <link>https://penn-cil.github.io/authors/d.-newns/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/d.-newns/</guid>
+      <guid>https://penn-cil.github.io/authors/d.-newns/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G. Martyna</title>
-      <link>https://jingjaneli.github.io/authors/g.-martyna/</link>
+      <link>https://penn-cil.github.io/authors/g.-martyna/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/g.-martyna/</guid>
+      <guid>https://penn-cil.github.io/authors/g.-martyna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. Dasaka</title>
-      <link>https://jingjaneli.github.io/authors/r.-dasaka/</link>
+      <link>https://penn-cil.github.io/authors/r.-dasaka/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/r.-dasaka/</guid>
+      <guid>https://penn-cil.github.io/authors/r.-dasaka/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Huai-Yu Cheng</title>
-      <link>https://jingjaneli.github.io/authors/huai-yu-cheng/</link>
+      <link>https://penn-cil.github.io/authors/huai-yu-cheng/</link>
       <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/huai-yu-cheng/</guid>
+      <guid>https://penn-cil.github.io/authors/huai-yu-cheng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jean Jordan-Sweet</title>
-      <link>https://jingjaneli.github.io/authors/jean-jordan-sweet/</link>
+      <link>https://penn-cil.github.io/authors/jean-jordan-sweet/</link>
       <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/jean-jordan-sweet/</guid>
+      <guid>https://penn-cil.github.io/authors/jean-jordan-sweet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jury Sandrini</title>
-      <link>https://jingjaneli.github.io/authors/jury-sandrini/</link>
+      <link>https://penn-cil.github.io/authors/jury-sandrini/</link>
       <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/jury-sandrini/</guid>
+      <guid>https://penn-cil.github.io/authors/jury-sandrini/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simone Raoux</title>
-      <link>https://jingjaneli.github.io/authors/simone-raoux/</link>
+      <link>https://penn-cil.github.io/authors/simone-raoux/</link>
       <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/simone-raoux/</guid>
+      <guid>https://penn-cil.github.io/authors/simone-raoux/</guid>
       <description></description>
     </item>
     
     <item>
       <title> Cheng-Yuan Wen</title>
-      <link>https://jingjaneli.github.io/authors/cheng-yuan-wen/</link>
+      <link>https://penn-cil.github.io/authors/cheng-yuan-wen/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/cheng-yuan-wen/</guid>
+      <guid>https://penn-cil.github.io/authors/cheng-yuan-wen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jeyanandh Paramesh</title>
-      <link>https://jingjaneli.github.io/authors/jeyanandh-paramesh/</link>
+      <link>https://penn-cil.github.io/authors/jeyanandh-paramesh/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/jeyanandh-paramesh/</guid>
+      <guid>https://penn-cil.github.io/authors/jeyanandh-paramesh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jonathan Proesel</title>
-      <link>https://jingjaneli.github.io/authors/jonathan-proesel/</link>
+      <link>https://penn-cil.github.io/authors/jonathan-proesel/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/jonathan-proesel/</guid>
+      <guid>https://penn-cil.github.io/authors/jonathan-proesel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Larry Pileggi</title>
-      <link>https://jingjaneli.github.io/authors/larry-pileggi/</link>
+      <link>https://penn-cil.github.io/authors/larry-pileggi/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/larry-pileggi/</guid>
+      <guid>https://penn-cil.github.io/authors/larry-pileggi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SangBum Kim</title>
-      <link>https://jingjaneli.github.io/authors/sangbum-kim/</link>
+      <link>https://penn-cil.github.io/authors/sangbum-kim/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/sangbum-kim/</guid>
+      <guid>https://penn-cil.github.io/authors/sangbum-kim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. Y. Wen</title>
-      <link>https://jingjaneli.github.io/authors/c.-y.-wen/</link>
+      <link>https://penn-cil.github.io/authors/c.-y.-wen/</link>
       <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/c.-y.-wen/</guid>
+      <guid>https://penn-cil.github.io/authors/c.-y.-wen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Paramesh</title>
-      <link>https://jingjaneli.github.io/authors/j.-paramesh/</link>
+      <link>https://penn-cil.github.io/authors/j.-paramesh/</link>
       <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/j.-paramesh/</guid>
+      <guid>https://penn-cil.github.io/authors/j.-paramesh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. T. Pileggi</title>
-      <link>https://jingjaneli.github.io/authors/l.-t.-pileggi/</link>
+      <link>https://penn-cil.github.io/authors/l.-t.-pileggi/</link>
       <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/l.-t.-pileggi/</guid>
+      <guid>https://penn-cil.github.io/authors/l.-t.-pileggi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. G. Schrott</title>
-      <link>https://jingjaneli.github.io/authors/a.-g.-schrott/</link>
+      <link>https://penn-cil.github.io/authors/a.-g.-schrott/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/a.-g.-schrott/</guid>
+      <guid>https://penn-cil.github.io/authors/a.-g.-schrott/</guid>
       <description></description>
     </item>
     
     <item>
       <title>B. Rajendran</title>
-      <link>https://jingjaneli.github.io/authors/b.-rajendran/</link>
+      <link>https://penn-cil.github.io/authors/b.-rajendran/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/b.-rajendran/</guid>
+      <guid>https://penn-cil.github.io/authors/b.-rajendran/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. I. Wu</title>
-      <link>https://jingjaneli.github.io/authors/c.-i.-wu/</link>
+      <link>https://penn-cil.github.io/authors/c.-i.-wu/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/c.-i.-wu/</guid>
+      <guid>https://penn-cil.github.io/authors/c.-i.-wu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Morrish</title>
-      <link>https://jingjaneli.github.io/authors/j.-morrish/</link>
+      <link>https://penn-cil.github.io/authors/j.-morrish/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/j.-morrish/</guid>
+      <guid>https://penn-cil.github.io/authors/j.-morrish/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. A. Lastras</title>
-      <link>https://jingjaneli.github.io/authors/l.-a.-lastras/</link>
+      <link>https://penn-cil.github.io/authors/l.-a.-lastras/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/l.-a.-lastras/</guid>
+      <guid>https://penn-cil.github.io/authors/l.-a.-lastras/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. Chang</title>
-      <link>https://jingjaneli.github.io/authors/l.-chang/</link>
+      <link>https://penn-cil.github.io/authors/l.-chang/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/l.-chang/</guid>
+      <guid>https://penn-cil.github.io/authors/l.-chang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. J. Breitwisch</title>
-      <link>https://jingjaneli.github.io/authors/m.-j.-breitwisch/</link>
+      <link>https://penn-cil.github.io/authors/m.-j.-breitwisch/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/m.-j.-breitwisch/</guid>
+      <guid>https://penn-cil.github.io/authors/m.-j.-breitwisch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. M. Franceschini</title>
-      <link>https://jingjaneli.github.io/authors/m.-m.-franceschini/</link>
+      <link>https://penn-cil.github.io/authors/m.-m.-franceschini/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/m.-m.-franceschini/</guid>
+      <guid>https://penn-cil.github.io/authors/m.-m.-franceschini/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. Jordan</title>
-      <link>https://jingjaneli.github.io/authors/r.-jordan/</link>
+      <link>https://penn-cil.github.io/authors/r.-jordan/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/r.-jordan/</guid>
+      <guid>https://penn-cil.github.io/authors/r.-jordan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. K. Montoye</title>
-      <link>https://jingjaneli.github.io/authors/r.-k.-montoye/</link>
+      <link>https://penn-cil.github.io/authors/r.-k.-montoye/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/r.-k.-montoye/</guid>
+      <guid>https://penn-cil.github.io/authors/r.-k.-montoye/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. W. Cheek</title>
-      <link>https://jingjaneli.github.io/authors/r.-w.-cheek/</link>
+      <link>https://penn-cil.github.io/authors/r.-w.-cheek/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/r.-w.-cheek/</guid>
+      <guid>https://penn-cil.github.io/authors/r.-w.-cheek/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. C. Lewis</title>
-      <link>https://jingjaneli.github.io/authors/s.-c.-lewis/</link>
+      <link>https://penn-cil.github.io/authors/s.-c.-lewis/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/s.-c.-lewis/</guid>
+      <guid>https://penn-cil.github.io/authors/s.-c.-lewis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T. Maffitt</title>
-      <link>https://jingjaneli.github.io/authors/t.-maffitt/</link>
+      <link>https://penn-cil.github.io/authors/t.-maffitt/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/t.-maffitt/</guid>
+      <guid>https://penn-cil.github.io/authors/t.-maffitt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ashish Goel</title>
-      <link>https://jingjaneli.github.io/authors/ashish-goel/</link>
+      <link>https://penn-cil.github.io/authors/ashish-goel/</link>
       <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/ashish-goel/</guid>
+      <guid>https://penn-cil.github.io/authors/ashish-goel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kaushik Roy</title>
-      <link>https://jingjaneli.github.io/authors/kaushik-roy/</link>
+      <link>https://penn-cil.github.io/authors/kaushik-roy/</link>
       <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/kaushik-roy/</guid>
+      <guid>https://penn-cil.github.io/authors/kaushik-roy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Patrick Ndai</title>
-      <link>https://jingjaneli.github.io/authors/patrick-ndai/</link>
+      <link>https://penn-cil.github.io/authors/patrick-ndai/</link>
       <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/patrick-ndai/</guid>
+      <guid>https://penn-cil.github.io/authors/patrick-ndai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sayeef Salahuddin</title>
-      <link>https://jingjaneli.github.io/authors/sayeef-salahuddin/</link>
+      <link>https://penn-cil.github.io/authors/sayeef-salahuddin/</link>
       <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/sayeef-salahuddin/</guid>
+      <guid>https://penn-cil.github.io/authors/sayeef-salahuddin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cheng-Kok Koh</title>
-      <link>https://jingjaneli.github.io/authors/cheng-kok-koh/</link>
+      <link>https://penn-cil.github.io/authors/cheng-kok-koh/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/cheng-kok-koh/</guid>
+      <guid>https://penn-cil.github.io/authors/cheng-kok-koh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guangyu Sun</title>
-      <link>https://jingjaneli.github.io/authors/guangyu-sun/</link>
+      <link>https://penn-cil.github.io/authors/guangyu-sun/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/guangyu-sun/</guid>
+      <guid>https://penn-cil.github.io/authors/guangyu-sun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hai Li</title>
-      <link>https://jingjaneli.github.io/authors/hai-li/</link>
+      <link>https://penn-cil.github.io/authors/hai-li/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/hai-li/</guid>
+      <guid>https://penn-cil.github.io/authors/hai-li/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yiran Chen</title>
-      <link>https://jingjaneli.github.io/authors/yiran-chen/</link>
+      <link>https://penn-cil.github.io/authors/yiran-chen/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/yiran-chen/</guid>
+      <guid>https://penn-cil.github.io/authors/yiran-chen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yuan Xie</title>
-      <link>https://jingjaneli.github.io/authors/yuan-xie/</link>
+      <link>https://penn-cil.github.io/authors/yuan-xie/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/yuan-xie/</guid>
+      <guid>https://penn-cil.github.io/authors/yuan-xie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>B. M. Clemens</title>
-      <link>https://jingjaneli.github.io/authors/b.-m.-clemens/</link>
+      <link>https://penn-cil.github.io/authors/b.-m.-clemens/</link>
       <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/b.-m.-clemens/</guid>
+      <guid>https://penn-cil.github.io/authors/b.-m.-clemens/</guid>
       <description></description>
     </item>
     
     <item>
       <title>B. Magyari-Köpe</title>
-      <link>https://jingjaneli.github.io/authors/b.-magyari-kope/</link>
+      <link>https://penn-cil.github.io/authors/b.-magyari-kope/</link>
       <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/b.-magyari-kope/</guid>
+      <guid>https://penn-cil.github.io/authors/b.-magyari-kope/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Deal</title>
-      <link>https://jingjaneli.github.io/authors/m.-deal/</link>
+      <link>https://penn-cil.github.io/authors/m.-deal/</link>
       <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/m.-deal/</guid>
+      <guid>https://penn-cil.github.io/authors/m.-deal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Grubbs</title>
-      <link>https://jingjaneli.github.io/authors/m.-grubbs/</link>
+      <link>https://penn-cil.github.io/authors/m.-grubbs/</link>
       <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/m.-grubbs/</guid>
+      <guid>https://penn-cil.github.io/authors/m.-grubbs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Y. Nishi</title>
-      <link>https://jingjaneli.github.io/authors/y.-nishi/</link>
+      <link>https://penn-cil.github.io/authors/y.-nishi/</link>
       <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/y.-nishi/</guid>
+      <guid>https://penn-cil.github.io/authors/y.-nishi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Goel  Ashish</title>
-      <link>https://jingjaneli.github.io/authors/goel-ashish/</link>
+      <link>https://penn-cil.github.io/authors/goel-ashish/</link>
       <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/goel-ashish/</guid>
+      <guid>https://penn-cil.github.io/authors/goel-ashish/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Haixin Liu</title>
-      <link>https://jingjaneli.github.io/authors/haixin-liu/</link>
+      <link>https://penn-cil.github.io/authors/haixin-liu/</link>
       <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/haixin-liu/</guid>
+      <guid>https://penn-cil.github.io/authors/haixin-liu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kunhyuk Kang</title>
-      <link>https://jingjaneli.github.io/authors/kunhyuk-kang/</link>
+      <link>https://penn-cil.github.io/authors/kunhyuk-kang/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/kunhyuk-kang/</guid>
+      <guid>https://penn-cil.github.io/authors/kunhyuk-kang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Salahuddin</title>
-      <link>https://jingjaneli.github.io/authors/s.-salahuddin/</link>
+      <link>https://penn-cil.github.io/authors/s.-salahuddin/</link>
       <pubDate>Sun, 21 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/s.-salahuddin/</guid>
+      <guid>https://penn-cil.github.io/authors/s.-salahuddin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aditya Bansal</title>
-      <link>https://jingjaneli.github.io/authors/aditya-bansal/</link>
+      <link>https://penn-cil.github.io/authors/aditya-bansal/</link>
       <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/aditya-bansal/</guid>
+      <guid>https://penn-cil.github.io/authors/aditya-bansal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Swarop Ghosh</title>
-      <link>https://jingjaneli.github.io/authors/swarop-ghosh/</link>
+      <link>https://penn-cil.github.io/authors/swarop-ghosh/</link>
       <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/swarop-ghosh/</guid>
+      <guid>https://penn-cil.github.io/authors/swarop-ghosh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Charles Augustine</title>
-      <link>https://jingjaneli.github.io/authors/charles-augustine/</link>
+      <link>https://penn-cil.github.io/authors/charles-augustine/</link>
       <pubDate>Sun, 08 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/charles-augustine/</guid>
+      <guid>https://penn-cil.github.io/authors/charles-augustine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Ghosh</title>
-      <link>https://jingjaneli.github.io/authors/s.-ghosh/</link>
+      <link>https://penn-cil.github.io/authors/s.-ghosh/</link>
       <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/s.-ghosh/</guid>
+      <guid>https://penn-cil.github.io/authors/s.-ghosh/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jingjaneli.github.io/authors/huaye-li/</link>
+      <link>https://penn-cil.github.io/authors/huaye-li/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/huaye-li/</guid>
+      <guid>https://penn-cil.github.io/authors/huaye-li/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jingjaneli.github.io/authors/nick-beckwith/</link>
+      <link>https://penn-cil.github.io/authors/nick-beckwith/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/authors/nick-beckwith/</guid>
+      <guid>https://penn-cil.github.io/authors/nick-beckwith/</guid>
       <description>&lt;p&gt;Nick Beckwith is a PhD student at the University of Pennsylvania with the Electrical and Systems Engineering Department. He received his B.S. in Computer Engineering at the University of Wisconsin-Madison in 2019. His primary interests lie in providing research infrastructures for novel cross-stack solutions in embedded systems, emerging memory technologies and tightly integrated heterogeneous systems. He looks forward to tackling the problems of a post-Moore era with these fast, novel and high fidelity research infrastructures.&lt;/p&gt;
 </description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stephen J Wright | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/authors/stephen-j-wright/</link>
-      <atom:link href="https://jingjaneli.github.io/authors/stephen-j-wright/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/authors/stephen-j-wright/</link>
+      <atom:link href="https://penn-cil.github.io/authors/stephen-j-wright/index.xml" rel="self" type="application/rss+xml" />
     <description>Stephen J Wright</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>Stephen J Wright</title>
-      <link>https://jingjaneli.github.io/authors/stephen-j-wright/</link>
+      <link>https://penn-cil.github.io/authors/stephen-j-wright/</link>
     </image>
     
     <item>
       <title>Interleaved Composite Quantization for High-Dimensional Similarity Search</title>
-      <link>https://jingjaneli.github.io/publication/khoram-2019-interleaved/</link>
+      <link>https://penn-cil.github.io/publication/khoram-2019-interleaved/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/khoram-2019-interleaved/</guid>
+      <guid>https://penn-cil.github.io/publication/khoram-2019-interleaved/</guid>
       <description></description>
     </item>
     

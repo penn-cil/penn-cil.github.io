@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Y. Zhu | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/authors/y.-zhu/</link>
-      <atom:link href="https://jingjaneli.github.io/authors/y.-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/authors/y.-zhu/</link>
+      <atom:link href="https://penn-cil.github.io/authors/y.-zhu/index.xml" rel="self" type="application/rss+xml" />
     <description>Y. Zhu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>Y. Zhu</title>
-      <link>https://jingjaneli.github.io/authors/y.-zhu/</link>
+      <link>https://penn-cil.github.io/authors/y.-zhu/</link>
     </image>
     
     <item>
       <title>Optimization of programming current on endurance of phase change memory</title>
-      <link>https://jingjaneli.github.io/publication/kim-2012-vlsitsa/</link>
+      <link>https://penn-cil.github.io/publication/kim-2012-vlsitsa/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/kim-2012-vlsitsa/</guid>
+      <guid>https://penn-cil.github.io/publication/kim-2012-vlsitsa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The impact of melting during reset operation on the reliability of phase change memory</title>
-      <link>https://jingjaneli.github.io/publication/du-2012-irps/</link>
+      <link>https://penn-cil.github.io/publication/du-2012-irps/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/du-2012-irps/</guid>
+      <guid>https://penn-cil.github.io/publication/du-2012-irps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A low power phase change memory using thermally confined TaN/TiN bottom electrode</title>
-      <link>https://jingjaneli.github.io/publication/wu-2011-iedm/</link>
+      <link>https://penn-cil.github.io/publication/wu-2011-iedm/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/wu-2011-iedm/</guid>
+      <guid>https://penn-cil.github.io/publication/wu-2011-iedm/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Explore physical origins of resistance drift in phase change memory and its implication for drift-insensitive materials</title>
-      <link>https://jingjaneli.github.io/publication/li-2011-iedm/</link>
+      <link>https://penn-cil.github.io/publication/li-2011-iedm/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2011-iedm/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2011-iedm/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
 </description>
     </item>

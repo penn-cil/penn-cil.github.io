@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Justin Meza | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/authors/justin-meza/</link>
-      <atom:link href="https://jingjaneli.github.io/authors/justin-meza/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/authors/justin-meza/</link>
+      <atom:link href="https://penn-cil.github.io/authors/justin-meza/index.xml" rel="self" type="application/rss+xml" />
     <description>Justin Meza</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>Justin Meza</title>
-      <link>https://jingjaneli.github.io/authors/justin-meza/</link>
+      <link>https://penn-cil.github.io/authors/justin-meza/</link>
     </image>
     
     <item>
       <title>Evaluating Row Buffer Locality in Future Non-Volatile Main Memories</title>
-      <link>https://jingjaneli.github.io/publication/meza-2012-report-nvm/</link>
+      <link>https://penn-cil.github.io/publication/meza-2012-report-nvm/</link>
       <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/meza-2012-report-nvm/</guid>
+      <guid>https://penn-cil.github.io/publication/meza-2012-report-nvm/</guid>
       <description>&lt;p&gt;SAFARI Technical Report&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A case for small row buffers in non-volatile main memories</title>
-      <link>https://jingjaneli.github.io/publication/meza-2012-iccd/</link>
+      <link>https://penn-cil.github.io/publication/meza-2012-iccd/</link>
       <pubDate>Sun, 30 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/meza-2012-iccd/</guid>
+      <guid>https://penn-cil.github.io/publication/meza-2012-iccd/</guid>
       <description>&lt;p&gt;(Acceptance rate: underline25%, 61 out of 241)&lt;/p&gt;
 </description>
     </item>

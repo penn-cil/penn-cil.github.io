@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses and Notes | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/courses/</link>
-      <atom:link href="https://jingjaneli.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/courses/</link>
+      <atom:link href="https://penn-cil.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses and Notes</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>Courses and Notes</title>
-      <link>https://jingjaneli.github.io/courses/</link>
+      <link>https://penn-cil.github.io/courses/</link>
     </image>
     
   </channel>

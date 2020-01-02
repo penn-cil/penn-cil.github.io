@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>electron traps | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/tags/electron-traps/</link>
-      <atom:link href="https://jingjaneli.github.io/tags/electron-traps/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/tags/electron-traps/</link>
+      <atom:link href="https://penn-cil.github.io/tags/electron-traps/index.xml" rel="self" type="application/rss+xml" />
     <description>electron traps</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>electron traps</title>
-      <link>https://jingjaneli.github.io/tags/electron-traps/</link>
+      <link>https://penn-cil.github.io/tags/electron-traps/</link>
     </image>
     
     <item>
       <title>A compact model for RRAM including random telegraph noise</title>
-      <link>https://jingjaneli.github.io/publication/guan-2016-irps/</link>
+      <link>https://penn-cil.github.io/publication/guan-2016-irps/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/guan-2016-irps/</guid>
+      <guid>https://penn-cil.github.io/publication/guan-2016-irps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High Performance and Low Power Electronics on Flexible Substrate</title>
-      <link>https://jingjaneli.github.io/publication/li-2007-dac/</link>
+      <link>https://penn-cil.github.io/publication/li-2007-dac/</link>
       <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2007-dac/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2007-dac/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline13%)&lt;/p&gt;
 </description>
     </item>

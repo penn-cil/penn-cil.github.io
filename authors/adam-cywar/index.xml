@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adam Cywar | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/authors/adam-cywar/</link>
-      <atom:link href="https://jingjaneli.github.io/authors/adam-cywar/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/authors/adam-cywar/</link>
+      <atom:link href="https://penn-cil.github.io/authors/adam-cywar/index.xml" rel="self" type="application/rss+xml" />
     <description>Adam Cywar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 May 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>Adam Cywar</title>
-      <link>https://jingjaneli.github.io/authors/adam-cywar/</link>
+      <link>https://penn-cil.github.io/authors/adam-cywar/</link>
     </image>
     
     <item>
       <title>The impact of heater-recess and load matching in phase change memory mushroom cells</title>
-      <link>https://jingjaneli.github.io/publication/cywar-2012-nano/</link>
+      <link>https://penn-cil.github.io/publication/cywar-2012-nano/</link>
       <pubDate>Thu, 10 May 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/cywar-2012-nano/</guid>
+      <guid>https://penn-cil.github.io/publication/cywar-2012-nano/</guid>
       <description></description>
     </item>
     

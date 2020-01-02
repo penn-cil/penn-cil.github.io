@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>energy-efficiency computing | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/tags/energy-efficiency-computing/</link>
-      <atom:link href="https://jingjaneli.github.io/tags/energy-efficiency-computing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/tags/energy-efficiency-computing/</link>
+      <atom:link href="https://penn-cil.github.io/tags/energy-efficiency-computing/index.xml" rel="self" type="application/rss+xml" />
     <description>energy-efficiency computing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Feb 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>energy-efficiency computing</title>
-      <link>https://jingjaneli.github.io/tags/energy-efficiency-computing/</link>
+      <link>https://penn-cil.github.io/tags/energy-efficiency-computing/</link>
     </image>
     
     <item>
       <title>IMEC: A Fully Morphable In-Memory Computing Fabric Enabled by Resistive Crossbar</title>
-      <link>https://jingjaneli.github.io/publication/zha-2017-calimec/</link>
+      <link>https://penn-cil.github.io/publication/zha-2017-calimec/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/zha-2017-calimec/</guid>
+      <guid>https://penn-cil.github.io/publication/zha-2017-calimec/</guid>
       <description></description>
     </item>
     

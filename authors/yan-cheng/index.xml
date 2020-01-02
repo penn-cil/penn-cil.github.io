@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yan Cheng | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/authors/yan-cheng/</link>
-      <atom:link href="https://jingjaneli.github.io/authors/yan-cheng/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/authors/yan-cheng/</link>
+      <atom:link href="https://penn-cil.github.io/authors/yan-cheng/index.xml" rel="self" type="application/rss+xml" />
     <description>Yan Cheng</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>Yan Cheng</title>
-      <link>https://jingjaneli.github.io/authors/yan-cheng/</link>
+      <link>https://penn-cil.github.io/authors/yan-cheng/</link>
     </image>
     
     <item>
       <title>Nb(1-x)O2 based Universal Selector with Ultra-high Endurance (&gt;10^12), high speed (10ns) and Excellent Vth Stability</title>
-      <link>https://jingjaneli.github.io/publication/luo-2019-vlsit/</link>
+      <link>https://penn-cil.github.io/publication/luo-2019-vlsit/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/luo-2019-vlsit/</guid>
+      <guid>https://penn-cil.github.io/publication/luo-2019-vlsit/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>performance factor | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/tags/performance-factor/</link>
-      <atom:link href="https://jingjaneli.github.io/tags/performance-factor/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/tags/performance-factor/</link>
+      <atom:link href="https://penn-cil.github.io/tags/performance-factor/index.xml" rel="self" type="application/rss+xml" />
     <description>performance factor</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>performance factor</title>
-      <link>https://jingjaneli.github.io/tags/performance-factor/</link>
+      <link>https://penn-cil.github.io/tags/performance-factor/</link>
     </image>
     
     <item>
       <title>Enabling phase-change memory for data-centric computing: Technology, circuitand system (INVITED)</title>
-      <link>https://jingjaneli.github.io/publication/li-2015-iscas/</link>
+      <link>https://penn-cil.github.io/publication/li-2015-iscas/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2015-iscas/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2015-iscas/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rram compact model | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/tags/rram-compact-model/</link>
-      <atom:link href="https://jingjaneli.github.io/tags/rram-compact-model/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/tags/rram-compact-model/</link>
+      <atom:link href="https://penn-cil.github.io/tags/rram-compact-model/index.xml" rel="self" type="application/rss+xml" />
     <description>rram compact model</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>rram compact model</title>
-      <link>https://jingjaneli.github.io/tags/rram-compact-model/</link>
+      <link>https://penn-cil.github.io/tags/rram-compact-model/</link>
     </image>
     
     <item>
       <title>A compact model for RRAM including random telegraph noise</title>
-      <link>https://jingjaneli.github.io/publication/guan-2016-irps/</link>
+      <link>https://penn-cil.github.io/publication/guan-2016-irps/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/guan-2016-irps/</guid>
+      <guid>https://penn-cil.github.io/publication/guan-2016-irps/</guid>
       <description></description>
     </item>
     

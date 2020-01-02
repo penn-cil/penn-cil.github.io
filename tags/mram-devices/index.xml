@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mram devices | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/tags/mram-devices/</link>
-      <atom:link href="https://jingjaneli.github.io/tags/mram-devices/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/tags/mram-devices/</link>
+      <atom:link href="https://penn-cil.github.io/tags/mram-devices/index.xml" rel="self" type="application/rss+xml" />
     <description>mram devices</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Sep 2008 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>mram devices</title>
-      <link>https://jingjaneli.github.io/tags/mram-devices/</link>
+      <link>https://penn-cil.github.io/tags/mram-devices/</link>
     </image>
     
     <item>
       <title>Variation-tolerant Spin-Torque Transfer (STT) MRAM array for yield enhancement</title>
-      <link>https://jingjaneli.github.io/publication/li-2008-cicc/</link>
+      <link>https://penn-cil.github.io/publication/li-2008-cicc/</link>
       <pubDate>Sun, 21 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2008-cicc/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2008-cicc/</guid>
       <description></description>
     </item>
     

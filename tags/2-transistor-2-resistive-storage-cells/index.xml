@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2-transistor-2-resistive-storage cells | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/tags/2-transistor-2-resistive-storage-cells/</link>
-      <atom:link href="https://jingjaneli.github.io/tags/2-transistor-2-resistive-storage-cells/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/tags/2-transistor-2-resistive-storage-cells/</link>
+      <atom:link href="https://penn-cil.github.io/tags/2-transistor-2-resistive-storage-cells/index.xml" rel="self" type="application/rss+xml" />
     <description>2-transistor-2-resistive-storage cells</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jun 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>2-transistor-2-resistive-storage cells</title>
-      <link>https://jingjaneli.github.io/tags/2-transistor-2-resistive-storage-cells/</link>
+      <link>https://penn-cil.github.io/tags/2-transistor-2-resistive-storage-cells/</link>
     </image>
     
     <item>
       <title>1Mb 0.41 um^2 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (Highlight Paper of the Year)</title>
-      <link>https://jingjaneli.github.io/publication/li-2013-vlsi/</link>
+      <link>https://penn-cil.github.io/publication/li-2013-vlsi/</link>
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2013-vlsi/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2013-vlsi/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline27%, 109 out of 396)&lt;/p&gt;
 </description>
     </item>

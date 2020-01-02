@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>array access | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/tags/array-access/</link>
-      <atom:link href="https://jingjaneli.github.io/tags/array-access/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/tags/array-access/</link>
+      <atom:link href="https://penn-cil.github.io/tags/array-access/index.xml" rel="self" type="application/rss+xml" />
     <description>array access</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 Sep 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>array access</title>
-      <link>https://jingjaneli.github.io/tags/array-access/</link>
+      <link>https://penn-cil.github.io/tags/array-access/</link>
     </image>
     
     <item>
       <title>A case for small row buffers in non-volatile main memories</title>
-      <link>https://jingjaneli.github.io/publication/meza-2012-iccd/</link>
+      <link>https://penn-cil.github.io/publication/meza-2012-iccd/</link>
       <pubDate>Sun, 30 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/meza-2012-iccd/</guid>
+      <guid>https://penn-cil.github.io/publication/meza-2012-iccd/</guid>
       <description>&lt;p&gt;(Acceptance rate: underline25%, 61 out of 241)&lt;/p&gt;
 </description>
     </item>

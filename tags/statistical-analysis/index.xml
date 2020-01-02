@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>statistical analysis | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/tags/statistical-analysis/</link>
-      <atom:link href="https://jingjaneli.github.io/tags/statistical-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/tags/statistical-analysis/</link>
+      <atom:link href="https://penn-cil.github.io/tags/statistical-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>statistical analysis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>statistical analysis</title>
-      <link>https://jingjaneli.github.io/tags/statistical-analysis/</link>
+      <link>https://penn-cil.github.io/tags/statistical-analysis/</link>
     </image>
     
     <item>
       <title>Variation Estimation and Compensation Technique in Scaled LTPS TFT Circuits for Low-Power Low-Cost Applications</title>
-      <link>https://jingjaneli.github.io/publication/li-2009-tcad/</link>
+      <link>https://penn-cil.github.io/publication/li-2009-tcad/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/li-2009-tcad/</guid>
+      <guid>https://penn-cil.github.io/publication/li-2009-tcad/</guid>
       <description></description>
     </item>
     

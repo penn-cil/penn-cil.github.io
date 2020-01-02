@@ -2,212 +2,212 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/authors/yue-zha/</link>
-      <atom:link href="https://jingjaneli.github.io/authors/yue-zha/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/authors/yue-zha/</link>
+      <atom:link href="https://penn-cil.github.io/authors/yue-zha/index.xml" rel="self" type="application/rss+xml" />
     <description>Penn Computational Intelligence Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Dec 2019 22:48:15 -0600</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>Penn Computational Intelligence Lab</title>
-      <link>https://jingjaneli.github.io/authors/yue-zha/</link>
+      <link>https://penn-cil.github.io/authors/yue-zha/</link>
     </image>
     
     <item>
       <title>Liquid Silicon</title>
-      <link>https://jingjaneli.github.io/project/liquid-silicon/</link>
+      <link>https://penn-cil.github.io/project/liquid-silicon/</link>
       <pubDate>Fri, 16 Aug 2019 15:59:00 -0500</pubDate>
-      <guid>https://jingjaneli.github.io/project/liquid-silicon/</guid>
-      <description>&lt;p&gt;Liquid Silicon (L-Si) is a general-purpose in-memory computing architecture with complete system support that addresses several key fundamental limitations of state-of-the-art reconfigurable data-flow architectures (including FPGA, TPU, CGRA, etc.) in supporting emerging machine learning and big data applications. As compared with most projects in literature which focus on part of the system stack, L-Si is a &lt;em&gt;full stack&lt;/em&gt; solution that comprises architecture [&lt;a href=&#34;https://jingjaneli.github.io/publication/zha-2018-fpga&#34;&gt;Zha2018FPGA&lt;/a&gt;], compiler [&lt;a href=&#34;https://jingjaneli.github.io/publication/zha-2016-iccad&#34;&gt;Zha2016ICCAD&lt;/a&gt;], programming model and system integration [&lt;a href=&#34;https://jingjaneli.github.io/publication/zha-2018-asplos&#34;&gt;Zha2018ASPLOS&lt;/a&gt;], with a real chip demonstration [&lt;a href=&#34;https://jingjaneli.github.io/publication/zha-2019-vlsic&#34;&gt;Zha2019VLSIC&lt;/a&gt;]. The computing model of L-Si is radically different from state-of-the-art reconfigurable data-flow architectures. It maximally reuses the memory array itself (instead of placing computation units near the array) to perform a) heavy weight computation (&lt;em&gt;logic&lt;/em&gt;), b) light weight computation(&lt;em&gt;search&lt;/em&gt;), c) data storage (&lt;em&gt;memory&lt;/em&gt;), and d) communication (&lt;em&gt;routing&lt;/em&gt;), with minimal requirement in CMOS supporting circuitry, which can thus be further placed beneath the array. Therefore, it inherits the great benefits of semiconductor memory in integration density and cost, and offers orders of magnitude more parallel data processing capability in situ in the memory array than the best-known solution today. For the &lt;strong&gt;first time&lt;/strong&gt;, it fundamentally blurs the boundary between computation and storage, by exploiting a continuum of general-purpose in-memory compute capabilities across the whole spectrum, from full memory to full computation, or intermediate states in between (partial memory and partial computation). Thus, it provides programmers (or compiler) more flexibility to customize hardware’s compute and memory resources to better match applications needs for higher performance and energy efficiency. We leverage such unique property and provide compiler support to facilitate the programming of applications written in high-level programming languages (e.g. OpenCL) and frameworks (e.g. TensorFlow, MapReduce) while fully exploiting the unique architectural capability of L-Si. We also provide scalable multi-context architectural support to minimize reconfiguration overhead for assisting virtualization when combined with our system stack.&lt;/p&gt;
+      <guid>https://penn-cil.github.io/project/liquid-silicon/</guid>
+      <description>&lt;p&gt;Liquid Silicon (L-Si) is a general-purpose in-memory computing architecture with complete system support that addresses several key fundamental limitations of state-of-the-art reconfigurable data-flow architectures (including FPGA, TPU, CGRA, etc.) in supporting emerging machine learning and big data applications. As compared with most projects in literature which focus on part of the system stack, L-Si is a &lt;em&gt;full stack&lt;/em&gt; solution that comprises architecture [&lt;a href=&#34;https://penn-cil.github.io/publication/zha-2018-fpga&#34;&gt;Zha2018FPGA&lt;/a&gt;], compiler [&lt;a href=&#34;https://penn-cil.github.io/publication/zha-2016-iccad&#34;&gt;Zha2016ICCAD&lt;/a&gt;], programming model and system integration [&lt;a href=&#34;https://penn-cil.github.io/publication/zha-2018-asplos&#34;&gt;Zha2018ASPLOS&lt;/a&gt;], with a real chip demonstration [&lt;a href=&#34;https://penn-cil.github.io/publication/zha-2019-vlsic&#34;&gt;Zha2019VLSIC&lt;/a&gt;]. The computing model of L-Si is radically different from state-of-the-art reconfigurable data-flow architectures. It maximally reuses the memory array itself (instead of placing computation units near the array) to perform a) heavy weight computation (&lt;em&gt;logic&lt;/em&gt;), b) light weight computation(&lt;em&gt;search&lt;/em&gt;), c) data storage (&lt;em&gt;memory&lt;/em&gt;), and d) communication (&lt;em&gt;routing&lt;/em&gt;), with minimal requirement in CMOS supporting circuitry, which can thus be further placed beneath the array. Therefore, it inherits the great benefits of semiconductor memory in integration density and cost, and offers orders of magnitude more parallel data processing capability in situ in the memory array than the best-known solution today. For the &lt;strong&gt;first time&lt;/strong&gt;, it fundamentally blurs the boundary between computation and storage, by exploiting a continuum of general-purpose in-memory compute capabilities across the whole spectrum, from full memory to full computation, or intermediate states in between (partial memory and partial computation). Thus, it provides programmers (or compiler) more flexibility to customize hardware’s compute and memory resources to better match applications needs for higher performance and energy efficiency. We leverage such unique property and provide compiler support to facilitate the programming of applications written in high-level programming languages (e.g. OpenCL) and frameworks (e.g. TensorFlow, MapReduce) while fully exploiting the unique architectural capability of L-Si. We also provide scalable multi-context architectural support to minimize reconfiguration overhead for assisting virtualization when combined with our system stack.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://jingjaneli.github.io/img/LSi.png&#34; alt=&#34;L-Si timeline&#34; title=&#34;Timeline of Liquid Silicon project&#34; /&gt;&lt;em&gt;Timeline of L-Si project&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://penn-cil.github.io/img/LSi.png&#34; alt=&#34;L-Si timeline&#34; title=&#34;Timeline of Liquid Silicon project&#34; /&gt;&lt;em&gt;Timeline of L-Si project&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;To prove the feasibility of L-Si, we fabricated a test chip in 130 nm CMOS process with HfO2 RRAM – the &lt;strong&gt;first real-chip demonstration for general purpose in-memory computing using RRAM&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://jingjaneli.github.io/img/LSi-VLSI.png&#34; alt=&#34;L-Si die photo&#34; title=&#34;Die Photo and Chip Characteristics of L-Si&#34; /&gt;&lt;em&gt;Die Photo and Chip Characteristics of L-Si&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://penn-cil.github.io/img/LSi-VLSI.png&#34; alt=&#34;L-Si die photo&#34; title=&#34;Die Photo and Chip Characteristics of L-Si&#34; /&gt;&lt;em&gt;Die Photo and Chip Characteristics of L-Si&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;With proposed system support, we evaluated a broad class of legacy and emerging machine learning workloads. Our measurement confirmed the chip operates reliably at low voltage of 650 mV when running these workloads. It achieves 60.9 TOPS/W in performing neural network inferences and 480 GOPS/W in performing high-dimensional similarity search (a key big data application) at nominal voltage supply of 1.2V, showing &lt;strong&gt;&amp;gt; 3x&lt;/strong&gt; and &lt;strong&gt;~100x&lt;/strong&gt; power efficiency improvement over the state-of-the-art domain-specific CMOS-/RRAM-based accelerators without sacrificing the programmability. In addition, it outperforms the latest nonvolatile FPGA in energy efficiency by &lt;strong&gt;&amp;gt; 3x&lt;/strong&gt; in general compute-intensive applications. As L-Si is a fundamental new computing technology, moving further, we will explore how to scale it up to warehouse computers and scale it down to IoT devices by further specializing the software/hardware stacks.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://jingjaneli.github.io/img/LSi-VLSI-Results.png&#34; alt=&#34;Comparing L-Si with State-of-the-Art&#34; title=&#34;Comparing L-Si with State-of-the-Art&#34; /&gt;&lt;em&gt;Comparing L-Si with State-of-the-Art&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://penn-cil.github.io/img/LSi-VLSI-Results.png&#34; alt=&#34;Comparing L-Si with State-of-the-Art&#34; title=&#34;Comparing L-Si with State-of-the-Art&#34; /&gt;&lt;em&gt;Comparing L-Si with State-of-the-Art&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Virtualization in Cloud</title>
-      <link>https://jingjaneli.github.io/project/virtualization/</link>
+      <link>https://penn-cil.github.io/project/virtualization/</link>
       <pubDate>Fri, 16 Aug 2019 15:58:34 -0500</pubDate>
-      <guid>https://jingjaneli.github.io/project/virtualization/</guid>
+      <guid>https://penn-cil.github.io/project/virtualization/</guid>
       <description>&lt;p&gt;While traditionally being used in embedded systems, custom silicon (e.g., FPGAs) has recently begun to make their way into data centers and the cloud (Amazon AWS EC2 F1 instances, Microsoft Brainwave, Google TPU etc.). While these programmable data-flow architectures provide the lucrative benefits of fine-grained parallelism and high flexibility to accelerate a wide spectrum of applications, system support for them in the context of multi-tenant cloud environment, however, is in its infancy and has two major limitations, 1) inefficient resource management due to the tight coupling between compilation and runtime management, and 2) high programming complexity when exploiting scale-out acceleration, for which the root cause is that &lt;em&gt;hardware resources are not virtualized&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;In this research, we take FPGA as a case study and develop a &lt;em&gt;full stack solution&lt;/em&gt; that can address these limitations and thus, enable &lt;em&gt;virtualization of FPGA clusters in multi-tenant cloud computing environment&lt;/em&gt;. Specifically, the key contribution is a new system abstraction that can effectively decouple the compilation and runtime resource management. It allows applications to be compiled offline onto the proposed abstraction and resource allocation to be dynamically determined at runtime. Moreover, it creates an illusion of a single/large virtual FPGA to users, thereby reducing the programming complexity and supporting scale-out acceleration. It also provides virtualization support for the peripheral components (e.g. on-board DRAM, Ethernet), as well as protection and isolation support to ensure a secure execution in multi-tenant cloud environment [&lt;a href=&#34;https://jingjaneli.github.io/publication/zha-2020-asplos&#34;&gt;Zha2020ASPLOS&lt;/a&gt;].&lt;/p&gt;
+&lt;p&gt;In this research, we take FPGA as a case study and develop a &lt;em&gt;full stack solution&lt;/em&gt; that can address these limitations and thus, enable &lt;em&gt;virtualization of FPGA clusters in multi-tenant cloud computing environment&lt;/em&gt;. Specifically, the key contribution is a new system abstraction that can effectively decouple the compilation and runtime resource management. It allows applications to be compiled offline onto the proposed abstraction and resource allocation to be dynamically determined at runtime. Moreover, it creates an illusion of a single/large virtual FPGA to users, thereby reducing the programming complexity and supporting scale-out acceleration. It also provides virtualization support for the peripheral components (e.g. on-board DRAM, Ethernet), as well as protection and isolation support to ensure a secure execution in multi-tenant cloud environment [&lt;a href=&#34;https://penn-cil.github.io/publication/zha-2020-asplos&#34;&gt;Zha2020ASPLOS&lt;/a&gt;].&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Our invited paper got accepted at JSSC</title>
-      <link>https://jingjaneli.github.io/post/liquid-silicon-jssc-2020/</link>
+      <link>https://penn-cil.github.io/post/liquid-silicon-jssc-2020/</link>
       <pubDate>Tue, 24 Dec 2019 22:48:15 -0600</pubDate>
-      <guid>https://jingjaneli.github.io/post/liquid-silicon-jssc-2020/</guid>
+      <guid>https://penn-cil.github.io/post/liquid-silicon-jssc-2020/</guid>
       <description>&lt;p&gt;Yue Zha, Etienne Nowak, and Jing Li, &amp;ldquo;Liquid Silicon: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated ReRAM for Big Data/Machine Learning Applications (&lt;strong&gt;invited&lt;/strong&gt;)&amp;ldquo;, &lt;em&gt;IEEE Journal of Solid-State Circuits (&lt;strong&gt;JSSC&lt;/strong&gt;)&lt;/em&gt;, .&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Our paper got accepted at ASPLOS 2020</title>
-      <link>https://jingjaneli.github.io/post/fpga-virtualization-asplos-2020/</link>
+      <link>https://penn-cil.github.io/post/fpga-virtualization-asplos-2020/</link>
       <pubDate>Tue, 24 Dec 2019 22:48:15 -0600</pubDate>
-      <guid>https://jingjaneli.github.io/post/fpga-virtualization-asplos-2020/</guid>
+      <guid>https://penn-cil.github.io/post/fpga-virtualization-asplos-2020/</guid>
       <description>&lt;p&gt;Yue Zha and Jing Li, &amp;ldquo;ViTAL: Virtualizing FPGAs in the Cloud,&amp;ldquo;, in &lt;em&gt;the 24th ACM International Conference on Architectural Support for Programming Languages and Operating Systems&lt;/em&gt; (&lt;strong&gt;ASPLOS&lt;/strong&gt; &amp;lsquo;20).&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Liquid Silicon: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated ReRAM for Big Data/Machine Learning Applications (INVITED)</title>
-      <link>https://jingjaneli.github.io/publication/zha-2020-jssc/</link>
+      <link>https://penn-cil.github.io/publication/zha-2020-jssc/</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/zha-2020-jssc/</guid>
+      <guid>https://penn-cil.github.io/publication/zha-2020-jssc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ViTAL: Virtualizing FPGAs in the Cloud</title>
-      <link>https://jingjaneli.github.io/publication/zha-2020-asplos/</link>
+      <link>https://penn-cil.github.io/publication/zha-2020-asplos/</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/zha-2020-asplos/</guid>
+      <guid>https://penn-cil.github.io/publication/zha-2020-asplos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Liquid Silicon: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated ReRAM for Big Data/Machine Learning Applications</title>
-      <link>https://jingjaneli.github.io/publication/zha-2019-vlsic/</link>
+      <link>https://penn-cil.github.io/publication/zha-2019-vlsic/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/zha-2019-vlsic/</guid>
+      <guid>https://penn-cil.github.io/publication/zha-2019-vlsic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MEG: A RISCV-based system simulation infrastructure for exploring memory optimization using FPGAs and Hybrid Memory Cube (Best Paper Nominee)</title>
-      <link>https://jingjaneli.github.io/publication/zhang-2019-fccm/</link>
+      <link>https://penn-cil.github.io/publication/zhang-2019-fccm/</link>
       <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/zhang-2019-fccm/</guid>
+      <guid>https://penn-cil.github.io/publication/zhang-2019-fccm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Our paper got accepted at 2019 Symposium on VLSI Circuits</title>
-      <link>https://jingjaneli.github.io/post/liquid-silicon-vlsic-2019/</link>
+      <link>https://penn-cil.github.io/post/liquid-silicon-vlsic-2019/</link>
       <pubDate>Sun, 17 Mar 2019 16:43:32 -0500</pubDate>
-      <guid>https://jingjaneli.github.io/post/liquid-silicon-vlsic-2019/</guid>
+      <guid>https://penn-cil.github.io/post/liquid-silicon-vlsic-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Liquid Silicon-Monona: A Reconfigurable Memory-Oriented Computing Fabric with Scalable Multi-Context Support</title>
-      <link>https://jingjaneli.github.io/publication/zha-2018-asplos/</link>
+      <link>https://penn-cil.github.io/publication/zha-2018-asplos/</link>
       <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/zha-2018-asplos/</guid>
+      <guid>https://penn-cil.github.io/publication/zha-2018-asplos/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline18.2%, 56 out of 307)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Liquid  Silicon:  A Data-Centric Reconfigurable Architecture enabled by RRAM Technology</title>
-      <link>https://jingjaneli.github.io/publication/zha-2018-fpga/</link>
+      <link>https://penn-cil.github.io/publication/zha-2018-fpga/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/zha-2018-fpga/</guid>
+      <guid>https://penn-cil.github.io/publication/zha-2018-fpga/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline24%, Ranked &lt;strong&gt;#1&lt;/strong&gt; among 100+ submissions)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Specialization: A New Path towards Low Power (INVITED)</title>
-      <link>https://jingjaneli.github.io/publication/zha-2018-jolpe/</link>
+      <link>https://penn-cil.github.io/publication/zha-2018-jolpe/</link>
       <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/zha-2018-jolpe/</guid>
+      <guid>https://penn-cil.github.io/publication/zha-2018-jolpe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Alternative Analytical Approach to Associative Processing (Best of CAL)</title>
-      <link>https://jingjaneli.github.io/publication/khoram-2018-cal/</link>
+      <link>https://penn-cil.github.io/publication/khoram-2018-cal/</link>
       <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/khoram-2018-cal/</guid>
+      <guid>https://penn-cil.github.io/publication/khoram-2018-cal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RRAM-based reconfigurable in-memory computing architecture with hybrid routing</title>
-      <link>https://jingjaneli.github.io/publication/zha-2017-iccad/</link>
+      <link>https://penn-cil.github.io/publication/zha-2017-iccad/</link>
       <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/zha-2017-iccad/</guid>
+      <guid>https://penn-cil.github.io/publication/zha-2017-iccad/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline26%, 105 out of 399)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>CMA: A Reconfigurable Complex Matching Accelerator for Wire-speed Network Intrusion Detection</title>
-      <link>https://jingjaneli.github.io/publication/zha-2017-calcma/</link>
+      <link>https://penn-cil.github.io/publication/zha-2017-calcma/</link>
       <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/zha-2017-calcma/</guid>
+      <guid>https://penn-cil.github.io/publication/zha-2017-calcma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RRAM-based  Reconfigurable  In-Memory  Computing  Architecture with Hybrid Routing (poster)</title>
-      <link>https://jingjaneli.github.io/publication/zha-2017-dacwip/</link>
+      <link>https://penn-cil.github.io/publication/zha-2017-dacwip/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/zha-2017-dacwip/</guid>
+      <guid>https://penn-cil.github.io/publication/zha-2017-dacwip/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline29%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Challenges and Opportunities: From Near-memory Computing to In-memory Computing (INVITED)</title>
-      <link>https://jingjaneli.github.io/publication/khoram-2017-ispd/</link>
+      <link>https://penn-cil.github.io/publication/khoram-2017-ispd/</link>
       <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/khoram-2017-ispd/</guid>
+      <guid>https://penn-cil.github.io/publication/khoram-2017-ispd/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline35%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Recent progress in RRAM technology: From compact models to applications (INVITED)</title>
-      <link>https://jingjaneli.github.io/publication/zha-2017-cstic/</link>
+      <link>https://penn-cil.github.io/publication/zha-2017-cstic/</link>
       <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/zha-2017-cstic/</guid>
+      <guid>https://penn-cil.github.io/publication/zha-2017-cstic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Mixed-Signal Data-Centric Reconfigurable Architecture Enabled by RRAM Technology (poster)</title>
-      <link>https://jingjaneli.github.io/publication/zha-2017-fpgaposter/</link>
+      <link>https://penn-cil.github.io/publication/zha-2017-fpgaposter/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/zha-2017-fpgaposter/</guid>
+      <guid>https://penn-cil.github.io/publication/zha-2017-fpgaposter/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline25%, 25 out of 101)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>IMEC: A Fully Morphable In-Memory Computing Fabric Enabled by Resistive Crossbar</title>
-      <link>https://jingjaneli.github.io/publication/zha-2017-calimec/</link>
+      <link>https://penn-cil.github.io/publication/zha-2017-calimec/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/zha-2017-calimec/</guid>
+      <guid>https://penn-cil.github.io/publication/zha-2017-calimec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reconfigurable in-memory computing with resistive memory crossbar</title>
-      <link>https://jingjaneli.github.io/publication/zha-2016-iccad/</link>
+      <link>https://penn-cil.github.io/publication/zha-2016-iccad/</link>
       <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/zha-2016-iccad/</guid>
+      <guid>https://penn-cil.github.io/publication/zha-2016-iccad/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline24%, 97 out of 408)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jingjaneli.github.io/authors/yue-zha/</link>
+      <link>https://penn-cil.github.io/authors/yue-zha/</link>
       <pubDate>Tue, 24 Dec 2019 22:48:15 -0600</pubDate>
-      <guid>https://jingjaneli.github.io/authors/yue-zha/</guid>
+      <guid>https://penn-cil.github.io/authors/yue-zha/</guid>
       <description>&lt;p&gt;Yue Zha received his B.S. degree in Physics from Peking University, China in 2013, and M.S. degree in Electrical and Computer Engineering from University of Wisconsin-Madison in 2015. He is currently pursuing his Ph.D. degree at the Department of Electrical and Computer Engineering, University of Wisconsin-Madison, WI. His research interests are reconfigurable computing device (conventional SRAM-based and novel RRAM-based), and CAD framework development.&lt;/p&gt;
 </description>
     </item>

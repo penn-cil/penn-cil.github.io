@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>integrated circuit manufacture | Penn Computational Intelligence Lab</title>
-    <link>https://jingjaneli.github.io/tags/integrated-circuit-manufacture/</link>
-      <atom:link href="https://jingjaneli.github.io/tags/integrated-circuit-manufacture/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penn-cil.github.io/tags/integrated-circuit-manufacture/</link>
+      <atom:link href="https://penn-cil.github.io/tags/integrated-circuit-manufacture/index.xml" rel="self" type="application/rss+xml" />
     <description>integrated circuit manufacture</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jingjaneli.github.io/img/logo.png</url>
+      <url>https://penn-cil.github.io/img/logo.png</url>
       <title>integrated circuit manufacture</title>
-      <link>https://jingjaneli.github.io/tags/integrated-circuit-manufacture/</link>
+      <link>https://penn-cil.github.io/tags/integrated-circuit-manufacture/</link>
     </image>
     
     <item>
       <title>Fully CMOS compatible 3D vertical RRAM with self-aligned self-selective cell enabling sub-5nm scaling</title>
-      <link>https://jingjaneli.github.io/publication/xu-2016-vlsi/</link>
+      <link>https://penn-cil.github.io/publication/xu-2016-vlsi/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://jingjaneli.github.io/publication/xu-2016-vlsi/</guid>
+      <guid>https://penn-cil.github.io/publication/xu-2016-vlsi/</guid>
       <description></description>
     </item>
     
