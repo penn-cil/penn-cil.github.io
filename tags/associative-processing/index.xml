@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>associative processing | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/tags/associative-processing/</link>
-      <atom:link href="https://bdai6.github.io/tags/associative-processing/index.xml" rel="self" type="application/rss+xml" />
+    <title>associative processing | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/tags/associative-processing/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/associative-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>associative processing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Aug 2019 16:00:10 -0500</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title>associative processing</title>
-      <link>https://bdai6.github.io/tags/associative-processing/</link>
+      <link>https://www.seas.upenn.edu/~janeli/tags/associative-processing/</link>
     </image>
     
     <item>
       <title>Two Dimensional Associative Processor (2D AP)</title>
-      <link>https://bdai6.github.io/project/two-d-ap/</link>
+      <link>https://www.seas.upenn.edu/~janeli/project/two-d-ap/</link>
       <pubDate>Fri, 16 Aug 2019 16:00:10 -0500</pubDate>
-      <guid>https://bdai6.github.io/project/two-d-ap/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/project/two-d-ap/</guid>
       <description>&lt;p&gt;The research project, titled &amp;ldquo;&lt;em&gt;Associative In-Memory Graph Processing Paradigm: Towards Tera-TEPS Graph Traversal In a Box&lt;/em&gt;&amp;rdquo;, won the &lt;strong&gt;NSF CAREER Award&lt;/strong&gt; in 2018. In this research, we developed a radically new computing paradigm, namely two-dimensional associative processing (2D AP) to further advance our previous FPGA-based graph processing architectures and fundamentally address their limitations. Mathematically, 2D AP is a new general-purpose computing model that exploits an extra dimension of parallelism (both intra-word and inter-word parallelism) to accelerate computation as compared with traditional AP which only exploit inter-word parallelism. It is particularly beneficial for massive-scale graph processing. For the first time, we provide a theoretical proof that 2D AP is inherently more efficient as measured by &amp;ldquo;&lt;em&gt;architecturally determined complexity&lt;/em&gt;&amp;rdquo; in runtime/area/energy than both von Neumann architecture and traditional AP paradigm in performing graph computation. We also provide detailed micro-architectures and circuits to best implement the proposed computing model, with domain-special language support. A preliminary published version of 2D AP [&lt;a href=&#34;khoram-2018-cal&#34; target=&#34;_blank&#34;&gt;Khoram2018CAL&lt;/a&gt;] was recognized as &lt;strong&gt;best of CAL&lt;/strong&gt; (IEEE Computer Architecture Letters) in 2018.&lt;/p&gt;
 </description>
     </item>

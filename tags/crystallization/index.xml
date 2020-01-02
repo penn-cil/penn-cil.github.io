@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>crystallization | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/tags/crystallization/</link>
-      <atom:link href="https://bdai6.github.io/tags/crystallization/index.xml" rel="self" type="application/rss+xml" />
+    <title>crystallization | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/tags/crystallization/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/crystallization/index.xml" rel="self" type="application/rss+xml" />
     <description>crystallization</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2007 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title>crystallization</title>
-      <link>https://bdai6.github.io/tags/crystallization/</link>
+      <link>https://www.seas.upenn.edu/~janeli/tags/crystallization/</link>
     </image>
     
     <item>
       <title>A generic and reconfigurable test paradigm using Low-cost integrated Poly-Si TFTs</title>
-      <link>https://bdai6.github.io/publication/li-2007-itc/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/li-2007-itc/</link>
       <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/li-2007-itc/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2007-itc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring Low Temperature Poly-Si for Low Cost and Low Power Sub-micron Digital Operation</title>
-      <link>https://bdai6.github.io/publication/li-2006-drc/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/li-2006-drc/</link>
       <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/li-2006-drc/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2006-drc/</guid>
       <description></description>
     </item>
     

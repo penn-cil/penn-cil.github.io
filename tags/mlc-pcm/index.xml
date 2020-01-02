@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mlc pcm | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/tags/mlc-pcm/</link>
-      <atom:link href="https://bdai6.github.io/tags/mlc-pcm/index.xml" rel="self" type="application/rss+xml" />
+    <title>mlc pcm | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/tags/mlc-pcm/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/mlc-pcm/index.xml" rel="self" type="application/rss+xml" />
     <description>mlc pcm</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title>mlc pcm</title>
-      <link>https://bdai6.github.io/tags/mlc-pcm/</link>
+      <link>https://www.seas.upenn.edu/~janeli/tags/mlc-pcm/</link>
     </image>
     
     <item>
       <title>Resistance drift in phase change memory (INVITED)</title>
-      <link>https://bdai6.github.io/publication/li-2012-irps/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/li-2012-irps/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/li-2012-irps/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2012-irps/</guid>
       <description></description>
     </item>
     

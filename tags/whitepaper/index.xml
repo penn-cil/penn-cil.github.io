@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>whitepaper | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/tags/whitepaper/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/whitepaper/index.xml" rel="self" type="application/rss+xml" />
+    <description>whitepaper</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <title>whitepaper</title>
+      <link>https://www.seas.upenn.edu/~janeli/tags/whitepaper/</link>
+    </image>
+    
+    <item>
+      <title>Interleaved Composite Quantization for High-Dimensional Similarity Search</title>
+      <link>https://www.seas.upenn.edu/~janeli/publication/khoram-2019-interleaved/</link>
+      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/khoram-2019-interleaved/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TOCO: A Framework for Compressing Neural Network Models Based on Tolerance Analysis</title>
+      <link>https://www.seas.upenn.edu/~janeli/publication/khoram-2019-toco/</link>
+      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/khoram-2019-toco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MLSys: The New Frontier of Machine Learning Systems</title>
+      <link>https://www.seas.upenn.edu/~janeli/publication/ratner-2019-sysml/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/ratner-2019-sysml/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

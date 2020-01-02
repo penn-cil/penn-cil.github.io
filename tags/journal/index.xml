@@ -1,118 +1,126 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>journal | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/tags/journal/</link>
-      <atom:link href="https://bdai6.github.io/tags/journal/index.xml" rel="self" type="application/rss+xml" />
+    <title>journal | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/tags/journal/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/journal/index.xml" rel="self" type="application/rss+xml" />
     <description>journal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title>journal</title>
-      <link>https://bdai6.github.io/tags/journal/</link>
+      <link>https://www.seas.upenn.edu/~janeli/tags/journal/</link>
     </image>
     
     <item>
+      <title>Liquid Silicon: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated ReRAM for Big Data/Machine Learning Applications (INVITED)</title>
+      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2020-jssc/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2020-jssc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Specialization: A New Path towards Low Power (INVITED)</title>
-      <link>https://bdai6.github.io/publication/zha-2018-jolpe/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2018-jolpe/</link>
       <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/zha-2018-jolpe/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2018-jolpe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computing Generalized Matrix Inverse on Spiking Neural Substrate</title>
-      <link>https://bdai6.github.io/publication/shukla-2018-frontiers/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/shukla-2018-frontiers/</link>
       <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/shukla-2018-frontiers/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/shukla-2018-frontiers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Alternative Analytical Approach to Associative Processing (Best of CAL)</title>
-      <link>https://bdai6.github.io/publication/khoram-2018-cal/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/khoram-2018-cal/</link>
       <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/khoram-2018-cal/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/khoram-2018-cal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CMA: A Reconfigurable Complex Matching Accelerator for Wire-speed Network Intrusion Detection</title>
-      <link>https://bdai6.github.io/publication/zha-2017-calcma/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2017-calcma/</link>
       <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/zha-2017-calcma/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2017-calcma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IMEC: A Fully Morphable In-Memory Computing Fabric Enabled by Resistive Crossbar</title>
-      <link>https://bdai6.github.io/publication/zha-2017-calimec/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2017-calimec/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/zha-2017-calimec/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2017-calimec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1 Mb 0.41 um^2 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (INVITED)</title>
-      <link>https://bdai6.github.io/publication/li-2014-jssc/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/li-2014-jssc/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/li-2014-jssc/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2014-jssc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theory and Experiments of the Impact of Work-Function Variability on Threshold Voltage Variability in MOS Devices</title>
-      <link>https://bdai6.github.io/publication/zhang-2012-ted/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/zhang-2012-ted/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/zhang-2012-ted/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/zhang-2012-ted/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The impact of heater-recess and load matching in phase change memory mushroom cells</title>
-      <link>https://bdai6.github.io/publication/cywar-2012-nano/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/cywar-2012-nano/</link>
       <pubDate>Thu, 10 May 2012 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/cywar-2012-nano/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/cywar-2012-nano/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phase change memory (INVITED)</title>
-      <link>https://bdai6.github.io/publication/li-2011-sciencechina/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/li-2011-sciencechina/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/li-2011-sciencechina/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2011-sciencechina/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design Paradigm for Robust Spin-Torque Transfer Magnetic RAM (STT MRAM) From Circuit/Architecture Perspective (Best Paper)</title>
-      <link>https://bdai6.github.io/publication/li-2010-tvlsi/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/li-2010-tvlsi/</link>
       <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/li-2010-tvlsi/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2010-tvlsi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variable-Latency Adder (VL-Adder) Designs for Low Power and NBTI Tolerance</title>
-      <link>https://bdai6.github.io/publication/chen-2010-tvlsi/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/chen-2010-tvlsi/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/chen-2010-tvlsi/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/chen-2010-tvlsi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variation Estimation and Compensation Technique in Scaled LTPS TFT Circuits for Low-Power Low-Cost Applications</title>
-      <link>https://bdai6.github.io/publication/li-2009-tcad/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/li-2009-tcad/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/li-2009-tcad/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2009-tcad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poly-Si Thin-Film Transistors: An Efficient and Low-Cost Option for Digital Operation</title>
-      <link>https://bdai6.github.io/publication/li-2007-ted/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/li-2007-ted/</link>
       <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/li-2007-ted/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2007-ted/</guid>
       <description></description>
     </item>
     

@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hardware accelerator | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/tags/hardware-accelerator/</link>
-      <atom:link href="https://bdai6.github.io/tags/hardware-accelerator/index.xml" rel="self" type="application/rss+xml" />
+    <title>hardware accelerator | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/tags/hardware-accelerator/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/hardware-accelerator/index.xml" rel="self" type="application/rss+xml" />
     <description>hardware accelerator</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Feb 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title>hardware accelerator</title>
-      <link>https://bdai6.github.io/tags/hardware-accelerator/</link>
+      <link>https://www.seas.upenn.edu/~janeli/tags/hardware-accelerator/</link>
     </image>
     
     <item>
       <title>Improving the Performance of OpenCL-based FPGA Accelerator for Convolutional Neural Network</title>
-      <link>https://bdai6.github.io/publication/zhang-2017-fpga-cnn/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/zhang-2017-fpga-cnn/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/zhang-2017-fpga-cnn/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/zhang-2017-fpga-cnn/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline25%, 25 out of 101)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>1 Mb 0.41 um^2 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (INVITED)</title>
-      <link>https://bdai6.github.io/publication/li-2014-jssc/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/li-2014-jssc/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/li-2014-jssc/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2014-jssc/</guid>
       <description></description>
     </item>
     

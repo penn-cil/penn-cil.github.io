@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>experimentation | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/tags/experimentation/</link>
-      <atom:link href="https://bdai6.github.io/tags/experimentation/index.xml" rel="self" type="application/rss+xml" />
+    <title>experimentation | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/tags/experimentation/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/experimentation/index.xml" rel="self" type="application/rss+xml" />
     <description>experimentation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2007 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title>experimentation</title>
-      <link>https://bdai6.github.io/tags/experimentation/</link>
+      <link>https://www.seas.upenn.edu/~janeli/tags/experimentation/</link>
     </image>
     
     <item>
       <title>High Performance and Low Power Electronics on Flexible Substrate</title>
-      <link>https://bdai6.github.io/publication/li-2007-dac/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/li-2007-dac/</link>
       <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/li-2007-dac/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2007-dac/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline13%)&lt;/p&gt;
 </description>
     </item>

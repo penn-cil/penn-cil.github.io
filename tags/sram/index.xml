@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sram | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/tags/sram/</link>
-      <atom:link href="https://bdai6.github.io/tags/sram/index.xml" rel="self" type="application/rss+xml" />
+    <title>sram | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/tags/sram/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/sram/index.xml" rel="self" type="application/rss+xml" />
     <description>sram</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title>sram</title>
-      <link>https://bdai6.github.io/tags/sram/</link>
+      <link>https://www.seas.upenn.edu/~janeli/tags/sram/</link>
     </image>
     
     <item>
       <title>Demonstration of CAM and TCAM Using Phase Change Devices</title>
-      <link>https://bdai6.github.io/publication/rajendran-2011-imw/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/rajendran-2011-imw/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/rajendran-2011-imw/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/rajendran-2011-imw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variation-tolerant Spin-Torque Transfer (STT) MRAM array for yield enhancement</title>
-      <link>https://bdai6.github.io/publication/li-2008-cicc/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/li-2008-cicc/</link>
       <pubDate>Sun, 21 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/li-2008-cicc/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2008-cicc/</guid>
       <description></description>
     </item>
     

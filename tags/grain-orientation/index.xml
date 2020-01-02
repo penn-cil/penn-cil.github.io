@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>grain orientation | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/tags/grain-orientation/</link>
-      <atom:link href="https://bdai6.github.io/tags/grain-orientation/index.xml" rel="self" type="application/rss+xml" />
+    <title>grain orientation | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/tags/grain-orientation/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/grain-orientation/index.xml" rel="self" type="application/rss+xml" />
     <description>grain orientation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title>grain orientation</title>
-      <link>https://bdai6.github.io/tags/grain-orientation/</link>
+      <link>https://www.seas.upenn.edu/~janeli/tags/grain-orientation/</link>
     </image>
     
     <item>
       <title>Theory and Experiments of the Impact of Work-Function Variability on Threshold Voltage Variability in MOS Devices</title>
-      <link>https://bdai6.github.io/publication/zhang-2012-ted/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/zhang-2012-ted/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/zhang-2012-ted/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/zhang-2012-ted/</guid>
       <description></description>
     </item>
     

@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>graph | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/tags/graph/</link>
-      <atom:link href="https://bdai6.github.io/tags/graph/index.xml" rel="self" type="application/rss+xml" />
+    <title>graph | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/tags/graph/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/graph/index.xml" rel="self" type="application/rss+xml" />
     <description>graph</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Aug 2019 16:02:06 -0500</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title>graph</title>
-      <link>https://bdai6.github.io/tags/graph/</link>
+      <link>https://www.seas.upenn.edu/~janeli/tags/graph/</link>
     </image>
     
     <item>
       <title>Two Dimensional Associative Processor (2D AP)</title>
-      <link>https://bdai6.github.io/project/two-d-ap/</link>
+      <link>https://www.seas.upenn.edu/~janeli/project/two-d-ap/</link>
       <pubDate>Fri, 16 Aug 2019 16:00:10 -0500</pubDate>
-      <guid>https://bdai6.github.io/project/two-d-ap/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/project/two-d-ap/</guid>
       <description>&lt;p&gt;The research project, titled &amp;ldquo;&lt;em&gt;Associative In-Memory Graph Processing Paradigm: Towards Tera-TEPS Graph Traversal In a Box&lt;/em&gt;&amp;rdquo;, won the &lt;strong&gt;NSF CAREER Award&lt;/strong&gt; in 2018. In this research, we developed a radically new computing paradigm, namely two-dimensional associative processing (2D AP) to further advance our previous FPGA-based graph processing architectures and fundamentally address their limitations. Mathematically, 2D AP is a new general-purpose computing model that exploits an extra dimension of parallelism (both intra-word and inter-word parallelism) to accelerate computation as compared with traditional AP which only exploit inter-word parallelism. It is particularly beneficial for massive-scale graph processing. For the first time, we provide a theoretical proof that 2D AP is inherently more efficient as measured by &amp;ldquo;&lt;em&gt;architecturally determined complexity&lt;/em&gt;&amp;rdquo; in runtime/area/energy than both von Neumann architecture and traditional AP paradigm in performing graph computation. We also provide detailed micro-architectures and circuits to best implement the proposed computing model, with domain-special language support. A preliminary published version of 2D AP [&lt;a href=&#34;khoram-2018-cal&#34; target=&#34;_blank&#34;&gt;Khoram2018CAL&lt;/a&gt;] was recognized as &lt;strong&gt;best of CAL&lt;/strong&gt; (IEEE Computer Architecture Letters) in 2018.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Large Scale Graph Analytics</title>
-      <link>https://bdai6.github.io/project/large-graph/</link>
+      <link>https://www.seas.upenn.edu/~janeli/project/large-graph/</link>
       <pubDate>Fri, 16 Aug 2019 16:02:06 -0500</pubDate>
-      <guid>https://bdai6.github.io/project/large-graph/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/project/large-graph/</guid>
       <description>&lt;p&gt;Extremely large, sparse graphs with billions of nodes and hundreds of billions of edges arise in many important problem domains ranging from social science, bioinformatics, to video content analysis and search engines. In response to the increasingly larger and more diverse graphs, and the critical need of analyzing them, we focus on &lt;em&gt;large scale graph analytics&lt;/em&gt;, an essential class of big data analysis, to explore the comprehensive relationship among a vast collection of interconnected entities. However, it is challenging for existing computer systems to process the massive-scale real-world graphs, not only due to their large memory footprint, but also that most graph algorithms entail irregular memory access patterns and a low compute-to-memory access ratio.&lt;/p&gt;
 
-&lt;p&gt;In this research, we invented &amp;ldquo;&lt;em&gt;degree-aware&lt;/em&gt;&amp;rdquo; hardware/software techniques to improve graph processing efficiency. Our research is built atop a key insight that we obtained from architecture-independent algorithm analysis, which has not been revealed in prior work. More specifically, we identified that a key challenge in processing massive-scale graphs is the redundant graph computations caused by the presence of high-degree vertices which not only increase the total amount of computations but also incur unnecessary random data access. To address this challenge, we developed variants of graph processing systems on an FPGA-HMC platform [&lt;a href=&#34;https://bdai6.github.io/publication/zhang-2018-fpga&#34;&gt;Zhang2018FPGA-Graph&lt;/a&gt;, &lt;a href=&#34;https://bdai6.github.io/publication/khoram-2018-fpga&#34;&gt;Khoram2018FPGA&lt;/a&gt;, &lt;a href=&#34;https://bdai6.github.io/publication/zhang-2017-fpga-bfs&#34;&gt;Zhang2017FPGA-BFS&lt;/a&gt;]. For the first time, we leverage the inherent graph property i.e. vertex degree to co-optimize algorithm and hardware architecture. In particular, the unique contributions we made include two algorithm optimization techniques: degree-aware adjacency list reordering and degree-aware vertex index sorting. The former reduces the number of redundant graph computations, while the latter creates a strong correlation between vertex index and data access frequency, which can be effectively applied to guide the hardware design. Further, by leveraging the strong correlation between vertex index and data access frequency created by degree-aware vertex index sorting, we developed two platform-dependent hardware optimization techniques, namely degree-aware data placement and degree-aware adjacency list compression. These two techniques together substantially reduce the amount of external memory access. Finally, we completed the full system design on an FPGA-HMC platform to verify the effectiveness of these techniques. Our implementation achieved the highest performance (45.8 billion traversed edges per second) among existing FPGA-based graph processing systems and was ranked &lt;strong&gt;No. 1&lt;/strong&gt; on &lt;a href=&#34;http://graph500.org/?page_id=724&#34; target=&#34;_blank&#34;&gt;GreenGraph500 list&lt;/a&gt;.
-&lt;img src=&#34;https://bdai6.github.io/img/GreenGraph500.png&#34; alt=&#34;Green Graph500&#34; title=&#34;Green Graph500&#34; /&gt;&lt;em&gt;Green Graph500 (updated June 19, 2019)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In this research, we invented &amp;ldquo;&lt;em&gt;degree-aware&lt;/em&gt;&amp;rdquo; hardware/software techniques to improve graph processing efficiency. Our research is built atop a key insight that we obtained from architecture-independent algorithm analysis, which has not been revealed in prior work. More specifically, we identified that a key challenge in processing massive-scale graphs is the redundant graph computations caused by the presence of high-degree vertices which not only increase the total amount of computations but also incur unnecessary random data access. To address this challenge, we developed variants of graph processing systems on an FPGA-HMC platform [&lt;a href=&#34;https://www.seas.upenn.edu/~janeli/publication/zhang-2018-fpga&#34;&gt;Zhang2018FPGA-Graph&lt;/a&gt;, &lt;a href=&#34;https://www.seas.upenn.edu/~janeli/publication/khoram-2018-fpga&#34;&gt;Khoram2018FPGA&lt;/a&gt;, &lt;a href=&#34;https://www.seas.upenn.edu/~janeli/publication/zhang-2017-fpga-bfs&#34;&gt;Zhang2017FPGA-BFS&lt;/a&gt;]. For the first time, we leverage the inherent graph property i.e. vertex degree to co-optimize algorithm and hardware architecture. In particular, the unique contributions we made include two algorithm optimization techniques: degree-aware adjacency list reordering and degree-aware vertex index sorting. The former reduces the number of redundant graph computations, while the latter creates a strong correlation between vertex index and data access frequency, which can be effectively applied to guide the hardware design. Further, by leveraging the strong correlation between vertex index and data access frequency created by degree-aware vertex index sorting, we developed two platform-dependent hardware optimization techniques, namely degree-aware data placement and degree-aware adjacency list compression. These two techniques together substantially reduce the amount of external memory access. Finally, we completed the full system design on an FPGA-HMC platform to verify the effectiveness of these techniques. Our implementation achieved the highest performance (45.8 billion traversed edges per second) among existing FPGA-based graph processing systems and was ranked &lt;strong&gt;No. 1&lt;/strong&gt; on &lt;a href=&#34;http://graph500.org/?page_id=724&#34; target=&#34;_blank&#34;&gt;GreenGraph500 list&lt;/a&gt;.
+&lt;img src=&#34;https://www.seas.upenn.edu/~janeli/img/GreenGraph500.png&#34; alt=&#34;Green Graph500&#34; title=&#34;Green Graph500&#34; /&gt;&lt;em&gt;Green Graph500 (updated June 19, 2019)&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Our graph analytics system ranked No. 1 on GreenGraph500</title>
-      <link>https://bdai6.github.io/post/greengraph5000/</link>
+      <link>https://www.seas.upenn.edu/~janeli/post/greengraph5000/</link>
       <pubDate>Mon, 01 Jul 2019 11:44:36 -0500</pubDate>
-      <guid>https://bdai6.github.io/post/greengraph5000/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/post/greengraph5000/</guid>
       <description>&lt;p&gt;Our FPGA-based scalable graph analytics system is ranked No. 1 on the latest &lt;a href=&#34;http://graph500.org/?page_id=724&#34; target=&#34;_blank&#34;&gt;GreenGraph500 list&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

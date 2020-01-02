@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>memory management | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/tags/memory-management/</link>
-      <atom:link href="https://bdai6.github.io/tags/memory-management/index.xml" rel="self" type="application/rss+xml" />
+    <title>memory management | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/tags/memory-management/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/memory-management/index.xml" rel="self" type="application/rss+xml" />
     <description>memory management</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 Sep 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title>memory management</title>
-      <link>https://bdai6.github.io/tags/memory-management/</link>
+      <link>https://www.seas.upenn.edu/~janeli/tags/memory-management/</link>
     </image>
     
     <item>
       <title>A case for small row buffers in non-volatile main memories</title>
-      <link>https://bdai6.github.io/publication/meza-2012-iccd/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/meza-2012-iccd/</link>
       <pubDate>Sun, 30 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/meza-2012-iccd/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/meza-2012-iccd/</guid>
       <description>&lt;p&gt;(Acceptance rate: underline25%, 61 out of 241)&lt;/p&gt;
 </description>
     </item>

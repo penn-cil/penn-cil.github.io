@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stephen J Wright | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/authors/stephen-j-wright/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/authors/stephen-j-wright/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stephen J Wright</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <title>Stephen J Wright</title>
+      <link>https://www.seas.upenn.edu/~janeli/authors/stephen-j-wright/</link>
+    </image>
+    
+    <item>
+      <title>Interleaved Composite Quantization for High-Dimensional Similarity Search</title>
+      <link>https://www.seas.upenn.edu/~janeli/publication/khoram-2019-interleaved/</link>
+      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/khoram-2019-interleaved/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

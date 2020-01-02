@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>4 | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/publication_types/4/</link>
-      <atom:link href="https://bdai6.github.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    <title>4 | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/publication_types/4/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
     <description>4</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title>4</title>
-      <link>https://bdai6.github.io/publication_types/4/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication_types/4/</link>
     </image>
     
     <item>
       <title>Evaluating Row Buffer Locality in Future Non-Volatile Main Memories</title>
-      <link>https://bdai6.github.io/publication/meza-2012-report-nvm/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/meza-2012-report-nvm/</link>
       <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/meza-2012-report-nvm/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/meza-2012-report-nvm/</guid>
       <description>&lt;p&gt;SAFARI Technical Report&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Body History Study on 12S eDRAM Sensing Operation</title>
-      <link>https://bdai6.github.io/publication/li-2008-report-edram/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/li-2008-report-edram/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/li-2008-report-edram/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2008-report-edram/</guid>
       <description></description>
     </item>
     

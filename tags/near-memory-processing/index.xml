@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title> near-memory processing | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/tags/near-memory-processing/</link>
-      <atom:link href="https://bdai6.github.io/tags/near-memory-processing/index.xml" rel="self" type="application/rss+xml" />
+    <title> near-memory processing | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/tags/near-memory-processing/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/near-memory-processing/index.xml" rel="self" type="application/rss+xml" />
     <description> near-memory processing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Mar 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title> near-memory processing</title>
-      <link>https://bdai6.github.io/tags/near-memory-processing/</link>
+      <link>https://www.seas.upenn.edu/~janeli/tags/near-memory-processing/</link>
     </image>
     
     <item>
       <title>Challenges and Opportunities: From Near-memory Computing to In-memory Computing (INVITED)</title>
-      <link>https://bdai6.github.io/publication/khoram-2017-ispd/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/khoram-2017-ispd/</link>
       <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/khoram-2017-ispd/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/khoram-2017-ispd/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline35%)&lt;/p&gt;
 </description>
     </item>

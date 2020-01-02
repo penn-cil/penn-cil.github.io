@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>switches | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/tags/switches/</link>
-      <atom:link href="https://bdai6.github.io/tags/switches/index.xml" rel="self" type="application/rss+xml" />
+    <title>switches | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/tags/switches/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/switches/index.xml" rel="self" type="application/rss+xml" />
     <description>switches</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Nov 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title>switches</title>
-      <link>https://bdai6.github.io/tags/switches/</link>
+      <link>https://www.seas.upenn.edu/~janeli/tags/switches/</link>
     </image>
     
     <item>
       <title>RRAM-based reconfigurable in-memory computing architecture with hybrid routing</title>
-      <link>https://bdai6.github.io/publication/zha-2017-iccad/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2017-iccad/</link>
       <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/zha-2017-iccad/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2017-iccad/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline26%, 105 out of 399)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Recent progress in RRAM technology: From compact models to applications (INVITED)</title>
-      <link>https://bdai6.github.io/publication/zha-2017-cstic/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2017-cstic/</link>
       <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/zha-2017-cstic/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2017-cstic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A compact model for RRAM including random telegraph noise</title>
-      <link>https://bdai6.github.io/publication/guan-2016-irps/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/guan-2016-irps/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/guan-2016-irps/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/guan-2016-irps/</guid>
       <description></description>
     </item>
     

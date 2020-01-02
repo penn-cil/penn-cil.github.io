@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>circuit reliability | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/tags/circuit-reliability/</link>
-      <atom:link href="https://bdai6.github.io/tags/circuit-reliability/index.xml" rel="self" type="application/rss+xml" />
+    <title>circuit reliability | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/tags/circuit-reliability/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/circuit-reliability/index.xml" rel="self" type="application/rss+xml" />
     <description>circuit reliability</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title>circuit reliability</title>
-      <link>https://bdai6.github.io/tags/circuit-reliability/</link>
+      <link>https://www.seas.upenn.edu/~janeli/tags/circuit-reliability/</link>
     </image>
     
     <item>
       <title>Resistance drift in phase change memory (INVITED)</title>
-      <link>https://bdai6.github.io/publication/li-2012-irps/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/li-2012-irps/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/li-2012-irps/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2012-irps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The impact of melting during reset operation on the reliability of phase change memory</title>
-      <link>https://bdai6.github.io/publication/du-2012-irps/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/du-2012-irps/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/du-2012-irps/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/du-2012-irps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variation Estimation and Compensation Technique in Scaled LTPS TFT Circuits for Low-Power Low-Cost Applications</title>
-      <link>https://bdai6.github.io/publication/li-2009-tcad/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/li-2009-tcad/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/li-2009-tcad/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2009-tcad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variation Estimation and Compensation Technique in Scaled LTPS TFT Circuits for Low-Power Low-Cost Applications</title>
-      <link>https://bdai6.github.io/publication/li-2009-tcad/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/li-2009-tcad/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/li-2009-tcad/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2009-tcad/</guid>
       <description></description>
     </item>
     

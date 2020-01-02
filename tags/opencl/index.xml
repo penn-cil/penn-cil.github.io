@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title> opencl | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/tags/opencl/</link>
-      <atom:link href="https://bdai6.github.io/tags/opencl/index.xml" rel="self" type="application/rss+xml" />
+    <title> opencl | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/tags/opencl/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/opencl/index.xml" rel="self" type="application/rss+xml" />
     <description> opencl</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Feb 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title> opencl</title>
-      <link>https://bdai6.github.io/tags/opencl/</link>
+      <link>https://www.seas.upenn.edu/~janeli/tags/opencl/</link>
     </image>
     
     <item>
       <title>Improving the Performance of OpenCL-based FPGA Accelerator for Convolutional Neural Network</title>
-      <link>https://bdai6.github.io/publication/zhang-2017-fpga-cnn/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/zhang-2017-fpga-cnn/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/zhang-2017-fpga-cnn/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/zhang-2017-fpga-cnn/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline25%, 25 out of 101)&lt;/p&gt;
 </description>
     </item>

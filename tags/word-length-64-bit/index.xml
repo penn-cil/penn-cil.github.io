@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>word length 64 bit | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/tags/word-length-64-bit/</link>
-      <atom:link href="https://bdai6.github.io/tags/word-length-64-bit/index.xml" rel="self" type="application/rss+xml" />
+    <title>word length 64 bit | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/tags/word-length-64-bit/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/word-length-64-bit/index.xml" rel="self" type="application/rss+xml" />
     <description>word length 64 bit</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2010 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title>word length 64 bit</title>
-      <link>https://bdai6.github.io/tags/word-length-64-bit/</link>
+      <link>https://www.seas.upenn.edu/~janeli/tags/word-length-64-bit/</link>
     </image>
     
     <item>
       <title>Variable-Latency Adder (VL-Adder) Designs for Low Power and NBTI Tolerance</title>
-      <link>https://bdai6.github.io/publication/chen-2010-tvlsi/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/chen-2010-tvlsi/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/chen-2010-tvlsi/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/chen-2010-tvlsi/</guid>
       <description></description>
     </item>
     

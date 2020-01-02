@@ -21,7 +21,7 @@
   
   
 
-  <meta name="author" content="Jialiang Zhang">
+  <meta name="author" content="Jing Li">
 
   
   
@@ -31,7 +31,7 @@
   <meta name="description" content="DRAM-based main memories have read operations that destroy the read data, and as a result, must buffer large amounts of data on each array access to keep chip costs low. Unfortunately, system-level trends such as increased memory contention in multi-core architectures and data mapping schemes that improve memory parallelism lead to only a small amount of the buffered data to be accessed. This makes buffering large amounts of data on every memory array access energy-inefficient; yet organizing DRAM chips to buffer small amounts of data is costly, as others have shown. Emerging non-volatile memories (NVMs) such as PCM, STT-RAM, and RRAM, however, do not have destructive read operations, opening up opportunities for employing small row buffers without incurring additional area penalty and/or design complexity. In this work, we discuss and evaluate architectural changes to enable small row buffers at a low cost in NVMs. We find that on a multi-core system, reducing the row buffer size can greatly reduce main memory dynamic energy compared to a DRAM baseline with large row sizes, without greatly affecting endurance, and for some NVM technologies, leads to improved performance.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://bdai6.github.io/publication/meza-2012-iccd/">
+  <link rel="alternate" hreflang="en-us" href="https://www.seas.upenn.edu/~janeli/publication/meza-2012-iccd/">
 
   
 
@@ -82,7 +82,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.dd629241ea9333c62c071f4a25f829ff.css">
+  <link rel="stylesheet" href="/~janeli/css/academic.min.dd629241ea9333c62c071f4a25f829ff.css">
 
   
     
@@ -93,7 +93,7 @@
     
     
     
-    <link rel="stylesheet" href="/css/academic.c271459694f356ca716e4e62b3b71072.css">
+    <link rel="stylesheet" href="/~janeli/css/academic.c271459694f356ca716e4e62b3b71072.css">
   
 
   
@@ -102,11 +102,11 @@
 
   
 
-  <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+  <link rel="manifest" href="/~janeli/index.webmanifest">
+  <link rel="icon" type="image/png" href="/~janeli/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/~janeli/img/icon-192.png">
 
-  <link rel="canonical" href="https://bdai6.github.io/publication/meza-2012-iccd/">
+  <link rel="canonical" href="https://www.seas.upenn.edu/~janeli/publication/meza-2012-iccd/">
 
   
   
@@ -117,11 +117,11 @@
   
   <meta property="twitter:card" content="summary_large_image">
   
-  <meta property="og:site_name" content="Wisconsin Computational Intelligence Lab">
-  <meta property="og:url" content="https://bdai6.github.io/publication/meza-2012-iccd/">
-  <meta property="og:title" content="A case for small row buffers in non-volatile main memories | Wisconsin Computational Intelligence Lab">
-  <meta property="og:description" content="DRAM-based main memories have read operations that destroy the read data, and as a result, must buffer large amounts of data on each array access to keep chip costs low. Unfortunately, system-level trends such as increased memory contention in multi-core architectures and data mapping schemes that improve memory parallelism lead to only a small amount of the buffered data to be accessed. This makes buffering large amounts of data on every memory array access energy-inefficient; yet organizing DRAM chips to buffer small amounts of data is costly, as others have shown. Emerging non-volatile memories (NVMs) such as PCM, STT-RAM, and RRAM, however, do not have destructive read operations, opening up opportunities for employing small row buffers without incurring additional area penalty and/or design complexity. In this work, we discuss and evaluate architectural changes to enable small row buffers at a low cost in NVMs. We find that on a multi-core system, reducing the row buffer size can greatly reduce main memory dynamic energy compared to a DRAM baseline with large row sizes, without greatly affecting endurance, and for some NVM technologies, leads to improved performance."><meta property="og:image" content="https://bdai6.github.io/img/logo.png">
-  <meta property="twitter:image" content="https://bdai6.github.io/img/logo.png"><meta property="og:locale" content="en-us">
+  <meta property="og:site_name" content="Penn Computational Intelligence Lab">
+  <meta property="og:url" content="https://www.seas.upenn.edu/~janeli/publication/meza-2012-iccd/">
+  <meta property="og:title" content="A case for small row buffers in non-volatile main memories | Penn Computational Intelligence Lab">
+  <meta property="og:description" content="DRAM-based main memories have read operations that destroy the read data, and as a result, must buffer large amounts of data on each array access to keep chip costs low. Unfortunately, system-level trends such as increased memory contention in multi-core architectures and data mapping schemes that improve memory parallelism lead to only a small amount of the buffered data to be accessed. This makes buffering large amounts of data on every memory array access energy-inefficient; yet organizing DRAM chips to buffer small amounts of data is costly, as others have shown. Emerging non-volatile memories (NVMs) such as PCM, STT-RAM, and RRAM, however, do not have destructive read operations, opening up opportunities for employing small row buffers without incurring additional area penalty and/or design complexity. In this work, we discuss and evaluate architectural changes to enable small row buffers at a low cost in NVMs. We find that on a multi-core system, reducing the row buffer size can greatly reduce main memory dynamic energy compared to a DRAM baseline with large row sizes, without greatly affecting endurance, and for some NVM technologies, leads to improved performance."><meta property="og:image" content="https://www.seas.upenn.edu/~janeli/img/logo.png">
+  <meta property="twitter:image" content="https://www.seas.upenn.edu/~janeli/img/logo.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2012-09-30T00:00:00&#43;00:00">
@@ -138,7 +138,7 @@
 
 
 
-  <title>A case for small row buffers in non-volatile main memories | Wisconsin Computational Intelligence Lab</title>
+  <title>A case for small row buffers in non-volatile main memories | Penn Computational Intelligence Lab</title>
 
 </head>
 
@@ -181,7 +181,7 @@
   <div class="container">
 
     
-      <a class="navbar-brand" href="/"><img src="/img/logo.png" alt="Wisconsin Computational Intelligence Lab"></a>
+      <a class="navbar-brand" href="/~janeli/"><img src="/~janeli/img/logo.png" alt="Penn Computational Intelligence Lab"></a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -218,7 +218,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#top"><span>Home</span></a>
+          <a class="nav-link " href="/~janeli/#top"><span>Home</span></a>
         </li>
 
         
@@ -247,7 +247,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>News</span></a>
+          <a class="nav-link " href="/~janeli/#posts"><span>News</span></a>
         </li>
 
         
@@ -276,7 +276,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#about"><span>PI</span></a>
+          <a class="nav-link " href="/~janeli/#about"><span>PI</span></a>
         </li>
 
         
@@ -305,7 +305,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#people"><span>The Lab</span></a>
+          <a class="nav-link " href="/~janeli/#people"><span>The Lab</span></a>
         </li>
 
         
@@ -334,7 +334,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#research"><span>Research</span></a>
+          <a class="nav-link " href="/~janeli/#research"><span>Research</span></a>
         </li>
 
         
@@ -363,7 +363,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          <a class="nav-link " href="/~janeli/#projects"><span>Projects</span></a>
         </li>
 
         
@@ -392,7 +392,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+          <a class="nav-link " href="/~janeli/#publications"><span>Publications</span></a>
         </li>
 
         
@@ -421,7 +421,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#talks"><span>Talks</span></a>
+          <a class="nav-link " href="/~janeli/#talks"><span>Talks</span></a>
         </li>
 
         
@@ -432,8 +432,6 @@
         
         
         
-          
-        
 
         
         
@@ -443,36 +441,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/courses/"><span>Courses & Notes</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#sponsors"><span>Sponsors</span></a>
+          <a class="nav-link  active" href="/~janeli/"><span>Courses & Notes</span></a>
         </li>
 
         
@@ -501,7 +470,36 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          <a class="nav-link " href="/~janeli/#sponsors"><span>Sponsors</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/~janeli/#contact"><span>Contact & Openings</span></a>
         </li>
 
         
@@ -579,7 +577,7 @@
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/justin-meza/">Justin Meza</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jing-li/">Jing Li</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/onur-mutlu/">Onur Mutlu</a></span>
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/~janeli/authors/justin-meza/">Justin Meza</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/~janeli/authors/jing-li/">Jing Li</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/~janeli/authors/onur-mutlu/">Onur Mutlu</a></span>
 
   </div>
   
@@ -619,7 +617,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://bdai6.github.io/publication/meza-2012-iccd/&amp;text=A%20case%20for%20small%20row%20buffers%20in%20non-volatile%20main%20memories" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://www.seas.upenn.edu/~janeli/publication/meza-2012-iccd/&amp;text=A%20case%20for%20small%20row%20buffers%20in%20non-volatile%20main%20memories" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -632,7 +630,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://bdai6.github.io/publication/meza-2012-iccd/&amp;t=A%20case%20for%20small%20row%20buffers%20in%20non-volatile%20main%20memories" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://www.seas.upenn.edu/~janeli/publication/meza-2012-iccd/&amp;t=A%20case%20for%20small%20row%20buffers%20in%20non-volatile%20main%20memories" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -645,7 +643,7 @@
       
       
       <li>
-        <a href="mailto:?subject=A%20case%20for%20small%20row%20buffers%20in%20non-volatile%20main%20memories&amp;body=https://bdai6.github.io/publication/meza-2012-iccd/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=A%20case%20for%20small%20row%20buffers%20in%20non-volatile%20main%20memories&amp;body=https://www.seas.upenn.edu/~janeli/publication/meza-2012-iccd/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -658,7 +656,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://bdai6.github.io/publication/meza-2012-iccd/&amp;title=A%20case%20for%20small%20row%20buffers%20in%20non-volatile%20main%20memories" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://www.seas.upenn.edu/~janeli/publication/meza-2012-iccd/&amp;title=A%20case%20for%20small%20row%20buffers%20in%20non-volatile%20main%20memories" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -671,7 +669,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=A%20case%20for%20small%20row%20buffers%20in%20non-volatile%20main%20memories%20https://bdai6.github.io/publication/meza-2012-iccd/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=A%20case%20for%20small%20row%20buffers%20in%20non-volatile%20main%20memories%20https://www.seas.upenn.edu/~janeli/publication/meza-2012-iccd/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -684,7 +682,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://bdai6.github.io/publication/meza-2012-iccd/&amp;title=A%20case%20for%20small%20row%20buffers%20in%20non-volatile%20main%20memories" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://www.seas.upenn.edu/~janeli/publication/meza-2012-iccd/&amp;title=A%20case%20for%20small%20row%20buffers%20in%20non-volatile%20main%20memories" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -731,7 +729,7 @@
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/meza-2012-iccd/cite.bib">
+        data-filename="/~janeli/publication/meza-2012-iccd/cite.bib">
   Cite
 </button>
 
@@ -777,7 +775,7 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#1">
+            <a href="/~janeli/publication/#1">
               Conference paper
             </a>
             
@@ -812,59 +810,59 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/conference/">conference</a>
+  <a class="badge badge-light" href="/~janeli/tags/conference/">conference</a>
   
-  <a class="badge badge-light" href="/tags/dram-chips/"> dram chips</a>
+  <a class="badge badge-light" href="/~janeli/tags/dram-chips/"> dram chips</a>
   
-  <a class="badge badge-light" href="/tags/buffer-circuits/">buffer circuits</a>
+  <a class="badge badge-light" href="/~janeli/tags/buffer-circuits/">buffer circuits</a>
   
-  <a class="badge badge-light" href="/tags/multiprocessing-systems/">multiprocessing systems</a>
+  <a class="badge badge-light" href="/~janeli/tags/multiprocessing-systems/">multiprocessing systems</a>
   
-  <a class="badge badge-light" href="/tags/dram-baseline/">dram baseline</a>
+  <a class="badge badge-light" href="/~janeli/tags/dram-baseline/">dram baseline</a>
   
-  <a class="badge badge-light" href="/tags/dram-chips/">dram chips</a>
+  <a class="badge badge-light" href="/~janeli/tags/dram-chips/">dram chips</a>
   
-  <a class="badge badge-light" href="/tags/dram-based-main-memories/">dram-based main memories</a>
+  <a class="badge badge-light" href="/~janeli/tags/dram-based-main-memories/">dram-based main memories</a>
   
-  <a class="badge badge-light" href="/tags/nvm-technologies/">nvm technologies</a>
+  <a class="badge badge-light" href="/~janeli/tags/nvm-technologies/">nvm technologies</a>
   
-  <a class="badge badge-light" href="/tags/array-access/">array access</a>
+  <a class="badge badge-light" href="/~janeli/tags/array-access/">array access</a>
   
-  <a class="badge badge-light" href="/tags/buffered-data/">buffered data</a>
+  <a class="badge badge-light" href="/~janeli/tags/buffered-data/">buffered data</a>
   
-  <a class="badge badge-light" href="/tags/chip-costs/">chip costs</a>
+  <a class="badge badge-light" href="/~janeli/tags/chip-costs/">chip costs</a>
   
-  <a class="badge badge-light" href="/tags/data-mapping-schemes/">data mapping schemes</a>
+  <a class="badge badge-light" href="/~janeli/tags/data-mapping-schemes/">data mapping schemes</a>
   
-  <a class="badge badge-light" href="/tags/main-memory-dynamic-energy/">main memory dynamic energy</a>
+  <a class="badge badge-light" href="/~janeli/tags/main-memory-dynamic-energy/">main memory dynamic energy</a>
   
-  <a class="badge badge-light" href="/tags/memory-array-access/">memory array access</a>
+  <a class="badge badge-light" href="/~janeli/tags/memory-array-access/">memory array access</a>
   
-  <a class="badge badge-light" href="/tags/memory-parallelism/">memory parallelism</a>
+  <a class="badge badge-light" href="/~janeli/tags/memory-parallelism/">memory parallelism</a>
   
-  <a class="badge badge-light" href="/tags/multicore-architectures/">multicore architectures</a>
+  <a class="badge badge-light" href="/~janeli/tags/multicore-architectures/">multicore architectures</a>
   
-  <a class="badge badge-light" href="/tags/nonvolatile-main-memories/">nonvolatile main memories</a>
+  <a class="badge badge-light" href="/~janeli/tags/nonvolatile-main-memories/">nonvolatile main memories</a>
   
-  <a class="badge badge-light" href="/tags/read-operations/">read operations</a>
+  <a class="badge badge-light" href="/~janeli/tags/read-operations/">read operations</a>
   
-  <a class="badge badge-light" href="/tags/row-buffer-size/">row buffer size</a>
+  <a class="badge badge-light" href="/~janeli/tags/row-buffer-size/">row buffer size</a>
   
-  <a class="badge badge-light" href="/tags/small-row-buffers/">small row buffers</a>
+  <a class="badge badge-light" href="/~janeli/tags/small-row-buffers/">small row buffers</a>
   
-  <a class="badge badge-light" href="/tags/system-level-trends/">system-level trends</a>
+  <a class="badge badge-light" href="/~janeli/tags/system-level-trends/">system-level trends</a>
   
-  <a class="badge badge-light" href="/tags/arrays/">arrays</a>
+  <a class="badge badge-light" href="/~janeli/tags/arrays/">arrays</a>
   
-  <a class="badge badge-light" href="/tags/memory-management/">memory management</a>
+  <a class="badge badge-light" href="/~janeli/tags/memory-management/">memory management</a>
   
-  <a class="badge badge-light" href="/tags/nonvolatile-memory/">nonvolatile memory</a>
+  <a class="badge badge-light" href="/~janeli/tags/nonvolatile-memory/">nonvolatile memory</a>
   
-  <a class="badge badge-light" href="/tags/organizations/">organizations</a>
+  <a class="badge badge-light" href="/~janeli/tags/organizations/">organizations</a>
   
-  <a class="badge badge-light" href="/tags/phase-change-materials/">phase change materials</a>
+  <a class="badge badge-light" href="/~janeli/tags/phase-change-materials/">phase change materials</a>
   
-  <a class="badge badge-light" href="/tags/random-access-memory/">random access memory</a>
+  <a class="badge badge-light" href="/~janeli/tags/random-access-memory/">random access memory</a>
   
 </div>
 
@@ -896,7 +894,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="/authors/justin-meza/"></a></h5>
+      <h5 class="card-title" itemprop="name"><a href="/~janeli/authors/justin-meza/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -954,7 +952,7 @@
     
     
     <script>
-      const search_index_filename = "/index.json";
+      const search_index_filename = "/~janeli/index.json";
       const i18n = {
         'placeholder': "Search...",
         'results': "results found",
@@ -1013,7 +1011,7 @@
     
     
     
-    <script src="/js/academic.min.16bbb3750feb7244c9bc409a5a4fe678.js"></script>
+    <script src="/~janeli/js/academic.min.16bbb3750feb7244c9bc409a5a4fe678.js"></script>
 
     
 

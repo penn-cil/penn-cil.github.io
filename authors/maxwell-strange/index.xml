@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/authors/maxwell-strange/</link>
-      <atom:link href="https://bdai6.github.io/authors/maxwell-strange/index.xml" rel="self" type="application/rss+xml" />
-    <description>Wisconsin Computational Intelligence Lab</description>
+    <title>Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/authors/maxwell-strange/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/authors/maxwell-strange/index.xml" rel="self" type="application/rss+xml" />
+    <description>Penn Computational Intelligence Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Feb 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
-      <title>Wisconsin Computational Intelligence Lab</title>
-      <link>https://bdai6.github.io/authors/maxwell-strange/</link>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
+      <title>Penn Computational Intelligence Lab</title>
+      <link>https://www.seas.upenn.edu/~janeli/authors/maxwell-strange/</link>
     </image>
     
     <item>
       <title>Accelerating  Graph  Analytics  By  Co-Optimizing  Storage  and  Access  on  an FPGA-HMC Platform</title>
-      <link>https://bdai6.github.io/publication/khoram-2018-fpga/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/khoram-2018-fpga/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/khoram-2018-fpga/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/khoram-2018-fpga/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline24%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Accelerating Large-Scale Graph Analytics with FPGA and HMC (Poster)</title>
-      <link>https://bdai6.github.io/publication/khoram-2017-fccm/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/khoram-2017-fccm/</link>
       <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/khoram-2017-fccm/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/khoram-2017-fccm/</guid>
       <description>&lt;p&gt;Acceptance rate: underline25%, 32 out of 128&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://bdai6.github.io/authors/maxwell-strange/</link>
+      <link>https://www.seas.upenn.edu/~janeli/authors/maxwell-strange/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/authors/maxwell-strange/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/authors/maxwell-strange/</guid>
       <description>&lt;p&gt;Maxwell Strange was an undergraduate student at the University of Wisconsin-Madison pursuing degrees in both Computer Engineering and Computer Science. At WiCIL, his current research interests included workload acceleration through software/hardware co-optimization as well as signals applications. He was the president of the IEEE student organization on campus as well.&lt;/p&gt;
 
 &lt;p&gt;Maxwell is now a PhD student at Electrical Engineering Department at Stanford University.&lt;/p&gt;

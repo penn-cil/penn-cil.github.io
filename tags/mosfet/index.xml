@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title> mosfet | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/tags/mosfet/</link>
-      <atom:link href="https://bdai6.github.io/tags/mosfet/index.xml" rel="self" type="application/rss+xml" />
+    <title> mosfet | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/tags/mosfet/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/mosfet/index.xml" rel="self" type="application/rss+xml" />
     <description> mosfet</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title> mosfet</title>
-      <link>https://bdai6.github.io/tags/mosfet/</link>
+      <link>https://www.seas.upenn.edu/~janeli/tags/mosfet/</link>
     </image>
     
     <item>
       <title>Theory and Experiments of the Impact of Work-Function Variability on Threshold Voltage Variability in MOS Devices</title>
-      <link>https://bdai6.github.io/publication/zhang-2012-ted/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/zhang-2012-ted/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/zhang-2012-ted/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/zhang-2012-ted/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theory and Experiments of the Impact of Work-Function Variability on Threshold Voltage Variability in MOS Devices</title>
-      <link>https://bdai6.github.io/publication/zhang-2012-ted/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/zhang-2012-ted/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/zhang-2012-ted/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/zhang-2012-ted/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Physical model of the impact of metal grain work function variability on emerging dual metal gate MOSFETs and its implication for SRAM reliability</title>
-      <link>https://bdai6.github.io/publication/zhang-2009-iedm/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/zhang-2009-iedm/</link>
       <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/zhang-2009-iedm/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/zhang-2009-iedm/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline33%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Variable-latency adder (VL-adder): new arithmetic circuit design practice to overcome NBTI</title>
-      <link>https://bdai6.github.io/publication/li-2007-islped/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/li-2007-islped/</link>
       <pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/li-2007-islped/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2007-islped/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline39%, 74 out of 192)&lt;/p&gt;
 </description>
     </item>

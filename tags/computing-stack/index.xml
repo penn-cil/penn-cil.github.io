@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>computing stack | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/tags/computing-stack/</link>
-      <atom:link href="https://bdai6.github.io/tags/computing-stack/index.xml" rel="self" type="application/rss+xml" />
+    <title>computing stack | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/tags/computing-stack/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/computing-stack/index.xml" rel="self" type="application/rss+xml" />
     <description>computing stack</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title>computing stack</title>
-      <link>https://bdai6.github.io/tags/computing-stack/</link>
+      <link>https://www.seas.upenn.edu/~janeli/tags/computing-stack/</link>
     </image>
     
     <item>
       <title>Enabling phase-change memory for data-centric computing: Technology, circuitand system (INVITED)</title>
-      <link>https://bdai6.github.io/publication/li-2015-iscas/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/li-2015-iscas/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/li-2015-iscas/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2015-iscas/</guid>
       <description></description>
     </item>
     

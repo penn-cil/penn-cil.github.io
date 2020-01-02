@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aditya Bansal | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/authors/aditya-bansal/</link>
-      <atom:link href="https://bdai6.github.io/authors/aditya-bansal/index.xml" rel="self" type="application/rss+xml" />
+    <title>Aditya Bansal | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/authors/aditya-bansal/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/authors/aditya-bansal/index.xml" rel="self" type="application/rss+xml" />
     <description>Aditya Bansal</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2008 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title>Aditya Bansal</title>
-      <link>https://bdai6.github.io/authors/aditya-bansal/</link>
+      <link>https://www.seas.upenn.edu/~janeli/authors/aditya-bansal/</link>
     </image>
     
     <item>
       <title>An Alternate Design Paradigm for Low-power, Low-cost, Testable Hybrid Systems Using Scaled LTPS TFTs (INVITED)</title>
-      <link>https://bdai6.github.io/publication/li-2008-jetc/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/li-2008-jetc/</link>
       <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/li-2008-jetc/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2008-jetc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poly-Si Thin-Film Transistors: An Efficient and Low-Cost Option for Digital Operation</title>
-      <link>https://bdai6.github.io/publication/li-2007-ted/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/li-2007-ted/</link>
       <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/li-2007-ted/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2007-ted/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High Performance and Low Power Electronics on Flexible Substrate</title>
-      <link>https://bdai6.github.io/publication/li-2007-dac/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/li-2007-dac/</link>
       <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/li-2007-dac/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2007-dac/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline13%)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Exploring Low Temperature Poly-Si for Low Cost and Low Power Sub-micron Digital Operation</title>
-      <link>https://bdai6.github.io/publication/li-2006-drc/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/li-2006-drc/</link>
       <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/li-2006-drc/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2006-drc/</guid>
       <description></description>
     </item>
     

@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MEG | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/tags/meg/</link>
-      <atom:link href="https://bdai6.github.io/tags/meg/index.xml" rel="self" type="application/rss+xml" />
+    <title>MEG | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/tags/meg/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/meg/index.xml" rel="self" type="application/rss+xml" />
     <description>MEG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title>MEG</title>
-      <link>https://bdai6.github.io/tags/meg/</link>
+      <link>https://www.seas.upenn.edu/~janeli/tags/meg/</link>
     </image>
     
     <item>
       <title>MEG: A RISCV-based system simulation infrastructure for exploring memory optimization using FPGAs and Hybrid Memory Cube (Best Paper Nominee)</title>
-      <link>https://bdai6.github.io/publication/zhang-2019-fccm/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/zhang-2019-fccm/</link>
       <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/zhang-2019-fccm/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/zhang-2019-fccm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Our RISC-V paper got accepted at FCCM’19 and nominated Best Paper</title>
-      <link>https://bdai6.github.io/post/meg-fccm-2019/</link>
+      <link>https://www.seas.upenn.edu/~janeli/post/meg-fccm-2019/</link>
       <pubDate>Sun, 03 Mar 2019 16:54:36 -0500</pubDate>
-      <guid>https://bdai6.github.io/post/meg-fccm-2019/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/post/meg-fccm-2019/</guid>
       <description></description>
     </item>
     

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>variation-aware circuit design | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/tags/variation-aware-circuit-design/</link>
-      <atom:link href="https://bdai6.github.io/tags/variation-aware-circuit-design/index.xml" rel="self" type="application/rss+xml" />
+    <title>variation-aware circuit design | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/tags/variation-aware-circuit-design/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/variation-aware-circuit-design/index.xml" rel="self" type="application/rss+xml" />
     <description>variation-aware circuit design</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 May 2007 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title>variation-aware circuit design</title>
-      <link>https://bdai6.github.io/tags/variation-aware-circuit-design/</link>
+      <link>https://www.seas.upenn.edu/~janeli/tags/variation-aware-circuit-design/</link>
     </image>
     
     <item>
       <title>Novel Variation-Aware Circuit Design of Scaled LTPS TFT for Ultra low Power, Low-Cost Applications</title>
-      <link>https://bdai6.github.io/publication/li-2007-icicdt/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/li-2007-icicdt/</link>
       <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/li-2007-icicdt/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2007-icicdt/</guid>
       <description></description>
     </item>
     

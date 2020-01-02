@@ -1,53 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FPGA | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/tags/fpga/</link>
-      <atom:link href="https://bdai6.github.io/tags/fpga/index.xml" rel="self" type="application/rss+xml" />
+    <title>FPGA | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/tags/fpga/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/fpga/index.xml" rel="self" type="application/rss+xml" />
     <description>FPGA</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Aug 2019 15:58:48 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Dec 2019 22:48:15 -0600</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title>FPGA</title>
-      <link>https://bdai6.github.io/tags/fpga/</link>
+      <link>https://www.seas.upenn.edu/~janeli/tags/fpga/</link>
     </image>
     
     <item>
-      <title>Deep Learning and AI</title>
-      <link>https://bdai6.github.io/project/deep-learning/</link>
-      <pubDate>Fri, 16 Aug 2019 15:57:51 -0500</pubDate>
-      <guid>https://bdai6.github.io/project/deep-learning/</guid>
-      <description>&lt;p&gt;Deep neural networks (DNNs) deliver impressive results for a variety of challenging tasks in computer vision, speech recognition, and natural language processing, at the cost of higher computational complexity and larger model size. To reduce the load of taxing DNN infrastructures, a number of FPGA-based DNN accelerators have been proposed via new micro-architectures, data ow optimizations, or algorithmic transformation. Due to the extremely large design space, it is challenging to attain good insights on how to design optimal accelerators on a target FPGA.&lt;/p&gt;
-
-&lt;p&gt;In this research, we take an &lt;em&gt;alternative, and more principled approach to guide accelerator architecture design and optimization&lt;/em&gt;. We borrow the insights from the roofline model and further improve it by taking both on-chip and off-chip memory bandwidth into consideration. We apply the model to quantify the difference between available resources provided by native hardware (FPGA devices) and actual resources demanded by the application (CNN classification kernel). To tackle the problem, we develop a number of hardware/software techniques and implement them on FPGA [&lt;a href=&#34;https://bdai6.github.io/publication/zhang-2017-fpga-cnn&#34;&gt;Zhang2017FPGA-CNN&lt;/a&gt;]. The demonstrated accelerator was recognized as the highest performance and the most energy efficient accelerator for dense convolutional neural network (CNN) compared to the state-of-the-art FPGA-based designs.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>MEG</title>
-      <link>https://bdai6.github.io/project/meg/</link>
+      <link>https://www.seas.upenn.edu/~janeli/project/meg/</link>
       <pubDate>Fri, 16 Aug 2019 15:58:48 -0500</pubDate>
-      <guid>https://bdai6.github.io/project/meg/</guid>
-      <description>&lt;p&gt;Hardware-software co-design studies targeting next-generation computer systems that are equipped with emerging memories (HBM/HMC, NVM, etc.) are fundamentally hampered by a lack of scalable, performant and accurate simulation platform. Using software simulator is fundamentally bottlenecked by the low simulation speed and low fidelity, making it impractical to run realistic software stack. Such a challenge has limited effective cross-stack innovations (across computer architecture, OS, compiler, machine learning, and domain sciences). Past efforts have largely focused on simulation infrastructure for processor cores with highly simplified models of the memory subsystem. As a key contribution to the community (including SRC JUMP centers, broad academia and industry) to better drive cross-stack memory system research, we have been developing &lt;strong&gt;MEG&lt;/strong&gt; [&lt;a href=&#34;https://bdai6.github.io/publication/zhang-s019-fccm&#34;&gt;Zhang2019FCCM&lt;/a&gt;] – &lt;em&gt;an open source FPGA- based simulation platform that enables cycle-exact micro-architecture simulation for computer systems with a special focus on memory subsystem&lt;/em&gt; (heterogeneous memory, near/in-memory acceleration). In MEG, we combine silicon- proven RTL design of RISC-V cores with configurable heterogeneous memory subsystems (HMC/HBM/NVM). It is capable of running realistic software stacks including booting Linux and comprehensive application software with high fidelity (cycle-exact microarchitectural models derived from synthesizable RTL), flexibility (modifiable to include custom RTL user IP and/or more abstract models), reproducibility, observability, target software support and performance. MEG can be an effective complement to previous &lt;a href=&#34;https://www2.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-158.pdf&#34; target=&#34;_blank&#34;&gt;RAMP&lt;/a&gt; and more recent &lt;a href=&#34;https://fires.im/&#34; target=&#34;_blank&#34;&gt;Firesim&lt;/a&gt; projects in covering memory space and a contribution to the open source &lt;a href=&#34;https://riscv.org/&#34; target=&#34;_blank&#34;&gt;RISC-V&lt;/a&gt; community.&lt;/p&gt;
+      <guid>https://www.seas.upenn.edu/~janeli/project/meg/</guid>
+      <description>&lt;p&gt;Hardware-software co-design studies targeting next-generation computer systems that are equipped with emerging memories (HBM/HMC, NVM, etc.) are fundamentally hampered by a lack of scalable, performant and accurate simulation platform. Using software simulator is fundamentally bottlenecked by the low simulation speed and low fidelity, making it impractical to run realistic software stack. Such a challenge has limited effective cross-stack innovations (across computer architecture, OS, compiler, machine learning, and domain sciences). Past efforts have largely focused on simulation infrastructure for processor cores with highly simplified models of the memory subsystem. As a key contribution to the community (including SRC JUMP centers, broad academia and industry) to better drive cross-stack memory system research, we have been developing &lt;strong&gt;MEG&lt;/strong&gt; [&lt;a href=&#34;https://www.seas.upenn.edu/~janeli/publication/zhang-s019-fccm&#34;&gt;Zhang2019FCCM&lt;/a&gt;] – &lt;em&gt;an open source FPGA- based simulation platform that enables cycle-exact micro-architecture simulation for computer systems with a special focus on memory subsystem&lt;/em&gt; (heterogeneous memory, near/in-memory acceleration). In MEG, we combine silicon- proven RTL design of RISC-V cores with configurable heterogeneous memory subsystems (HMC/HBM/NVM). It is capable of running realistic software stacks including booting Linux and comprehensive application software with high fidelity (cycle-exact microarchitectural models derived from synthesizable RTL), flexibility (modifiable to include custom RTL user IP and/or more abstract models), reproducibility, observability, target software support and performance. MEG can be an effective complement to previous &lt;a href=&#34;https://www2.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-158.pdf&#34; target=&#34;_blank&#34;&gt;RAMP&lt;/a&gt; and more recent &lt;a href=&#34;https://fires.im/&#34; target=&#34;_blank&#34;&gt;Firesim&lt;/a&gt; projects in covering memory space and a contribution to the open source &lt;a href=&#34;https://riscv.org/&#34; target=&#34;_blank&#34;&gt;RISC-V&lt;/a&gt; community.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Virtualization in Cloud</title>
-      <link>https://bdai6.github.io/project/virtualization/</link>
+      <link>https://www.seas.upenn.edu/~janeli/project/virtualization/</link>
       <pubDate>Fri, 16 Aug 2019 15:58:34 -0500</pubDate>
-      <guid>https://bdai6.github.io/project/virtualization/</guid>
-      <description>&lt;p&gt;While traditionally being used in embedded systems, custom silicon (e.g., FPGAs) has recently begun to make their way into data centers and the cloud (Amazon AWS EC2 F1 instances, Microsoft Brainwave, Google TPU etc.). While these programmable data-flow architectures provide the lucrative benefits of fine-grained parallelism and high flexibility to accelerate a wide spectrum of applications, system support for them in the context of multi-tenant cloud environment, however, is in its infancy and has two major limitations, 1) inefficient resource management due to the tight coupling between compilation and runtime management, and 2) high programming complexity when exploiting scale-out acceleration, for which the root cause is that hardware resources are not virtualized.&lt;/p&gt;
+      <guid>https://www.seas.upenn.edu/~janeli/project/virtualization/</guid>
+      <description>&lt;p&gt;While traditionally being used in embedded systems, custom silicon (e.g., FPGAs) has recently begun to make their way into data centers and the cloud (Amazon AWS EC2 F1 instances, Microsoft Brainwave, Google TPU etc.). While these programmable data-flow architectures provide the lucrative benefits of fine-grained parallelism and high flexibility to accelerate a wide spectrum of applications, system support for them in the context of multi-tenant cloud environment, however, is in its infancy and has two major limitations, 1) inefficient resource management due to the tight coupling between compilation and runtime management, and 2) high programming complexity when exploiting scale-out acceleration, for which the root cause is that &lt;em&gt;hardware resources are not virtualized&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;In this research, we take FPGA as a case study and develop a &lt;em&gt;full stack solution&lt;/em&gt; that can address these limitations and thus, enable &lt;em&gt;virtualization of FPGA clusters in multi-tenant cloud computing environment&lt;/em&gt;. Specifically, the key contribution is a new system abstraction that can effectively decouple the compilation and runtime resource management. It allows applications to be compiled offline onto the proposed abstraction and resource allocation to be dynamically determined at runtime. Moreover, it creates an illusion of a single/large virtual FPGA to users, thereby reducing the programming complexity and supporting scale-out acceleration. It also provides virtualization support for the peripheral components (e.g. on-board DRAM, Ethernet), as well as protection and isolation support to ensure a secure execution in multi-tenant cloud environment.&lt;/p&gt;
+&lt;p&gt;In this research, we take FPGA as a case study and develop a &lt;em&gt;full stack solution&lt;/em&gt; that can address these limitations and thus, enable &lt;em&gt;virtualization of FPGA clusters in multi-tenant cloud computing environment&lt;/em&gt;. Specifically, the key contribution is a new system abstraction that can effectively decouple the compilation and runtime resource management. It allows applications to be compiled offline onto the proposed abstraction and resource allocation to be dynamically determined at runtime. Moreover, it creates an illusion of a single/large virtual FPGA to users, thereby reducing the programming complexity and supporting scale-out acceleration. It also provides virtualization support for the peripheral components (e.g. on-board DRAM, Ethernet), as well as protection and isolation support to ensure a secure execution in multi-tenant cloud environment [&lt;a href=&#34;https://www.seas.upenn.edu/~janeli/publication/zha-2020-asplos&#34;&gt;Zha2020ASPLOS&lt;/a&gt;].&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Deep Learning and AI</title>
+      <link>https://www.seas.upenn.edu/~janeli/project/deep-learning/</link>
+      <pubDate>Fri, 16 Aug 2019 15:57:51 -0500</pubDate>
+      <guid>https://www.seas.upenn.edu/~janeli/project/deep-learning/</guid>
+      <description>&lt;p&gt;Deep neural networks (DNNs) deliver impressive results for a variety of challenging tasks in computer vision, speech recognition, and natural language processing, at the cost of higher computational complexity and larger model size. To reduce the load of taxing DNN infrastructures, a number of FPGA-based DNN accelerators have been proposed via new micro-architectures, data ow optimizations, or algorithmic transformation. Due to the extremely large design space, it is challenging to attain good insights on how to design optimal accelerators on a target FPGA.&lt;/p&gt;
+
+&lt;p&gt;In this research, we take an &lt;em&gt;alternative, and more principled approach to guide accelerator architecture design and optimization&lt;/em&gt;. We borrow the insights from the roofline model and further improve it by taking both on-chip and off-chip memory bandwidth into consideration. We apply the model to quantify the difference between available resources provided by native hardware (FPGA devices) and actual resources demanded by the application (CNN classification kernel). To tackle the problem, we develop a number of hardware/software techniques and implement them on FPGA [&lt;a href=&#34;https://www.seas.upenn.edu/~janeli/publication/zhang-2017-fpga-cnn&#34;&gt;Zhang2017FPGA-CNN&lt;/a&gt;]. The demonstrated accelerator was recognized as the highest performance and the most energy efficient accelerator for dense convolutional neural network (CNN) compared to the state-of-the-art FPGA-based designs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our paper got accepted at ASPLOS 2020</title>
+      <link>https://www.seas.upenn.edu/~janeli/post/fpga-virtualization-asplos-2020/</link>
+      <pubDate>Tue, 24 Dec 2019 22:48:15 -0600</pubDate>
+      <guid>https://www.seas.upenn.edu/~janeli/post/fpga-virtualization-asplos-2020/</guid>
+      <description>&lt;p&gt;Yue Zha and Jing Li, &amp;ldquo;ViTAL: Virtualizing FPGAs in the Cloud,&amp;ldquo;, in &lt;em&gt;the 24th ACM International Conference on Architectural Support for Programming Languages and Operating Systems&lt;/em&gt; (&lt;strong&gt;ASPLOS&lt;/strong&gt; &amp;lsquo;20).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ViTAL: Virtualizing FPGAs in the Cloud</title>
+      <link>https://www.seas.upenn.edu/~janeli/publication/zha-2020-asplos/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/zha-2020-asplos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Improving the Performance of OpenCL-based FPGA Accelerator for Convolutional Neural Network</title>
-      <link>https://bdai6.github.io/publication/zhang-2017-fpga-cnn/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/zhang-2017-fpga-cnn/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/zhang-2017-fpga-cnn/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/zhang-2017-fpga-cnn/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline25%, 25 out of 101)&lt;/p&gt;
 </description>
     </item>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>vertical resistive switching memory | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/tags/vertical-resistive-switching-memory/</link>
-      <atom:link href="https://bdai6.github.io/tags/vertical-resistive-switching-memory/index.xml" rel="self" type="application/rss+xml" />
+    <title>vertical resistive switching memory | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/tags/vertical-resistive-switching-memory/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/vertical-resistive-switching-memory/index.xml" rel="self" type="application/rss+xml" />
     <description>vertical resistive switching memory</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title>vertical resistive switching memory</title>
-      <link>https://bdai6.github.io/tags/vertical-resistive-switching-memory/</link>
+      <link>https://www.seas.upenn.edu/~janeli/tags/vertical-resistive-switching-memory/</link>
     </image>
     
     <item>
       <title>Fully CMOS compatible 3D vertical RRAM with self-aligned self-selective cell enabling sub-5nm scaling</title>
-      <link>https://bdai6.github.io/publication/xu-2016-vlsi/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/xu-2016-vlsi/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/xu-2016-vlsi/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/xu-2016-vlsi/</guid>
       <description></description>
     </item>
     

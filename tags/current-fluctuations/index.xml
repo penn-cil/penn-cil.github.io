@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>current fluctuations | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/tags/current-fluctuations/</link>
-      <atom:link href="https://bdai6.github.io/tags/current-fluctuations/index.xml" rel="self" type="application/rss+xml" />
+    <title>current fluctuations | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/tags/current-fluctuations/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/current-fluctuations/index.xml" rel="self" type="application/rss+xml" />
     <description>current fluctuations</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title>current fluctuations</title>
-      <link>https://bdai6.github.io/tags/current-fluctuations/</link>
+      <link>https://www.seas.upenn.edu/~janeli/tags/current-fluctuations/</link>
     </image>
     
     <item>
       <title>A compact model for RRAM including random telegraph noise</title>
-      <link>https://bdai6.github.io/publication/guan-2016-irps/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/guan-2016-irps/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/guan-2016-irps/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/guan-2016-irps/</guid>
       <description></description>
     </item>
     

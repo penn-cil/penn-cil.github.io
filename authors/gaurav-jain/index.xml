@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gaurav Jain | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/authors/gaurav-jain/</link>
-      <atom:link href="https://bdai6.github.io/authors/gaurav-jain/index.xml" rel="self" type="application/rss+xml" />
+    <title>Gaurav Jain | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/authors/gaurav-jain/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/authors/gaurav-jain/index.xml" rel="self" type="application/rss+xml" />
     <description>Gaurav Jain</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title>Gaurav Jain</title>
-      <link>https://bdai6.github.io/authors/gaurav-jain/</link>
+      <link>https://www.seas.upenn.edu/~janeli/authors/gaurav-jain/</link>
     </image>
     
     <item>
       <title>MEG: A RISCV-based system simulation infrastructure for exploring memory optimization using FPGAs and Hybrid Memory Cube (Best Paper Nominee)</title>
-      <link>https://bdai6.github.io/publication/zhang-2019-fccm/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/zhang-2019-fccm/</link>
       <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/zhang-2019-fccm/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/zhang-2019-fccm/</guid>
       <description></description>
     </item>
     

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title> x-ray diffraction | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/tags/x-ray-diffraction/</link>
-      <atom:link href="https://bdai6.github.io/tags/x-ray-diffraction/index.xml" rel="self" type="application/rss+xml" />
+    <title> x-ray diffraction | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/tags/x-ray-diffraction/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/x-ray-diffraction/index.xml" rel="self" type="application/rss+xml" />
     <description> x-ray diffraction</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title> x-ray diffraction</title>
-      <link>https://bdai6.github.io/tags/x-ray-diffraction/</link>
+      <link>https://www.seas.upenn.edu/~janeli/tags/x-ray-diffraction/</link>
     </image>
     
     <item>
       <title>Materials engineering for Phase Change Random Access Memory</title>
-      <link>https://bdai6.github.io/publication/raoux-2011-nvmts/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/raoux-2011-nvmts/</link>
       <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/raoux-2011-nvmts/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/raoux-2011-nvmts/</guid>
       <description></description>
     </item>
     

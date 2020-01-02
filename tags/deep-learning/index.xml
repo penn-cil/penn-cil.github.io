@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>deep learning | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/tags/deep-learning/</link>
-      <atom:link href="https://bdai6.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <title>deep learning | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/tags/deep-learning/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>deep learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Aug 2019 15:57:51 -0500</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title>deep learning</title>
-      <link>https://bdai6.github.io/tags/deep-learning/</link>
+      <link>https://www.seas.upenn.edu/~janeli/tags/deep-learning/</link>
     </image>
     
     <item>
       <title>Deep Learning and AI</title>
-      <link>https://bdai6.github.io/project/deep-learning/</link>
+      <link>https://www.seas.upenn.edu/~janeli/project/deep-learning/</link>
       <pubDate>Fri, 16 Aug 2019 15:57:51 -0500</pubDate>
-      <guid>https://bdai6.github.io/project/deep-learning/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/project/deep-learning/</guid>
       <description>&lt;p&gt;Deep neural networks (DNNs) deliver impressive results for a variety of challenging tasks in computer vision, speech recognition, and natural language processing, at the cost of higher computational complexity and larger model size. To reduce the load of taxing DNN infrastructures, a number of FPGA-based DNN accelerators have been proposed via new micro-architectures, data ow optimizations, or algorithmic transformation. Due to the extremely large design space, it is challenging to attain good insights on how to design optimal accelerators on a target FPGA.&lt;/p&gt;
 
-&lt;p&gt;In this research, we take an &lt;em&gt;alternative, and more principled approach to guide accelerator architecture design and optimization&lt;/em&gt;. We borrow the insights from the roofline model and further improve it by taking both on-chip and off-chip memory bandwidth into consideration. We apply the model to quantify the difference between available resources provided by native hardware (FPGA devices) and actual resources demanded by the application (CNN classification kernel). To tackle the problem, we develop a number of hardware/software techniques and implement them on FPGA [&lt;a href=&#34;https://bdai6.github.io/publication/zhang-2017-fpga-cnn&#34;&gt;Zhang2017FPGA-CNN&lt;/a&gt;]. The demonstrated accelerator was recognized as the highest performance and the most energy efficient accelerator for dense convolutional neural network (CNN) compared to the state-of-the-art FPGA-based designs.&lt;/p&gt;
+&lt;p&gt;In this research, we take an &lt;em&gt;alternative, and more principled approach to guide accelerator architecture design and optimization&lt;/em&gt;. We borrow the insights from the roofline model and further improve it by taking both on-chip and off-chip memory bandwidth into consideration. We apply the model to quantify the difference between available resources provided by native hardware (FPGA devices) and actual resources demanded by the application (CNN classification kernel). To tackle the problem, we develop a number of hardware/software techniques and implement them on FPGA [&lt;a href=&#34;https://www.seas.upenn.edu/~janeli/publication/zhang-2017-fpga-cnn&#34;&gt;Zhang2017FPGA-CNN&lt;/a&gt;]. The demonstrated accelerator was recognized as the highest performance and the most energy efficient accelerator for dense convolutional neural network (CNN) compared to the state-of-the-art FPGA-based designs.&lt;/p&gt;
 </description>
     </item>
     

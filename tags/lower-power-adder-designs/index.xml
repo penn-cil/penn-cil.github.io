@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>lower-power adder designs | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/tags/lower-power-adder-designs/</link>
-      <atom:link href="https://bdai6.github.io/tags/lower-power-adder-designs/index.xml" rel="self" type="application/rss+xml" />
+    <title>lower-power adder designs | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/tags/lower-power-adder-designs/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/tags/lower-power-adder-designs/index.xml" rel="self" type="application/rss+xml" />
     <description>lower-power adder designs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Aug 2007 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title>lower-power adder designs</title>
-      <link>https://bdai6.github.io/tags/lower-power-adder-designs/</link>
+      <link>https://www.seas.upenn.edu/~janeli/tags/lower-power-adder-designs/</link>
     </image>
     
     <item>
       <title>Variable-latency adder (VL-adder): new arithmetic circuit design practice to overcome NBTI</title>
-      <link>https://bdai6.github.io/publication/li-2007-islped/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/li-2007-islped/</link>
       <pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/li-2007-islped/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2007-islped/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline39%, 74 out of 192)&lt;/p&gt;
 </description>
     </item>

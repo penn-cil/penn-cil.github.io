@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>others | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/authors/others/</link>
-      <atom:link href="https://bdai6.github.io/authors/others/index.xml" rel="self" type="application/rss+xml" />
+    <title>others | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/authors/others/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/authors/others/index.xml" rel="self" type="application/rss+xml" />
     <description>others</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jun 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title>others</title>
-      <link>https://bdai6.github.io/authors/others/</link>
+      <link>https://www.seas.upenn.edu/~janeli/authors/others/</link>
     </image>
     
     <item>
       <title>1Mb 0.41 um^2 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (Highlight Paper of the Year)</title>
-      <link>https://bdai6.github.io/publication/li-2013-vlsi/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/li-2013-vlsi/</link>
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/li-2013-vlsi/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/li-2013-vlsi/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline27%, 109 out of 396)&lt;/p&gt;
 </description>
     </item>

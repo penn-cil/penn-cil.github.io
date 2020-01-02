@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Stephen Wright | Wisconsin Computational Intelligence Lab</title>
-    <link>https://bdai6.github.io/authors/stephen-wright/</link>
-      <atom:link href="https://bdai6.github.io/authors/stephen-wright/index.xml" rel="self" type="application/rss+xml" />
+    <title>Stephen Wright | Penn Computational Intelligence Lab</title>
+    <link>https://www.seas.upenn.edu/~janeli/authors/stephen-wright/</link>
+      <atom:link href="https://www.seas.upenn.edu/~janeli/authors/stephen-wright/index.xml" rel="self" type="application/rss+xml" />
     <description>Stephen Wright</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Feb 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdai6.github.io/img/logo.png</url>
+      <url>https://www.seas.upenn.edu/~janeli/img/logo.png</url>
       <title>Stephen Wright</title>
-      <link>https://bdai6.github.io/authors/stephen-wright/</link>
+      <link>https://www.seas.upenn.edu/~janeli/authors/stephen-wright/</link>
     </image>
     
     <item>
       <title>Computing Generalized Matrix Inverse on Spiking Neural Substrate</title>
-      <link>https://bdai6.github.io/publication/shukla-2018-frontiers/</link>
+      <link>https://www.seas.upenn.edu/~janeli/publication/shukla-2018-frontiers/</link>
       <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://bdai6.github.io/publication/shukla-2018-frontiers/</guid>
+      <guid>https://www.seas.upenn.edu/~janeli/publication/shukla-2018-frontiers/</guid>
       <description></description>
     </item>
     
