@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title> failure analysis | Penn Computational Intelligence Lab</title>
+    <title>failure analysis | Penn Computational Intelligence Lab</title>
     <link>https://penn-cil.github.io/tags/failure-analysis/</link>
       <atom:link href="https://penn-cil.github.io/tags/failure-analysis/index.xml" rel="self" type="application/rss+xml" />
-    <description> failure analysis</description>
+    <description>failure analysis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2012 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
-      <title> failure analysis</title>
+      <title>failure analysis</title>
       <link>https://penn-cil.github.io/tags/failure-analysis/</link>
     </image>
     
