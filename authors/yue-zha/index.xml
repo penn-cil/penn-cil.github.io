@@ -5,7 +5,7 @@
     <link>https://penn-cil.github.io/authors/yue-zha/</link>
       <atom:link href="https://penn-cil.github.io/authors/yue-zha/index.xml" rel="self" type="application/rss+xml" />
     <description>Penn Computational Intelligence Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Dec 2019 22:48:15 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
       <title>Penn Computational Intelligence Lab</title>
@@ -43,6 +43,22 @@
     </item>
     
     <item>
+      <title>Liquid Silicon: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated ReRAM for Big Data/Machine Learning Applications (INVITED)</title>
+      <link>https://penn-cil.github.io/publication/zha-2020-jssc/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/publication/zha-2020-jssc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ViTAL: Virtualizing FPGAs in the Cloud</title>
+      <link>https://penn-cil.github.io/publication/zha-2020-asplos/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/publication/zha-2020-asplos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Our invited paper got accepted at JSSC</title>
       <link>https://penn-cil.github.io/post/liquid-silicon-jssc-2020/</link>
       <pubDate>Tue, 24 Dec 2019 22:48:15 -0600</pubDate>
@@ -58,22 +74,6 @@
       <guid>https://penn-cil.github.io/post/fpga-virtualization-asplos-2020/</guid>
       <description>&lt;p&gt;Yue Zha and Jing Li, &amp;ldquo;ViTAL: Virtualizing FPGAs in the Cloud,&amp;ldquo;, in &lt;em&gt;the 24th ACM International Conference on Architectural Support for Programming Languages and Operating Systems&lt;/em&gt; (&lt;strong&gt;ASPLOS&lt;/strong&gt; &amp;lsquo;20).&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Liquid Silicon: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated ReRAM for Big Data/Machine Learning Applications (INVITED)</title>
-      <link>https://penn-cil.github.io/publication/zha-2020-jssc/</link>
-      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/publication/zha-2020-jssc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ViTAL: Virtualizing FPGAs in the Cloud</title>
-      <link>https://penn-cil.github.io/publication/zha-2020-asplos/</link>
-      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/publication/zha-2020-asplos/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -206,7 +206,7 @@
     <item>
       <title></title>
       <link>https://penn-cil.github.io/authors/yue-zha/</link>
-      <pubDate>Tue, 24 Dec 2019 22:48:15 -0600</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/authors/yue-zha/</guid>
       <description>&lt;p&gt;Yue Zha received his B.S. degree in Physics from Peking University in 2013, and M.S. degree in Electrical and Computer Engineering and Computer Science from University of Wisconsin-Madison in 2015. He is currently pursuing his Ph.D. degree at the Department of Electrical and Systems Engineering, University of Pennsylvania.&lt;/p&gt;
 </description>

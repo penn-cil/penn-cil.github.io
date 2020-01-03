@@ -5,7 +5,7 @@
     <link>https://penn-cil.github.io/tags/</link>
       <atom:link href="https://penn-cil.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Dec 2019 22:48:15 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
       <title>Tags</title>
@@ -15,31 +15,15 @@
     <item>
       <title>FPGA</title>
       <link>https://penn-cil.github.io/tags/fpga/</link>
-      <pubDate>Tue, 24 Dec 2019 22:48:15 -0600</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/fpga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>liquid silicon</title>
-      <link>https://penn-cil.github.io/tags/liquid-silicon/</link>
-      <pubDate>Tue, 24 Dec 2019 22:48:15 -0600</pubDate>
-      <guid>https://penn-cil.github.io/tags/liquid-silicon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>virtualization</title>
-      <link>https://penn-cil.github.io/tags/virtualization/</link>
-      <pubDate>Tue, 24 Dec 2019 22:48:15 -0600</pubDate>
-      <guid>https://penn-cil.github.io/tags/virtualization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>conference</title>
       <link>https://penn-cil.github.io/tags/conference/</link>
-      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/conference/</guid>
       <description></description>
     </item>
@@ -47,8 +31,24 @@
     <item>
       <title>journal</title>
       <link>https://penn-cil.github.io/tags/journal/</link>
-      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>liquid silicon</title>
+      <link>https://penn-cil.github.io/tags/liquid-silicon/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/liquid-silicon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virtualization</title>
+      <link>https://penn-cil.github.io/tags/virtualization/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/virtualization/</guid>
       <description></description>
     </item>
     
@@ -261,14 +261,6 @@
     </item>
     
     <item>
-      <title> graph processor</title>
-      <link>https://penn-cil.github.io/tags/graph-processor/</link>
-      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/graph-processor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title> hardware accelerators</title>
       <link>https://penn-cil.github.io/tags/hardware-accelerators/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
@@ -305,6 +297,14 @@
       <link>https://penn-cil.github.io/tags/graph-clustering/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/graph-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph processor</title>
+      <link>https://penn-cil.github.io/tags/graph-processor/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/graph-processor/</guid>
       <description></description>
     </item>
     
@@ -909,14 +909,6 @@
     </item>
     
     <item>
-      <title> hybrid memory cube:bfs</title>
-      <link>https://penn-cil.github.io/tags/hybrid-memory-cubebfs/</link>
-      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/hybrid-memory-cubebfs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title> mixed-signal processing</title>
       <link>https://penn-cil.github.io/tags/mixed-signal-processing/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
@@ -953,6 +945,14 @@
       <link>https://penn-cil.github.io/tags/hardware-accelerator/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/hardware-accelerator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hybrid memory cube:bfs</title>
+      <link>https://penn-cil.github.io/tags/hybrid-memory-cubebfs/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/hybrid-memory-cubebfs/</guid>
       <description></description>
     </item>
     
@@ -3853,7 +3853,7 @@
     </item>
     
     <item>
-      <title>stt mram</title>
+      <title> stt mram</title>
       <link>https://penn-cil.github.io/tags/stt-mram/</link>
       <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/stt-mram/</guid>

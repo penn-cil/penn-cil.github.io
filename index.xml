@@ -5,7 +5,7 @@
     <link>https://penn-cil.github.io/</link>
       <atom:link href="https://penn-cil.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Penn Computational Intelligence Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Dec 2019 22:48:15 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
       <title>Penn Computational Intelligence Lab</title>
@@ -516,6 +516,22 @@ caption = &amp;quot;DARPA&amp;quot;
     </item>
     
     <item>
+      <title>Liquid Silicon: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated ReRAM for Big Data/Machine Learning Applications (INVITED)</title>
+      <link>https://penn-cil.github.io/publication/zha-2020-jssc/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/publication/zha-2020-jssc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ViTAL: Virtualizing FPGAs in the Cloud</title>
+      <link>https://penn-cil.github.io/publication/zha-2020-asplos/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/publication/zha-2020-asplos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Our invited paper got accepted at JSSC</title>
       <link>https://penn-cil.github.io/post/liquid-silicon-jssc-2020/</link>
       <pubDate>Tue, 24 Dec 2019 22:48:15 -0600</pubDate>
@@ -531,22 +547,6 @@ caption = &amp;quot;DARPA&amp;quot;
       <guid>https://penn-cil.github.io/post/fpga-virtualization-asplos-2020/</guid>
       <description>&lt;p&gt;Yue Zha and Jing Li, &amp;ldquo;ViTAL: Virtualizing FPGAs in the Cloud,&amp;ldquo;, in &lt;em&gt;the 24th ACM International Conference on Architectural Support for Programming Languages and Operating Systems&lt;/em&gt; (&lt;strong&gt;ASPLOS&lt;/strong&gt; &amp;lsquo;20).&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Liquid Silicon: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated ReRAM for Big Data/Machine Learning Applications (INVITED)</title>
-      <link>https://penn-cil.github.io/publication/zha-2020-jssc/</link>
-      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/publication/zha-2020-jssc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ViTAL: Virtualizing FPGAs in the Cloud</title>
-      <link>https://penn-cil.github.io/publication/zha-2020-asplos/</link>
-      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/publication/zha-2020-asplos/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -910,11 +910,12 @@ HAHAHUGOSHORTCODE-TOC0-HBHB&lt;/p&gt;
     </item>
     
     <item>
-      <title>MLSys: The New Frontier of Machine Learning Systems</title>
+      <title>SysML: The New Frontier of Machine Learning Systems</title>
       <link>https://penn-cil.github.io/publication/ratner-2019-sysml/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/publication/ratner-2019-sysml/</guid>
-      <description></description>
+      <description>&lt;p&gt;preprint&lt;/p&gt;
+</description>
     </item>
     
     <item>
