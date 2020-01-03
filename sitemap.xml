@@ -2584,6 +2584,12 @@
   </url>
   
   <url>
+    <loc>https://penn-cil.github.io/tags/failure-analysis/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://penn-cil.github.io/tags/mosfet/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2644,12 +2650,6 @@
   
   <url>
     <loc>https://penn-cil.github.io/authors/yoshio-nishi/</loc>
-    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/tags/failure-analysis/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -4196,6 +4196,12 @@
   </url>
   
   <url>
+    <loc>https://penn-cil.github.io/tags/costs/</loc>
+    <lastmod>2010-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://penn-cil.github.io/authors/ashish-goel/</loc>
     <lastmod>2010-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4226,12 +4232,6 @@
   
   <url>
     <loc>https://penn-cil.github.io/tags/circuit-stability/</loc>
-    <lastmod>2010-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/tags/costs/</loc>
     <lastmod>2010-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
