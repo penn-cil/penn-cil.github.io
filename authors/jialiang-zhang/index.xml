@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Penn Computational Intelligence Lab</title>
+    <title>jialiang-zhang | Penn Computational Intelligence Lab</title>
     <link>https://penn-cil.github.io/authors/jialiang-zhang/</link>
       <atom:link href="https://penn-cil.github.io/authors/jialiang-zhang/index.xml" rel="self" type="application/rss+xml" />
-    <description>Penn Computational Intelligence Lab</description>
+    <description>jialiang-zhang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Aug 2019 16:02:06 -0500</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
-      <title>Penn Computational Intelligence Lab</title>
+      <title>jialiang-zhang</title>
       <link>https://penn-cil.github.io/authors/jialiang-zhang/</link>
     </image>
     
@@ -154,15 +154,6 @@
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/publication/zhang-2017-fpga-cnn/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline25%, 25 out of 101)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://penn-cil.github.io/authors/jialiang-zhang/</link>
-      <pubDate>Fri, 16 Aug 2019 16:02:06 -0500</pubDate>
-      <guid>https://penn-cil.github.io/authors/jialiang-zhang/</guid>
-      <description>&lt;p&gt;Jialiang Zhang is a fourth-year PhD student advised by Prof. Jing Li. He received his B.E. degree from University of Electronic Science and Technology of China. His research focuses on hardware acceleration of big data and machine learning applications using FPGA and emerging memory technologies. He is also an expert in high speed digital system and high performance mixed-signal circuit design.&lt;/p&gt;
 </description>
     </item>
     

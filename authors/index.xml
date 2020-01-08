@@ -28,19 +28,18 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://penn-cil.github.io/authors/yue-zha/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/authors/yue-zha/</guid>
-      <description>&lt;p&gt;Yue Zha received his B.S. degree in Physics from Peking University in 2013, and M.S. degree in Electrical and Computer Engineering and Computer Science from University of Wisconsin-Madison in 2015. He is currently pursuing his Ph.D. degree at the Department of Electrical and Systems Engineering, University of Pennsylvania.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Etienne Nowak</title>
       <link>https://penn-cil.github.io/authors/etienne-nowak/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/authors/etienne-nowak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yue Zha</title>
+      <link>https://penn-cil.github.io/authors/yue-zha/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/authors/yue-zha/</guid>
       <description></description>
     </item>
     
@@ -61,12 +60,11 @@
     </item>
     
     <item>
-      <title></title>
+      <title>jialiang-zhang</title>
       <link>https://penn-cil.github.io/authors/jialiang-zhang/</link>
       <pubDate>Fri, 16 Aug 2019 16:02:06 -0500</pubDate>
       <guid>https://penn-cil.github.io/authors/jialiang-zhang/</guid>
-      <description>&lt;p&gt;Jialiang Zhang is a fourth-year PhD student advised by Prof. Jing Li. He received his B.E. degree from University of Electronic Science and Technology of China. His research focuses on hardware acceleration of big data and machine learning applications using FPGA and emerging memory technologies. He is also an expert in high speed digital system and high performance mixed-signal circuit design.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1678,15 +1676,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/authors/huaye-li/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://penn-cil.github.io/authors/nick-beckwith/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/authors/nick-beckwith/</guid>
-      <description>&lt;p&gt;Nick Beckwith is a PhD student at the University of Pennsylvania with the Electrical and Systems Engineering Department. He received his B.S. in Computer Engineering at the University of Wisconsin-Madison in 2019. His primary interests lie in providing research infrastructures for novel cross-stack solutions in embedded systems, emerging memory technologies and tightly integrated heterogeneous systems. He looks forward to tackling the problems of a post-Moore era with these fast, novel and high fidelity research infrastructures.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
