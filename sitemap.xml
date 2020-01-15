@@ -1001,19 +1001,7 @@
   </url>
   
   <url>
-    <loc>https://penn-cil.github.io/tags/graph-clustering/</loc>
-    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://penn-cil.github.io/tags/hardware-accelerators/</loc>
-    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/tags/hybrid-memory-cube/</loc>
     <lastmod>2018-02-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1052,7 +1040,19 @@
   </url>
   
   <url>
+    <loc>https://penn-cil.github.io/tags/graph-clustering/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://penn-cil.github.io/tags/graph-processor/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/tags/hybrid-memory-cube/</loc>
     <lastmod>2018-02-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

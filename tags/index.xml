@@ -261,26 +261,10 @@
     </item>
     
     <item>
-      <title> graph clustering</title>
-      <link>https://penn-cil.github.io/tags/graph-clustering/</link>
-      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/graph-clustering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title> hardware accelerators</title>
       <link>https://penn-cil.github.io/tags/hardware-accelerators/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/hardware-accelerators/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> hybrid memory cube</title>
-      <link>https://penn-cil.github.io/tags/hybrid-memory-cube/</link>
-      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/hybrid-memory-cube/</guid>
       <description></description>
     </item>
     
@@ -309,10 +293,26 @@
     </item>
     
     <item>
+      <title>graph clustering</title>
+      <link>https://penn-cil.github.io/tags/graph-clustering/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/graph-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>graph processor</title>
       <link>https://penn-cil.github.io/tags/graph-processor/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/graph-processor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hybrid memory cube</title>
+      <link>https://penn-cil.github.io/tags/hybrid-memory-cube/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/hybrid-memory-cube/</guid>
       <description></description>
     </item>
     

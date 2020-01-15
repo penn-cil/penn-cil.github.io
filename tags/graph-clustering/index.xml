@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title> graph clustering | Penn Computational Intelligence Lab</title>
+    <title>graph clustering | Penn Computational Intelligence Lab</title>
     <link>https://penn-cil.github.io/tags/graph-clustering/</link>
       <atom:link href="https://penn-cil.github.io/tags/graph-clustering/index.xml" rel="self" type="application/rss+xml" />
-    <description> graph clustering</description>
+    <description>graph clustering</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Feb 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
-      <title> graph clustering</title>
+      <title>graph clustering</title>
       <link>https://penn-cil.github.io/tags/graph-clustering/</link>
     </image>
     
