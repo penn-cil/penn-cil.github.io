@@ -5,12 +5,28 @@
     <link>https://penn-cil.github.io/tags/</link>
       <atom:link href="https://penn-cil.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
       <title>Tags</title>
       <link>https://penn-cil.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>journal</title>
+      <link>https://penn-cil.github.io/tags/journal/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>liquid silicon</title>
+      <link>https://penn-cil.github.io/tags/liquid-silicon/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/liquid-silicon/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FPGA</title>
@@ -25,22 +41,6 @@
       <link>https://penn-cil.github.io/tags/conference/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/conference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>journal</title>
-      <link>https://penn-cil.github.io/tags/journal/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/journal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>liquid silicon</title>
-      <link>https://penn-cil.github.io/tags/liquid-silicon/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/liquid-silicon/</guid>
       <description></description>
     </item>
     
@@ -261,10 +261,26 @@
     </item>
     
     <item>
+      <title> graph clustering</title>
+      <link>https://penn-cil.github.io/tags/graph-clustering/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/graph-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title> hardware accelerators</title>
       <link>https://penn-cil.github.io/tags/hardware-accelerators/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/hardware-accelerators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> hybrid memory cube</title>
+      <link>https://penn-cil.github.io/tags/hybrid-memory-cube/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/hybrid-memory-cube/</guid>
       <description></description>
     </item>
     
@@ -293,26 +309,10 @@
     </item>
     
     <item>
-      <title>graph clustering</title>
-      <link>https://penn-cil.github.io/tags/graph-clustering/</link>
-      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/graph-clustering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>graph processor</title>
       <link>https://penn-cil.github.io/tags/graph-processor/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/graph-processor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hybrid memory cube</title>
-      <link>https://penn-cil.github.io/tags/hybrid-memory-cube/</link>
-      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/hybrid-memory-cube/</guid>
       <description></description>
     </item>
     

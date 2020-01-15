@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yue Zha | Penn Computational Intelligence Lab</title>
+    <title>Penn Computational Intelligence Lab</title>
     <link>https://penn-cil.github.io/authors/yue-zha/</link>
       <atom:link href="https://penn-cil.github.io/authors/yue-zha/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yue Zha</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <description>Penn Computational Intelligence Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
-      <title>Yue Zha</title>
+      <title>Penn Computational Intelligence Lab</title>
       <link>https://penn-cil.github.io/authors/yue-zha/</link>
     </image>
     
@@ -45,7 +45,7 @@
     <item>
       <title>Liquid Silicon: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated ReRAM for Big Data/Machine Learning Applications (INVITED)</title>
       <link>https://penn-cil.github.io/publication/zha-2020-jssc/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/publication/zha-2020-jssc/</guid>
       <description></description>
     </item>
@@ -200,6 +200,15 @@
       <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/publication/zha-2016-iccad/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline24%, 97 out of 408)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://penn-cil.github.io/authors/yue-zha/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/authors/yue-zha/</guid>
+      <description>&lt;p&gt;Yue Zha received his B.S. degree in Physics from Peking University in 2013, and M.S. degree in Electrical and Computer Engineering and Computer Science from University of Wisconsin-Madison in 2015. He is currently pursuing his Ph.D. degree at the Department of Electrical and Systems Engineering, University of Pennsylvania.&lt;/p&gt;
 </description>
     </item>
     

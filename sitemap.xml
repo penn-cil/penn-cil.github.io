@@ -69,29 +69,74 @@
   
   <url>
     <loc>https://penn-cil.github.io/authors/jing-li/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://penn-cil.github.io/publication_types/1/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://penn-cil.github.io/authors/yue-zha/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://penn-cil.github.io/publication_types/2/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://penn-cil.github.io/authors/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://penn-cil.github.io/authors/etienne-nowak/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/publication/zha-2020-jssc/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/publication_types/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/publication/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/tags/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/tags/journal/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/tags/liquid-silicon/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/publication_types/1/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -103,58 +148,12 @@
   </url>
   
   <url>
-    <loc>https://penn-cil.github.io/publication/zha-2020-jssc/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/publication_types/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/publication/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/tags/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://penn-cil.github.io/publication/zha-2020-asplos/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://penn-cil.github.io/authors/yue-zha/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://penn-cil.github.io/tags/conference/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/tags/journal/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/tags/liquid-silicon/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -215,6 +214,11 @@
   </url>
   
   <url>
+    <loc>https://penn-cil.github.io/authors/jialiang-zhang/</loc>
+    <lastmod>2019-08-16T16:02:06-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://penn-cil.github.io/tags/bfs/</loc>
     <lastmod>2019-08-16T16:02:06-05:00</lastmod>
     <priority>0</priority>
@@ -240,12 +244,6 @@
   
   <url>
     <loc>https://penn-cil.github.io/tags/graph-analytics/</loc>
-    <lastmod>2019-08-16T16:02:06-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/authors/jialiang-zhang/</loc>
     <lastmod>2019-08-16T16:02:06-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1003,7 +1001,19 @@
   </url>
   
   <url>
+    <loc>https://penn-cil.github.io/tags/graph-clustering/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://penn-cil.github.io/tags/hardware-accelerators/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/tags/hybrid-memory-cube/</loc>
     <lastmod>2018-02-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1042,19 +1052,7 @@
   </url>
   
   <url>
-    <loc>https://penn-cil.github.io/tags/graph-clustering/</loc>
-    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://penn-cil.github.io/tags/graph-processor/</loc>
-    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/tags/hybrid-memory-cube/</loc>
     <lastmod>2018-02-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -5433,6 +5431,10 @@
   
   <url>
     <loc>https://penn-cil.github.io/authors/huaye-li/</loc>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/authors/nick-beckwith/</loc>
   </url>
   
   <url>
