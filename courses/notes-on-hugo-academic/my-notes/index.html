@@ -28,7 +28,9 @@
   
     
   
-  <meta name="description" content="Table of Contents    Front Matter Create content Syntax highlight Create a non-widget new page Cross-reference and link in Markdown and shortcodes Create a publication  Other approaches  Create Table of Contents What shortcodes can do  More on shortcodes  Deploy generated website to Git Pages Publications and other content are not sorted by newest first Insert an image with Markdown Lists with Markdown Associate Post, Publication, and Talk with projects">
+  <meta name="description" content="Front Matter reference documentation
+In the documentation and the example site, we will predominantly use YAML to format the front matter of content files and TOML to format the configuration files and widget files.
+If a content file has front matter variables set between triple-minus --- lines, then it is YAML formatted. Otherwise, a content file will have front matter variables set between triple-plus &#43;&#43;&#43; lines, indicating that it is TOML formatted.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://penn-cil.github.io/courses/notes-on-hugo-academic/my-notes/">
@@ -82,7 +84,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.dd629241ea9333c62c071f4a25f829ff.css">
+  <link rel="stylesheet" href="/css/academic.min.7c75abe867d1ac4b26fbe501f37ef260.css">
 
   
     
@@ -120,7 +122,9 @@
   <meta property="og:site_name" content="Penn Computational Intelligence Lab">
   <meta property="og:url" content="https://penn-cil.github.io/courses/notes-on-hugo-academic/my-notes/">
   <meta property="og:title" content="Note on sourcethemes-academic | Penn Computational Intelligence Lab">
-  <meta property="og:description" content="Table of Contents    Front Matter Create content Syntax highlight Create a non-widget new page Cross-reference and link in Markdown and shortcodes Create a publication  Other approaches  Create Table of Contents What shortcodes can do  More on shortcodes  Deploy generated website to Git Pages Publications and other content are not sorted by newest first Insert an image with Markdown Lists with Markdown Associate Post, Publication, and Talk with projects"><meta property="og:image" content="https://penn-cil.github.io/img/logo.png">
+  <meta property="og:description" content="Front Matter reference documentation
+In the documentation and the example site, we will predominantly use YAML to format the front matter of content files and TOML to format the configuration files and widget files.
+If a content file has front matter variables set between triple-minus --- lines, then it is YAML formatted. Otherwise, a content file will have front matter variables set between triple-plus &#43;&#43;&#43; lines, indicating that it is TOML formatted."><meta property="og:image" content="https://penn-cil.github.io/img/logo.png">
   <meta property="twitter:image" content="https://penn-cil.github.io/img/logo.png"><meta property="og:locale" content="en-us">
   
     
@@ -595,30 +599,29 @@
       </ul>
 
       <nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li><a href="#front-matter">Front Matter</a></li>
-<li><a href="#create-content">Create content</a></li>
-<li><a href="#syntax-highlight">Syntax highlight</a></li>
-<li><a href="#create-a-non-widget-new-page">Create a non-widget new page</a></li>
-<li><a href="#cross-reference-and-link-in-markdown-and-shortcodes">Cross-reference and link in Markdown and shortcodes</a></li>
-<li><a href="#create-a-publication">Create a publication</a>
-<ul>
-<li><a href="#other-approaches">Other approaches</a></li>
-</ul></li>
-<li><a href="#create-table-of-contents">Create Table of Contents</a></li>
-<li><a href="#what-shortcodes-can-do">What shortcodes can do</a>
-<ul>
-<li><a href="#more-on-shortcodes">More on shortcodes</a></li>
-</ul></li>
-<li><a href="#deploy-generated-website-to-git-pages">Deploy generated website to Git Pages</a></li>
-<li><a href="#publications-and-other-content-are-not-sorted-by-newest-first">Publications and other content are not sorted by newest first</a></li>
-<li><a href="#insert-an-image-with-markdown">Insert an image with Markdown</a></li>
-<li><a href="#lists-with-markdown">Lists with Markdown</a></li>
-<li><a href="#associate-post-publication-and-talk-with-projects">Associate Post, Publication, and Talk with projects</a></li>
-</ul></li>
-</ul>
+  <ul>
+    <li><a href="#front-matter">Front Matter</a></li>
+    <li><a href="#create-content">Create content</a></li>
+    <li><a href="#syntax-highlight">Syntax highlight</a></li>
+    <li><a href="#create-a-non-widget-new-page">Create a non-widget new page</a></li>
+    <li><a href="#cross-reference-and-link-in-markdown-and-shortcodes">Cross-reference and link in Markdown and shortcodes</a></li>
+    <li><a href="#create-a-publication">Create a publication</a>
+      <ul>
+        <li><a href="#other-approaches">Other approaches</a></li>
+      </ul>
+    </li>
+    <li><a href="#create-table-of-contents">Create Table of Contents</a></li>
+    <li><a href="#what-shortcodes-can-do">What shortcodes can do</a>
+      <ul>
+        <li><a href="#more-on-shortcodes">More on shortcodes</a></li>
+      </ul>
+    </li>
+    <li><a href="#deploy-generated-website-to-git-pages">Deploy generated website to Git Pages</a></li>
+    <li><a href="#publications-and-other-content-are-not-sorted-by-newest-first">Publications and other content are not sorted by newest first</a></li>
+    <li><a href="#insert-an-image-with-markdown">Insert an image with Markdown</a></li>
+    <li><a href="#lists-with-markdown">Lists with Markdown</a></li>
+    <li><a href="#associate-post-publication-and-talk-with-projects">Associate Post, Publication, and Talk with projects</a></li>
+  </ul>
 </nav>
 
       
@@ -633,200 +636,109 @@
           <h1 itemprop="name">Note on sourcethemes-academic</h1>
 
           <div class="article-style" itemprop="articleBody">
-            
-
-<p><h2>Table of Contents</h2>
-<nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li><a href="#front-matter">Front Matter</a></li>
-<li><a href="#create-content">Create content</a></li>
-<li><a href="#syntax-highlight">Syntax highlight</a></li>
-<li><a href="#create-a-non-widget-new-page">Create a non-widget new page</a></li>
-<li><a href="#cross-reference-and-link-in-markdown-and-shortcodes">Cross-reference and link in Markdown and shortcodes</a></li>
-<li><a href="#create-a-publication">Create a publication</a>
-<ul>
-<li><a href="#other-approaches">Other approaches</a></li>
-</ul></li>
-<li><a href="#create-table-of-contents">Create Table of Contents</a></li>
-<li><a href="#what-shortcodes-can-do">What shortcodes can do</a>
-<ul>
-<li><a href="#more-on-shortcodes">More on shortcodes</a></li>
-</ul></li>
-<li><a href="#deploy-generated-website-to-git-pages">Deploy generated website to Git Pages</a></li>
-<li><a href="#publications-and-other-content-are-not-sorted-by-newest-first">Publications and other content are not sorted by newest first</a></li>
-<li><a href="#insert-an-image-with-markdown">Insert an image with Markdown</a></li>
-<li><a href="#lists-with-markdown">Lists with Markdown</a></li>
-<li><a href="#associate-post-publication-and-talk-with-projects">Associate Post, Publication, and Talk with projects</a></li>
-</ul></li>
-</ul>
-</nav></p>
-
+            <!-- raw HTML omitted -->
 <h2 id="front-matter">Front Matter</h2>
-
-<p><a href="https://sourcethemes.com/academic/docs/front-matter/" target="_blank">reference documentation</a></p>
-
+<p><a href="https://sourcethemes.com/academic/docs/front-matter/">reference documentation</a></p>
 <p>In the documentation and the example site, we will predominantly use YAML to format the front matter of <em>content</em> files and TOML to format the <em>configuration</em> files and <em>widget</em> files.</p>
-
 <p>If a content file has front matter variables set between triple-minus <code>---</code> lines, then it is YAML formatted. Otherwise, a content file will have front matter variables set between triple-plus <code>+++</code> lines, indicating that it is TOML formatted.</p>
-
 <h2 id="create-content">Create content</h2>
-
 <ul>
 <li>create a new project: <code>hugo new  --kind project project/my-project-name</code></li>
 <li>create a new talk: <code>hugo new  --kind talk talk/my-talk-name</code></li>
 <li>create a post: <code>hugo new  --kind post post/my-article-name</code></li>
 <li>create a publication <em>manually</em>: <code>hugo new --kind publication publication/&lt;my-publication&gt;</code></li>
 </ul>
-
 <h2 id="syntax-highlight">Syntax highlight</h2>
-
-<p>Somehow syntax highlighting with <span class="markup-quote">```yaml</span> doesn&rsquo;t work, <span class="markup-quote">```json</span> works instead.</p>
-
-<p>``` is highlighted by <code>{{</code><code>&lt; hl &gt;}</code><code>}the code to be highlighted{</code><code>{&lt; hl &gt;}</code><code>}</code>.</p>
-
+<p>Somehow syntax highlighting with <span class="markup-quote"><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"></code></pre></div></span> doesn&rsquo;t work, <span class="markup-quote"><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-json" data-lang="json"></code></pre></div></span> works instead.</p>
+<p>``` is highlighted by <code>{{``&lt; hl &gt;}``}the code to be highlighted{``{&lt; hl &gt;}``}</code>.</p>
 <h2 id="create-a-non-widget-new-page">Create a non-widget new page</h2>
+<p>By following <a href="https://sourcethemes.com/academic/docs/managing-content/#create-a-page">the instruction</a>, a new webpage is created by creating a folder with the new page&rsquo;s name in <code>content</code> and with <code>index.md</code> inside. For example, I created a webpage called <code>cv</code>.<code>cv</code> is a folder within <code>content</code> folder and it has <code>index.md</code> inside. Below is the source code of <code>cv/index.md</code>:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-json" data-lang="json"><span style="color:#960050;background-color:#1e0010">---</span>
+<span style="color:#960050;background-color:#1e0010">title:</span> <span style="color:#960050;background-color:#1e0010">Jing&#39;s</span> <span style="color:#960050;background-color:#1e0010">CV</span>
+<span style="color:#960050;background-color:#1e0010">summary:</span> <span style="color:#960050;background-color:#1e0010">test</span> <span style="color:#960050;background-color:#1e0010">on</span> <span style="color:#960050;background-color:#1e0010">how</span> <span style="color:#960050;background-color:#1e0010">to</span> <span style="color:#960050;background-color:#1e0010">add</span> <span style="color:#960050;background-color:#1e0010">a</span> <span style="color:#960050;background-color:#1e0010">page</span> <span style="color:#960050;background-color:#1e0010">to</span> <span style="color:#960050;background-color:#1e0010">your</span> <span style="color:#960050;background-color:#1e0010">site.</span>
+<span style="color:#960050;background-color:#1e0010">date:</span> <span style="color:#e6db74">&#34;2019-08-09T00:00:00Z&#34;</span>
 
-<p>By following <a href="https://sourcethemes.com/academic/docs/managing-content/#create-a-page" target="_blank">the instruction</a>, a new webpage is created by creating a folder with the new page&rsquo;s name in <code>content</code> and with <code>index.md</code> inside. For example, I created a webpage called <code>cv</code>.<code>cv</code> is a folder within <code>content</code> folder and it has <code>index.md</code> inside. Below is the source code of <code>cv/index.md</code>:</p>
+<span style="color:#960050;background-color:#1e0010">reading_time:</span> <span style="color:#66d9ef">false</span>  <span style="color:#960050;background-color:#1e0010">#</span> <span style="color:#960050;background-color:#1e0010">Show</span> <span style="color:#960050;background-color:#1e0010">estimated</span> <span style="color:#960050;background-color:#1e0010">reading</span> <span style="color:#960050;background-color:#1e0010">time?</span>
+<span style="color:#960050;background-color:#1e0010">share:</span> <span style="color:#66d9ef">false</span>  <span style="color:#960050;background-color:#1e0010">#</span> <span style="color:#960050;background-color:#1e0010">Show</span> <span style="color:#960050;background-color:#1e0010">social</span> <span style="color:#960050;background-color:#1e0010">sharing</span> <span style="color:#960050;background-color:#1e0010">links?</span>
+<span style="color:#960050;background-color:#1e0010">profile:</span> <span style="color:#66d9ef">false</span>  <span style="color:#960050;background-color:#1e0010">#</span> <span style="color:#960050;background-color:#1e0010">Show</span> <span style="color:#960050;background-color:#1e0010">author</span> <span style="color:#960050;background-color:#1e0010">profile?</span>
+<span style="color:#960050;background-color:#1e0010">comments:</span> <span style="color:#66d9ef">false</span>  <span style="color:#960050;background-color:#1e0010">#</span> <span style="color:#960050;background-color:#1e0010">Show</span> <span style="color:#960050;background-color:#1e0010">comments?</span>
 
-<pre><code class="language-json">---
-title: Jing's CV
-summary: test on how to add a page to your site.
-date: &quot;2019-08-09T00:00:00Z&quot;
-
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
-
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: &quot;&quot;
-  image: &quot;&quot;
----
-</code></pre>
-
-<h2 id="cross-reference-and-link-in-markdown-and-shortcodes">Cross-reference and link in Markdown and shortcodes</h2>
-
-<p>What I&rsquo;d like to achieve is to cross-reference some content on my website) to another page. For example, to link <code>cv</code> to this note. The <a href="https://sourcethemes.com/academic/docs/managing-content/#linking-to-your-new-page" target="_blank">reference</a> suggests using <code>[My CV](</code><code>{</code><code>{</code><code>&lt; ref &quot;cv/index.md&quot;</code> <code>&gt;}})</code>, and I found
+<span style="color:#960050;background-color:#1e0010">#</span> <span style="color:#960050;background-color:#1e0010">Optional</span> <span style="color:#960050;background-color:#1e0010">header</span> <span style="color:#960050;background-color:#1e0010">image</span> <span style="color:#960050;background-color:#1e0010">(relative</span> <span style="color:#960050;background-color:#1e0010">to</span> <span style="color:#960050;background-color:#1e0010">`static/img/`</span> <span style="color:#960050;background-color:#1e0010">folder).</span>
+<span style="color:#960050;background-color:#1e0010">header:</span>
+  <span style="color:#960050;background-color:#1e0010">caption:</span> <span style="color:#e6db74">&#34;&#34;</span>
+  <span style="color:#960050;background-color:#1e0010">image:</span> <span style="color:#e6db74">&#34;&#34;</span>
+<span style="color:#960050;background-color:#1e0010">---</span>
+</code></pre></div><h2 id="cross-reference-and-link-in-markdown-and-shortcodes">Cross-reference and link in Markdown and shortcodes</h2>
+<p>What I&rsquo;d like to achieve is to cross-reference some content on my website) to another page. For example, to link <code>cv</code> to this note. The <a href="https://sourcethemes.com/academic/docs/managing-content/#linking-to-your-new-page">reference</a> suggests using <code>[My CV](``{``{``&lt; ref &quot;cv/index.md&quot;</code> <code>&gt;}})</code>, and I found
 <code>[My CV](/cv/)</code> works too (<a href="/cv/">My CV</a>). Similary, I can use <a href="/publication/zha-2019-vlsic/">my publication in VLSI&rsquo;19</a> with <code>[my publication in VLSI'19](/publication/zha-2019-vlsic/)</code>, where there is a <code>index.md</code> file in <code>/publication/zha-2019-vlsic/</code>;  or <code>[my research](/research/)</code> &ndash; <a href="/research/">my research</a>, <code>[a project](/project/augmenting-computer-system)</code> &ndash; <a href="/project/augmenting-computer-system">a project</a>, <a href="/courses/example">a course</a>, <a href="/post/getting-started/">a post</a>, etc, <em>as long as there is a <code>index.md</code> or <code>_index.md</code> in the folder</em>.</p>
-
 <p><strong>Paths without a leading <code>/</code> will first be tried resolved relative to the current page</strong>. Therefore the <strong>URL should start with a <code>/</code></strong> which will casue it to <em>correctly</em> concatenate itself with the root domain of your baseURL defined in <code>config.toml</code> &ndash; <code>localhost:1313/post/getting-started/</code> in developer mode, rather than <code>localhost:1313/&lt;address of this note&gt;/post/getting-started/</code>.</p>
-
-<p>Read <a href="https://gohugo.io/content-management/cross-references/" target="_blank">more</a> on using shortcodes for cross-reference.</p>
-
+<p>Read <a href="https://gohugo.io/content-management/cross-references/">more</a> on using shortcodes for cross-reference.</p>
 <h2 id="create-a-publication">Create a publication</h2>
-
-<p>Refer to <a href="https://sourcethemes.com/academic/docs/managing-content/#create-a-publication" target="_blank">this instruction</a>. The automatic import function is:</p>
-
+<p>Refer to <a href="https://sourcethemes.com/academic/docs/managing-content/#create-a-publication">this instruction</a>. The automatic import function is:</p>
 <pre><code>academic import --bibtex &lt;path_to_your/publications.bib&gt;
-</code></pre>
-
-<p>Just need to make sure that the .bib file is named to be <strong>publications.bib</strong></p>
-
+</code></pre><p>Just need to make sure that the .bib file is named to be <strong>publications.bib</strong></p>
 <p>If there are some typos in the auto generated publication, or if you want to update some details about the publication, you should edit the parameters in <code>content/publication/&lt;my-publication&gt;/index.md</code>.</p>
-
-<div class="alert alert-note">
-  <div>
-    <code>academic</code> package is cross-platform and can be installed with the same command <code>pip3 install -U academic</code> on Windows and macOS. However, somehow <strong>v0.2.7</strong> is installed on Windows while <strong>v0.4.0</strong> on macOS. The most distinct difference between the two versions are: v0.2.7 converts bib file to TOML format for Hugo while v0.4.0 YAML. Currently academic handles publication/talk/post webpage in <strong>YAML</strong>, so this convertion job should be conducted on macOS.
-  </div>
-</div>
-
+<!-- raw HTML omitted -->
 <h3 id="other-approaches">Other approaches</h3>
-
-<p>I wrote a <a href="https://github.com/bdai6/parse_bib.git" target="_blank">custom python code</a> based on <code>apetros/parse_bib</code> and <a href="https://github.com/sciunto-org/python-bibtexparser.git" target="_blank">bibtexparser</a>. It was able to create publication pages with more details than the method menthioned above.</p>
-
-<div class="alert alert-note">
-  <div>
-    Bib items with lines commented out by <code>%</code> will be ignored by <code>bibtexparser</code>, so will by the Academic buildin tool. So make sure to clean up the bib file before running the script.
-  </div>
-</div>
-
+<p>I wrote a <a href="https://github.com/bdai6/parse_bib.git">custom python code</a> based on <code>apetros/parse_bib</code> and <a href="https://github.com/sciunto-org/python-bibtexparser.git">bibtexparser</a>. It was able to create publication pages with more details than the method menthioned above.</p>
+<!-- raw HTML omitted -->
 <h2 id="create-table-of-contents">Create Table of Contents</h2>
-
-<p>Use the <code>{</code><code>{% toc %\}</code><code>}</code> shortcode anywhere you wish within your Markdown content to automatically generate a table of contents. For example, refer to the <a href="#table-of-contents">top of the page</a>.</p>
-
+<p>Use the <code>{``{% toc %\}``}</code> shortcode anywhere you wish within your Markdown content to automatically generate a table of contents. For example, refer to the <a href="#table-of-contents">top of the page</a>.</p>
 <h2 id="what-shortcodes-can-do">What shortcodes can do</h2>
-
-<p><a href="https://gohugo.io/content-management/shortcodes/" target="_blank">Shortcodes</a> are plugins which are bundled with Academic or inherited from Hugo. From previous sections, we can see that sometimes it is not as straighforward as Markdown for example in dealing with <a href="#cross-reference-and-link-in-markdown-and-shortcodes">links</a>. But it is actually more flexible and powerful, as we saw in the examples of  <a href="#syntax-highlight">highlighting</a> and <a href="#create-table-of-contents">table of contents</a>, etc. One more example,
-<code>{</code><code>{% staticref &quot;files/CV-JingLi.pdf&quot; &quot;newtab&quot; %}</code><code>}Download my CV{</code><code>{% /staticref %}</code><code>}</code> is able to open a new tab for <a href="/files/CV-JingLi.pdf" target="_blank">Download my CV</a>, while <code>[Download my CV](/files/CV-JingLi.pdf)</code> cannot.</p>
-
-<p>Some more examples can be found <a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank">here</a> and <a href="https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes" target="_blank">here</a>.</p>
-
+<p><a href="https://gohugo.io/content-management/shortcodes/">Shortcodes</a> are plugins which are bundled with Academic or inherited from Hugo. From previous sections, we can see that sometimes it is not as straighforward as Markdown for example in dealing with <a href="#cross-reference-and-link-in-markdown-and-shortcodes">links</a>. But it is actually more flexible and powerful, as we saw in the examples of  <a href="#syntax-highlight">highlighting</a> and <a href="#create-table-of-contents">table of contents</a>, etc. One more example,
+<code>{``{% staticref &quot;files/CV-JingLi.pdf&quot; &quot;newtab&quot; %}``}Download my CV{``{% /staticref %}``}</code> is able to open a new tab for <!-- raw HTML omitted -->Download my CV<!-- raw HTML omitted -->, while <code>[Download my CV](/files/CV-JingLi.pdf)</code> cannot.</p>
+<p>Some more examples can be found <a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/">here</a> and <a href="https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes">here</a>.</p>
 <p><code>&lt;a href=&quot;/files/cv.pdf&quot; target=&quot;_blank&quot;&gt;Download my CV&lt;/a&gt;</code></p>
-
 <p><code>[A publication](https://penn-cil.github.io/publication/zha-2019-vlsic/)</code></p>
-
 <p><code>[My CV](https://penn-cil.github.io/cv/)</code></p>
-
 <h3 id="more-on-shortcodes">More on shortcodes</h3>
-
-<p><strong>Syntax of shortcodes</strong>: <code>{</code><code>{% shortcodename parameters %}</code><code>}</code></p>
-
+<p><strong>Syntax of shortcodes</strong>: <code>{``{% shortcodename parameters %}``}</code></p>
 <p><code>ref</code> and <code>relref</code> will look up the pages by their relative path (e.g., <code>blog/post.md</code>) or their logical name (<code>post.md</code>) and return the <em>absolute</em> permalink (<code>ref</code>) or <em>relative</em> permalink (<code>relref</code>) for the found page.</p>
-
 <h2 id="deploy-generated-website-to-git-pages">Deploy generated website to Git Pages</h2>
-
 <p>Before running <code>hugo</code> and <code>push</code> the generated website html code from <code>public</code> to <code>&lt;user-name&gt;.github.io</code>, we should do <code>cd publkic</code> and use <code>rm -rf *</code> to remove everything in <code>public</code> folder, as <code>hugo</code> does NOT clear all the previous generated files.</p>
-
 <h2 id="publications-and-other-content-are-not-sorted-by-newest-first">Publications and other content are not sorted by newest first</h2>
-
-<p>Hugo/TOML require that the value for the date field should be in <a href="https://github.com/toml-lang/toml#local-date-time" target="_blank">TOML format</a>, as per frontmatter of the <code>content/publication/</code> files in the example site. If you want to use a partial date, such as year, you should still complete a full date to make a valid TOML date format.</p>
-
+<p>Hugo/TOML require that the value for the date field should be in <a href="https://github.com/toml-lang/toml#local-date-time">TOML format</a>, as per frontmatter of the <code>content/publication/</code> files in the example site. If you want to use a partial date, such as year, you should still complete a full date to make a valid TOML date format.</p>
 <h2 id="insert-an-image-with-markdown">Insert an image with Markdown</h2>
-
 <ul>
-<li><p>Image with title:
+<li>
+<p>Image with title:
 <code>![PennCIL logo](/img/icon-192.png &quot;Title: PennCIL logo&quot;)</code>
-<img src="/img/icon-192.png" alt="PennCIL logo" title="Title: PennCIL logo" /></p></li>
-
-<li><p>Image with caption:
+<img src="/img/icon-192.png" alt="PennCIL logo" title="Title: PennCIL logo"></p>
+</li>
+<li>
+<p>Image with caption:
 <code>![PennCIL logo](/img/icon-192.png &quot;Title: PennCIL logo&quot;)*Caption: PennCIL logo*</code>
-<img src="/img/icon-192.png" alt="PennCIL logo" title="Title: PennCIL logo" /><em>Caption: PennCIL logo</em></p></li>
-
-<li><p>Image with title, caption, and <strong>clickable link</strong>:
+<img src="/img/icon-192.png" alt="PennCIL logo" title="Title: PennCIL logo"><em>Caption: PennCIL logo</em></p>
+</li>
+<li>
+<p>Image with title, caption, and <strong>clickable link</strong>:
 <code>[![PennCIL logo](/img/icon-192.png &quot;Title: PennCIL logo&quot;)*Caption: PennCIL logo*](/#research)</code>
-<a href="/#research"><img src="/img/icon-192.png" alt="PennCIL logo" title="Title: PennCIL logo" /><em>Caption: PennCIL logo</em></a></p></li>
+<a href="/#research"><img src="/img/icon-192.png" alt="PennCIL logo" title="Title: PennCIL logo"><em>Caption: PennCIL logo</em></a></p>
+</li>
 </ul>
-
 <p><code>*Caption: PennCIL logo*</code> can be removed without affecting the link. This code is essentially achieved by nesting two markdown commands, i.e., <em>image</em> <code>![]()</code> <em>within link</em> <code>[]()</code>.</p>
-
 <h2 id="lists-with-markdown">Lists with Markdown</h2>
-
 <p>A numbered list is created by</p>
-
 <pre><code>1. First
 2. Second
   1. alpha
   2. beta
 3. Third
-</code></pre>
-
-<p>Actually automatic increment of numbers can be achived by</p>
-
+</code></pre><p>Actually automatic increment of numbers can be achived by</p>
 <pre><code>1. First
 1. Second
   1. alpha
   1. beta
 1. Third
-</code></pre>
-
-<ol>
+</code></pre><ol>
 <li>First</li>
-<li>Second
-
-<ol>
+<li>Second</li>
 <li>alpha</li>
 <li>beta</li>
-</ol></li>
 <li>Third</li>
 </ol>
-
 <h2 id="associate-post-publication-and-talk-with-projects">Associate Post, Publication, and Talk with projects</h2>
-
 <p>In the front matter of <code>index.md</code> of a <em>post, publication</em>, or <em>talk</em>, set <code>projects: [&quot;project1&quot;, &quot;project2&quot;]</code>. Make sure each item must match a project filename exactly (without file extension) for a link to be generated. Refer to <code>content\publication\zha-2019-vlsic\index.md</code> for example.</p>
-
 <p>Similarly, a publication can associate with Markdown slides. Set <code>slides: &quot;slide-name&quot;</code>.</p>
 
           </div>

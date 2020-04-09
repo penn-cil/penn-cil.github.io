@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>low-power electronics | Penn Computational Intelligence Lab</title>
+    <title>low power electronics | Penn Computational Intelligence Lab</title>
     <link>https://penn-cil.github.io/tags/low-power-electronics/</link>
       <atom:link href="https://penn-cil.github.io/tags/low-power-electronics/index.xml" rel="self" type="application/rss+xml" />
-    <description>low-power electronics</description>
+    <description>low power electronics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jun 2013 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
-      <title>low-power electronics</title>
+      <title>low power electronics</title>
       <link>https://penn-cil.github.io/tags/low-power-electronics/</link>
     </image>
     
@@ -52,24 +52,6 @@
       <pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/publication/li-2007-islped/</guid>
       <description>&lt;p&gt;(Acceptance Rate: underline39%, 74 out of 192)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>High Performance and Low Power Electronics on Flexible Substrate</title>
-      <link>https://penn-cil.github.io/publication/li-2007-dac/</link>
-      <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/publication/li-2007-dac/</guid>
-      <description>&lt;p&gt;(Acceptance Rate*: underline13%)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>High Performance and Low Power Electronics on Flexible Substrate</title>
-      <link>https://penn-cil.github.io/publication/li-2007-dac/</link>
-      <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/publication/li-2007-dac/</guid>
-      <description>&lt;p&gt;(Acceptance Rate*: underline13%)&lt;/p&gt;
 </description>
     </item>
     

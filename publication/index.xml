@@ -151,7 +151,7 @@
       <link>https://penn-cil.github.io/publication/zha-2018-fpga/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/publication/zha-2018-fpga/</guid>
-      <description>&lt;p&gt;(Acceptance Rate*: underline24%, Ranked &lt;strong&gt;#1&lt;/strong&gt; among 100+ submissions)&lt;/p&gt;
+      <description>&lt;p&gt;(Acceptance Rate*: underline24%, Ranked **#1** among 100+ submissions)&lt;/p&gt;
 </description>
     </item>
     
@@ -502,20 +502,20 @@
     </item>
     
     <item>
-      <title>Robust Heterogeneous System Design in Spintronics: Error Resilient Spin Torque MRAM (STT MRAM) Design</title>
-      <link>https://penn-cil.github.io/publication/li-2009-dac/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/publication/li-2009-dac/</guid>
-      <description>&lt;p&gt;(Acceptance Rate: underline22%, 148 out of 684)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Robust and Energy-efficient Heterogeneous System Design in Emerging Technologies (**Best Thesis Award nominee**)</title>
       <link>https://penn-cil.github.io/publication/li-2009-phd/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/publication/li-2009-phd/</guid>
       <description>&lt;p&gt;Advisor: Prof. Kaushik Roy&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robust Heterogeneous System Design in Spintronics: Error Resilient Spin Torque MRAM (STT MRAM) Design</title>
+      <link>https://penn-cil.github.io/publication/li-2009-dac/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/publication/li-2009-dac/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline22%, 148 out of 684)&lt;/p&gt;
 </description>
     </item>
     

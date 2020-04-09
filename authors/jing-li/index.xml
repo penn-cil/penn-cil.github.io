@@ -5,7 +5,7 @@
     <link>https://penn-cil.github.io/authors/jing-li/</link>
       <atom:link href="https://penn-cil.github.io/authors/jing-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Penn Computational Intelligence Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Apr 2020 19:28:42 -0400</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
       <title>Penn Computational Intelligence Lab</title>
@@ -17,7 +17,7 @@
       <link>https://penn-cil.github.io/project/two-d-ap/</link>
       <pubDate>Fri, 16 Aug 2019 16:00:10 -0500</pubDate>
       <guid>https://penn-cil.github.io/project/two-d-ap/</guid>
-      <description>&lt;p&gt;The research project, titled &amp;ldquo;&lt;em&gt;Associative In-Memory Graph Processing Paradigm: Towards Tera-TEPS Graph Traversal In a Box&lt;/em&gt;&amp;rdquo;, won the &lt;strong&gt;NSF CAREER Award&lt;/strong&gt; in 2018. In this research, we developed a radically new computing paradigm, namely two-dimensional associative processing (2D AP) to further advance our previous FPGA-based graph processing architectures and fundamentally address their limitations. Mathematically, 2D AP is a new general-purpose computing model that exploits an extra dimension of parallelism (both intra-word and inter-word parallelism) to accelerate computation as compared with traditional AP which only exploit inter-word parallelism. It is particularly beneficial for massive-scale graph processing. For the first time, we provide a theoretical proof that 2D AP is inherently more efficient as measured by &amp;ldquo;&lt;em&gt;architecturally determined complexity&lt;/em&gt;&amp;rdquo; in runtime/area/energy than both von Neumann architecture and traditional AP paradigm in performing graph computation. We also provide detailed micro-architectures and circuits to best implement the proposed computing model, with domain-special language support. A preliminary published version of 2D AP [&lt;a href=&#34;https://penn-cil.github.io/publication/khoram-2018-cal&#34;&gt;Khoram2018CAL&lt;/a&gt;] was recognized as &lt;strong&gt;best of CAL&lt;/strong&gt; (IEEE Computer Architecture Letters) in 2018.&lt;/p&gt;
+      <description>&lt;p&gt;The research project, titled &amp;ldquo;&lt;em&gt;Associative In-Memory Graph Processing Paradigm: Towards Tera-TEPS Graph Traversal In a Box&lt;/em&gt;&amp;quot;, won the &lt;strong&gt;NSF CAREER Award&lt;/strong&gt; in 2018. In this research, we developed a radically new computing paradigm, namely two-dimensional associative processing (2D AP) to further advance our previous FPGA-based graph processing architectures and fundamentally address their limitations. Mathematically, 2D AP is a new general-purpose computing model that exploits an extra dimension of parallelism (both intra-word and inter-word parallelism) to accelerate computation as compared with traditional AP which only exploit inter-word parallelism. It is particularly beneficial for massive-scale graph processing. For the first time, we provide a theoretical proof that 2D AP is inherently more efficient as measured by &amp;ldquo;&lt;em&gt;architecturally determined complexity&lt;/em&gt;&amp;rdquo; in runtime/area/energy than both von Neumann architecture and traditional AP paradigm in performing graph computation. We also provide detailed micro-architectures and circuits to best implement the proposed computing model, with domain-special language support. A preliminary published version of 2D AP [&lt;a href=&#34;https://penn-cil.github.io/publication/khoram-2018-cal&#34;&gt;Khoram2018CAL&lt;/a&gt;] was recognized as &lt;strong&gt;best of CAL&lt;/strong&gt; (IEEE Computer Architecture Letters) in 2018.&lt;/p&gt;
 </description>
     </item>
     
@@ -27,9 +27,17 @@
       <pubDate>Fri, 16 Aug 2019 16:02:06 -0500</pubDate>
       <guid>https://penn-cil.github.io/project/large-graph/</guid>
       <description>&lt;p&gt;Extremely large, sparse graphs with billions of nodes and hundreds of billions of edges arise in many important problem domains ranging from social science, bioinformatics, to video content analysis and search engines. In response to the increasingly larger and more diverse graphs, and the critical need of analyzing them, we focus on &lt;em&gt;large scale graph analytics&lt;/em&gt;, an essential class of big data analysis, to explore the comprehensive relationship among a vast collection of interconnected entities. However, it is challenging for existing computer systems to process the massive-scale real-world graphs, not only due to their large memory footprint, but also that most graph algorithms entail irregular memory access patterns and a low compute-to-memory access ratio.&lt;/p&gt;
-
-&lt;p&gt;In this research, we invented &amp;ldquo;&lt;em&gt;degree-aware&lt;/em&gt;&amp;rdquo; hardware/software techniques to improve graph processing efficiency. Our research is built atop a key insight that we obtained from architecture-independent algorithm analysis, which has not been revealed in prior work. More specifically, we identified that a key challenge in processing massive-scale graphs is the redundant graph computations caused by the presence of high-degree vertices which not only increase the total amount of computations but also incur unnecessary random data access. To address this challenge, we developed variants of graph processing systems on an FPGA-HMC platform [&lt;a href=&#34;https://penn-cil.github.io/publication/zhang-2018-fpga&#34;&gt;Zhang2018FPGA-Graph&lt;/a&gt;, &lt;a href=&#34;https://penn-cil.github.io/publication/khoram-2018-fpga&#34;&gt;Khoram2018FPGA&lt;/a&gt;, &lt;a href=&#34;https://penn-cil.github.io/publication/zhang-2017-fpga-bfs&#34;&gt;Zhang2017FPGA-BFS&lt;/a&gt;]. For the first time, we leverage the inherent graph property i.e. vertex degree to co-optimize algorithm and hardware architecture. In particular, the unique contributions we made include two algorithm optimization techniques: degree-aware adjacency list reordering and degree-aware vertex index sorting. The former reduces the number of redundant graph computations, while the latter creates a strong correlation between vertex index and data access frequency, which can be effectively applied to guide the hardware design. Further, by leveraging the strong correlation between vertex index and data access frequency created by degree-aware vertex index sorting, we developed two platform-dependent hardware optimization techniques, namely degree-aware data placement and degree-aware adjacency list compression. These two techniques together substantially reduce the amount of external memory access. Finally, we completed the full system design on an FPGA-HMC platform to verify the effectiveness of these techniques. Our implementation achieved the highest performance (45.8 billion traversed edges per second) among existing FPGA-based graph processing systems and was ranked &lt;strong&gt;No. 1&lt;/strong&gt; on &lt;a href=&#34;http://graph500.org/?page_id=724&#34; target=&#34;_blank&#34;&gt;GreenGraph500 list&lt;/a&gt;.
-&lt;img src=&#34;https://penn-cil.github.io/img/GreenGraph500.png&#34; alt=&#34;Green Graph500&#34; title=&#34;Green Graph500&#34; /&gt;&lt;em&gt;Green Graph500 (updated June 19, 2019)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In this research, we invented &amp;ldquo;&lt;em&gt;degree-aware&lt;/em&gt;&amp;rdquo; hardware/software techniques to improve graph processing efficiency. Our research is built atop a key insight that we obtained from architecture-independent algorithm analysis, which has not been revealed in prior work. More specifically, we identified that a key challenge in processing massive-scale graphs is the redundant graph computations caused by the presence of high-degree vertices which not only increase the total amount of computations but also incur unnecessary random data access. To address this challenge, we developed variants of graph processing systems on an FPGA-HMC platform [&lt;a href=&#34;https://penn-cil.github.io/publication/zhang-2018-fpga&#34;&gt;Zhang2018FPGA-Graph&lt;/a&gt;, &lt;a href=&#34;https://penn-cil.github.io/publication/khoram-2018-fpga&#34;&gt;Khoram2018FPGA&lt;/a&gt;, &lt;a href=&#34;https://penn-cil.github.io/publication/zhang-2017-fpga-bfs&#34;&gt;Zhang2017FPGA-BFS&lt;/a&gt;]. For the first time, we leverage the inherent graph property i.e. vertex degree to co-optimize algorithm and hardware architecture. In particular, the unique contributions we made include two algorithm optimization techniques: degree-aware adjacency list reordering and degree-aware vertex index sorting. The former reduces the number of redundant graph computations, while the latter creates a strong correlation between vertex index and data access frequency, which can be effectively applied to guide the hardware design. Further, by leveraging the strong correlation between vertex index and data access frequency created by degree-aware vertex index sorting, we developed two platform-dependent hardware optimization techniques, namely degree-aware data placement and degree-aware adjacency list compression. These two techniques together substantially reduce the amount of external memory access. Finally, we completed the full system design on an FPGA-HMC platform to verify the effectiveness of these techniques. Our implementation achieved the highest performance (45.8 billion traversed edges per second) among existing FPGA-based graph processing systems and was ranked &lt;strong&gt;No. 1&lt;/strong&gt; on &lt;a href=&#34;http://graph500.org/?page_id=724&#34;&gt;GreenGraph500 list&lt;/a&gt;.
+&lt;img src=&#34;https://penn-cil.github.io/img/GreenGraph500.png&#34; alt=&#34;Green Graph500&#34; title=&#34;Green Graph500&#34;&gt;&lt;em&gt;Green Graph500 (updated June 19, 2019)&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our paper got accepted at ISCA&#39;20</title>
+      <link>https://penn-cil.github.io/post/isca2020/</link>
+      <pubDate>Thu, 09 Apr 2020 19:28:42 -0400</pubDate>
+      <guid>https://penn-cil.github.io/post/isca2020/</guid>
+      <description>&lt;p&gt;Yue Zha and Jing Li, &amp;ldquo;Hyper-AP: Enhancing Associative Processing Through A Full-Stack Optimization&amp;rdquo;, &lt;em&gt;IEEE/ACM International Symposium on Computer Architecture (&lt;strong&gt;ISCA&lt;/strong&gt;)&lt;/em&gt;, 2020.&lt;/p&gt;
 </description>
     </item>
     
@@ -54,7 +62,7 @@
       <link>https://penn-cil.github.io/post/liquid-silicon-jssc-2020/</link>
       <pubDate>Tue, 24 Dec 2019 22:48:15 -0600</pubDate>
       <guid>https://penn-cil.github.io/post/liquid-silicon-jssc-2020/</guid>
-      <description>&lt;p&gt;Yue Zha, Etienne Nowak, and Jing Li, &amp;ldquo;Liquid Silicon: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated ReRAM for Big Data/Machine Learning Applications (&lt;strong&gt;invited&lt;/strong&gt;)&amp;ldquo;, &lt;em&gt;IEEE Journal of Solid-State Circuits (&lt;strong&gt;JSSC&lt;/strong&gt;)&lt;/em&gt;, .&lt;/p&gt;
+      <description>&lt;p&gt;Yue Zha, Etienne Nowak, and Jing Li, &amp;ldquo;Liquid Silicon: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated ReRAM for Big Data/Machine Learning Applications (&lt;strong&gt;invited&lt;/strong&gt;)&amp;quot;, &lt;em&gt;IEEE Journal of Solid-State Circuits (&lt;strong&gt;JSSC&lt;/strong&gt;)&lt;/em&gt;,2020.&lt;/p&gt;
 </description>
     </item>
     
@@ -63,7 +71,7 @@
       <link>https://penn-cil.github.io/post/fpga-virtualization-asplos-2020/</link>
       <pubDate>Tue, 24 Dec 2019 22:48:15 -0600</pubDate>
       <guid>https://penn-cil.github.io/post/fpga-virtualization-asplos-2020/</guid>
-      <description>&lt;p&gt;Yue Zha and Jing Li, &amp;ldquo;ViTAL: Virtualizing FPGAs in the Cloud,&amp;ldquo;, in &lt;em&gt;the 24th ACM International Conference on Architectural Support for Programming Languages and Operating Systems&lt;/em&gt; (&lt;strong&gt;ASPLOS&lt;/strong&gt; &amp;lsquo;20).&lt;/p&gt;
+      <description>&lt;p&gt;Yue Zha and Jing Li, &amp;ldquo;ViTAL: Virtualizing FPGAs in the Cloud,&amp;quot;, in &lt;em&gt;the 24th ACM International Conference on Architectural Support for Programming Languages and Operating Systems&lt;/em&gt; (&lt;strong&gt;ASPLOS&lt;/strong&gt; &amp;lsquo;20).&lt;/p&gt;
 </description>
     </item>
     
@@ -222,7 +230,7 @@
       <link>https://penn-cil.github.io/publication/zha-2018-fpga/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/publication/zha-2018-fpga/</guid>
-      <description>&lt;p&gt;(Acceptance Rate*: underline24%, Ranked &lt;strong&gt;#1&lt;/strong&gt; among 100+ submissions)&lt;/p&gt;
+      <description>&lt;p&gt;(Acceptance Rate*: underline24%, Ranked **#1** among 100+ submissions)&lt;/p&gt;
 </description>
     </item>
     
@@ -573,20 +581,20 @@
     </item>
     
     <item>
-      <title>Robust Heterogeneous System Design in Spintronics: Error Resilient Spin Torque MRAM (STT MRAM) Design</title>
-      <link>https://penn-cil.github.io/publication/li-2009-dac/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/publication/li-2009-dac/</guid>
-      <description>&lt;p&gt;(Acceptance Rate: underline22%, 148 out of 684)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Robust and Energy-efficient Heterogeneous System Design in Emerging Technologies (**Best Thesis Award nominee**)</title>
       <link>https://penn-cil.github.io/publication/li-2009-phd/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/publication/li-2009-phd/</guid>
       <description>&lt;p&gt;Advisor: Prof. Kaushik Roy&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robust Heterogeneous System Design in Spintronics: Error Resilient Spin Torque MRAM (STT MRAM) Design</title>
+      <link>https://penn-cil.github.io/publication/li-2009-dac/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/publication/li-2009-dac/</guid>
+      <description>&lt;p&gt;(Acceptance Rate: underline22%, 148 out of 684)&lt;/p&gt;
 </description>
     </item>
     
@@ -695,21 +703,6 @@
       <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/publication/li-2006-drc/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://penn-cil.github.io/authors/jing-li/</link>
-      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/authors/jing-li/</guid>
-      <description>&lt;p&gt;Dr. Jing (Jane) Li is the Eduardo D. Glandt Faculty Fellow and Associate Professor at the Department of Electrical and System Engineering at the University of Pennsylvania. Previously she was the Dugald C. Jackson Assistant Professor at the University of Wisconsin–Madison and a faculty affiliate with the UW-Madison &lt;a href=&#34;http://pages.cs.wisc.edu/~arch/uwarch/&#34; target=&#34;_blank&#34;&gt;Computer Architecture group&lt;/a&gt; and &lt;a href=&#34;https://machinelearning.wisc.edu/&#34; target=&#34;_blank&#34;&gt;Machine Learning group&lt;/a&gt;. She is one of the PIs in SRC JUMP center – Center for Research on Intelligent Storage and Processing-In-Memory (&lt;a href=&#34;https://crisp.engineering.virginia.edu/staff&#34; target=&#34;_blank&#34;&gt;CRISP&lt;/a&gt;). She spent her early career at &lt;a href=&#34;https://www.research.ibm.com/labs/watson/&#34; target=&#34;_blank&#34;&gt;IBM T. J. Watson Research Center&lt;/a&gt; as a &lt;em&gt;Research Staff Member&lt;/em&gt; after obtaining her PhD degree from Purdue University in 2009.&lt;/p&gt;
-
-&lt;p&gt;She is attracted to &lt;em&gt;all the big problems&lt;/em&gt; she can find in computer system across the stack regardless the specific sub-areas. She is a passionate &lt;strong&gt;computer experimentalist&lt;/strong&gt; and enjoy building &lt;em&gt;real&lt;/em&gt; computer systems (both hardware and software). She has made contributions to the following &amp;ldquo;&lt;em&gt;memory-centric&lt;/em&gt;&amp;rdquo; areas: 1) domain-specific accelerator and its interaction with emerging memories (HMC/HBM/NVM), 2) programmable in-memory computing architecture enabled by emerging nonvolatile memories (PCM/RRAM), 3) system support (e.g., virtualization) for accelerators (e.g., FPGA), and 4) FPGA-based full system simulation infrastructure (MEG) for memory system research. She has strong ties with leading technology companies and has successful technology transfer experience (&lt;strong&gt;&amp;gt;40 issued/pending patents&lt;/strong&gt;).&lt;/p&gt;
-
-&lt;p&gt;She is the recipient of prestigious &lt;strong&gt;NSF Career Award&lt;/strong&gt; in 2018, &lt;strong&gt;DARPA&amp;rsquo;s Young Faculty Award&lt;/strong&gt; (&lt;em&gt;one out of 2 in computer area and one out of 26 across all areas in science and technology nationwide, the first awardee in computer engineering and computer science at UW-Madison&lt;/em&gt;) in 2016, WARF Innovation Awards (WIA) Finalist (only 6 patented technologies out of 400+ patents got selected university wide), &lt;strong&gt;IBM Research Division Outstanding Technical Achievement Award&lt;/strong&gt; in 2012 for successfully achieving &lt;strong&gt;CEO milestone&lt;/strong&gt;, multiple invention achievement awards and high value patent application awards from IBM from 2010-2014, IBM Ph.D. Fellowship Award in 2008, Meissner Fellowship in 2004 from Purdue University, etc. Her research was reported by &lt;a href=&#34;https://ca.news.yahoo.com/liquid-silicon-chips-could-integrate-010242640.html&#34; target=&#34;_blank&#34;&gt;Yahoo News&lt;/a&gt;, &lt;a href=&#34;https://www.neweggbusiness.com/smartbuyer/components/liquid-silicon-computer-hardware/&#34; target=&#34;_blank&#34;&gt;Newegg Business&lt;/a&gt;, &lt;a href=&#34;https://www.digitaltrends.com/computing/liquid-silicon-merge-hardware-software-one-device/&#34; target=&#34;_blank&#34;&gt;Digital Trends&lt;/a&gt;, etc. And she was featured in Madison Magazine (Channel 3000) as a &lt;a href=&#34;https://www.channel3000.com/madison-magazine/city-life/a-rising-research-star/524062115&#34; target=&#34;_blank&#34;&gt;rising research star&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;She has been serving on the technical committee for the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (&lt;strong&gt;ASPLOS&lt;/strong&gt;), International Symposium on Computer Architecture (&lt;strong&gt;ISCA&lt;/strong&gt;), &lt;a href=&#34;https://mlsys.org/&#34; target=&#34;_blank&#34;&gt;MLSys&lt;/a&gt;, International Symposium on High Performance Computer Architecture (&lt;strong&gt;HPCA&lt;/strong&gt;), International Symposium on Field-Programmable Gate Arrays (&lt;strong&gt;FPGA&lt;/strong&gt;), International Symposium on Field-Programmable Custom Computing Machines (&lt;strong&gt;FCCM&lt;/strong&gt;), Design Automation Conference (&lt;strong&gt;DAC&lt;/strong&gt;), International Conference on Computer‑Aided Design (&lt;strong&gt;ICCAD&lt;/strong&gt;), International Symposium on Low Power Electronics and Design (&lt;strong&gt;ISLPED&lt;/strong&gt;), International Symposium on Microarchitecture (&lt;strong&gt;MICRO&lt;/strong&gt;) (external), IEEE International Symposium on Circuits and Systems (&lt;strong&gt;ISCAS&lt;/strong&gt;), International Electron Devices Meeting (&lt;strong&gt;IEDM&lt;/strong&gt;), etc.. She served as the &lt;em&gt;advisory chair/general chair / technical chair / finance chair / publicity chair&lt;/em&gt; for a premier industry memory conference – International Memory Workshop (&lt;strong&gt;IMW&lt;/strong&gt;) and co-organized it with Intel/Micron/SK Hynix/CEA LETI to hold annual meetings with worldwide memory vendors. She is in the &lt;em&gt;Steering/Organizing Committee&lt;/em&gt; for &lt;strong&gt;IMW&lt;/strong&gt;, and serves as the &lt;em&gt;Publicity Chair&lt;/em&gt; for &lt;strong&gt;FPGA&amp;rsquo;20&lt;/strong&gt;, &lt;strong&gt;FPGA&amp;rsquo;19&lt;/strong&gt; and &lt;strong&gt;ISLPED’18&lt;/strong&gt;, the &lt;em&gt;Demo Chair&lt;/em&gt; for &lt;strong&gt;MLSys&amp;rsquo;20&lt;/strong&gt; . She is an editor for Journal of Low Power Electronics (&lt;strong&gt;JOLPE&lt;/strong&gt;). She is serving at ACM SIGDA Technical Committee on FPGAs and Reconfigurable Computing (&lt;strong&gt;TC-FPGA&lt;/strong&gt;).&lt;/p&gt;
-</description>
     </item>
     
   </channel>

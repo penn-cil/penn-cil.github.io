@@ -5,12 +5,20 @@
     <link>https://penn-cil.github.io/tags/</link>
       <atom:link href="https://penn-cil.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Apr 2020 19:28:42 -0400</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
       <title>Tags</title>
       <link>https://penn-cil.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>associative processor</title>
+      <link>https://penn-cil.github.io/tags/associative-processor/</link>
+      <pubDate>Thu, 09 Apr 2020 19:28:42 -0400</pubDate>
+      <guid>https://penn-cil.github.io/tags/associative-processor/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>journal</title>
@@ -29,18 +37,18 @@
     </item>
     
     <item>
-      <title>FPGA</title>
-      <link>https://penn-cil.github.io/tags/fpga/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/fpga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>conference</title>
       <link>https://penn-cil.github.io/tags/conference/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FPGA</title>
+      <link>https://penn-cil.github.io/tags/fpga/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/fpga/</guid>
       <description></description>
     </item>
     
@@ -101,6 +109,14 @@
     </item>
     
     <item>
+      <title>ge</title>
+      <link>https://penn-cil.github.io/tags/ge/</link>
+      <pubDate>Fri, 16 Aug 2019 16:00:10 -0500</pubDate>
+      <guid>https://penn-cil.github.io/tags/ge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>general purpose computing</title>
       <link>https://penn-cil.github.io/tags/general-purpose-computing/</link>
       <pubDate>Fri, 16 Aug 2019 16:00:10 -0500</pubDate>
@@ -149,14 +165,6 @@
     </item>
     
     <item>
-      <title>RISC-V</title>
-      <link>https://penn-cil.github.io/tags/risc-v/</link>
-      <pubDate>Fri, 16 Aug 2019 15:58:48 -0500</pubDate>
-      <guid>https://penn-cil.github.io/tags/risc-v/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>in-memory</title>
       <link>https://penn-cil.github.io/tags/in-memory/</link>
       <pubDate>Fri, 16 Aug 2019 15:58:48 -0500</pubDate>
@@ -173,6 +181,14 @@
     </item>
     
     <item>
+      <title>nonvolatile</title>
+      <link>https://penn-cil.github.io/tags/nonvolatile/</link>
+      <pubDate>Fri, 16 Aug 2019 15:58:48 -0500</pubDate>
+      <guid>https://penn-cil.github.io/tags/nonvolatile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>nonvolatile memory</title>
       <link>https://penn-cil.github.io/tags/nonvolatile-memory/</link>
       <pubDate>Fri, 16 Aug 2019 15:58:48 -0500</pubDate>
@@ -185,6 +201,14 @@
       <link>https://penn-cil.github.io/tags/open-source/</link>
       <pubDate>Fri, 16 Aug 2019 15:58:48 -0500</pubDate>
       <guid>https://penn-cil.github.io/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RISC-V</title>
+      <link>https://penn-cil.github.io/tags/risc-v/</link>
+      <pubDate>Fri, 16 Aug 2019 15:58:48 -0500</pubDate>
+      <guid>https://penn-cil.github.io/tags/risc-v/</guid>
       <description></description>
     </item>
     
@@ -221,14 +245,6 @@
     </item>
     
     <item>
-      <title>DNN</title>
-      <link>https://penn-cil.github.io/tags/dnn/</link>
-      <pubDate>Fri, 16 Aug 2019 15:57:51 -0500</pubDate>
-      <guid>https://penn-cil.github.io/tags/dnn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>convolutional neural network</title>
       <link>https://penn-cil.github.io/tags/convolutional-neural-network/</link>
       <pubDate>Fri, 16 Aug 2019 15:57:51 -0500</pubDate>
@@ -241,6 +257,14 @@
       <link>https://penn-cil.github.io/tags/deep-learning/</link>
       <pubDate>Fri, 16 Aug 2019 15:57:51 -0500</pubDate>
       <guid>https://penn-cil.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNN</title>
+      <link>https://penn-cil.github.io/tags/dnn/</link>
+      <pubDate>Fri, 16 Aug 2019 15:57:51 -0500</pubDate>
+      <guid>https://penn-cil.github.io/tags/dnn/</guid>
       <description></description>
     </item>
     
@@ -305,6 +329,22 @@
       <link>https://penn-cil.github.io/tags/graph-processor/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/graph-processor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hardware</title>
+      <link>https://penn-cil.github.io/tags/hardware/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hardware accelerator</title>
+      <link>https://penn-cil.github.io/tags/hardware-accelerator/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/hardware-accelerator/</guid>
       <description></description>
     </item>
     
@@ -429,14 +469,6 @@
     </item>
     
     <item>
-      <title> field programmable gate arrays</title>
-      <link>https://penn-cil.github.io/tags/field-programmable-gate-arrays/</link>
-      <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/field-programmable-gate-arrays/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title> in-memory computing</title>
       <link>https://penn-cil.github.io/tags/in-memory-computing/</link>
       <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
@@ -453,10 +485,26 @@
     </item>
     
     <item>
+      <title>delay</title>
+      <link>https://penn-cil.github.io/tags/delay/</link>
+      <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/delay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>delays</title>
       <link>https://penn-cil.github.io/tags/delays/</link>
       <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/delays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>field programmable gate arrays</title>
+      <link>https://penn-cil.github.io/tags/field-programmable-gate-arrays/</link>
+      <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/field-programmable-gate-arrays/</guid>
       <description></description>
     </item>
     
@@ -573,7 +621,7 @@
     </item>
     
     <item>
-      <title>breadth first search</title>
+      <title>breadth-first search</title>
       <link>https://penn-cil.github.io/tags/breadth-first-search/</link>
       <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/breadth-first-search/</guid>
@@ -601,14 +649,6 @@
       <link>https://penn-cil.github.io/tags/graph-theory/</link>
       <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/graph-theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hardware</title>
-      <link>https://penn-cil.github.io/tags/hardware/</link>
-      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/hardware/</guid>
       <description></description>
     </item>
     
@@ -845,6 +885,14 @@
     </item>
     
     <item>
+      <title>rram</title>
+      <link>https://penn-cil.github.io/tags/rram/</link>
+      <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/rram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>rram technology</title>
       <link>https://penn-cil.github.io/tags/rram-technology/</link>
       <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
@@ -941,14 +989,6 @@
     </item>
     
     <item>
-      <title>hardware accelerator</title>
-      <link>https://penn-cil.github.io/tags/hardware-accelerator/</link>
-      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/hardware-accelerator/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>hybrid memory cube:bfs</title>
       <link>https://penn-cil.github.io/tags/hybrid-memory-cubebfs/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
@@ -965,6 +1005,14 @@
     </item>
     
     <item>
+      <title>te</title>
+      <link>https://penn-cil.github.io/tags/te/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/te/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ternary content addressable memory</title>
       <link>https://penn-cil.github.io/tags/ternary-content-addressable-memory/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
@@ -973,26 +1021,10 @@
     </item>
     
     <item>
-      <title>rram</title>
-      <link>https://penn-cil.github.io/tags/rram/</link>
-      <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/rram/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title> cmos memory circuits</title>
       <link>https://penn-cil.github.io/tags/cmos-memory-circuits/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/cmos-memory-circuits/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> hafnium compounds</title>
-      <link>https://penn-cil.github.io/tags/hafnium-compounds/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/hafnium-compounds/</guid>
       <description></description>
     </item>
     
@@ -1009,6 +1041,14 @@
       <link>https://penn-cil.github.io/tags/etching/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/etching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hafnium compounds</title>
+      <link>https://penn-cil.github.io/tags/hafnium-compounds/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/hafnium-compounds/</guid>
       <description></description>
     </item>
     
@@ -1041,6 +1081,14 @@
       <link>https://penn-cil.github.io/tags/self-aligned-self-selective-cell/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/self-aligned-self-selective-cell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>si</title>
+      <link>https://penn-cil.github.io/tags/si/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/si/</guid>
       <description></description>
     </item>
     
@@ -1253,14 +1301,6 @@
     </item>
     
     <item>
-      <title>hfo2/mixed ionic and electronic conductor bilayer</title>
-      <link>https://penn-cil.github.io/tags/hfo2/mixed-ionic-and-electronic-conductor-bilayer/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/hfo2/mixed-ionic-and-electronic-conductor-bilayer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>high selectivity</title>
       <link>https://penn-cil.github.io/tags/high-selectivity/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
@@ -1437,6 +1477,14 @@
     </item>
     
     <item>
+      <title>endurance</title>
+      <link>https://penn-cil.github.io/tags/endurance/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/endurance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>endurance factor</title>
       <link>https://penn-cil.github.io/tags/endurance-factor/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
@@ -1457,14 +1505,6 @@
       <link>https://penn-cil.github.io/tags/memory-architecture/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/memory-architecture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>near-/in-memory computing</title>
-      <link>https://penn-cil.github.io/tags/near-/in-memory-computing/</link>
-      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/near-/in-memory-computing/</guid>
       <description></description>
     </item>
     
@@ -1621,14 +1661,6 @@
     </item>
     
     <item>
-      <title>nonvolatile</title>
-      <link>https://penn-cil.github.io/tags/nonvolatile/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/nonvolatile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>packet classification</title>
       <link>https://penn-cil.github.io/tags/packet-classification/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
@@ -1733,14 +1765,6 @@
     </item>
     
     <item>
-      <title>bit rate 1 mbit/s</title>
-      <link>https://penn-cil.github.io/tags/bit-rate-1-mbit/s/</link>
-      <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/bit-rate-1-mbit/s/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>cell nonvolatile tcam</title>
       <link>https://penn-cil.github.io/tags/cell-nonvolatile-tcam/</link>
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
@@ -1805,18 +1829,18 @@
     </item>
     
     <item>
-      <title>low voltage search operation</title>
-      <link>https://penn-cil.github.io/tags/low-voltage-search-operation/</link>
+      <title>low power electronics</title>
+      <link>https://penn-cil.github.io/tags/low-power-electronics/</link>
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/low-voltage-search-operation/</guid>
+      <guid>https://penn-cil.github.io/tags/low-power-electronics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>low-power electronics</title>
-      <link>https://penn-cil.github.io/tags/low-power-electronics/</link>
+      <title>low voltage search operation</title>
+      <link>https://penn-cil.github.io/tags/low-voltage-search-operation/</link>
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/low-power-electronics/</guid>
+      <guid>https://penn-cil.github.io/tags/low-voltage-search-operation/</guid>
       <description></description>
     </item>
     
@@ -1857,6 +1881,22 @@
       <link>https://penn-cil.github.io/tags/search-problems/</link>
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/search-problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sr</title>
+      <link>https://penn-cil.github.io/tags/sr/</link>
+      <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/sr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sram</title>
+      <link>https://penn-cil.github.io/tags/sram/</link>
+      <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/sram/</guid>
       <description></description>
     </item>
     
@@ -1945,6 +1985,14 @@
       <link>https://penn-cil.github.io/tags/substrate-dependence/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/substrate-dependence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>silicon</title>
+      <link>https://penn-cil.github.io/tags/silicon/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/silicon/</guid>
       <description></description>
     </item>
     
@@ -2117,6 +2165,14 @@
     </item>
     
     <item>
+      <title>work function</title>
+      <link>https://penn-cil.github.io/tags/work-function/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/work-function/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>work function (wf)</title>
       <link>https://penn-cil.github.io/tags/work-function-wf/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
@@ -2129,14 +2185,6 @@
       <link>https://penn-cil.github.io/tags/work-function-variability/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/work-function-variability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> dram chips</title>
-      <link>https://penn-cil.github.io/tags/dram-chips/</link>
-      <pubDate>Sun, 30 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/dram-chips/</guid>
       <description></description>
     </item>
     
@@ -2181,10 +2229,26 @@
     </item>
     
     <item>
+      <title>dram</title>
+      <link>https://penn-cil.github.io/tags/dram/</link>
+      <pubDate>Sun, 30 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/dram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>dram baseline</title>
       <link>https://penn-cil.github.io/tags/dram-baseline/</link>
       <pubDate>Sun, 30 Sep 2012 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/dram-baseline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dram chips</title>
+      <link>https://penn-cil.github.io/tags/dram-chips/</link>
+      <pubDate>Sun, 30 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/dram-chips/</guid>
       <description></description>
     </item>
     
@@ -2369,14 +2433,6 @@
       <link>https://penn-cil.github.io/tags/electromigration/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/electromigration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>endurance</title>
-      <link>https://penn-cil.github.io/tags/endurance/</link>
-      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/endurance/</guid>
       <description></description>
     </item>
     
@@ -2629,14 +2685,6 @@
     </item>
     
     <item>
-      <title>sr</title>
-      <link>https://penn-cil.github.io/tags/sr/</link>
-      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/sr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>strontium</title>
       <link>https://penn-cil.github.io/tags/strontium/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
@@ -2657,6 +2705,14 @@
       <link>https://penn-cil.github.io/tags/stuck-set-failure-characteristic-curves/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/stuck-set-failure-characteristic-curves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>temperature</title>
+      <link>https://penn-cil.github.io/tags/temperature/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/temperature/</guid>
       <description></description>
     </item>
     
@@ -2761,14 +2817,6 @@
       <link>https://penn-cil.github.io/tags/first-principle-ab-initio-method/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/first-principle-ab-initio-method/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ge</title>
-      <link>https://penn-cil.github.io/tags/ge/</link>
-      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/ge/</guid>
       <description></description>
     </item>
     
@@ -2885,14 +2933,6 @@
     </item>
     
     <item>
-      <title>te</title>
-      <link>https://penn-cil.github.io/tags/te/</link>
-      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/te/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>tellurium alloys</title>
       <link>https://penn-cil.github.io/tags/tellurium-alloys/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
@@ -2969,6 +3009,14 @@
       <link>https://penn-cil.github.io/tags/crystallisation/</link>
       <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/crystallisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>crystallization</title>
+      <link>https://penn-cil.github.io/tags/crystallization/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/crystallization/</guid>
       <description></description>
     </item>
     
@@ -3213,22 +3261,6 @@
     </item>
     
     <item>
-      <title>si</title>
-      <link>https://penn-cil.github.io/tags/si/</link>
-      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/si/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>silicon</title>
-      <link>https://penn-cil.github.io/tags/silicon/</link>
-      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/silicon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>switchable resistances</title>
       <link>https://penn-cil.github.io/tags/switchable-resistances/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
@@ -3469,14 +3501,6 @@
     </item>
     
     <item>
-      <title>sram</title>
-      <link>https://penn-cil.github.io/tags/sram/</link>
-      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/sram/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ternary cam</title>
       <link>https://penn-cil.github.io/tags/ternary-cam/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
@@ -3589,6 +3613,14 @@
     </item>
     
     <item>
+      <title>process variation</title>
+      <link>https://penn-cil.github.io/tags/process-variation/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/process-variation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>process variations</title>
       <link>https://penn-cil.github.io/tags/process-variations/</link>
       <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
@@ -3637,7 +3669,7 @@
     </item>
     
     <item>
-      <title> adders</title>
+      <title>adders</title>
       <link>https://penn-cil.github.io/tags/adders/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/adders/</guid>
@@ -3657,14 +3689,6 @@
       <link>https://penn-cil.github.io/tags/circuits/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/circuits/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>delay</title>
-      <link>https://penn-cil.github.io/tags/delay/</link>
-      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/delay/</guid>
       <description></description>
     </item>
     
@@ -3845,14 +3869,6 @@
     </item>
     
     <item>
-      <title>work function</title>
-      <link>https://penn-cil.github.io/tags/work-function/</link>
-      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/work-function/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>stt mram</title>
       <link>https://penn-cil.github.io/tags/stt-mram/</link>
       <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
@@ -3981,14 +3997,6 @@
     </item>
     
     <item>
-      <title>process variation</title>
-      <link>https://penn-cil.github.io/tags/process-variation/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/process-variation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>response surface method</title>
       <link>https://penn-cil.github.io/tags/response-surface-method/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
@@ -4061,14 +4069,6 @@
     </item>
     
     <item>
-      <title> green&#39;s function methods</title>
-      <link>https://penn-cil.github.io/tags/greens-function-methods/</link>
-      <pubDate>Sun, 21 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/greens-function-methods/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>circuit synthesis</title>
       <link>https://penn-cil.github.io/tags/circuit-synthesis/</link>
       <pubDate>Sun, 21 Sep 2008 00:00:00 +0000</pubDate>
@@ -4077,10 +4077,10 @@
     </item>
     
     <item>
-      <title>dram</title>
-      <link>https://penn-cil.github.io/tags/dram/</link>
+      <title>green&#39;s function methods</title>
+      <link>https://penn-cil.github.io/tags/greens-function-methods/</link>
       <pubDate>Sun, 21 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/dram/</guid>
+      <guid>https://penn-cil.github.io/tags/greens-function-methods/</guid>
       <description></description>
     </item>
     
@@ -4121,6 +4121,14 @@
       <link>https://penn-cil.github.io/tags/variation-tolerant-spin-torque-transfer-mram-array/</link>
       <pubDate>Sun, 21 Sep 2008 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/variation-tolerant-spin-torque-transfer-mram-array/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yield</title>
+      <link>https://penn-cil.github.io/tags/yield/</link>
+      <pubDate>Sun, 21 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/yield/</guid>
       <description></description>
     </item>
     
@@ -4261,10 +4269,10 @@
     </item>
     
     <item>
-      <title>yield</title>
-      <link>https://penn-cil.github.io/tags/yield/</link>
-      <pubDate>Sun, 08 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/yield/</guid>
+      <title>design</title>
+      <link>https://penn-cil.github.io/tags/design/</link>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/design/</guid>
       <description></description>
     </item>
     
@@ -4461,14 +4469,6 @@
     </item>
     
     <item>
-      <title>crystallization</title>
-      <link>https://penn-cil.github.io/tags/crystallization/</link>
-      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/crystallization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>design for testability</title>
       <link>https://penn-cil.github.io/tags/design-for-testability/</link>
       <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
@@ -4521,14 +4521,6 @@
       <link>https://penn-cil.github.io/tags/system-testing/</link>
       <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/system-testing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>temperature</title>
-      <link>https://penn-cil.github.io/tags/temperature/</link>
-      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/temperature/</guid>
       <description></description>
     </item>
     
@@ -4649,14 +4641,6 @@
       <link>https://penn-cil.github.io/tags/flexible-electronics/</link>
       <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/flexible-electronics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>design</title>
-      <link>https://penn-cil.github.io/tags/design/</link>
-      <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/design/</guid>
       <description></description>
     </item>
     
@@ -4841,6 +4825,30 @@
       <link>https://penn-cil.github.io/tags/grain-size/</link>
       <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/grain-size/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bit rate 1 mbit/s</title>
+      <link>https://penn-cil.github.io/tags/bit-rate-1-mbit/s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/bit-rate-1-mbit/s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hfo2/mixed ionic and electronic conductor bilayer</title>
+      <link>https://penn-cil.github.io/tags/hfo2/mixed-ionic-and-electronic-conductor-bilayer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/hfo2/mixed-ionic-and-electronic-conductor-bilayer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>near-/in-memory computing</title>
+      <link>https://penn-cil.github.io/tags/near-/in-memory-computing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/near-/in-memory-computing/</guid>
       <description></description>
     </item>
     

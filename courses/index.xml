@@ -5,12 +5,25 @@
     <link>https://penn-cil.github.io/courses/</link>
       <atom:link href="https://penn-cil.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses and Notes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Aug 2019 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
       <title>Courses and Notes</title>
       <link>https://penn-cil.github.io/courses/</link>
     </image>
+    
+    <item>
+      <title>Overview</title>
+      <link>https://penn-cil.github.io/courses/notes-on-hugo-academic/</link>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/courses/notes-on-hugo-academic/</guid>
+      <description>&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34;&gt;Academic documentatin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo manual&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

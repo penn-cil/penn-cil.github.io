@@ -5,7 +5,7 @@
     <link>https://penn-cil.github.io/tags/silicon/</link>
       <atom:link href="https://penn-cil.github.io/tags/silicon/index.xml" rel="self" type="application/rss+xml" />
     <description>silicon</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2011 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
       <title>silicon</title>
@@ -38,22 +38,6 @@
     </item>
     
     <item>
-      <title>Poly-Si Thin-Film Transistors: An Efficient and Low-Cost Option for Digital Operation</title>
-      <link>https://penn-cil.github.io/publication/li-2007-ted/</link>
-      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/publication/li-2007-ted/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A generic and reconfigurable test paradigm using Low-cost integrated Poly-Si TFTs</title>
-      <link>https://penn-cil.github.io/publication/li-2007-itc/</link>
-      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/publication/li-2007-itc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A generic and reconfigurable test paradigm using Low-cost integrated Poly-Si TFTs</title>
       <link>https://penn-cil.github.io/publication/li-2007-itc/</link>
       <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
@@ -68,23 +52,6 @@
       <guid>https://penn-cil.github.io/publication/li-2007-dac/</guid>
       <description>&lt;p&gt;(Acceptance Rate*: underline13%)&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>High Performance and Low Power Electronics on Flexible Substrate</title>
-      <link>https://penn-cil.github.io/publication/li-2007-dac/</link>
-      <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/publication/li-2007-dac/</guid>
-      <description>&lt;p&gt;(Acceptance Rate*: underline13%)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Novel Variation-Aware Circuit Design of Scaled LTPS TFT for Ultra low Power, Low-Cost Applications</title>
-      <link>https://penn-cil.github.io/publication/li-2007-icicdt/</link>
-      <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/publication/li-2007-icicdt/</guid>
-      <description></description>
     </item>
     
     <item>

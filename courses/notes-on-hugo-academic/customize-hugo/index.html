@@ -83,7 +83,7 @@ The Example Currently Academic lists everything (posts, publications, etc) writt
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.dd629241ea9333c62c071f4a25f829ff.css">
+  <link rel="stylesheet" href="/css/academic.min.7c75abe867d1ac4b26fbe501f37ef260.css">
 
   
     
@@ -597,17 +597,15 @@ The Example Currently Academic lists everything (posts, publications, etc) writt
       </ul>
 
       <nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li><a href="#the-example">The Example</a></li>
-<li><a href="#the-solution">The solution</a>
-<ul>
-<li><a href="#key-points">Key points:</a></li>
-<li><a href="#further-improvement">Further improvement</a></li>
-</ul></li>
-</ul></li>
-</ul>
+  <ul>
+    <li><a href="#the-example">The Example</a></li>
+    <li><a href="#the-solution">The solution</a>
+      <ul>
+        <li><a href="#key-points">Key points:</a></li>
+        <li><a href="#further-improvement">Further improvement</a></li>
+      </ul>
+    </li>
+  </ul>
 </nav>
 
       
@@ -622,120 +620,104 @@ The Example Currently Academic lists everything (posts, publications, etc) writt
           <h1 itemprop="name">How to customize Academic website with Hugo</h1>
 
           <div class="article-style" itemprop="articleBody">
-            
-
-<p>Here I will use one simple example to briefly show how to customize Academic theme with Hugo/Go programming. More information can be found from <a href="https://gohugo.io" target="_blank">Hugo manual</a>. Especially, <a href="https://gohugo.io/templates/introduction/" target="_blank">Introduction to Hugo templating</a>, <a href="https://gohugo.io/functions/" target="_blank">Hugo functions</a>, and <a href="https://gohugo.io/variables/" target="_blank">Hugo variables</a> are helpful for beginners.</p>
-
+            <p>Here I will use one simple example to briefly show how to customize Academic theme with Hugo/Go programming. More information can be found from <a href="https://gohugo.io">Hugo manual</a>. Especially, <a href="https://gohugo.io/templates/introduction/">Introduction to Hugo templating</a>, <a href="https://gohugo.io/functions/">Hugo functions</a>, and <a href="https://gohugo.io/variables/">Hugo variables</a> are helpful for beginners.</p>
 <h2 id="the-example">The Example</h2>
-
 <p>Currently Academic lists everything (<em>posts</em>, <em>publications</em>, etc) written by the author all together under <strong>Latest</strong> (see the screenshot below).
-<img src="/img/academic-default.png" alt="default display" title="Default" />
-Similar to <a href="https://bromberglab.org/authors/yannick-mahlich/" target="_blank">this example</a>, we would like to list and count these items in separate sections.
+<img src="/img/academic-default.png" alt="default display" title="Default">
+Similar to <a href="https://bromberglab.org/authors/yannick-mahlich/">this example</a>, we would like to list and count these items in separate sections.
 The list of latest work is controlled by <code>theme/academic/layouts/authors/list.html</code>. So the question is how to modify the following code to achieve our goal.</p>
-
-<pre><code class="language-html">{{ $query := where .Pages &quot;.IsNode&quot; false }}
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">{{ $query := where .Pages &#34;.IsNode&#34; false }}
 {{ $count := len $query }}
 {{ if $count }}
-    &lt;div class=&quot;article-widget&quot;&gt;
-      &lt;div class=&quot;hr-light&quot;&gt;&lt;/div&gt;
-      &lt;h3&gt;{{ i18n &quot;user_profile_latest&quot; | default &quot;My Latest&quot; }}&lt;/h3&gt;
-      &lt;ul&gt;
+    &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;article-widget&#34;</span>&gt;
+      &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;hr-light&#34;</span>&gt;&lt;/<span style="color:#f92672">div</span>&gt;
+      &lt;<span style="color:#f92672">h3</span>&gt;{{ i18n &#34;user_profile_latest&#34; | default &#34;My Latest&#34; }}&lt;/<span style="color:#f92672">h3</span>&gt;
+      &lt;<span style="color:#f92672">ul</span>&gt;
         {{ range $query }}
-        &lt;li&gt;
-          &lt;a href=&quot;{{ .RelPermalink }}&quot;&gt;{{ .Title }}&lt;/a&gt;
-        &lt;/li&gt;
+        &lt;<span style="color:#f92672">li</span>&gt;
+          &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .RelPermalink }}&#34;</span>&gt;{{ .Title }}&lt;/<span style="color:#f92672">a</span>&gt;
+        &lt;/<span style="color:#f92672">li</span>&gt;
         {{ end }}
-      &lt;/ul&gt;
-    &lt;/div&gt;
+      &lt;/<span style="color:#f92672">ul</span>&gt;
+    &lt;/<span style="color:#f92672">div</span>&gt;
     {{ end }}
-</code></pre>
-
-<h2 id="the-solution">The solution</h2>
-
-<pre><code class="language-html">    {{/* List only publications */}}
-    {{ $query := and (where .Pages &quot;.IsNode&quot; false) (where .Pages &quot;Section&quot; &quot;publication&quot;) }}
+</code></pre></div><h2 id="the-solution">The solution</h2>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">    {{/* List only publications */}}
+    {{ $query := and (where .Pages &#34;.IsNode&#34; false) (where .Pages &#34;Section&#34; &#34;publication&#34;) }}
     {{ $count := len $query }}
     {{ if $count }}
-    &lt;div class=&quot;article-widget&quot;&gt;
-      &lt;div class=&quot;hr-light&quot;&gt;&lt;/div&gt;
-      &lt;h3&gt;{{ printf &quot;%s (%d)&quot; (i18n &quot;publications&quot;) $count | default &quot;Publications&quot; }}&lt;/h3&gt;
-      &lt;ul&gt;
+    &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;article-widget&#34;</span>&gt;
+      &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;hr-light&#34;</span>&gt;&lt;/<span style="color:#f92672">div</span>&gt;
+      &lt;<span style="color:#f92672">h3</span>&gt;{{ printf &#34;%s (%d)&#34; (i18n &#34;publications&#34;) $count | default &#34;Publications&#34; }}&lt;/<span style="color:#f92672">h3</span>&gt;
+      &lt;<span style="color:#f92672">ul</span>&gt;
         {{ range $query }}
-        &lt;li&gt;
-          &lt;a href=&quot;{{ .RelPermalink }}&quot;&gt;{{ .Title }}&lt;/a&gt;
-        &lt;/li&gt;
+        &lt;<span style="color:#f92672">li</span>&gt;
+          &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .RelPermalink }}&#34;</span>&gt;{{ .Title }}&lt;/<span style="color:#f92672">a</span>&gt;
+        &lt;/<span style="color:#f92672">li</span>&gt;
         {{ end }}
-      &lt;/ul&gt;
-    &lt;/div&gt;
+      &lt;/<span style="color:#f92672">ul</span>&gt;
+    &lt;/<span style="color:#f92672">div</span>&gt;
     {{ end }}
 
     {{/* List only posts */}}
-    {{ $query := and (where .Pages &quot;.IsNode&quot; false) (where .Pages &quot;Section&quot; &quot;post&quot;) }}
+    {{ $query := and (where .Pages &#34;.IsNode&#34; false) (where .Pages &#34;Section&#34; &#34;post&#34;) }}
     {{ $count := len $query }}
     {{ if $count }}
-    &lt;div class=&quot;article-widget&quot;&gt;
-      &lt;div class=&quot;hr-light&quot;&gt;&lt;/div&gt;
-      &lt;h3&gt;{{ i18n &quot;posts&quot; | default &quot;Posts&quot;}}&lt;/h3&gt;
-      &lt;ul&gt;
+    &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;article-widget&#34;</span>&gt;
+      &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;hr-light&#34;</span>&gt;&lt;/<span style="color:#f92672">div</span>&gt;
+      &lt;<span style="color:#f92672">h3</span>&gt;{{ i18n &#34;posts&#34; | default &#34;Posts&#34;}}&lt;/<span style="color:#f92672">h3</span>&gt;
+      &lt;<span style="color:#f92672">ul</span>&gt;
         {{ range $query }}
-        &lt;li&gt;
-          &lt;a href=&quot;{{ .RelPermalink }}&quot;&gt;{{ .Title }}&lt;/a&gt;
-        &lt;/li&gt;
+        &lt;<span style="color:#f92672">li</span>&gt;
+          &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .RelPermalink }}&#34;</span>&gt;{{ .Title }}&lt;/<span style="color:#f92672">a</span>&gt;
+        &lt;/<span style="color:#f92672">li</span>&gt;
         {{ end }}
-      &lt;/ul&gt;
-    &lt;/div&gt;
+      &lt;/<span style="color:#f92672">ul</span>&gt;
+    &lt;/<span style="color:#f92672">div</span>&gt;
     {{ end }}
 
     {{/* List only talks */}}
-    {{ $query := and (where .Pages &quot;.IsNode&quot; false) (where .Pages &quot;Section&quot; &quot;talk&quot;) }}
+    {{ $query := and (where .Pages &#34;.IsNode&#34; false) (where .Pages &#34;Section&#34; &#34;talk&#34;) }}
     {{ $count := len $query }}
     {{ if $count }}
-    &lt;div class=&quot;article-widget&quot;&gt;
-      &lt;div class=&quot;hr-light&quot;&gt;&lt;/div&gt;
-      &lt;h3&gt;{{ i18n &quot;talks&quot; | default &quot;Talks&quot;}}&lt;/h3&gt;
-      &lt;ul&gt;
+    &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;article-widget&#34;</span>&gt;
+      &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;hr-light&#34;</span>&gt;&lt;/<span style="color:#f92672">div</span>&gt;
+      &lt;<span style="color:#f92672">h3</span>&gt;{{ i18n &#34;talks&#34; | default &#34;Talks&#34;}}&lt;/<span style="color:#f92672">h3</span>&gt;
+      &lt;<span style="color:#f92672">ul</span>&gt;
         {{ range $query }}
-        &lt;li&gt;
-          &lt;a href=&quot;{{ .RelPermalink }}&quot;&gt;{{ .Title }}&lt;/a&gt;
-        &lt;/li&gt;
+        &lt;<span style="color:#f92672">li</span>&gt;
+          &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .RelPermalink }}&#34;</span>&gt;{{ .Title }}&lt;/<span style="color:#f92672">a</span>&gt;
+        &lt;/<span style="color:#f92672">li</span>&gt;
         {{ end }}
-      &lt;/ul&gt;
-    &lt;/div&gt;
+      &lt;/<span style="color:#f92672">ul</span>&gt;
+    &lt;/<span style="color:#f92672">div</span>&gt;
     {{ end }}
-</code></pre>
-
-<h3 id="key-points">Key points:</h3>
-
+</code></pre></div><h3 id="key-points">Key points:</h3>
 <ol>
-<li><a href="https://gohugo.io/variables/page/#page-variables" target="_blank">Page variable</a> <code>.IsNode</code> always <em>false</em> for regular content pages. So <code>where .Pages &quot;.IsNode&quot; false</code> means finding all regular content pages.</li>
+<li><a href="https://gohugo.io/variables/page/#page-variables">Page variable</a> <code>.IsNode</code> always <em>false</em> for regular content pages. So <code>where .Pages &quot;.IsNode&quot; false</code> means finding all regular content pages.</li>
 <li>Then we use logic <code>and</code> and <code>where .Pages &quot;Section&quot; &quot;publication&quot;</code> to filter the result to get web pages that are <em>publications</em>.</li>
 <li><code>i18n &quot;user_profile_latest&quot;</code> corresponds to English expression <code>&quot;Latest&quot;</code> according to <code>i18n/en.yaml</code>. For listing publications only, it should be changed to <code>i18n &quot;publications&quot;</code>, i.e., <code>&quot;Publications&quot;</code>.</li>
-<li>Use <code>printf &quot;%s (%d)&quot; (i18n &quot;publications&quot;) $count</code> to concatenate <code>&quot;Publications&quot;</code> and the number of publications.</li>
+<li>Use <code>printf &quot;%s (%d)&quot; (i18n &quot;publications&quot;) $count </code> to concatenate <code>&quot;Publications&quot;</code> and the number of publications.</li>
 <li><code>.Title</code> corresponds to the title for this page.</li>
 </ol>
-
 <h3 id="further-improvement">Further improvement</h3>
-
 <p>Use the following functions and variables to further customize a Hugo template.</p>
-
 <ul>
-<li><p><code>.Date</code> Page variable .Date pulls from the date field in a content’s front matter.</p></li>
-
-<li><p><code>.Params</code> calls page or site variables into your template. <code>.Params.publication</code> extracts the journal/conference name in a publication page. And <code>.Params.location</code> extracts the location information.</p></li>
-
-<li><p><code>markdownify</code> runs the provided string through the Markdown processor. So it can be used to create special effect (bold, italic, etc) on text.</p></li>
+<li>
+<p><code>.Date</code> Page variable .Date pulls from the date field in a content’s front matter.</p>
+</li>
+<li>
+<p><code>.Params</code> calls page or site variables into your template. <code>.Params.publication</code> extracts the journal/conference name in a publication page. And <code>.Params.location</code> extracts the location information.</p>
+</li>
+<li>
+<p><code>markdownify</code> runs the provided string through the Markdown processor. So it can be used to create special effect (bold, italic, etc) on text.</p>
+</li>
 </ul>
-
 <p><strong>Add date and journal/conference name to publications</strong></p>
-
-<pre><code class="language-html"> &lt;a href=&quot;{{ .RelPermalink }}&quot;&gt;{{ .Title }}&lt;/a&gt; ({{ dateFormat &quot;2006&quot; .Date }}). {{ .Params.publication | markdownify }}`
-</code></pre>
-
-<p><strong>Add date and location to talks</strong></p>
-
-<pre><code class="language-html">&lt;a href=&quot;{{ .RelPermalink }}&quot;&gt;{{ .Title }}&lt;/a&gt;, {{ .Params.location | markdownify }}, {{ dateFormat &quot;Jan. 1, 2006&quot; .Date }} 
-</code></pre>
-
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html"> &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .RelPermalink }}&#34;</span>&gt;{{ .Title }}&lt;/<span style="color:#f92672">a</span>&gt; ({{ dateFormat &#34;2006&#34; .Date }}). {{ .Params.publication | markdownify }}`
+</code></pre></div><p><strong>Add date and location to talks</strong></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .RelPermalink }}&#34;</span>&gt;{{ .Title }}&lt;/<span style="color:#f92672">a</span>&gt;, {{ .Params.location | markdownify }}, {{ dateFormat &#34;Jan. 1, 2006&#34; .Date }} 
+</code></pre></div>
           </div>
 
           
