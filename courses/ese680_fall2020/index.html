@@ -28,11 +28,10 @@
   
     
   
-  <meta name="description" content="Here I will use one simple example to briefly show how to customize Academic theme with Hugo/Go programming. More information can be found from Hugo manual. Especially, Introduction to Hugo templating, Hugo functions, and Hugo variables are helpful for beginners.
-The Example Currently Academic lists everything (posts, publications, etc) written by the author all together under Latest (see the screenshot below). Similar to this example, we would like to list and count these items in separate sections.">
+  <meta name="description" content="Hardware/Software Co-Design for Machine Learning">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://penn-cil.github.io/courses/notes-on-hugo-academic/customize-hugo/">
+  <link rel="alternate" hreflang="en-us" href="https://penn-cil.github.io/courses/ese680_fall2020/">
 
   
 
@@ -102,12 +101,14 @@ The Example Currently Academic lists everything (posts, publications, etc) writt
   
 
   
+  <link rel="alternate" href="/courses/ese680_fall2020/index.xml" type="application/rss+xml" title="Penn Computational Intelligence Lab">
+  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://penn-cil.github.io/courses/notes-on-hugo-academic/customize-hugo/">
+  <link rel="canonical" href="https://penn-cil.github.io/courses/ese680_fall2020/">
 
   
   
@@ -119,16 +120,12 @@ The Example Currently Academic lists everything (posts, publications, etc) writt
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Penn Computational Intelligence Lab">
-  <meta property="og:url" content="https://penn-cil.github.io/courses/notes-on-hugo-academic/customize-hugo/">
-  <meta property="og:title" content="How to customize Academic website with Hugo | Penn Computational Intelligence Lab">
-  <meta property="og:description" content="Here I will use one simple example to briefly show how to customize Academic theme with Hugo/Go programming. More information can be found from Hugo manual. Especially, Introduction to Hugo templating, Hugo functions, and Hugo variables are helpful for beginners.
-The Example Currently Academic lists everything (posts, publications, etc) written by the author all together under Latest (see the screenshot below). Similar to this example, we would like to list and count these items in separate sections."><meta property="og:image" content="https://penn-cil.github.io/img/logo.png">
+  <meta property="og:url" content="https://penn-cil.github.io/courses/ese680_fall2020/">
+  <meta property="og:title" content="ESE 680 - Hardware/Software Co-Design for Machine Learning (Fall 2020) | Penn Computational Intelligence Lab">
+  <meta property="og:description" content="Hardware/Software Co-Design for Machine Learning"><meta property="og:image" content="https://penn-cil.github.io/img/logo.png">
   <meta property="twitter:image" content="https://penn-cil.github.io/img/logo.png"><meta property="og:locale" content="en-us">
   
-    
-      <meta property="article:published_time" content="2019-08-14T00:00:00&#43;01:00">
-    
-    <meta property="article:modified_time" content="2019-08-14T00:00:00&#43;01:00">
+    <meta property="og:updated_time" content="2020-04-13T00:00:00&#43;00:00">
   
 
   
@@ -140,7 +137,7 @@ The Example Currently Academic lists everything (posts, publications, etc) writt
 
 
 
-  <title>How to customize Academic website with Hugo | Penn Computational Intelligence Lab</title>
+  <title>ESE 680 - Hardware/Software Co-Design for Machine Learning (Fall 2020) | Penn Computational Intelligence Lab</title>
 
 </head>
 
@@ -434,6 +431,8 @@ The Example Currently Academic lists everything (posts, publications, etc) writt
         
         
         
+          
+        
 
         
         
@@ -443,7 +442,7 @@ The Example Currently Academic lists everything (posts, publications, etc) writt
         
 
         <li class="nav-item">
-          <a class="nav-link  active" href="/"><span>Courses & Notes</span></a>
+          <a class="nav-link  active" href="/courses/"><span>Courses</span></a>
         </li>
 
         
@@ -559,29 +558,8 @@ The Example Currently Academic lists everything (posts, publications, etc) writt
 <nav class="collapse docs-links" id="docs-nav">
   
   
-  <div class="docs-toc-item">
-    <a class="docs-toc-link" href="/courses/notes-on-hugo-academic/">Overview</a>
-
-  </div>
-  
-  <div class="docs-toc-item">
-    <a class="docs-toc-link" href="/courses/notes-on-hugo-academic/my-notes/">Notes</a>
-    <ul class="nav docs-sidenav">
-      
-      <li >
-        <a href="/courses/notes-on-hugo-academic/my-notes/">Note on sourcethemes-academic</a>
-      </li>
-      
-      <li >
-        <a href="/courses/notes-on-hugo-academic/create-gallery/">how to create a gallery</a>
-      </li>
-      
-      <li class="active">
-        <a href="/courses/notes-on-hugo-academic/customize-hugo/">Customize Academic theme with Hugo</a>
-      </li>
-      
-    </ul>
-    
+  <div class="docs-toc-item active">
+    <a class="docs-toc-link" href="/courses/ese680_fall2020/">Overview</a>
 
   </div>
   
@@ -598,13 +576,19 @@ The Example Currently Academic lists everything (posts, publications, etc) writt
 
       <nav id="TableOfContents">
   <ul>
-    <li><a href="#the-example">The Example</a></li>
-    <li><a href="#the-solution">The solution</a>
-      <ul>
-        <li><a href="#key-points">Key points:</a></li>
-        <li><a href="#further-improvement">Further improvement</a></li>
-      </ul>
-    </li>
+    <li><a href="#time-and-place">TIME AND PLACE</a></li>
+    <li><a href="#instructor">INSTRUCTOR</a></li>
+    <li><a href="#teaching-assistants">TEACHING ASSISTANTS</a></li>
+    <li><a href="#course-overview">COURSE OVERVIEW</a></li>
+    <li><a href="#prerequisites">PREREQUISITES</a></li>
+    <li><a href="#grading-policy">GRADING POLICY</a></li>
+    <li><a href="#class-homepage">CLASS HOMEPAGE:</a></li>
+    <li><a href="#class-schedule-tentative">CLASS SCHEDULE (TENTATIVE)</a></li>
+    <li><a href="#reading">READING:</a></li>
+    <li><a href="#lab-and-project">LAB AND PROJECT:</a></li>
+    <li><a href="#comparison-to-ese532">COMPARISON TO ESE532:</a></li>
+    <li><a href="#comparison-to-ese-546">COMPARISON TO ESE 546:</a></li>
+    <li><a href="#academic-misconduct">ACADEMIC MISCONDUCT:</a></li>
   </ul>
 </nav>
 
@@ -617,107 +601,235 @@ The Example Currently Academic lists everything (posts, publications, etc) writt
       <article class="article" itemscope itemtype="http://schema.org/Article">
 
         <div class="docs-article-container">
-          <h1 itemprop="name">How to customize Academic website with Hugo</h1>
+          <h1 itemprop="name">ESE 680 - Hardware/Software Co-Design for Machine Learning (Fall 2020)</h1>
 
           <div class="article-style" itemprop="articleBody">
-            <p>Here I will use one simple example to briefly show how to customize Academic theme with Hugo/Go programming. More information can be found from <a href="https://gohugo.io">Hugo manual</a>. Especially, <a href="https://gohugo.io/templates/introduction/">Introduction to Hugo templating</a>, <a href="https://gohugo.io/functions/">Hugo functions</a>, and <a href="https://gohugo.io/variables/">Hugo variables</a> are helpful for beginners.</p>
-<h2 id="the-example">The Example</h2>
-<p>Currently Academic lists everything (<em>posts</em>, <em>publications</em>, etc) written by the author all together under <strong>Latest</strong> (see the screenshot below).
-<img src="/img/academic-default.png" alt="default display" title="Default">
-Similar to <a href="https://bromberglab.org/authors/yannick-mahlich/">this example</a>, we would like to list and count these items in separate sections.
-The list of latest work is controlled by <code>theme/academic/layouts/authors/list.html</code>. So the question is how to modify the following code to achieve our goal.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">{{ $query := where .Pages &#34;.IsNode&#34; false }}
-{{ $count := len $query }}
-{{ if $count }}
-    &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;article-widget&#34;</span>&gt;
-      &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;hr-light&#34;</span>&gt;&lt;/<span style="color:#f92672">div</span>&gt;
-      &lt;<span style="color:#f92672">h3</span>&gt;{{ i18n &#34;user_profile_latest&#34; | default &#34;My Latest&#34; }}&lt;/<span style="color:#f92672">h3</span>&gt;
-      &lt;<span style="color:#f92672">ul</span>&gt;
-        {{ range $query }}
-        &lt;<span style="color:#f92672">li</span>&gt;
-          &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .RelPermalink }}&#34;</span>&gt;{{ .Title }}&lt;/<span style="color:#f92672">a</span>&gt;
-        &lt;/<span style="color:#f92672">li</span>&gt;
-        {{ end }}
-      &lt;/<span style="color:#f92672">ul</span>&gt;
-    &lt;/<span style="color:#f92672">div</span>&gt;
-    {{ end }}
-</code></pre></div><h2 id="the-solution">The solution</h2>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">    {{/* List only publications */}}
-    {{ $query := and (where .Pages &#34;.IsNode&#34; false) (where .Pages &#34;Section&#34; &#34;publication&#34;) }}
-    {{ $count := len $query }}
-    {{ if $count }}
-    &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;article-widget&#34;</span>&gt;
-      &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;hr-light&#34;</span>&gt;&lt;/<span style="color:#f92672">div</span>&gt;
-      &lt;<span style="color:#f92672">h3</span>&gt;{{ printf &#34;%s (%d)&#34; (i18n &#34;publications&#34;) $count | default &#34;Publications&#34; }}&lt;/<span style="color:#f92672">h3</span>&gt;
-      &lt;<span style="color:#f92672">ul</span>&gt;
-        {{ range $query }}
-        &lt;<span style="color:#f92672">li</span>&gt;
-          &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .RelPermalink }}&#34;</span>&gt;{{ .Title }}&lt;/<span style="color:#f92672">a</span>&gt;
-        &lt;/<span style="color:#f92672">li</span>&gt;
-        {{ end }}
-      &lt;/<span style="color:#f92672">ul</span>&gt;
-    &lt;/<span style="color:#f92672">div</span>&gt;
-    {{ end }}
-
-    {{/* List only posts */}}
-    {{ $query := and (where .Pages &#34;.IsNode&#34; false) (where .Pages &#34;Section&#34; &#34;post&#34;) }}
-    {{ $count := len $query }}
-    {{ if $count }}
-    &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;article-widget&#34;</span>&gt;
-      &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;hr-light&#34;</span>&gt;&lt;/<span style="color:#f92672">div</span>&gt;
-      &lt;<span style="color:#f92672">h3</span>&gt;{{ i18n &#34;posts&#34; | default &#34;Posts&#34;}}&lt;/<span style="color:#f92672">h3</span>&gt;
-      &lt;<span style="color:#f92672">ul</span>&gt;
-        {{ range $query }}
-        &lt;<span style="color:#f92672">li</span>&gt;
-          &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .RelPermalink }}&#34;</span>&gt;{{ .Title }}&lt;/<span style="color:#f92672">a</span>&gt;
-        &lt;/<span style="color:#f92672">li</span>&gt;
-        {{ end }}
-      &lt;/<span style="color:#f92672">ul</span>&gt;
-    &lt;/<span style="color:#f92672">div</span>&gt;
-    {{ end }}
-
-    {{/* List only talks */}}
-    {{ $query := and (where .Pages &#34;.IsNode&#34; false) (where .Pages &#34;Section&#34; &#34;talk&#34;) }}
-    {{ $count := len $query }}
-    {{ if $count }}
-    &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;article-widget&#34;</span>&gt;
-      &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;hr-light&#34;</span>&gt;&lt;/<span style="color:#f92672">div</span>&gt;
-      &lt;<span style="color:#f92672">h3</span>&gt;{{ i18n &#34;talks&#34; | default &#34;Talks&#34;}}&lt;/<span style="color:#f92672">h3</span>&gt;
-      &lt;<span style="color:#f92672">ul</span>&gt;
-        {{ range $query }}
-        &lt;<span style="color:#f92672">li</span>&gt;
-          &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .RelPermalink }}&#34;</span>&gt;{{ .Title }}&lt;/<span style="color:#f92672">a</span>&gt;
-        &lt;/<span style="color:#f92672">li</span>&gt;
-        {{ end }}
-      &lt;/<span style="color:#f92672">ul</span>&gt;
-    &lt;/<span style="color:#f92672">div</span>&gt;
-    {{ end }}
-</code></pre></div><h3 id="key-points">Key points:</h3>
-<ol>
-<li><a href="https://gohugo.io/variables/page/#page-variables">Page variable</a> <code>.IsNode</code> always <em>false</em> for regular content pages. So <code>where .Pages &quot;.IsNode&quot; false</code> means finding all regular content pages.</li>
-<li>Then we use logic <code>and</code> and <code>where .Pages &quot;Section&quot; &quot;publication&quot;</code> to filter the result to get web pages that are <em>publications</em>.</li>
-<li><code>i18n &quot;user_profile_latest&quot;</code> corresponds to English expression <code>&quot;Latest&quot;</code> according to <code>i18n/en.yaml</code>. For listing publications only, it should be changed to <code>i18n &quot;publications&quot;</code>, i.e., <code>&quot;Publications&quot;</code>.</li>
-<li>Use <code>printf &quot;%s (%d)&quot; (i18n &quot;publications&quot;) $count </code> to concatenate <code>&quot;Publications&quot;</code> and the number of publications.</li>
-<li><code>.Title</code> corresponds to the title for this page.</li>
-</ol>
-<h3 id="further-improvement">Further improvement</h3>
-<p>Use the following functions and variables to further customize a Hugo template.</p>
+            <h2 id="time-and-place">TIME AND PLACE</h2>
+<p><strong>Lectures</strong>: 	M W 4:30-6:00pm<br>
+<strong>Location</strong>: TBA<br>
+<strong>UNITS</strong>: 1.0 CU</p>
+<h2 id="instructor">INSTRUCTOR</h2>
+<p>Jing (Jane) Li (<a href="mailto:janeli@seas.upenn.edu">janeli@seas.upenn.edu</a>)<br>
+Office: Levine 274<br>
+Office Hours: 11:30am-12:30pm W</p>
+<h2 id="teaching-assistants">TEACHING ASSISTANTS</h2>
 <ul>
-<li>
-<p><code>.Date</code> Page variable .Date pulls from the date field in a content’s front matter.</p>
-</li>
-<li>
-<p><code>.Params</code> calls page or site variables into your template. <code>.Params.publication</code> extracts the journal/conference name in a publication page. And <code>.Params.location</code> extracts the location information.</p>
-</li>
-<li>
-<p><code>markdownify</code> runs the provided string through the Markdown processor. So it can be used to create special effect (bold, italic, etc) on text.</p>
-</li>
+<li>Jialiang Zhang (<a href="mailto:jlzhang@seas.upenn.edu">jlzhang@seas.upenn.edu</a>)</li>
+<li>TBD</li>
 </ul>
-<p><strong>Add date and journal/conference name to publications</strong></p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html"> &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .RelPermalink }}&#34;</span>&gt;{{ .Title }}&lt;/<span style="color:#f92672">a</span>&gt; ({{ dateFormat &#34;2006&#34; .Date }}). {{ .Params.publication | markdownify }}`
-</code></pre></div><p><strong>Add date and location to talks</strong></p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .RelPermalink }}&#34;</span>&gt;{{ .Title }}&lt;/<span style="color:#f92672">a</span>&gt;, {{ .Params.location | markdownify }}, {{ dateFormat &#34;Jan. 1, 2006&#34; .Date }} 
-</code></pre></div>
+<h2 id="course-overview">COURSE OVERVIEW</h2>
+<p>Machine learning (ML) techniques are enjoying rapidly increasing adoption in our daily life, due to the synergistic advancements across data, algorithm, and hardware. However, designing and implementing systems that can efficiently support ML models across various deployment scenarios from edge to cloud remains a significant obstacle, in large part due to the gap between machine learning’s promise (core ML algorithm and method) and its real-world utility (diverse and heterogeneous computing platforms).</p>
+<p>The course is designed to introduce a new research area at the intersection of machine learning and hardware systems to bridge the gap. The covered topics include basics of deep learning, deep learning frameworks, deep learning on contemporary computing platforms (CPU, GPU, FPGA) and programmable accelerators (TPU), performance measures, numerical representation and customized data types for deep learning, co-optimization of deep learning algorithms and hardware, training for deep learning and support for complex deep learning models. The course is structured with a combination of lectures, labs, research paper reading/in-class discussion, a final project and guest lectures with state-of-the-art industry practices (Microsoft, Google, Facebook and Amazon). The goal is to help students to 1) gain hands-on experiences on deploying deep learning models on CPU, GPU and FPGA; 2) develop the intuition on how to perform close-loop co-design of algorithm and hardware through various engineering knobs such as algorithmic transformation, data layout, numerical precision, data reuse, and parallelism for performance optimization given target accuracy metrics, 3) understand future trends and opportunities at the intersection of ML and computer system fields. 4) (For CIS or ML students), gain necessary computer hardware knowledge for algorithm-level optimizations.</p>
+<h2 id="prerequisites">PREREQUISITES</h2>
+<p>CIS 240, or equivalent<br>
+Proficiency in programming: ENGR105, CIS110, CIS120, or equivalent. Lab assignments in
+this course will be based in PyTorch (CPU, GPU) and OpenCL (FPGA).
+(Note that CIS 371 is not officially required but helpful)</p>
+<p><strong>Undergraduates</strong>: Permission of the instructor is required to enroll in this class. If you are unsure whether your background is sufficient for this class, please talk to/email the instructor.</p>
+<h2 id="grading-policy">GRADING POLICY</h2>
+<p>Lab Assignments = 40%<br>
+Final Project = 50%<br>
+Reading = 10%</p>
+<p><strong>Late policy</strong>: Each student will have 5 free “late days” to use during the semester. You can use these late days to submit lab/project after the due date without any penalty. Assignments that are submitted late, after exhausting the quota of late days will result in 50% credit deducted per day, i.e., zero credit after 2 late days. Do not exhaust all the late days on the first lab.</p>
+<p><strong>Collaboration policy</strong>: Study groups are allowed, and students may discuss in groups. However, we expect students to understand and complete their own lab assignments. Each student must conduct the lab independently and hand in one lab assignment per student. For the final project, students are expected to work in groups (2 students per group). Each team should turn in one final project report. In the project report, please write down each team member’s specific contribution.</p>
+<p><strong>Reading assignment turn-in</strong>: The paper review will be turned in via Google form by 3:00pm before lecture (link will be posted on the canvas website).
+Lab/project assignment turn-in: Lab and project reports will be turned in electronically through the Penn Canvas website. Log in to Canvas with your PennKey and password, then select ESE 680 from the Courses and Groups dropdown menu. Submission should be as a single file (preferably .pdf).</p>
+<h2 id="class-homepage">CLASS HOMEPAGE:</h2>
+<p>TBA (a Canvas website will be provided)<br>
+Piazza will be used for discussions and clarifications.</p>
+<h2 id="class-schedule-tentative">CLASS SCHEDULE (TENTATIVE)</h2>
+<table>
+<thead>
+<tr>
+<th>﻿Date</th>
+<th>Topic</th>
+<th>Course Content</th>
+<th>Notes/Assignment Due</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>9/2</td>
+<td>Class Introduction</td>
+<td></td>
+<td>09/07 (no class)</td>
+</tr>
+<tr>
+<td>9/9</td>
+<td>Introduction to Deep Learning</td>
+<td>Model, Dataset, Cost (loss) function,          Optimization</td>
+<td>Lab 1 (due 9/16)</td>
+</tr>
+<tr>
+<td>9/14</td>
+<td>Deep Learning System:          Hardware and Software</td>
+<td>CPU, GPU, FPGA, PyTorch, TensorFlow, ONNX</td>
+<td></td>
+</tr>
+<tr>
+<td>9/16</td>
+<td>Performance Analysis</td>
+<td>Metrics, Benchmarks</td>
+<td>Lab 2 (due 9/30)</td>
+</tr>
+<tr>
+<td>9/21</td>
+<td>Parallelism</td>
+<td>ILP, DLP, TLP</td>
+<td></td>
+</tr>
+<tr>
+<td>9/23</td>
+<td>Programming Model</td>
+<td>Abstraction, Vector, SIMD, Data flow</td>
+<td></td>
+</tr>
+<tr>
+<td>9/28</td>
+<td>FPGA fundamentals</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>9/30</td>
+<td>OpenCL Tutorial</td>
+<td></td>
+<td>Lab 3 (due 10/14)</td>
+</tr>
+<tr>
+<td>10/5</td>
+<td>Numerical Representation</td>
+<td>INT, FP, Error Analysis</td>
+<td></td>
+</tr>
+<tr>
+<td>10/7</td>
+<td>Customized Data Types</td>
+<td>Bfloat16, MSFP, Posit</td>
+<td></td>
+</tr>
+<tr>
+<td>10/12</td>
+<td>Project Overview</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10/14</td>
+<td>Arithmetic Hardware</td>
+<td>Complexity, Cost</td>
+<td>Lab 4 (due 10/28)</td>
+</tr>
+<tr>
+<td>10/19</td>
+<td>Systolic Array and Memory</td>
+<td>Complexity, Cost</td>
+<td></td>
+</tr>
+<tr>
+<td>10/21</td>
+<td>Mapping</td>
+<td>Loop ordering, Data Reuse</td>
+<td></td>
+</tr>
+<tr>
+<td>10/26</td>
+<td>Scheduling</td>
+<td>Data orchestration</td>
+<td></td>
+</tr>
+<tr>
+<td>10/28</td>
+<td>Co-Design I</td>
+<td>Dense transformation</td>
+<td>Project release</td>
+</tr>
+<tr>
+<td>11/2</td>
+<td>Co-Design II</td>
+<td>Sparse transformation</td>
+<td></td>
+</tr>
+<tr>
+<td>11/4</td>
+<td>Co-Design III</td>
+<td>ML for system optimization (e.g., using NAS, RL)</td>
+<td></td>
+</tr>
+<tr>
+<td>11/9</td>
+<td>Natural Language Processing</td>
+<td>RNN, LSTM, Attention, Bert</td>
+<td></td>
+</tr>
+<tr>
+<td>11/11</td>
+<td>Training Neural Network I</td>
+<td>Backprop, Hyper-parameter</td>
+<td></td>
+</tr>
+<tr>
+<td>11/16</td>
+<td>Training Neural Network II</td>
+<td>Roofline, SGD variants</td>
+<td></td>
+</tr>
+<tr>
+<td>11/18</td>
+<td>Training Neural Network III</td>
+<td>Open Challenges</td>
+<td>Project check point</td>
+</tr>
+<tr>
+<td>11/23</td>
+<td>Wrap up</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>11/25</td>
+<td>Guest Lecture (Google)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>11/30</td>
+<td>Guest Lecture (Microsoft)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12/2</td>
+<td>Guest Lecture (Facebook)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12/7</td>
+<td>Guest Lecture (Amazon)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12/9</td>
+<td>Project Presentation</td>
+<td></td>
+<td>Project final report (due 12/15)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="reading">READING:</h2>
+<p>We will assign one paper to read before each lecture (9/9-11/18). Several review questions will guide you through the paper reading process. In addition to the paper reading questions, we will also ask you to provide brief course feedback after each lecture to help us make fine-grained adjustment throughout the semester.</p>
+<h2 id="lab-and-project">LAB AND PROJECT:</h2>
+<p>We have four labs (two software labs and two hardware labs) and 1 final project (software/hardware co-design). Lab 1 is a one-week assignment and Lab 2-4 are two-week assignments. Lab 1 and Lab 2 will teach students how to build deep neural network (DNN) models in PyTorch and perform workload analysis on CPU and GPU. These two labs will help students to get familiar with AWS computing environment and navigate the tools to find the performance bottlenecks when running DNN on different computing platforms. Lab 3 will teach student to implement a core architectural component on FPGA in OpenCL and get familiar with Xilinx Vitis unified software platform. Lab 4 consists of two parts: 1) performing software experiments in PyTorch to study the impact of low-precision arithmetic on inference accuracy and 2) performing hardware experiments in OpenCL to study the latency and the resource utilization of low-precision arithmetic hardware.
+The final project will be 1.5-month long (6 weeks). It requires the students to leverage the key learnings from the 4 labs and perform co-design on hardware and software using the techniques and design options introduced in the course to achieve an end-to-end implementation optimized for single-batch inference latency given an accuracy target.</p>
+<h2 id="comparison-to-ese532">COMPARISON TO ESE532:</h2>
+<p>This course is designed to target broader audience (e.g., CIS or ML students) including but not limited to computer engineering. The course focuses on a specific application domain - deep learning and provides an in-depth coverage on various deep learning-specific topics e.g., numerical precision and customized data type and the consequent optimization opportunities in both hardware and algorithm, etc.. For non-computer engineering students, it provides necessary computer-related knowledge to help develop intuitions on how to design hardware-friendly algorithms. For computer engineering students, it provides an in-depth coverage on the state-of-the-art deep learning techniques (software and hardware). This course is not a pre-requisite for ESE 532 but it motivates and prepares computer engineering students before diving deep into the advanced topics covered in ESE 532.</p>
+<h2 id="comparison-to-ese-546">COMPARISON TO ESE 546:</h2>
+<p>This course is more focused on the practical deployment of deep learning in various computing environment (phone, wearable, cloud and supercomputer) via the co-design of hardware and algorithm: 1) design hardware to better support the current and next generation of deep learning models and 2) design algorithms that are hardware friendly can run efficiently on current and future systems. ESE 546 is more focused on the fundamental principles of deep learning and how to build/train deep neural networks. These two courses are complementary to each other.</p>
+<h2 id="academic-misconduct">ACADEMIC MISCONDUCT:</h2>
+<p>Please refer to <a href="https://catalog.upenn.edu/pennbook/code-of-academic-integrity/">Penn&rsquo;s Code of Academic Integrity</a> for more information.</p>
+
           </div>
 
           
@@ -730,12 +842,6 @@ The list of latest work is controlled by <code>theme/academic/layouts/authors/li
 <div class="post-nav">
   
   
-  
-  <div class="post-nav-item">
-    <div class="meta-nav">Next</div>
-    <a href="/courses/notes-on-hugo-academic/my-notes/" rel="prev">Note on sourcethemes-academic</a>
-  </div>
-  
 </div>
 
           </div>
@@ -743,7 +849,7 @@ The list of latest work is controlled by <code>theme/academic/layouts/authors/li
         </div>
 
         <div class="body-footer">
-          <p>Last updated on Aug 14, 2019</p>
+          <p>Last updated on Apr 13, 2020</p>
 
           
 
