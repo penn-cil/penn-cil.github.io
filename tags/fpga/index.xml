@@ -5,7 +5,7 @@
     <link>https://penn-cil.github.io/tags/fpga/</link>
       <atom:link href="https://penn-cil.github.io/tags/fpga/index.xml" rel="self" type="application/rss+xml" />
     <description>FPGA</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
       <title>FPGA</title>
@@ -44,7 +44,7 @@
     <item>
       <title>ViTAL: Virtualizing FPGAs in the Cloud</title>
       <link>https://penn-cil.github.io/publication/zha-2020-asplos/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/publication/zha-2020-asplos/</guid>
       <description></description>
     </item>
@@ -54,7 +54,7 @@
       <link>https://penn-cil.github.io/post/fpga-virtualization-asplos-2020/</link>
       <pubDate>Tue, 24 Dec 2019 22:48:15 -0600</pubDate>
       <guid>https://penn-cil.github.io/post/fpga-virtualization-asplos-2020/</guid>
-      <description>&lt;p&gt;Yue Zha and Jing Li, &amp;ldquo;ViTAL: Virtualizing FPGAs in the Cloud,&amp;quot;, in &lt;em&gt;the 24th ACM International Conference on Architectural Support for Programming Languages and Operating Systems&lt;/em&gt; (&lt;strong&gt;ASPLOS&lt;/strong&gt; &amp;lsquo;20).&lt;/p&gt;
+      <description>&lt;p&gt;Yue Zha and Jing Li, &amp;ldquo;&lt;a href=&#34;https://penn-cil.github.io/publication/zha-2020-asplos/&#34;&gt;ViTAL: Virtualizing FPGAs in the Cloud&lt;/a&gt;&amp;quot;, in &lt;em&gt;the 24th ACM International Conference on Architectural Support for Programming Languages and Operating Systems&lt;/em&gt; (&lt;strong&gt;ASPLOS&lt;/strong&gt; &amp;lsquo;20).&lt;/p&gt;
 </description>
     </item>
     

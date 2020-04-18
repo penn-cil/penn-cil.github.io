@@ -68,7 +68,7 @@
   </url>
   
   <url>
-    <loc>https://penn-cil.github.io/tags/associative-processor/</loc>
+    <loc>https://penn-cil.github.io/tags/associative-processing/</loc>
     <lastmod>2020-04-09T19:28:42-04:00</lastmod>
   </url>
   
@@ -93,12 +93,72 @@
   </url>
   
   <url>
+    <loc>https://penn-cil.github.io/publication_types/1/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/tags/conference/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/publication/zha-2020-hyer-ap/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/publication_types/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/publication/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/tags/field-programmable-gate-array/</loc>
+    <lastmod>2020-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/tags/fpga/</loc>
+    <lastmod>2020-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/tags/virtualization/</loc>
+    <lastmod>2020-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/publication/zha-2020-asplos/</loc>
+    <lastmod>2020-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/tags/in-memory-processing/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/tags/reconfigurable-architecture/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://penn-cil.github.io/publication_types/2/</loc>
     <lastmod>2020-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://penn-cil.github.io/authors/etienne-nowak/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/tags/in-memory/</loc>
     <lastmod>2020-01-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -118,38 +178,38 @@
   </url>
   
   <url>
-    <loc>https://penn-cil.github.io/publication_types/</loc>
+    <loc>https://penn-cil.github.io/tags/neural-network-nn/</loc>
     <lastmod>2020-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://penn-cil.github.io/publication/</loc>
+    <loc>https://penn-cil.github.io/tags/nonvolatile/</loc>
     <lastmod>2020-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://penn-cil.github.io/publication_types/1/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>https://penn-cil.github.io/tags/reconfigurable/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://penn-cil.github.io/tags/conference/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>https://penn-cil.github.io/tags/resistive-ram/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://penn-cil.github.io/tags/fpga/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>https://penn-cil.github.io/tags/resistive-ram-rram/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://penn-cil.github.io/tags/virtualization/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>https://penn-cil.github.io/tags/te/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://penn-cil.github.io/publication/zha-2020-asplos/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>https://penn-cil.github.io/tags/ternary-content-addressable-memory/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -223,11 +283,6 @@
   </url>
   
   <url>
-    <loc>https://penn-cil.github.io/tags/associative-processing/</loc>
-    <lastmod>2019-08-16T16:00:10-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://penn-cil.github.io/tags/ge/</loc>
     <lastmod>2019-08-16T16:00:10-05:00</lastmod>
   </url>
@@ -258,22 +313,7 @@
   </url>
   
   <url>
-    <loc>https://penn-cil.github.io/tags/reconfigurable/</loc>
-    <lastmod>2019-08-16T15:59:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/tags/in-memory/</loc>
-    <lastmod>2019-08-16T15:58:48-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://penn-cil.github.io/tags/near-memory/</loc>
-    <lastmod>2019-08-16T15:58:48-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/tags/nonvolatile/</loc>
     <lastmod>2019-08-16T15:58:48-05:00</lastmod>
   </url>
   
@@ -893,11 +933,6 @@
   </url>
   
   <url>
-    <loc>https://penn-cil.github.io/tags/reconfigurable-architecture/</loc>
-    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://penn-cil.github.io/tags/reconfigurable-logic/</loc>
     <lastmod>2018-02-25T00:00:00+00:00</lastmod>
   </url>
@@ -1248,11 +1283,6 @@
   </url>
   
   <url>
-    <loc>https://penn-cil.github.io/tags/in-memory-processing/</loc>
-    <lastmod>2017-03-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://penn-cil.github.io/tags/near-memory-processing/</loc>
     <lastmod>2017-03-19T00:00:00+00:00</lastmod>
   </url>
@@ -1329,11 +1359,6 @@
   
   <url>
     <loc>https://penn-cil.github.io/tags/resistance/</loc>
-    <lastmod>2017-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/tags/resistive-ram/</loc>
     <lastmod>2017-03-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -1434,16 +1459,6 @@
   
   <url>
     <loc>https://penn-cil.github.io/tags/program-processors/</loc>
-    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/tags/te/</loc>
-    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/tags/ternary-content-addressable-memory/</loc>
     <lastmod>2017-02-22T00:00:00+00:00</lastmod>
   </url>
   

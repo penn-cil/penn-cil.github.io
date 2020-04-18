@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>field-programmable gate array | Penn Computational Intelligence Lab</title>
+    <link>https://penn-cil.github.io/tags/field-programmable-gate-array/</link>
+      <atom:link href="https://penn-cil.github.io/tags/field-programmable-gate-array/index.xml" rel="self" type="application/rss+xml" />
+    <description>field-programmable gate array</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://penn-cil.github.io/img/logo.png</url>
+      <title>field-programmable gate array</title>
+      <link>https://penn-cil.github.io/tags/field-programmable-gate-array/</link>
+    </image>
+    
+    <item>
+      <title>ViTAL: Virtualizing FPGAs in the Cloud</title>
+      <link>https://penn-cil.github.io/publication/zha-2020-asplos/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/publication/zha-2020-asplos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

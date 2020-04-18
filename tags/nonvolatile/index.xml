@@ -5,12 +5,20 @@
     <link>https://penn-cil.github.io/tags/nonvolatile/</link>
       <atom:link href="https://penn-cil.github.io/tags/nonvolatile/index.xml" rel="self" type="application/rss+xml" />
     <description>nonvolatile</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Aug 2019 15:58:48 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
       <title>nonvolatile</title>
       <link>https://penn-cil.github.io/tags/nonvolatile/</link>
     </image>
+    
+    <item>
+      <title>Liquid Silicon: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated ReRAM for Big Data/Machine Learning Applications (INVITED)</title>
+      <link>https://penn-cil.github.io/publication/zha-2020-jssc/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/publication/zha-2020-jssc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>1 Mb 0.41 um^2 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (INVITED)</title>

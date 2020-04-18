@@ -5,7 +5,7 @@
     <link>https://penn-cil.github.io/tags/associative-processing/</link>
       <atom:link href="https://penn-cil.github.io/tags/associative-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>associative processing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Aug 2019 16:00:10 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Apr 2020 19:28:42 -0400</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
       <title>associative processing</title>
@@ -19,6 +19,31 @@
       <guid>https://penn-cil.github.io/project/two-d-ap/</guid>
       <description>&lt;p&gt;The research project, titled &amp;ldquo;&lt;em&gt;Associative In-Memory Graph Processing Paradigm: Towards Tera-TEPS Graph Traversal In a Box&lt;/em&gt;&amp;quot;, won the &lt;strong&gt;NSF CAREER Award&lt;/strong&gt; in 2018. In this research, we developed a radically new computing paradigm, namely two-dimensional associative processing (2D AP) to further advance our previous FPGA-based graph processing architectures and fundamentally address their limitations. Mathematically, 2D AP is a new general-purpose computing model that exploits an extra dimension of parallelism (both intra-word and inter-word parallelism) to accelerate computation as compared with traditional AP which only exploit inter-word parallelism. It is particularly beneficial for massive-scale graph processing. For the first time, we provide a theoretical proof that 2D AP is inherently more efficient as measured by &amp;ldquo;&lt;em&gt;architecturally determined complexity&lt;/em&gt;&amp;rdquo; in runtime/area/energy than both von Neumann architecture and traditional AP paradigm in performing graph computation. We also provide detailed micro-architectures and circuits to best implement the proposed computing model, with domain-special language support. A preliminary published version of 2D AP [&lt;a href=&#34;https://penn-cil.github.io/publication/khoram-2018-cal&#34;&gt;Khoram2018CAL&lt;/a&gt;] was recognized as &lt;strong&gt;best of CAL&lt;/strong&gt; (IEEE Computer Architecture Letters) in 2018.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Our paper got accepted at ISCA&#39;20</title>
+      <link>https://penn-cil.github.io/post/isca2020/</link>
+      <pubDate>Thu, 09 Apr 2020 19:28:42 -0400</pubDate>
+      <guid>https://penn-cil.github.io/post/isca2020/</guid>
+      <description>&lt;p&gt;Yue Zha and Jing Li, &amp;ldquo;&lt;a href=&#34;https://penn-cil.github.io/publication/zha-2020-hyer-ap/&#34;&gt;Hyper-AP: Enhancing Associative Processing Through A Full-Stack Optimization&lt;/a&gt;&amp;quot;, &lt;em&gt;IEEE/ACM International Symposium on Computer Architecture (&lt;strong&gt;ISCA&lt;/strong&gt;)&lt;/em&gt;, 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hyper-AP: Enhancing Associative Processing Through A Full-Stack Optimization</title>
+      <link>https://penn-cil.github.io/publication/zha-2020-hyer-ap/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/publication/zha-2020-hyer-ap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Alternative Analytical Approach to Associative Processing (Best of CAL)</title>
+      <link>https://penn-cil.github.io/publication/khoram-2018-cal/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/publication/khoram-2018-cal/</guid>
+      <description></description>
     </item>
     
   </channel>

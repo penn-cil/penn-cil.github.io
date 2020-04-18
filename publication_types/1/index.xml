@@ -5,7 +5,7 @@
     <link>https://penn-cil.github.io/publication_types/1/</link>
       <atom:link href="https://penn-cil.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
       <title>1</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Hyper-AP: Enhancing Associative Processing Through A Full-Stack Optimization</title>
+      <link>https://penn-cil.github.io/publication/zha-2020-hyer-ap/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/publication/zha-2020-hyer-ap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ViTAL: Virtualizing FPGAs in the Cloud</title>
       <link>https://penn-cil.github.io/publication/zha-2020-asplos/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/publication/zha-2020-asplos/</guid>
       <description></description>
     </item>

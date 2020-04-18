@@ -13,10 +13,66 @@
     </image>
     
     <item>
-      <title>associative processor</title>
-      <link>https://penn-cil.github.io/tags/associative-processor/</link>
+      <title>associative processing</title>
+      <link>https://penn-cil.github.io/tags/associative-processing/</link>
       <pubDate>Thu, 09 Apr 2020 19:28:42 -0400</pubDate>
-      <guid>https://penn-cil.github.io/tags/associative-processor/</guid>
+      <guid>https://penn-cil.github.io/tags/associative-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conference</title>
+      <link>https://penn-cil.github.io/tags/conference/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>field-programmable gate array</title>
+      <link>https://penn-cil.github.io/tags/field-programmable-gate-array/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/field-programmable-gate-array/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FPGA</title>
+      <link>https://penn-cil.github.io/tags/fpga/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/fpga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virtualization</title>
+      <link>https://penn-cil.github.io/tags/virtualization/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/virtualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> in-memory processing</title>
+      <link>https://penn-cil.github.io/tags/in-memory-processing/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/in-memory-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> reconfigurable architecture</title>
+      <link>https://penn-cil.github.io/tags/reconfigurable-architecture/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/reconfigurable-architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>in-memory</title>
+      <link>https://penn-cil.github.io/tags/in-memory/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/in-memory/</guid>
       <description></description>
     </item>
     
@@ -37,26 +93,58 @@
     </item>
     
     <item>
-      <title>conference</title>
-      <link>https://penn-cil.github.io/tags/conference/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/conference/</guid>
+      <title>neural network (NN)</title>
+      <link>https://penn-cil.github.io/tags/neural-network-nn/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/neural-network-nn/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>FPGA</title>
-      <link>https://penn-cil.github.io/tags/fpga/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/fpga/</guid>
+      <title>nonvolatile</title>
+      <link>https://penn-cil.github.io/tags/nonvolatile/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/nonvolatile/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>virtualization</title>
-      <link>https://penn-cil.github.io/tags/virtualization/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/virtualization/</guid>
+      <title>reconfigurable</title>
+      <link>https://penn-cil.github.io/tags/reconfigurable/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/reconfigurable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resistive ram</title>
+      <link>https://penn-cil.github.io/tags/resistive-ram/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/resistive-ram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resistive-RAM (RRAM)</title>
+      <link>https://penn-cil.github.io/tags/resistive-ram-rram/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/resistive-ram-rram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>te</title>
+      <link>https://penn-cil.github.io/tags/te/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/te/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ternary content addressable memory</title>
+      <link>https://penn-cil.github.io/tags/ternary-content-addressable-memory/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/ternary-content-addressable-memory/</guid>
       <description></description>
     </item>
     
@@ -97,14 +185,6 @@
       <link>https://penn-cil.github.io/tags/graph-analytics/</link>
       <pubDate>Fri, 16 Aug 2019 16:02:06 -0500</pubDate>
       <guid>https://penn-cil.github.io/tags/graph-analytics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>associative processing</title>
-      <link>https://penn-cil.github.io/tags/associative-processing/</link>
-      <pubDate>Fri, 16 Aug 2019 16:00:10 -0500</pubDate>
-      <guid>https://penn-cil.github.io/tags/associative-processing/</guid>
       <description></description>
     </item>
     
@@ -157,34 +237,10 @@
     </item>
     
     <item>
-      <title>reconfigurable</title>
-      <link>https://penn-cil.github.io/tags/reconfigurable/</link>
-      <pubDate>Fri, 16 Aug 2019 15:59:00 -0500</pubDate>
-      <guid>https://penn-cil.github.io/tags/reconfigurable/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>in-memory</title>
-      <link>https://penn-cil.github.io/tags/in-memory/</link>
-      <pubDate>Fri, 16 Aug 2019 15:58:48 -0500</pubDate>
-      <guid>https://penn-cil.github.io/tags/in-memory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>near-memory</title>
       <link>https://penn-cil.github.io/tags/near-memory/</link>
       <pubDate>Fri, 16 Aug 2019 15:58:48 -0500</pubDate>
       <guid>https://penn-cil.github.io/tags/near-memory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nonvolatile</title>
-      <link>https://penn-cil.github.io/tags/nonvolatile/</link>
-      <pubDate>Fri, 16 Aug 2019 15:58:48 -0500</pubDate>
-      <guid>https://penn-cil.github.io/tags/nonvolatile/</guid>
       <description></description>
     </item>
     
@@ -297,14 +353,6 @@
       <link>https://penn-cil.github.io/tags/monolithic-stacking/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/monolithic-stacking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> reconfigurable architecture</title>
-      <link>https://penn-cil.github.io/tags/reconfigurable-architecture/</link>
-      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/reconfigurable-architecture/</guid>
       <description></description>
     </item>
     
@@ -757,14 +805,6 @@
     </item>
     
     <item>
-      <title> in-memory processing</title>
-      <link>https://penn-cil.github.io/tags/in-memory-processing/</link>
-      <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/in-memory-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title> near-memory processing</title>
       <link>https://penn-cil.github.io/tags/near-memory-processing/</link>
       <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
@@ -873,14 +913,6 @@
       <link>https://penn-cil.github.io/tags/resistance/</link>
       <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/resistance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>resistive ram</title>
-      <link>https://penn-cil.github.io/tags/resistive-ram/</link>
-      <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/resistive-ram/</guid>
       <description></description>
     </item>
     
@@ -1001,22 +1033,6 @@
       <link>https://penn-cil.github.io/tags/program-processors/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/program-processors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>te</title>
-      <link>https://penn-cil.github.io/tags/te/</link>
-      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/te/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ternary content addressable memory</title>
-      <link>https://penn-cil.github.io/tags/ternary-content-addressable-memory/</link>
-      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/ternary-content-addressable-memory/</guid>
       <description></description>
     </item>
     
