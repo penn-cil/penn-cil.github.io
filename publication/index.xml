@@ -5,7 +5,7 @@
     <link>https://penn-cil.github.io/publication/</link>
       <atom:link href="https://penn-cil.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
       <title>Publications</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Hyper-AP: Enhancing Associative Processing Through A Full-Stack Optimization</title>
-      <link>https://penn-cil.github.io/publication/zha-2020-hyer-ap/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/publication/zha-2020-hyer-ap/</guid>
+      <link>https://penn-cil.github.io/publication/zha-2020-hyper-ap/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/publication/zha-2020-hyper-ap/</guid>
       <description></description>
     </item>
     
@@ -77,7 +77,7 @@
     </item>
     
     <item>
-      <title>SysML: The New Frontier of Machine Learning Systems</title>
+      <title>MLSys: The New Frontier of Machine Learning Systems</title>
       <link>https://penn-cil.github.io/publication/ratner-2019-sysml/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/publication/ratner-2019-sysml/</guid>

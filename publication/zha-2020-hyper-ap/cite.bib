@@ -1,0 +1,12 @@
+@inproceedings{zha2020hyperAP,
+ abstract = {3D-stacking memory technology such as  High-Bandwidth Memory (HBM) and Hybrid Memory Cube (HMC) provides orders of magnitude more bandwidth and significantly increased channel-level parallelism (CLP) due to the new parallel memory architecture. However, it is challenging to fully exploit the abundant CLP for performance as the bandwidth utilization is highly dependent on address mapping in the memory controller. Unfortunately, CLP is very sensitive to a program's data access pattern, which is not made available to OS/hardware by existing mechanisms. . In this work, we address these challenges with software-defined address mapping. We first apply machine learning to learn/predict the program's access patterns and then use clustering to distinguish between multiple patterns in a single program. We provide mechanisms to communicate the learned program's access properties to the OS and hardware and to use it to control data placement in hardware. To guarantee correctness and reduce overhead in storage and performance, we extend Linux kernel and c-language memory allocators to support multiple address mappings. We demonstrate the benefits of our design on real system prototype, comprising (1) a RISC-V processor and HBM modules using Xilinx FPGA platform (2) a bootable OS based on Linux and glibc. Our evaluation on both a CPU and a near-memory accelerator demonstrates a 1.42x and 2.25x speedup in our system with software-defined address mapping compared to a baseline system that uses a fixed address mapping.},
+ author = {Zha, Yue and Li, Jing},
+ booktitle = {2020 ACM/IEEE 45th Annual International Symposium on Computer Architecture},
+ keywords = {conference, associative processing},
+ organization = {IEEE},
+ pubstate = {forthcoming},
+ series = {**ISCA** '20},
+ title = {{Hyper-AP: Enhancing Associative Processing Through A Full-Stack Optimization}},
+ year = {2020}
+}
+

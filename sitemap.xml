@@ -53,28 +53,58 @@
   </url>
   
   <url>
-    <loc>https://penn-cil.github.io/courses/</loc>
-    <lastmod>2020-04-13T19:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://penn-cil.github.io/authors/jing-li/</loc>
-    <lastmod>2020-04-09T19:28:42-04:00</lastmod>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://penn-cil.github.io/authors/yue-zha/</loc>
-    <lastmod>2020-04-09T19:28:42-04:00</lastmod>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/publication_types/1/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://penn-cil.github.io/tags/associative-processing/</loc>
-    <lastmod>2020-04-09T19:28:42-04:00</lastmod>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://penn-cil.github.io/authors/</loc>
-    <lastmod>2020-04-09T19:28:42-04:00</lastmod>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/tags/conference/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/publication/zha-2020-hyper-ap/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/publication_types/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/publication/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/tags/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/courses/</loc>
+    <lastmod>2020-04-13T19:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -85,36 +115,6 @@
   <url>
     <loc>https://penn-cil.github.io/post/</loc>
     <lastmod>2020-04-09T19:28:42-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/tags/</loc>
-    <lastmod>2020-04-09T19:28:42-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/publication_types/1/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/tags/conference/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/publication/zha-2020-hyer-ap/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/publication_types/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/publication/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -773,6 +773,11 @@
   </url>
   
   <url>
+    <loc>https://penn-cil.github.io/publication/ratner-2019-sysml/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://penn-cil.github.io/authors/nicholas-carlini/</loc>
     <lastmod>2019-03-29T00:00:00+00:00</lastmod>
   </url>
@@ -829,11 +834,6 @@
   
   <url>
     <loc>https://penn-cil.github.io/authors/song-han/</loc>
-    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/publication/ratner-2019-sysml/</loc>
     <lastmod>2019-03-29T00:00:00+00:00</lastmod>
   </url>
   
