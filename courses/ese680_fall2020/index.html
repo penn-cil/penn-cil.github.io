@@ -583,6 +583,7 @@
     <li><a href="#prerequisites">PREREQUISITES</a></li>
     <li><a href="#grading-policy">GRADING POLICY</a></li>
     <li><a href="#class-homepage">CLASS HOMEPAGE:</a></li>
+    <li><a href="#invited-speakers">INVITED SPEAKERS</a></li>
     <li><a href="#class-schedule-tentative">CLASS SCHEDULE (TENTATIVE)</a></li>
     <li><a href="#reading">READING:</a></li>
     <li><a href="#lab-and-project">LAB AND PROJECT:</a></li>
@@ -619,7 +620,7 @@ Office Hours: 11:30am-12:30pm W</p>
 </ul>
 <h2 id="course-overview">COURSE OVERVIEW</h2>
 <p>Machine learning (ML) techniques are enjoying rapidly increasing adoption in our daily life, due to the synergistic advancements across data, algorithm, and hardware. However, designing and implementing systems that can efficiently support ML models across various deployment scenarios from edge to cloud remains a significant obstacle, in large part due to the gap between machine learning’s promise (core ML algorithm and method) and its real-world utility (diverse and heterogeneous computing platforms).</p>
-<p>The course is designed to introduce a new research area at the intersection of machine learning and hardware systems to bridge the gap. The covered topics include basics of deep learning, deep learning frameworks, deep learning on contemporary computing platforms (CPU, GPU, FPGA) and programmable accelerators (TPU), performance measures, numerical representation and customized data types for deep learning, co-optimization of deep learning algorithms and hardware, training for deep learning and support for complex deep learning models. The course is structured with a combination of lectures, labs, research paper reading/in-class discussion, a final project and guest lectures with state-of-the-art industry practices (Microsoft, Google, Facebook and Amazon). The goal is to help students to 1) gain hands-on experiences on deploying deep learning models on CPU, GPU and FPGA; 2) develop the intuition on how to perform close-loop co-design of algorithm and hardware through various engineering knobs such as algorithmic transformation, data layout, numerical precision, data reuse, and parallelism for performance optimization given target accuracy metrics, 3) understand future trends and opportunities at the intersection of ML and computer system fields. 4) (For CIS or ML students), gain necessary computer hardware knowledge for algorithm-level optimizations.</p>
+<p>The course is designed to introduce a new research area at the intersection of machine learning and hardware systems to bridge the gap. The covered topics include basics of deep learning, deep learning frameworks, deep learning on contemporary computing platforms (CPU, GPU, FPGA) and programmable accelerators (TPU), performance measures, numerical representation and customized data types for deep learning, co-optimization of deep learning algorithms and hardware, training for deep learning and support for complex deep learning models. The course is structured with a combination of lectures, labs, research paper reading/in-class discussion, a final project and guest lectures with state-of-the-art industry practices (Amazon, Facebook, Google, Intel, Microsoft, and Xilinx). The goal is to help students to 1) gain hands-on experiences on deploying deep learning models on CPU, GPU and FPGA; 2) develop the intuition on how to perform close-loop co-design of algorithm and hardware through various engineering knobs such as algorithmic transformation, data layout, numerical precision, data reuse, and parallelism for performance optimization given target accuracy metrics, 3) understand future trends and opportunities at the intersection of ML and computer system fields. 4) (For CIS or ML students), gain necessary computer hardware knowledge for algorithm-level optimizations.</p>
 <h2 id="prerequisites">PREREQUISITES</h2>
 <p>CIS 240, or equivalent<br>
 Proficiency in programming: ENGR105, CIS110, CIS120, or equivalent. Lab assignments in
@@ -637,11 +638,13 @@ Lab/project assignment turn-in: Lab and project reports will be turned in electr
 <h2 id="class-homepage">CLASS HOMEPAGE:</h2>
 <p>TBA (a Canvas website will be provided)<br>
 Piazza will be used for discussions and clarifications.</p>
+<h2 id="invited-speakers">INVITED SPEAKERS</h2>
+<p><img src="/img/invited_speakers.png" alt="Invited Speakers" title="Title: Invited Speakers"></p>
 <h2 id="class-schedule-tentative">CLASS SCHEDULE (TENTATIVE)</h2>
 <table>
 <thead>
 <tr>
-<th>﻿Date</th>
+<th>Date</th>
 <th>Topic</th>
 <th>Course Content</th>
 <th>Notes/Assignment Due</th>
@@ -649,169 +652,169 @@ Piazza will be used for discussions and clarifications.</p>
 </thead>
 <tbody>
 <tr>
-<td>9/2</td>
+<td>09/02</td>
 <td>Class Introduction</td>
 <td></td>
-<td>09/07 (no class)</td>
+<td>09/07 no class</td>
 </tr>
 <tr>
-<td>9/9</td>
+<td>09/09</td>
 <td>Introduction to Deep Learning</td>
-<td>Model, Dataset, Cost (loss) function,          Optimization</td>
-<td>Lab 1 (due 9/16)</td>
-</tr>
-<tr>
-<td>9/14</td>
-<td>Deep Learning System:          Hardware and Software</td>
-<td>CPU, GPU, FPGA, PyTorch, TensorFlow, ONNX</td>
+<td>Model, Dataset, Cost (loss) function,  Optimization</td>
 <td></td>
 </tr>
 <tr>
-<td>9/16</td>
-<td>Performance Analysis</td>
-<td>Metrics, Benchmarks</td>
-<td>Lab 2 (due 9/30)</td>
-</tr>
-<tr>
-<td>9/21</td>
-<td>Parallelism</td>
-<td>ILP, DLP, TLP</td>
+<td>09/14</td>
+<td>Deep Neural Network Architecture</td>
+<td>Kernel Computation (Inference), AlexNet, VGG, GoogLeNet,   ResNet</td>
 <td></td>
 </tr>
 <tr>
-<td>9/23</td>
-<td>Programming Model</td>
-<td>Abstraction, Vector, SIMD, Data flow</td>
+<td>09/16</td>
+<td>Deep Learning System: Hardware and Software</td>
+<td>CPU, GPU, FPGA, TPU,    PyTorch, ONNX, MLPerf</td>
 <td></td>
 </tr>
 <tr>
-<td>9/28</td>
-<td>FPGA fundamentals</td>
+<td>09/21</td>
+<td>PyTorch Tutorial</td>
+<td></td>
+<td>Lab 1 (due 9/28)</td>
+</tr>
+<tr>
+<td>09/23</td>
+<td>FPGA fudementals</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>9/30</td>
+<td>09/28</td>
+<td>Guest Lecture (Cliff Young, Google)</td>
+<td>Neural Networks Have Rebooted Computer Architecture: What   Should We Reboot Next?</td>
+<td>Lab 2 (due 10/07)</td>
+</tr>
+<tr>
+<td>09/30</td>
+<td>Parellelism</td>
+<td>Data/Model/Pipeline Parellelism, ILP, DLP, TLP</td>
+<td></td>
+</tr>
+<tr>
+<td>10/05</td>
+<td>Mapping and Scheduling I</td>
+<td>Roofline, Parellelism/Data Reuse, Loop Unrolling/Order/Bound,   Spatial/Temporal Choice</td>
+<td></td>
+</tr>
+<tr>
+<td>10/07</td>
 <td>OpenCL Tutorial</td>
 <td></td>
-<td>Lab 3 (due 10/14)</td>
-</tr>
-<tr>
-<td>10/5</td>
-<td>Numerical Representation</td>
-<td>INT, FP, Error Analysis</td>
-<td></td>
-</tr>
-<tr>
-<td>10/7</td>
-<td>Customized Data Types</td>
-<td>Bfloat16, MSFP, Posit</td>
-<td></td>
+<td>Lab 3 (due10/19)</td>
 </tr>
 <tr>
 <td>10/12</td>
-<td>Project Overview</td>
-<td></td>
+<td>Mapping and Scheduling II</td>
+<td>Auto Tuning, Optimization for specialized HW, Case studies</td>
 <td></td>
 </tr>
 <tr>
 <td>10/14</td>
-<td>Arithmetic Hardware</td>
-<td>Complexity, Cost</td>
-<td>Lab 4 (due 10/28)</td>
-</tr>
-<tr>
-<td>10/19</td>
-<td>Systolic Array and Memory</td>
-<td>Complexity, Cost</td>
+<td>Guest Lecture (Stephen Neuendorffer, Xilinx)</td>
+<td>Optimizing data movement for Versal AI Engine</td>
 <td></td>
 </tr>
 <tr>
+<td>10/19</td>
+<td>Numerial Precision and Custom Data Type</td>
+<td>INT, FP, Bfloat16, MS-FP, TF32, DLFloat16, Quantization   Process (Mapping/Scaling/Range Calibration)</td>
+<td>Lab 4 (due 11/02)</td>
+</tr>
+<tr>
 <td>10/21</td>
-<td>Mapping</td>
-<td>Loop ordering, Data Reuse</td>
+<td>Guest Lecture (Randy Huang, Amazon)</td>
+<td>Accelerating the Pace of AWS Inferentia Chip Development: From   Concept to End Customers Use</td>
 <td></td>
 </tr>
 <tr>
 <td>10/26</td>
-<td>Scheduling</td>
-<td>Data orchestration</td>
+<td>Project Overview</td>
 <td></td>
-</tr>
-<tr>
-<td>10/28</td>
-<td>Co-Design I</td>
-<td>Dense transformation</td>
 <td>Project release</td>
 </tr>
 <tr>
-<td>11/2</td>
+<td>10/28</td>
+<td>Guest Lecture (Eric Chung, Microsoft)</td>
+<td>TBD</td>
+<td></td>
+</tr>
+<tr>
+<td>11/02</td>
+<td>Arithmetic Hardware</td>
+<td>Complexity, Cost</td>
+<td></td>
+</tr>
+<tr>
+<td>11/04</td>
+<td>Guest Lecture (Martin Langhammer, Intel)</td>
+<td>Low Precision Arithmetic in FPGAs</td>
+<td></td>
+</tr>
+<tr>
+<td>11/09</td>
+<td>Co-Design I</td>
+<td>Dense transformation (Direct Conv, GEMM, FFT, Winograd)</td>
+<td></td>
+</tr>
+<tr>
+<td>11/11</td>
 <td>Co-Design II</td>
 <td>Sparse transformation</td>
 <td></td>
 </tr>
 <tr>
-<td>11/4</td>
+<td>11/16</td>
 <td>Co-Design III</td>
-<td>ML for system optimization (e.g., using NAS, RL)</td>
+<td>Compact Models and NAS</td>
 <td></td>
 </tr>
 <tr>
-<td>11/9</td>
+<td>11/18</td>
+<td>Guest Lecture (Hsien-Hsin Sean Lee, Facebook)</td>
+<td>TBD</td>
+<td></td>
+</tr>
+<tr>
+<td>11/23</td>
 <td>Natural Language Processing</td>
-<td>RNN, LSTM, Attention, Bert</td>
+<td>RNN, LSTM, Attention, Transformer</td>
 <td></td>
 </tr>
 <tr>
-<td>11/11</td>
+<td>11/25</td>
 <td>Training Neural Network I</td>
 <td>Backprop, Hyper-parameter</td>
 <td></td>
 </tr>
 <tr>
-<td>11/16</td>
+<td>11/30</td>
 <td>Training Neural Network II</td>
-<td>Roofline, SGD variants</td>
+<td>SGD variants, Kernel Computation (Training), Cost Analysis</td>
 <td></td>
 </tr>
 <tr>
-<td>11/18</td>
+<td>12/02</td>
 <td>Training Neural Network III</td>
-<td>Open Challenges</td>
-<td>Project check point</td>
+<td>Distributed Training</td>
+<td></td>
 </tr>
 <tr>
-<td>11/23</td>
+<td>12/07</td>
 <td>Wrap up</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>11/25</td>
-<td>Guest Lecture (Google)</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>11/30</td>
-<td>Guest Lecture (Microsoft)</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>12/2</td>
-<td>Guest Lecture (Facebook)</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>12/7</td>
-<td>Guest Lecture (Amazon)</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>12/9</td>
+<td>12/09</td>
 <td>Project Presentation</td>
 <td></td>
 <td>Project final report (due 12/15)</td>
