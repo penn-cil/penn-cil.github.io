@@ -24,11 +24,11 @@
 &lt;h2 id=&#34;instructor&#34;&gt;INSTRUCTOR&lt;/h2&gt;
 &lt;p&gt;Jing (Jane) Li (&lt;a href=&#34;mailto:janeli@seas.upenn.edu&#34;&gt;janeli@seas.upenn.edu&lt;/a&gt;)&lt;br&gt;
 Office: Levine 274&lt;br&gt;
-Office Hours: 11:30am-12:30pm W&lt;/p&gt;
+Office Hours: 2pm-3pm W&lt;/p&gt;
 &lt;h2 id=&#34;teaching-assistants&#34;&gt;TEACHING ASSISTANTS&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Jialiang Zhang (&lt;a href=&#34;mailto:jlzhang@seas.upenn.edu&#34;&gt;jlzhang@seas.upenn.edu&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;TBD&lt;/li&gt;
+&lt;li&gt;Nick Beckwith (&lt;a href=&#34;mailto:nickbeck@seas.upenn.edu&#34;&gt;nickbeck@seas.upenn.edu&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;course-overview&#34;&gt;COURSE OVERVIEW&lt;/h2&gt;
 &lt;p&gt;Machine learning (ML) techniques are enjoying rapidly increasing adoption in our daily life, due to the synergistic advancements across data, algorithm, and hardware. However, designing and implementing systems that can efficiently support ML models across various deployment scenarios from edge to cloud remains a significant obstacle, in large part due to the gap between machine learning’s promise (core ML algorithm and method) and its real-world utility (diverse and heterogeneous computing platforms).&lt;/p&gt;
