@@ -1,0 +1,1030 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.4.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Jing Li">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Hardware/Software Co-Design for Machine Learning">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://penn-cil.github.io/courses/ese539_spring2021/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.7c75abe867d1ac4b26fbe501f37ef260.css">
+
+  
+    
+    
+    
+    
+      
+    
+    
+    
+    <link rel="stylesheet" href="/css/academic.c271459694f356ca716e4e62b3b71072.css">
+  
+
+  
+  
+  
+
+  
+  <link rel="alternate" href="/courses/ese539_spring2021/index.xml" type="application/rss+xml" title="Penn Computational Intelligence Lab">
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://penn-cil.github.io/courses/ese539_spring2021/">
+
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Penn Computational Intelligence Lab">
+  <meta property="og:url" content="https://penn-cil.github.io/courses/ese539_spring2021/">
+  <meta property="og:title" content="ESE 539 - Hardware/Software Co-Design for Machine Learning (Spring 2021) | Penn Computational Intelligence Lab">
+  <meta property="og:description" content="Hardware/Software Co-Design for Machine Learning"><meta property="og:image" content="https://penn-cil.github.io/img/logo.png">
+  <meta property="twitter:image" content="https://penn-cil.github.io/img/logo.png"><meta property="og:locale" content="en-us">
+  
+    <meta property="og:updated_time" content="2020-04-13T00:00:00&#43;00:00">
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title>ESE 539 - Hardware/Software Co-Design for Machine Learning (Spring 2021) | Penn Computational Intelligence Lab</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/"><img src="/img/logo.png" alt="Penn Computational Intelligence Lab"></a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#top"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>PI</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#people"><span>The Lab</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#research"><span>Research</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/courses/"><span>Courses</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#sponsors"><span>Sponsors</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact & Openings</span></a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      
+
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+  
+  <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+  
+  <div class="docs-toc-item active">
+    <a class="docs-toc-link" href="/courses/ese539_spring2021/">Overview</a>
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
+      </ul>
+
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#time-and-place">TIME AND PLACE</a></li>
+    <li><a href="#instructor">INSTRUCTOR</a></li>
+    <li><a href="#teaching-assistants">TEACHING ASSISTANTS</a></li>
+    <li><a href="#course-overview">COURSE OVERVIEW</a></li>
+    <li><a href="#prerequisites">PREREQUISITES</a></li>
+    <li><a href="#grading-policy">GRADING POLICY</a></li>
+    <li><a href="#class-homepage">CLASS HOMEPAGE:</a></li>
+    <li><a href="#class-schedule-tentative">CLASS SCHEDULE (TENTATIVE)</a></li>
+    <li><a href="#reading">READING:</a></li>
+    <li><a href="#lab-and-project">LAB AND PROJECT:</a></li>
+    <li><a href="#comparison-to-ese-532">COMPARISON TO ESE 532:</a></li>
+    <li><a href="#comparison-to-ese-546">COMPARISON TO ESE 546:</a></li>
+    <li><a href="#academic-misconduct">ACADEMIC MISCONDUCT:</a></li>
+  </ul>
+</nav>
+
+      
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article" itemscope itemtype="http://schema.org/Article">
+
+        <div class="docs-article-container">
+          <h1 itemprop="name">ESE 539 - Hardware/Software Co-Design for Machine Learning (Spring 2021)</h1>
+
+          <div class="article-style" itemprop="articleBody">
+            <h2 id="time-and-place">TIME AND PLACE</h2>
+<p><strong>Lectures</strong>: 	M W 12:00pm-1:30pm<br>
+<strong>Location</strong>: Zoom <br>
+<strong>UNITS</strong>: 1.0 CU</p>
+<h2 id="instructor">INSTRUCTOR</h2>
+<p>Jing (Jane) Li (<a href="mailto:janeli@seas.upenn.edu">janeli@seas.upenn.edu</a>)<br>
+Office: Levine 274<br>
+Office Hours: 2pm-3pm M</p>
+<h2 id="teaching-assistants">TEACHING ASSISTANTS</h2>
+<ul>
+<li>Nick Beckwith (<a href="mailto:nickbeck@seas.upenn.edu">nickbeck@seas.upenn.edu</a>)</li>
+<li>Stefano Yushinski (<a href="mailto:ystefano@seas.upenn.edu">ystefano@seas.upenn.edu</a>)</li>
+</ul>
+<h2 id="course-overview">COURSE OVERVIEW</h2>
+<p>Machine learning (ML) techniques are enjoying rapidly increasing adoption in our daily life, due to the synergistic advancements across data, algorithm, and hardware. However, designing and implementing systems that can efficiently support ML models across various deployment scenarios from edge to cloud remains a significant obstacle, in large part due to the gap between machine learning’s promise (core ML algorithm and method) and its real-world utility (diverse and heterogeneous computing platforms).</p>
+<p>The course is designed to introduce a new research area at the intersection of machine learning and hardware systems to bridge the gap. The covered topics include basics of deep learning, deep learning frameworks, deep learning on contemporary computing platforms (CPU, GPU, FPGA) and programmable accelerators (TPU), performance measures, numerical representation and customized data types for deep learning, co-optimization of deep learning algorithms and hardware, training for deep learning and support for complex deep learning models. The course is structured with a combination of lectures, labs, research paper reading/in-class discussion, a final project and guest lectures with state-of-the-art industry practices (Amazon, Facebook, Google, Intel, Microsoft, and Xilinx). The goal is to help students to 1) gain hands-on experiences on deploying deep learning models on CPU, GPU and FPGA; 2) develop the intuition on how to perform close-loop co-design of algorithm and hardware through various engineering knobs such as algorithmic transformation, data layout, numerical precision, data reuse, and parallelism for performance optimization given target accuracy metrics, 3) understand future trends and opportunities at the intersection of ML and computer system fields. 4) (For CIS or ML students), gain necessary computer hardware knowledge for algorithm-level optimizations.</p>
+<h2 id="prerequisites">PREREQUISITES</h2>
+<p>CIS 240, or equivalent<br>
+Proficiency in programming: ENGR105, CIS110, CIS120, or equivalent. Lab assignments in
+this course will be based in PyTorch (CPU, GPU) and OpenCL (FPGA).
+(Note that CIS 371 is not officially required but helpful)</p>
+<p><strong>Undergraduates</strong>: Permission of the instructor is required to enroll in this class. If you are unsure whether your background is sufficient for this class, please talk to/email the instructor.</p>
+<p><strong>Lab 0 is designed to evaluate if your background is sufficient to take the course.</strong></p>
+<h2 id="grading-policy">GRADING POLICY</h2>
+<p>Lab Assignments = 40%<br>
+Final Project = 50%<br>
+Reading = 10%</p>
+<p><strong>Late policy</strong>: Each student will have 5 free “late days” to use during the semester. You can use these late days to submit lab/project after the due date without any penalty. Assignments that are submitted late, after exhausting the quota of late days will result in 50% credit deducted per day, i.e., zero credit after 2 late days. Do not exhaust all the late days on the first lab.</p>
+<p><strong>Collaboration policy</strong>: Study groups are allowed, and students may discuss in groups. However, we expect students to understand and complete their own lab assignments. Each student must conduct the lab independently and hand in one lab assignment per student. For the final project, students are expected to work in groups (2 students per group). Each team should turn in one final project report. In the project report, please write down each team member’s specific contribution.</p>
+<p><strong>Reading assignment turn-in</strong>: The paper review will be turned in via Google form by 12:00pm before lecture (link will be posted on the canvas website).
+Lab/project assignment turn-in: Lab and project reports will be turned in electronically through the Penn Canvas website. Log in to Canvas with your PennKey and password, then select ESE 539 from the Courses and Groups dropdown menu. Submission should be as a single file (preferably .pdf).</p>
+<h2 id="class-homepage">CLASS HOMEPAGE:</h2>
+<p>TBA (a Canvas website will be provided)<br>
+Piazza will be used for discussions and clarifications.</p>
+<h2 id="class-schedule-tentative">CLASS SCHEDULE (TENTATIVE)</h2>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Topic</th>
+<th>Course Content</th>
+<th>Notes/Assignment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>01/20</td>
+<td>Class Introduction</td>
+<td></td>
+<td>Lab 0 release</td>
+</tr>
+<tr>
+<td>01/25</td>
+<td>Introduction to Deep Learning</td>
+<td>Model, Dataset, Cost (loss) function,  Optimizer, Overfitting/Generalization, Regularization</td>
+<td></td>
+</tr>
+<tr>
+<td>01/27</td>
+<td>Deep Neural Network Architecture</td>
+<td>Kernel Computation (Inference), AlexNet, VGG, GoogLeNet,   ResNet</td>
+<td>Lab 0 due; Lab 1 release</td>
+</tr>
+<tr>
+<td>02/01</td>
+<td>Deep Learning System: Hardware and Software</td>
+<td>CPU, GPU, FPGA, TPU,    PyTorch, ONNX, MLPerf</td>
+<td></td>
+</tr>
+<tr>
+<td>02/03</td>
+<td>PyTorch Tutorial</td>
+<td></td>
+<td>Lab 1 due, Lab 2 release</td>
+</tr>
+<tr>
+<td>02/08</td>
+<td>FPGA fudementals</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>02/10</td>
+<td>OpenCL Tutorial</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>02/15</td>
+<td>Parellelism</td>
+<td>Data/Model/Pipeline Parellelism, ILP, DLP, TLP, Roofline, Amdahl&rsquo;s Law</td>
+<td></td>
+</tr>
+<tr>
+<td>02/17</td>
+<td>Mapping and Scheduling I</td>
+<td>Extended Roofline, Parellelism/Data Reuse, Loop Unrolling/Order/Bound,   Spatial/Temporal Choice</td>
+<td>Lab 2 due, Lab 3 release</td>
+</tr>
+<tr>
+<td>02/22</td>
+<td>Mapping and Scheduling II</td>
+<td>Auto Tuning, Optimization for specialized HW, Case studies</td>
+<td></td>
+</tr>
+<tr>
+<td>02/24</td>
+<td>Numerial Precision and Custom Data Type</td>
+<td>INT, FP, Bfloat16, MS-FP, TF32, DLFloat16, Quantization   Process (Mapping/Scaling/Range Calibration)</td>
+<td></td>
+</tr>
+<tr>
+<td>03/01</td>
+<td>Arithmetic Hardware</td>
+<td>Complexity, Cost, Operator fusion</td>
+<td></td>
+</tr>
+<tr>
+<td>03/03</td>
+<td>Co-Design I</td>
+<td>Dense transformation (Direct Conv, GEMM, FFT, Winograd)</td>
+<td>Lab 3 due, Lab 4 release</td>
+</tr>
+<tr>
+<td>03/08</td>
+<td>Co-Design II_part 1</td>
+<td>Sparse transformation</td>
+<td></td>
+</tr>
+<tr>
+<td>03/10</td>
+<td>Co-Design II_part 1</td>
+<td>Sparse transformation</td>
+<td></td>
+</tr>
+<tr>
+<td>03/15</td>
+<td><strong>No Class</strong></td>
+<td>Spring Break</td>
+<td></td>
+</tr>
+<tr>
+<td>03/17</td>
+<td>Co-Design III</td>
+<td>Compact Models and NAS</td>
+<td>Lab 4 due</td>
+</tr>
+<tr>
+<td>03/22</td>
+<td>Natural Language Processing</td>
+<td>RNN, LSTM/GRU, Attention, Transformer</td>
+<td></td>
+</tr>
+<tr>
+<td>03/24</td>
+<td>Project Overview</td>
+<td></td>
+<td>Project release</td>
+</tr>
+<tr>
+<td>03/29</td>
+<td>Training Neural Network I</td>
+<td>Sparse transformation</td>
+<td></td>
+</tr>
+<tr>
+<td>03/31</td>
+<td>Training Tutorial</td>
+<td>Compact Models and NAS</td>
+<td></td>
+</tr>
+<tr>
+<td>04/05</td>
+<td>Training Neural Network II</td>
+<td>Distributed Training</td>
+<td></td>
+</tr>
+<tr>
+<td>04/07</td>
+<td>Guest Lecture</td>
+<td>TBD</td>
+<td></td>
+</tr>
+<tr>
+<td>04/12</td>
+<td><strong>No Class</strong></td>
+<td>Engagement Day</td>
+<td></td>
+</tr>
+<tr>
+<td>04/14</td>
+<td>Guest Lecture</td>
+<td>TBD</td>
+<td></td>
+</tr>
+<tr>
+<td>04/19</td>
+<td>Guest Lecture</td>
+<td>TBD</td>
+<td></td>
+</tr>
+<tr>
+<td>04/21</td>
+<td>Guest Lecture</td>
+<td>TBD</td>
+<td></td>
+</tr>
+<tr>
+<td>04/26</td>
+<td>Wrap up</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>04/28</td>
+<td>Project Presentation</td>
+<td></td>
+<td>Project final report (due 05/04)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="reading">READING:</h2>
+<p>We will assign one paper to read before most lectures. Several review questions will guide you through the paper reading process. In addition to the paper reading questions, we will also ask you to provide brief course feedback after each lecture to help us make fine-grained adjustment throughout the semester.</p>
+<h2 id="lab-and-project">LAB AND PROJECT:</h2>
+<p>In addition to Lab 0 which is mainly used to evaluate your background, we have four more labs (two software labs and two hardware labs) and 1 final project (software/hardware co-design). Lab 1 is a one-week assignment and Lab 2-4 are two-week assignments. Lab 1 and Lab 2 will teach students how to build deep neural network (DNN) models in PyTorch and perform workload analysis on CPU and GPU. These two labs will help students to get familiar with AWS computing environment and navigate/modify the tools to find the performance bottlenecks when running DNN on different computing platforms. Lab 3 and Lab 4 will teach student to implement a core architectural component on FPGA in OpenCL and get familiar with Xilinx Vitis unified software platform.
+The final project will be 1.5-month long (6 weeks). It requires the students to leverage the key learnings from the 4 labs and perform co-design on hardware and software using the techniques and design options introduced in the course to achieve an end-to-end implementation optimized for single-batch inference latency given an accuracy target.</p>
+<h2 id="comparison-to-ese-532">COMPARISON TO ESE 532:</h2>
+<p>This course is designed to target broader audience (e.g., CIS or ML students) including but not limited to computer engineering. The course covers a higher level abstraction in the system stack with a focus on a specific application domain - deep learning. The various deep learning-specific topics includes domain-specific framework, numerical precision and customized data type and the consequent optimization opportunities in both software and hardware, etc.. For non-computer engineering students, it provides necessary computer-related knowledge to help develop intuitions on how to design hardware-friendly algorithms. For computer engineering students, it provides an in-depth coverage on the state-of-the-art deep learning techniques (software and hardware). This course is not a pre-requisite for ESE 532 but it motivates and prepares computer engineering students before diving deep into the advanced topics covered in ESE 532.</p>
+<h2 id="comparison-to-ese-546">COMPARISON TO ESE 546:</h2>
+<p>This course is more focused on the practical deployment of deep learning in various computing environment (phone, wearable, cloud and supercomputer) via the co-design of hardware and algorithm: 1) design hardware to better support the current and next generation of deep learning models and 2) design algorithms that are hardware friendly and can run efficiently on current and future systems. ESE 546 is more focused on the fundamental principles of deep learning and how to build/train deep neural networks. <em>These two courses are complementary to each other</em>.</p>
+<h2 id="academic-misconduct">ACADEMIC MISCONDUCT:</h2>
+<p>Please refer to <a href="https://catalog.upenn.edu/pennbook/code-of-academic-integrity/">Penn&rsquo;s Code of Academic Integrity</a> for more information.</p>
+
+          </div>
+
+          
+
+
+
+          
+          <div class="article-widget">
+            
+<div class="post-nav">
+  
+  
+</div>
+
+          </div>
+          
+        </div>
+
+        <div class="body-footer">
+          <p>Last updated on Apr 13, 2020</p>
+
+          
+
+
+          
+
+        </div>
+
+      </article>
+
+      <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+  </p>
+</footer>
+
+
+    </main>
+  </div>
+</div>
+
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.min.js" integrity="sha256-pB/deHc9CGfFpJRjC43imB29Rse8tak+5eXqntO94ck=" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.16bbb3750feb7244c9bc409a5a4fe678.js"></script>
+
+    
+
+
+
+
+
+
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
