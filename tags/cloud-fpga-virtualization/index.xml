@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud FPGA virtualization | Penn Computational Intelligence Lab</title>
+    <link>https://penn-cil.github.io/tags/cloud-fpga-virtualization/</link>
+      <atom:link href="https://penn-cil.github.io/tags/cloud-fpga-virtualization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cloud FPGA virtualization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Nov 2020 19:28:42 -0400</lastBuildDate>
+    <image>
+      <url>https://penn-cil.github.io/img/logo.png</url>
+      <title>Cloud FPGA virtualization</title>
+      <link>https://penn-cil.github.io/tags/cloud-fpga-virtualization/</link>
+    </image>
+    
+    <item>
+      <title>Our paper got accepted at ASPLOS&#39;21</title>
+      <link>https://penn-cil.github.io/post/asplos2021/</link>
+      <pubDate>Thu, 19 Nov 2020 19:28:42 -0400</pubDate>
+      <guid>https://penn-cil.github.io/post/asplos2021/</guid>
+      <description>&lt;p&gt;Yue Zha and Jing Li, &amp;ldquo;&lt;a href=&#34;https://penn-cil.github.io/publication/zha-2021-vital-isa/&#34;&gt;When Application-Specific ISA Meets FPGAs: A Multi-LayerVirtualization Framework for Heterogeneous Cloud FPGAs&lt;/a&gt;&amp;quot;, in &lt;em&gt;the 25th ACM International Conference on Architectural Support for Programming Languages and Operating Systems&lt;/em&gt; (&lt;strong&gt;ASPLOS&lt;/strong&gt; &amp;lsquo;21).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

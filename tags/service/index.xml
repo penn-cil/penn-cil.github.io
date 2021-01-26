@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>service | Penn Computational Intelligence Lab</title>
+    <link>https://penn-cil.github.io/tags/service/</link>
+      <atom:link href="https://penn-cil.github.io/tags/service/index.xml" rel="self" type="application/rss+xml" />
+    <description>service</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Jan 2021 19:28:42 -0400</lastBuildDate>
+    <image>
+      <url>https://penn-cil.github.io/img/logo.png</url>
+      <title>service</title>
+      <link>https://penn-cil.github.io/tags/service/</link>
+    </image>
+    
+    <item>
+      <title>Prof. Li served as PC for ISCA&#39;21 industry track</title>
+      <link>https://penn-cil.github.io/post/isca_industry_track-2021/</link>
+      <pubDate>Mon, 25 Jan 2021 19:28:42 -0400</pubDate>
+      <guid>https://penn-cil.github.io/post/isca_industry_track-2021/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.iscaconf.org/isca2021/submit/industry.php&#34;&gt;https://www.iscaconf.org/isca2021/submit/industry.php&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

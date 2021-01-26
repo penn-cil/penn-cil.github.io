@@ -59,12 +59,57 @@
   
   <url>
     <loc>https://penn-cil.github.io/authors/jing-li/</loc>
-    <lastmod>2020-07-23T14:45:23-04:00</lastmod>
+    <lastmod>2021-01-25T19:28:42-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://penn-cil.github.io/authors/</loc>
-    <lastmod>2020-07-23T14:45:23-04:00</lastmod>
+    <lastmod>2021-01-25T19:28:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/post/</loc>
+    <lastmod>2021-01-25T19:28:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/post/isca_industry_track-2021/</loc>
+    <lastmod>2021-01-25T19:28:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/tags/service/</loc>
+    <lastmod>2021-01-25T19:28:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/tags/</loc>
+    <lastmod>2021-01-25T19:28:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/authors/yue-zha/</loc>
+    <lastmod>2020-11-19T19:28:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/tags/cloud/</loc>
+    <lastmod>2020-11-19T19:28:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/tags/cloud-fpga-virtualization/</loc>
+    <lastmod>2020-11-19T19:28:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/tags/heterogeneous/</loc>
+    <lastmod>2020-11-19T19:28:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/post/asplos2021/</loc>
+    <lastmod>2020-11-19T19:28:42-04:00</lastmod>
   </url>
   
   <url>
@@ -75,21 +120,6 @@
   <url>
     <loc>https://penn-cil.github.io/post/phd-openings-available/</loc>
     <lastmod>2020-07-23T14:45:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/post/</loc>
-    <lastmod>2020-07-23T14:45:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/tags/</loc>
-    <lastmod>2020-07-23T14:45:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/authors/yue-zha/</loc>
-    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -345,11 +375,6 @@
   <url>
     <loc>https://penn-cil.github.io/tags/risc-v/</loc>
     <lastmod>2019-08-16T15:58:48-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/tags/cloud/</loc>
-    <lastmod>2019-08-16T15:58:34-05:00</lastmod>
   </url>
   
   <url>

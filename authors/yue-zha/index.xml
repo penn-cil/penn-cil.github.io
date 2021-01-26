@@ -5,7 +5,7 @@
     <link>https://penn-cil.github.io/authors/yue-zha/</link>
       <atom:link href="https://penn-cil.github.io/authors/yue-zha/index.xml" rel="self" type="application/rss+xml" />
     <description>Penn Computational Intelligence Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Nov 2020 19:28:42 -0400</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
       <title>Penn Computational Intelligence Lab</title>
@@ -33,6 +33,15 @@
       <guid>https://penn-cil.github.io/project/virtualization/</guid>
       <description>&lt;p&gt;While traditionally being used in embedded systems, custom silicon (e.g., FPGAs) has recently begun to make their way into data centers and the cloud (Amazon AWS EC2 F1 instances, Microsoft Brainwave, Google TPU etc.). While these programmable data-flow architectures provide the lucrative benefits of fine-grained parallelism and high flexibility to accelerate a wide spectrum of applications, system support for them in the context of multi-tenant cloud environment, however, is in its infancy and has two major limitations, 1) inefficient resource management due to the tight coupling between compilation and runtime management, and 2) high programming complexity when exploiting scale-out acceleration, for which the root cause is that &lt;em&gt;hardware resources are not virtualized&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;In this research, we take FPGA as a case study and develop a &lt;em&gt;full stack solution&lt;/em&gt; that can address these limitations and thus, enable &lt;em&gt;virtualization of FPGA clusters in multi-tenant cloud computing environment&lt;/em&gt;. Specifically, the key contribution is a new system abstraction that can effectively decouple the compilation and runtime resource management. It allows applications to be compiled offline onto the proposed abstraction and resource allocation to be dynamically determined at runtime. Moreover, it creates an illusion of a single/large virtual FPGA to users, thereby reducing the programming complexity and supporting scale-out acceleration. It also provides virtualization support for the peripheral components (e.g. on-board DRAM, Ethernet), as well as protection and isolation support to ensure a secure execution in multi-tenant cloud environment [&lt;a href=&#34;https://penn-cil.github.io/publication/zha-2020-asplos&#34;&gt;Zha2020ASPLOS&lt;/a&gt;].&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our paper got accepted at ASPLOS&#39;21</title>
+      <link>https://penn-cil.github.io/post/asplos2021/</link>
+      <pubDate>Thu, 19 Nov 2020 19:28:42 -0400</pubDate>
+      <guid>https://penn-cil.github.io/post/asplos2021/</guid>
+      <description>&lt;p&gt;Yue Zha and Jing Li, &amp;ldquo;&lt;a href=&#34;https://penn-cil.github.io/publication/zha-2021-vital-isa/&#34;&gt;When Application-Specific ISA Meets FPGAs: A Multi-LayerVirtualization Framework for Heterogeneous Cloud FPGAs&lt;/a&gt;&amp;quot;, in &lt;em&gt;the 25th ACM International Conference on Architectural Support for Programming Languages and Operating Systems&lt;/em&gt; (&lt;strong&gt;ASPLOS&lt;/strong&gt; &amp;lsquo;21).&lt;/p&gt;
 </description>
     </item>
     
