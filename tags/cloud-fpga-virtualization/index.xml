@@ -5,12 +5,21 @@
     <link>https://penn-cil.github.io/tags/cloud-fpga-virtualization/</link>
       <atom:link href="https://penn-cil.github.io/tags/cloud-fpga-virtualization/index.xml" rel="self" type="application/rss+xml" />
     <description>Cloud FPGA virtualization</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Nov 2020 19:28:42 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 04 Mar 2021 18:49:45 -0400</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
       <title>Cloud FPGA virtualization</title>
       <link>https://penn-cil.github.io/tags/cloud-fpga-virtualization/</link>
     </image>
+    
+    <item>
+      <title>Our paper got accepted at ISCA&#39;21</title>
+      <link>https://penn-cil.github.io/post/isca_heterovital/</link>
+      <pubDate>Thu, 04 Mar 2021 18:49:45 -0400</pubDate>
+      <guid>https://penn-cil.github.io/post/isca_heterovital/</guid>
+      <description>&lt;p&gt;Yue Zha and Jing Li, &amp;ldquo;&lt;a href=&#34;https://penn-cil.github.io/publication/zha-2021-heterovital/&#34;&gt;Hetero-ViTAL: A Virtualization Stack for Heterogeneous FPGA Clusters&lt;/a&gt;&amp;quot;, in &lt;em&gt;the 48th IEEE/ACM International Symposium on Computer Architecture&lt;/em&gt; (&lt;strong&gt;ISCA&lt;/strong&gt; &amp;lsquo;21).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Our paper got accepted at ASPLOS&#39;21</title>

@@ -5,7 +5,7 @@
     <link>https://penn-cil.github.io/tags/fpga/</link>
       <atom:link href="https://penn-cil.github.io/tags/fpga/index.xml" rel="self" type="application/rss+xml" />
     <description>FPGA</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 16 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
       <title>FPGA</title>
@@ -40,6 +40,14 @@
       <description>&lt;p&gt;Deep neural networks (DNNs) deliver impressive results for a variety of challenging tasks in computer vision, speech recognition, and natural language processing, at the cost of higher computational complexity and larger model size. To reduce the load of taxing DNN infrastructures, a number of FPGA-based DNN accelerators have been proposed via new micro-architectures, data ow optimizations, or algorithmic transformation. Due to the extremely large design space, it is challenging to attain good insights on how to design optimal accelerators on a target FPGA.&lt;/p&gt;
 &lt;p&gt;In this research, we take an &lt;em&gt;alternative, and more principled approach to guide accelerator architecture design and optimization&lt;/em&gt;. We borrow the insights from the roofline model and further improve it by taking both on-chip and off-chip memory bandwidth into consideration. We apply the model to quantify the difference between available resources provided by native hardware (FPGA devices) and actual resources demanded by the application (CNN classification kernel). To tackle the problem, we develop a number of hardware/software techniques and implement them on FPGA [&lt;a href=&#34;https://penn-cil.github.io/publication/zhang-2017-fpga-cnn&#34;&gt;Zhang2017FPGA-CNN&lt;/a&gt;]. The demonstrated accelerator was recognized as the highest performance and the most energy efficient accelerator for dense convolutional neural network (CNN) compared to the state-of-the-art FPGA-based designs.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>When Application-Specific ISA Meets FPGAs: A Multi-LayerVirtualization Framework for Heterogeneous Cloud FPGAs</title>
+      <link>https://penn-cil.github.io/publication/zha-2021-vital-isa/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/publication/zha-2021-vital-isa/</guid>
+      <description></description>
     </item>
     
     <item>

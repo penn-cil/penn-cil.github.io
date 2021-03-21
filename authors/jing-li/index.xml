@@ -5,7 +5,7 @@
     <link>https://penn-cil.github.io/authors/jing-li/</link>
       <atom:link href="https://penn-cil.github.io/authors/jing-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Penn Computational Intelligence Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Jan 2021 19:28:42 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Mar 2021 18:22:49 -0400</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
       <title>Penn Computational Intelligence Lab</title>
@@ -33,7 +33,33 @@
     </item>
     
     <item>
-      <title>Prof. Li served as PC for ISCA&#39;21 industry track</title>
+      <title>Prof. Li served on the Architecture panel of NSF PIM workshop moderated by Prof. Yiran Chen (Duke)</title>
+      <link>https://penn-cil.github.io/post/nsf_pim/</link>
+      <pubDate>Sun, 21 Mar 2021 18:22:49 -0400</pubDate>
+      <guid>https://penn-cil.github.io/post/nsf_pim/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.nsf-pim.com/schedule.html&#34;&gt;http://www.nsf-pim.com/schedule.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>When Application-Specific ISA Meets FPGAs: A Multi-LayerVirtualization Framework for Heterogeneous Cloud FPGAs</title>
+      <link>https://penn-cil.github.io/publication/zha-2021-vital-isa/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/publication/zha-2021-vital-isa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper got accepted at ISCA&#39;21</title>
+      <link>https://penn-cil.github.io/post/isca_heterovital/</link>
+      <pubDate>Thu, 04 Mar 2021 18:49:45 -0400</pubDate>
+      <guid>https://penn-cil.github.io/post/isca_heterovital/</guid>
+      <description>&lt;p&gt;Yue Zha and Jing Li, &amp;ldquo;&lt;a href=&#34;https://penn-cil.github.io/publication/zha-2021-heterovital/&#34;&gt;Hetero-ViTAL: A Virtualization Stack for Heterogeneous FPGA Clusters&lt;/a&gt;&amp;quot;, in &lt;em&gt;the 48th IEEE/ACM International Symposium on Computer Architecture&lt;/em&gt; (&lt;strong&gt;ISCA&lt;/strong&gt; &amp;lsquo;21).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prof. Li served as PC for ISCA&#39;21 industry track chaired by Dr. Sean Lee (Facebook)</title>
       <link>https://penn-cil.github.io/post/isca_industry_track-2021/</link>
       <pubDate>Mon, 25 Jan 2021 19:28:42 -0400</pubDate>
       <guid>https://penn-cil.github.io/post/isca_industry_track-2021/</guid>

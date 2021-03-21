@@ -5,7 +5,7 @@
     <link>https://penn-cil.github.io/tags/</link>
       <atom:link href="https://penn-cil.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Jan 2021 19:28:42 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Mar 2021 18:22:49 -0400</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
       <title>Tags</title>
@@ -15,15 +15,55 @@
     <item>
       <title>service</title>
       <link>https://penn-cil.github.io/tags/service/</link>
-      <pubDate>Mon, 25 Jan 2021 19:28:42 -0400</pubDate>
+      <pubDate>Sun, 21 Mar 2021 18:22:49 -0400</pubDate>
       <guid>https://penn-cil.github.io/tags/service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conference</title>
+      <link>https://penn-cil.github.io/tags/conference/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>field-programmable gate array</title>
+      <link>https://penn-cil.github.io/tags/field-programmable-gate-array/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/field-programmable-gate-array/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FPGA</title>
+      <link>https://penn-cil.github.io/tags/fpga/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/fpga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous</title>
+      <link>https://penn-cil.github.io/tags/heterogeneous/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/heterogeneous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virtualization</title>
+      <link>https://penn-cil.github.io/tags/virtualization/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/tags/virtualization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cloud</title>
       <link>https://penn-cil.github.io/tags/cloud/</link>
-      <pubDate>Thu, 19 Nov 2020 19:28:42 -0400</pubDate>
+      <pubDate>Thu, 04 Mar 2021 18:49:45 -0400</pubDate>
       <guid>https://penn-cil.github.io/tags/cloud/</guid>
       <description></description>
     </item>
@@ -31,16 +71,8 @@
     <item>
       <title>Cloud FPGA virtualization</title>
       <link>https://penn-cil.github.io/tags/cloud-fpga-virtualization/</link>
-      <pubDate>Thu, 19 Nov 2020 19:28:42 -0400</pubDate>
+      <pubDate>Thu, 04 Mar 2021 18:49:45 -0400</pubDate>
       <guid>https://penn-cil.github.io/tags/cloud-fpga-virtualization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Heterogeneous</title>
-      <link>https://penn-cil.github.io/tags/heterogeneous/</link>
-      <pubDate>Thu, 19 Nov 2020 19:28:42 -0400</pubDate>
-      <guid>https://penn-cil.github.io/tags/heterogeneous/</guid>
       <description></description>
     </item>
     
@@ -57,38 +89,6 @@
       <link>https://penn-cil.github.io/tags/associative-processing/</link>
       <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://penn-cil.github.io/tags/associative-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>conference</title>
-      <link>https://penn-cil.github.io/tags/conference/</link>
-      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/conference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>field-programmable gate array</title>
-      <link>https://penn-cil.github.io/tags/field-programmable-gate-array/</link>
-      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/field-programmable-gate-array/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FPGA</title>
-      <link>https://penn-cil.github.io/tags/fpga/</link>
-      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/fpga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>virtualization</title>
-      <link>https://penn-cil.github.io/tags/virtualization/</link>
-      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://penn-cil.github.io/tags/virtualization/</guid>
       <description></description>
     </item>
     
