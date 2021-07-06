@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>large-graph | Penn Computational Intelligence Lab</title>
+    <link>https://penn-cil.github.io/tags/large-graph/</link>
+      <atom:link href="https://penn-cil.github.io/tags/large-graph/index.xml" rel="self" type="application/rss+xml" />
+    <description>large-graph</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 19:28:42 -0400</lastBuildDate>
+    <image>
+      <url>https://penn-cil.github.io/img/logo.png</url>
+      <title>large-graph</title>
+      <link>https://penn-cil.github.io/tags/large-graph/</link>
+    </image>
+    
+    <item>
+      <title>ENIAD will be announced at Hotchips 2021</title>
+      <link>https://penn-cil.github.io/post/hotchips2021/</link>
+      <pubDate>Thu, 01 Jul 2021 19:28:42 -0400</pubDate>
+      <guid>https://penn-cil.github.io/post/hotchips2021/</guid>
+      <description>&lt;p&gt;We demostrated ENIAD – the first end-to-end computing infrastructure for future AI-enriched Big Data serving in real time at cloud scale. AI-enriched Big Data analytics is a fundamental technology to enable more powerful and intelligent cloud services such as cognitive search, as it has built-in AI capability that not only searches keywords but also can uncover contextual insights from ALL types of data sources (text, image, audio and video). However, the required large data volume, diverse indexing structure and complex dynamic data management pose severe challenges on contemporary datacenter infrastructures. ENIAD, named after ENIAC, was architected to address these critical challenges through a series of hardware and software innovations including near-data computation, reconfigurable computing and rapid/agile hardware deployment flow. At Penn, we have a long history in leading computing research. This year, we celebrated the 75th anniversary of ENIAC. ENIAD, as a salute to ENIAC, achieved the world-record performance compared to state-of-the-art CPU and GPU-based data center infrastructures. ENIAD will be announced at this year’s &lt;a href=&#34;https://hotchips.org/advance-program/&#34;&gt;Hot Chips&lt;/a&gt;(August 22 - 24, 2021).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
