@@ -5,12 +5,22 @@
     <link>https://penn-cil.github.io/post/</link>
       <atom:link href="https://penn-cil.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Jul 2021 11:44:36 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Aug 2021 11:44:36 -0500</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
       <title>Posts</title>
       <link>https://penn-cil.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>ENIAD is on PennToday!</title>
+      <link>https://penn-cil.github.io/post/penntoday2021/</link>
+      <pubDate>Wed, 11 Aug 2021 11:44:36 -0500</pubDate>
+      <guid>https://penn-cil.github.io/post/penntoday2021/</guid>
+      <description>&lt;p&gt;ENIAD is on &lt;a href=&#34;https://penntoday.upenn.edu/news/penn-engineerings-eniad-sets-new-world-record-energy-efficient-supercomputing&#34;&gt;Penn Today&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;More news can be found at &lt;a href=&#34;https://blog.seas.upenn.edu/penn-engineerings-eniad-sets-new-world-record-for-energy-efficient-supercomputing/&#34;&gt;Penn Engineering Today&lt;/a&gt; and &lt;a href=&#34;http://news.tcfpga.org/2021/07/fpga-retake-top-spot-on-greengraph500/&#34;&gt;TCFPGA News&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Our supercomputer ranked No. 1 in the world!</title>
