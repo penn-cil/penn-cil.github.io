@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://penn-cil.github.io/courses/ese539_fall2021/</loc>
+    <lastmod>2021-08-16T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://penn-cil.github.io/courses/ese539_spring2021/</loc>
     <lastmod>2020-04-13T19:00:00+00:00</lastmod>
   </url>
@@ -55,6 +60,11 @@
   <url>
     <loc>https://penn-cil.github.io/project/deep-learning/</loc>
     <lastmod>2019-08-16T15:57:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://penn-cil.github.io/courses/</loc>
+    <lastmod>2021-08-16T19:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -215,11 +225,6 @@
   <url>
     <loc>https://penn-cil.github.io/publication/zha-2020-hyper-ap/</loc>
     <lastmod>2020-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://penn-cil.github.io/courses/</loc>
-    <lastmod>2020-04-13T19:00:00+00:00</lastmod>
   </url>
   
   <url>

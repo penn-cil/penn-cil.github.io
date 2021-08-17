@@ -5,12 +5,248 @@
     <link>https://penn-cil.github.io/courses/</link>
       <atom:link href="https://penn-cil.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
       <title>Courses</title>
       <link>https://penn-cil.github.io/courses/</link>
     </image>
+    
+    <item>
+      <title>ESE 539 - Hardware/Software Co-Design for Machine Learning (Fall 2021)</title>
+      <link>https://penn-cil.github.io/courses/ese539_fall2021/</link>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/courses/ese539_fall2021/</guid>
+      <description>&lt;h2 id=&#34;time-and-place&#34;&gt;TIME AND PLACE&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Lectures&lt;/strong&gt;: 	M W 12:00pm-1:30pm&lt;br&gt;
+&lt;strong&gt;Location&lt;/strong&gt;: Towne 319&lt;br&gt;
+&lt;strong&gt;UNITS&lt;/strong&gt;: 1.0 CU&lt;/p&gt;
+&lt;h2 id=&#34;instructor&#34;&gt;INSTRUCTOR&lt;/h2&gt;
+&lt;p&gt;Jing (Jane) Li (&lt;a href=&#34;mailto:janeli@seas.upenn.edu&#34;&gt;janeli@seas.upenn.edu&lt;/a&gt;)&lt;br&gt;
+Office: Levine 274&lt;br&gt;
+Office Hours: TBA&lt;/p&gt;
+&lt;h2 id=&#34;teaching-assistants&#34;&gt;TEACHING ASSISTANTS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;TBA&lt;/li&gt;
+&lt;li&gt;TBA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;course-overview&#34;&gt;COURSE OVERVIEW&lt;/h2&gt;
+&lt;p&gt;Machine learning (ML) techniques are enjoying rapidly increasing adoption in our daily life, due to the synergistic advancements across data, algorithm, and hardware. However, designing and implementing systems that can efficiently support ML models across various deployment scenarios from edge to cloud remains a significant obstacle, in large part due to the gap between machine learning’s promise (core ML algorithm and method) and its real-world utility (diverse and heterogeneous computing platforms).&lt;/p&gt;
+&lt;p&gt;The course is designed to introduce a new engineering discipline at the intersection of machine learning and hardware systems to bridge the gap. The covered topics include basics of deep learning, deep learning frameworks, deep learning on contemporary computing platforms (CPU, GPU, FPGA) and programmable accelerators (TPU), performance measures, numerical representation and customized data types for deep learning, co-optimization of deep learning algorithms and hardware, training for deep learning and support for complex deep learning models. The course is structured with a combination of lectures, labs, research paper reading/in-class discussion, a final project and guest lectures with state-of-the-art industry practices. The goal is to help students to 1) gain hands-on experiences on deploying deep learning models on CPU, GPU and FPGA; 2) develop the intuition on how to perform close-loop co-design of algorithm and hardware through various engineering knobs such as algorithmic transformation, data layout, numerical precision, data reuse, and parallelism for performance optimization given target accuracy metrics, 3) understand future trends and opportunities at the intersection of ML and computer system fields. 4) (For CIS or ML students), gain necessary computer hardware knowledge for algorithm-level optimizations.&lt;/p&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;PREREQUISITES&lt;/h2&gt;
+&lt;p&gt;CIS 240, or equivalent&lt;br&gt;
+Proficiency in programming: ENGR105, CIS110, CIS120, or equivalent. Lab assignments in
+this course will be based in PyTorch (CPU, GPU) and OpenCL (FPGA).
+(Note that CIS 371 is not officially required but helpful)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Undergraduates&lt;/strong&gt;: Permission of the instructor is required to enroll in this class. If you are unsure whether your background is sufficient for this class, please talk to/email the instructor.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lab 0 is designed to evaluate if your background is sufficient to take the course.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;grading-policy&#34;&gt;GRADING POLICY&lt;/h2&gt;
+&lt;p&gt;Lab Assignments = 40%&lt;br&gt;
+Final Project = 50%&lt;br&gt;
+Others (Reading, Course Survey) = 10%&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Late policy&lt;/strong&gt;: Each student will have 7 free “late days” to use during the semester. You can use these late days to submit lab/project after the due date without any penalty. Assignments that are submitted late, after exhausting the quota of late days will result in 50% credit deducted per day, i.e., zero credit after 2 late days. Do not exhaust all the late days on the first lab.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Collaboration policy&lt;/strong&gt;: Study groups are allowed, and students may discuss in groups. However, we expect students to understand and complete their own lab assignments. Each student must conduct the lab independently and hand in one lab assignment per student. For the final project, students are expected to work in groups (2 students per group). Each team should turn in one final project report. In the project report, please write down each team member’s specific contribution.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Reading assignment turn-in&lt;/strong&gt;: The paper review will be turned in via Google form by 11:30am before lecture (link will be posted on the canvas website).
+Lab/project assignment turn-in: Lab and project reports will be turned in electronically through the Penn Canvas website. Log in to Canvas with your PennKey and password, then select ESE 539 from the Courses and Groups dropdown menu. Submission should be as a single file (preferably .pdf).&lt;/p&gt;
+&lt;h2 id=&#34;class-homepage&#34;&gt;CLASS HOMEPAGE:&lt;/h2&gt;
+&lt;p&gt;TBA (a Canvas website will be provided)&lt;br&gt;
+Piazza will be used for discussions and clarifications.&lt;/p&gt;
+&lt;h2 id=&#34;invited-speakers&#34;&gt;INVITED SPEAKERS&lt;/h2&gt;
+&lt;p&gt;TBA&lt;/p&gt;
+&lt;h2 id=&#34;class-schedule-tentative&#34;&gt;CLASS SCHEDULE (TENTATIVE)&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Course Content&lt;/th&gt;
+&lt;th&gt;Notes/Assignment&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;09/01&lt;/td&gt;
+&lt;td&gt;Class Introduction&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Lab 0 release&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;09/08&lt;/td&gt;
+&lt;td&gt;Introduction to Deep Learning&lt;/td&gt;
+&lt;td&gt;Model, Dataset, Cost (loss) function,  Optimizer, Overfitting/Generalization, Regularization&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;09/13&lt;/td&gt;
+&lt;td&gt;PyTorch Tutorial&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Lab 0 due; Lab 1 release&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;09/15&lt;/td&gt;
+&lt;td&gt;Deep Neural Network Architecture&lt;/td&gt;
+&lt;td&gt;Kernel Computation (Inference), AlexNet, VGG, GoogLeNet, ResNet&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;09/20&lt;/td&gt;
+&lt;td&gt;Deep Learning System: Hardware and Software&lt;/td&gt;
+&lt;td&gt;CPU, GPU, FPGA, TPU, PyTorch, ONNX, MLPerf&lt;/td&gt;
+&lt;td&gt;Lab 1 due, Lab 2 release&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;09/22&lt;/td&gt;
+&lt;td&gt;FPGA fudementals&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;09/27&lt;/td&gt;
+&lt;td&gt;OpenCL Tutorial&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;09/29&lt;/td&gt;
+&lt;td&gt;Parellelism&lt;/td&gt;
+&lt;td&gt;Data/Model/Pipeline Parellelism, ILP, DLP, TLP, Roofline, Amdahl&amp;rsquo;s Law&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10/04&lt;/td&gt;
+&lt;td&gt;Mapping and Scheduling I&lt;/td&gt;
+&lt;td&gt;Extended Roofline, Parellelism/Data Reuse, Loop Unrolling/Order/Bound,   Spatial/Temporal Choice&lt;/td&gt;
+&lt;td&gt;Lab 2 due, Lab 3 release&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10/06&lt;/td&gt;
+&lt;td&gt;Mapping and Scheduling II&lt;/td&gt;
+&lt;td&gt;Auto Tuning, Optimization for specialized HW, Case studies&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10/11&lt;/td&gt;
+&lt;td&gt;Numerial Precision and Custom Data Type&lt;/td&gt;
+&lt;td&gt;INT, FP, Bfloat16, MS-FP, TF32, DLFloat16, Quantization   Process (Mapping/Scaling/Range Calibration)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10/13&lt;/td&gt;
+&lt;td&gt;Arithmetic Hardware&lt;/td&gt;
+&lt;td&gt;Complexity, Cost, Operator fusion&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10/18&lt;/td&gt;
+&lt;td&gt;Co-Design I&lt;/td&gt;
+&lt;td&gt;Dense transformation (Direct Conv, GEMM, FFT, Winograd)&lt;/td&gt;
+&lt;td&gt;Lab 3 due, Lab 4 release&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10/20&lt;/td&gt;
+&lt;td&gt;Co-Design II_part 1&lt;/td&gt;
+&lt;td&gt;Sparse transformation-I&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10/25&lt;/td&gt;
+&lt;td&gt;Co-Design II_part 2&lt;/td&gt;
+&lt;td&gt;Sparse transformation-II&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10/27&lt;/td&gt;
+&lt;td&gt;Co-Design III&lt;/td&gt;
+&lt;td&gt;Compact Models and NAS&lt;/td&gt;
+&lt;td&gt;Lab 4 due&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11/01&lt;/td&gt;
+&lt;td&gt;Natural Language Processing&lt;/td&gt;
+&lt;td&gt;RNN, LSTM/GRU, Attention, Transformer&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11/03&lt;/td&gt;
+&lt;td&gt;Project Overview&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Project release&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11/08&lt;/td&gt;
+&lt;td&gt;Training Neural Network I&lt;/td&gt;
+&lt;td&gt;Backprop, Chain Rule, Kernel Computation (Training)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11/10&lt;/td&gt;
+&lt;td&gt;Training Tutorial&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11/15&lt;/td&gt;
+&lt;td&gt;Training Neural Network II&lt;/td&gt;
+&lt;td&gt;Distributed Training&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11/17&lt;/td&gt;
+&lt;td&gt;Guest Lecture (TBA)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11/22&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;No Class&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Penn on Friday schedule&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11/24&lt;/td&gt;
+&lt;td&gt;Guest Lecture (TBA)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11/29&lt;/td&gt;
+&lt;td&gt;Guest Lecture (TBA )&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12/01&lt;/td&gt;
+&lt;td&gt;Guest Lecture (TBA)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12/06&lt;/td&gt;
+&lt;td&gt;Wrap up&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12/08&lt;/td&gt;
+&lt;td&gt;Project Presentation&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Project final report (due 12/13)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;reading&#34;&gt;READING:&lt;/h2&gt;
+&lt;p&gt;We will assign one paper to read before most lectures. Several review questions will guide you through the paper reading process. In addition to the paper reading questions, we will also ask you to provide brief course feedback after each lecture to help us make fine-grained adjustment throughout the semester.&lt;/p&gt;
+&lt;h2 id=&#34;lab-and-project&#34;&gt;LAB AND PROJECT:&lt;/h2&gt;
+&lt;p&gt;In addition to Lab 0 which is mainly used to evaluate your background, we have four more labs (two software labs and two hardware labs) and 1 final project (software/hardware co-design). Lab 1 is a one-week assignment and Lab 2-4 are two-week assignments. Lab 1 and Lab 2 will teach students how to build deep neural network (DNN) models in PyTorch and perform workload analysis on CPU and GPU. These two labs will help students to get familiar with AWS computing environment and navigate/modify the tools to find the performance bottlenecks when running DNN on different computing platforms. Lab 3 and Lab 4 will teach student to implement a core architectural component on FPGA in OpenCL and get familiar with Xilinx Vitis unified software platform.
+The final project will be 1.5-month long (6 weeks). It requires the students to leverage the key learnings from the 4 labs and perform co-design on hardware and software using the techniques and design options introduced in the course to achieve an end-to-end implementation optimized for inference latency given resource constraint and batch size.&lt;/p&gt;
+&lt;h2 id=&#34;comparison-to-ese-532&#34;&gt;COMPARISON TO ESE 532:&lt;/h2&gt;
+&lt;p&gt;This course is designed to target broader audience (e.g., CIS or ML students) including but not limited to computer engineering. The course covers a higher level abstraction in the system stack with a focus on a specific application domain - deep learning. The various deep learning-specific topics includes domain-specific framework, algorithmic transformation, numerical precision and customized data type and the consequent optimization opportunities in both algorithm and hardware, etc.. For non-computer engineering students, it provides necessary computer-related knowledge to help develop intuitions on how to design hardware-friendly algorithms. For computer engineering students, it provides an in-depth coverage on the state-of-the-art deep learning techniques (software and hardware). This course is not a pre-requisite for ESE 532 but it motivates and prepares computer engineering students before diving deep into the advanced topics covered in ESE 532.&lt;/p&gt;
+&lt;h2 id=&#34;comparison-to-ese-546&#34;&gt;COMPARISON TO ESE 546:&lt;/h2&gt;
+&lt;p&gt;This course is more focused on the practical deployment of deep learning in various computing environment (phone, wearable, cloud and supercomputer) via the co-design of hardware and algorithm: 1) design hardware to better support the current and next generation of deep learning models and 2) design algorithms that are hardware friendly and can run efficiently on current and future systems. ESE 546 is more focused on the fundamental principles of deep learning and how to build/train deep neural networks. &lt;em&gt;These two courses are complementary to each other&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;academic-misconduct&#34;&gt;ACADEMIC MISCONDUCT:&lt;/h2&gt;
+&lt;p&gt;Please refer to &lt;a href=&#34;https://catalog.upenn.edu/pennbook/code-of-academic-integrity/&#34;&gt;Penn&amp;rsquo;s Code of Academic Integrity&lt;/a&gt; for more information.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>ESE 539 - Hardware/Software Co-Design for Machine Learning (Spring 2021)</title>
