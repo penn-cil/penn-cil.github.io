@@ -5,12 +5,22 @@
     <link>https://penn-cil.github.io/post/</link>
       <atom:link href="https://penn-cil.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Aug 2021 11:44:36 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Dec 2021 11:44:36 -0500</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
       <title>Posts</title>
       <link>https://penn-cil.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Honored to join the Roundtable SRC-SIA Webinar Decadal Plan for Semiconductors: New Trajectories for Memory and Storage</title>
+      <link>https://penn-cil.github.io/post/src-sia-webnar/</link>
+      <pubDate>Thu, 09 Dec 2021 11:44:36 -0500</pubDate>
+      <guid>https://penn-cil.github.io/post/src-sia-webnar/</guid>
+      <description>&lt;p&gt;Honored to join the round table discussion on SRC-SIA Webinar Decadal Plan for Semiconductors: New Trajectories for Memory and Storage, with Dr. Sean Eilert (Micron), Dr. Carolyn Duran (Intel), Dr. David Pellerin (Amazon), Dr. Steffen Hellmold (Twist Bioscience), Dr. Jesse Mee, moderated by Dr. Heike Riel (IBM).
+Please check out the &lt;a href=&#34;https://www.youtube.com/watch?v=67VKORQX4T4&#34;&gt;Webinar recording&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>ENIAD is on PennToday!</title>
