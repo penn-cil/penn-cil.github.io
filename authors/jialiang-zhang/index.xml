@@ -5,7 +5,7 @@
     <link>https://penn-cil.github.io/authors/jialiang-zhang/</link>
       <atom:link href="https://penn-cil.github.io/authors/jialiang-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Penn Computational Intelligence Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Aug 2021 11:44:36 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 Feb 2023 11:44:36 -0500</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
       <title>Penn Computational Intelligence Lab</title>
@@ -40,6 +40,16 @@
       <guid>https://penn-cil.github.io/project/deep-learning/</guid>
       <description>&lt;p&gt;Deep neural networks (DNNs) deliver impressive results for a variety of challenging tasks in computer vision, speech recognition, and natural language processing, at the cost of higher computational complexity and larger model size. To reduce the load of taxing DNN infrastructures, a number of FPGA-based DNN accelerators have been proposed via new micro-architectures, data ow optimizations, or algorithmic transformation. Due to the extremely large design space, it is challenging to attain good insights on how to design optimal accelerators on a target FPGA.&lt;/p&gt;
 &lt;p&gt;In this research, we take an &lt;em&gt;alternative, and more principled approach to guide accelerator architecture design and optimization&lt;/em&gt;. We borrow the insights from the roofline model and further improve it by taking both on-chip and off-chip memory bandwidth into consideration. We apply the model to quantify the difference between available resources provided by native hardware (FPGA devices) and actual resources demanded by the application (CNN classification kernel). To tackle the problem, we develop a number of hardware/software techniques and implement them on FPGA [&lt;a href=&#34;https://penn-cil.github.io/publication/zhang-2017-fpga-cnn&#34;&gt;Zhang2017FPGA-CNN&lt;/a&gt;]. The demonstrated accelerator was recognized as the highest performance and the most energy efficient accelerator for dense convolutional neural network (CNN) compared to the state-of-the-art FPGA-based designs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PennCIL scores Best Paper Award at 2023 ACM International Symposium on FPGAs</title>
+      <link>https://penn-cil.github.io/post/fpga-bpa2023/</link>
+      <pubDate>Thu, 16 Feb 2023 11:44:36 -0500</pubDate>
+      <guid>https://penn-cil.github.io/post/fpga-bpa2023/</guid>
+      <description>&lt;p&gt;Congratulations to PennCIL Lab members Linus Y. Wong, Jialiang Zhang, and Prof. Jing (Jane) Li for winning the Best Paper Award at the 2023 ACM/SIGDA International Symposium on Field-Programmable Gate Array for the paper “DONGLE: Direct FPGA-Orchestrated NVMe Storage for HLS”.&lt;/p&gt;
+&lt;p&gt;The annual ACM/SIGDA International Symposium is the premier conference for presentation of advances in all areas related to FPGA technology, such as high-level abstractions and tools, FPGA architecture, circuit design, and application design studies. This year’s Best Paper Award was selected from a total of 82 submissions from industry and academia, out of which 28% of the reviewed papers were finally shortlisted for presentation at the conference and 1 was selected as the best paper. More can be found at &lt;a href=&#34;https://www.isfpga.org&#34;&gt;https://www.isfpga.org&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
