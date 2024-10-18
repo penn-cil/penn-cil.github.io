@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Backup inside homes | Penn Computational Intelligence Lab</title>
+    <link>https://penn-cil.github.io/backup-inside-home/</link>
+      <atom:link href="https://penn-cil.github.io/backup-inside-home/index.xml" rel="self" type="application/rss+xml" />
+    <description>Backup inside homes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://penn-cil.github.io/img/logo.png</url>
+      <title>Backup inside homes</title>
+      <link>https://penn-cil.github.io/backup-inside-home/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://penn-cil.github.io/backup-inside-home/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://penn-cil.github.io/backup-inside-home/people/</guid>
+      <description>&lt;h1 id=&#34;heading&#34;&gt;+++&lt;/h1&gt;
+&lt;h1 id=&#34;people-widget&#34;&gt;People widget.&lt;/h1&gt;
+&lt;h1 id=&#34;widget--people---see-httpssourcethemescomacademicdocspage-builder&#34;&gt;widget = &amp;ldquo;people&amp;rdquo;  # See &lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34;&gt;https://sourcethemes.com/academic/docs/page-builder/&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;headless--true---this-file-represents-a-page-section&#34;&gt;headless = true  # This file represents a page section.&lt;/h1&gt;
+&lt;h1 id=&#34;active--true---activate-this-widget-truefalse&#34;&gt;active = true  # Activate this widget? true/false&lt;/h1&gt;
+&lt;h1 id=&#34;weight--60---order-that-this-section-will-appear&#34;&gt;weight = 60  # Order that this section will appear.&lt;/h1&gt;
+&lt;h1 id=&#34;title--the-lab&#34;&gt;title = &amp;ldquo;The Lab&amp;rdquo;&lt;/h1&gt;
+&lt;h1 id=&#34;subtitle--&#34;&gt;subtitle = &amp;quot;&amp;rdquo;&lt;/h1&gt;
+&lt;h1 id=&#34;list-user-groups-to-display&#34;&gt;List user groups to display.&lt;/h1&gt;
+&lt;h1 id=&#34;edit-each-users-user_groups-to-add-them-to-one-or-more-of-these-groups&#34;&gt;Edit each user&amp;rsquo;s &lt;code&gt;user_groups&lt;/code&gt; to add them to one or more of these groups.&lt;/h1&gt;
+&lt;h1 id=&#34;user_groups--principal-investigators&#34;&gt;user_groups = [&amp;ldquo;Principal Investigators&amp;rdquo;,&lt;/h1&gt;
+&lt;h1 id=&#34;current-grad-students&#34;&gt;&amp;ldquo;Current Grad Students&amp;rdquo;]&lt;/h1&gt;
+&lt;h1 id=&#34;researchers&#34;&gt;&amp;ldquo;Researchers&amp;rdquo;,&lt;/h1&gt;
+&lt;h1 id=&#34;visitors&#34;&gt;&amp;ldquo;Visitors&amp;rdquo;,&lt;/h1&gt;
+&lt;h1 id=&#34;alumni&#34;&gt;&amp;ldquo;Alumni&amp;rdquo;&lt;/h1&gt;
+&lt;h1 id=&#34;heading-1&#34;&gt;+++&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
