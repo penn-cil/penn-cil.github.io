@@ -5,12 +5,20 @@
     <link>https://penn-cil.github.io/tags/</link>
       <atom:link href="https://penn-cil.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Aug 2021 11:44:36 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Oct 2024 14:45:23 -0400</lastBuildDate>
     <image>
       <url>https://penn-cil.github.io/img/logo.png</url>
       <title>Tags</title>
       <link>https://penn-cil.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>openings</title>
+      <link>https://penn-cil.github.io/tags/openings/</link>
+      <pubDate>Thu, 17 Oct 2024 14:45:23 -0400</pubDate>
+      <guid>https://penn-cil.github.io/tags/openings/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>graph</title>
@@ -97,14 +105,6 @@
       <link>https://penn-cil.github.io/tags/cloud-fpga-virtualization/</link>
       <pubDate>Thu, 04 Mar 2021 18:49:45 -0400</pubDate>
       <guid>https://penn-cil.github.io/tags/cloud-fpga-virtualization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>openings</title>
-      <link>https://penn-cil.github.io/tags/openings/</link>
-      <pubDate>Thu, 23 Jul 2020 14:45:23 -0400</pubDate>
-      <guid>https://penn-cil.github.io/tags/openings/</guid>
       <description></description>
     </item>
     
