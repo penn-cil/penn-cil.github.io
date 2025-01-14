@@ -1,0 +1,986 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.4.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Jing Li">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Dr. Jing (Jane) Li is the Eduardo D. Glandt Faculty Fellow and Associate Professor (with tenure) at the Department of Electrical and System Engineering (ESE) and the Department of Computer and Information Science (CIS) at the University of Pennsylvania. Dr. Li co-directs the CyberSavvy Research Center, a nationwide security initiative sponsored by DARPA. Previously she was the Dugald C. Jackson Assistant Professor at the University of Wisconsin–Madison and a faculty affiliate with the UW-Madison Computer Architecture group and Machine Learning group.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://penn-cil.github.io/authors/jing-li/old2_index/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.7c75abe867d1ac4b26fbe501f37ef260.css">
+
+  
+    
+    
+    
+    
+      
+    
+    
+    
+    <link rel="stylesheet" href="/css/academic.c271459694f356ca716e4e62b3b71072.css">
+  
+
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://penn-cil.github.io/authors/jing-li/old2_index/">
+
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Penn Computational Intelligence Lab">
+  <meta property="og:url" content="https://penn-cil.github.io/authors/jing-li/old2_index/">
+  <meta property="og:title" content=" | Penn Computational Intelligence Lab">
+  <meta property="og:description" content="Dr. Jing (Jane) Li is the Eduardo D. Glandt Faculty Fellow and Associate Professor (with tenure) at the Department of Electrical and System Engineering (ESE) and the Department of Computer and Information Science (CIS) at the University of Pennsylvania. Dr. Li co-directs the CyberSavvy Research Center, a nationwide security initiative sponsored by DARPA. Previously she was the Dugald C. Jackson Assistant Professor at the University of Wisconsin–Madison and a faculty affiliate with the UW-Madison Computer Architecture group and Machine Learning group."><meta property="og:image" content="https://penn-cil.github.io/img/logo.png">
+  <meta property="twitter:image" content="https://penn-cil.github.io/img/logo.png"><meta property="og:locale" content="en-us">
+  
+    
+    
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title> | Penn Computational Intelligence Lab</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/"><img src="/img/logo.png" alt="Penn Computational Intelligence Lab"></a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#top"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>PI & Lab Director</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#research"><span>Research</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/courses/"><span>Courses</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#sponsors"><span>Sponsors</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact & Openings</span></a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  <article class="article" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name"></h1>
+
+  
+
+  
+    
+
+
+
+<meta content="" itemprop="datePublished">
+<meta content="" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jing-li/">Jing Li</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>Jan 1, 0001</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://penn-cil.github.io/authors/jing-li/old2_index/&amp;text=" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://penn-cil.github.io/authors/jing-li/old2_index/&amp;t=" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=&amp;body=https://penn-cil.github.io/authors/jing-li/old2_index/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://penn-cil.github.io/authors/jing-li/old2_index/&amp;title=" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=%20https://penn-cil.github.io/authors/jing-li/old2_index/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://penn-cil.github.io/authors/jing-li/old2_index/&amp;title=" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style" itemprop="articleBody">
+      <p>Dr. Jing (Jane) Li is the Eduardo D. Glandt Faculty Fellow and Associate Professor (with tenure) at the Department of Electrical and System Engineering (ESE) and the Department of Computer and Information Science (CIS) at the University of Pennsylvania. Dr. Li co-directs the <a href="https://cybersavvy.seas.upenn.edu/">CyberSavvy</a> Research Center, a nationwide security initiative sponsored by DARPA. Previously she was the Dugald C. Jackson Assistant Professor at the University of Wisconsin–Madison and a faculty affiliate with the UW-Madison <a href="http://pages.cs.wisc.edu/~arch/uwarch/">Computer Architecture group</a> and <a href="https://machinelearning.wisc.edu/">Machine Learning group</a>. She was one of the PIs in SRC JUMP center – Center for Research on Intelligent Storage and Processing-In-Memory (<a href="https://crisp.engineering.virginia.edu/staff">CRISP</a>). She spent her early career at <a href="https://www.research.ibm.com/labs/watson/">IBM T. J. Watson Research Center</a> as a <em>Research Staff Member</em> after obtaining her PhD degree from Purdue University in 2009.</p>
+<p>She is attracted to <em>all the big problems</em> in computer system across the stack regardless of specific sub-areas. She is especially known for her foundational contributions to memory and memory-driven computing, spanning from device/material to computer architecture, system software and algorithms.  She is a passionate <strong>computer experimentalist</strong> and enjoy building innovative and practical computer systems, both hardware and software. One of her lab&rsquo;s supercomputer prototypes, ENIAD, ranked No. 1 on the GreenGraph500 list, outperforming many of the most energy-efficient contemporary supercomputers worldwide.</p>
+<h1 id="she-has-made-contributions-to-the-following-memory-centric-areas-1-domain-specific-accelerator-and-its-interaction-with-emerging-memories-hmchbmnvm-2-programmable-in-memory-computing-architecture-enabled-by-emerging-nonvolatile-memories-pcmrram-3-system-support-eg-virtualization-for-accelerators-eg-fpga-and-4-fpga-based-full-system-simulation-infrastructure-meg-for-memory-system-research-she-has-strong-ties-with-leading-technology-companies-and-has-successful-technology-transfer-experience-46-issued-us-patents-many-of-which-have-been-licensed-to-fortune-500-high-tech-companies">She has made contributions to the following &ldquo;<em>memory-centric</em>&rdquo; areas: 1) domain-specific accelerator and its interaction with emerging memories (HMC/HBM/NVM), 2) programmable in-memory computing architecture enabled by emerging nonvolatile memories (PCM/RRAM), 3) system support (e.g., virtualization) for accelerators (e.g., FPGA), and 4) FPGA-based full system simulation infrastructure (MEG) for memory system research. She has strong ties with leading technology companies and has successful technology transfer experience (46 issued U.S. patents, many of which have been licensed to Fortune 500 high-tech companies).</h1>
+<p>Dr. Li has received numerous awards and honors, including DARPA&rsquo;s Young Faculty Award (one out of 2 in computer area and one out of 26 across all areas in science and technology nationwide), NSF Career Award, Amazon Faculty Award, and IBM Research Division Outstanding Technical Achievement Award for successfully achieving CEO milestone. She has also received multiple invention achievement awards and high-value patent application award from IBM, as well as the IEEE Benjamin Franklin Key Award for her outstanding achievements in technology transfer. Prof. Li has published over 80 papers in top-tier peer-reviewed conferences and journals and won multiple best paper awards. She has served as an associate editor for IEEE Transactions on Computers, ACM Transactions on Reconfigurable Technology and System, and IEEE Computer Architecture Letter. She holds 46 issued U.S. patents, many of which have been licensed to Fortune 500 high-tech companies. She is a frequently invited speaker and panelist and frequently invited to serve as patent consulting expert by industry. She served on the SRC-SIA Decadal Plan for Semiconductors on Memory and Storage as the only academic representative, joined by prominent industry and government leaders. With over a decade of involvement in the memory industry, she has held various leadership roles such as advisory chair, general chair, and technical chair for the prestigious International Memory Workshop (IMW) – an annual meeting with worldwide memory vendors. She is also an early advocate for establishing <strong>Machine Learning System</strong> community, serving on the inaugural program committee of the MLsys conference. She serves on many program committees in the broad field of computer engineering, including IEDM, DAC, ISCA, ASPLOS, and others. Presently, she serves as Technical Program Chair for the flagship FPGA Symposium and serves on the ACM/SIGDA Technical Committee on FPGAs and Reconfigurable Computing. Dr. Li is a distinguished member of ACM.</p>
+<h1 id="she-is-the-recipient-of-darpas-young-faculty-award-one-out-of-2-in-computer-area-and-one-out-of-26-across-all-areas-in-science-and-technology-nationwide-the-first-awardee-in-computer-engineering-and-computer-science-at-uw-madison-nsf-career-award-ieee-benjamin-franklin-key-award-for-her-technical-achievements-in-the-commercialization-of-memory-and-memory-driven-computing-amazon-faculty-award-one-out-of-53-worldwide-ibm-research-division-outstanding-technical-achievement-award-in-2012-for-successfully-achieving-ceo-milestone-multiple-invention-achievement-awards-and-high-value-patent-application-awards-from-ibm-from-2010-2014-ibm-phd-fellowship-award-in-2008-meissner-fellowship-in-2004-from-purdue-university-etc-she-is-a-acm-distinguished-member-one-out-of-67-worldwide-across-all-fields-of-computing-her-research-was-reported-by-yahoo-newshttpscanewsyahoocomliquid-silicon-chips-could-integrate-010242640html-newegg-businesshttpswwwneweggbusinesscomsmartbuyercomponentsliquid-silicon-computer-hardware-digital-trendshttpswwwdigitaltrendscomcomputingliquid-silicon-merge-hardware-software-one-device-etc-and-she-was-featured-in-madison-magazine-channel-3000-as-a-rising-research-starhttpswwwchannel3000commadison-magazinecity-lifea-rising-research-star524062115">She is the recipient of <strong>DARPA&rsquo;s Young Faculty Award</strong> (<em>one out of 2 in computer area and one out of 26 across all areas in science and technology nationwide, the first awardee in computer engineering and computer science at UW-Madison</em>), <strong>NSF Career Award</strong>, <strong>IEEE Benjamin Franklin Key Award</strong> (for her technical achievements in the commercialization of memory and memory-driven computing), Amazon faculty award (one out of 53 worldwide), <strong>IBM Research Division Outstanding Technical Achievement Award</strong> in 2012 for successfully achieving <strong>CEO milestone</strong>, multiple invention achievement awards and <strong>high value patent application awards</strong> from IBM from 2010-2014, IBM Ph.D. Fellowship Award in 2008, Meissner Fellowship in 2004 from Purdue University, etc. She is a <strong>ACM Distinguished Member</strong> (one out of 67 worldwide across all fields of computing). Her research was reported by <a href="https://ca.news.yahoo.com/liquid-silicon-chips-could-integrate-010242640.html">Yahoo News</a>, <a href="https://www.neweggbusiness.com/smartbuyer/components/liquid-silicon-computer-hardware/">Newegg Business</a>, <a href="https://www.digitaltrends.com/computing/liquid-silicon-merge-hardware-software-one-device/">Digital Trends</a>, etc. And she was featured in Madison Magazine (Channel 3000) as a <a href="https://www.channel3000.com/madison-magazine/city-life/a-rising-research-star/524062115">rising research star</a>.</h1>
+<h1 id="she-has-been-serving-on-the-technical-committee-for-the-acm-international-conference-on-architectural-support-for-programming-languages-and-operating-systems-asplos-international-symposium-on-computer-architecture-isca-both-regular-and-industry-tracks-machine-learning-and-systems-mlsys-international-conference-for-high-performance-computing-networking-storage-and-analysis-sc-international-symposium-on-high-performance-computer-architecture-hpca-international-symposium-on-field-programmable-gate-arrays-fpga-international-symposium-on-field-programmable-custom-computing-machines-fccm-design-automation-conference-dac-international-conference-on-computeraided-design-iccad-ieee-custom-integrated-circuits-conference-cicc-international-symposium-on-low-power-electronics-and-design-islped-international-symposium-on-microarchitecture-micro-external-ieee-international-symposium-on-circuits-and-systems-iscas-international-electron-devices-meeting-iedm-etc-she-served-as-the-advisory-chairgeneral-chair--technical-chair--finance-chair--publicity-chair-for-a-premier-industry-memory-conference--international-memory-workshop-imw-and-co-organized-it-with-intelmicronsk-hynixcea-leti-to-hold-annual-meetings-with-worldwide-memory-vendors-she-is-in-the-steeringorganizing-committee-for-imw-and-serves-as-the-program-chair-for-fpga25-program-area-chair--for-dac22-publicity-chair-for-fpga20-fpga19-and-islped18-the-demo-chair-for-mlsys20-the-best-paper-committee-co-chair-for-trets-she-serves-as-best-paper-committee-for-several-conferences-including-fccm-and-cicc-she-is-an-editor-for-journal-of-low-power-electronics-jolpe-and-associate-editor-for-transactions-on-computers-tc-transactions-on-reconfigurable-technology-and-system-trets-and-ieee-computer-architecture-letters-cal-she-is-serving-at-acm-sigda-technical-committee-on-fpgas-and-reconfigurable-computing-tc-fpga">She has been serving on the technical committee for the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (<strong>ASPLOS</strong>), International Symposium on Computer Architecture (<strong>ISCA</strong>) (both regular and industry tracks), Machine Learning and Systems (<strong>MLSys</strong>), International Conference for High Performance Computing, Networking, Storage, and Analysis (<strong>SC</strong>), International Symposium on High Performance Computer Architecture (<strong>HPCA</strong>), International Symposium on Field-Programmable Gate Arrays (<strong>FPGA</strong>), International Symposium on Field-Programmable Custom Computing Machines (<strong>FCCM</strong>), Design Automation Conference (<strong>DAC</strong>), International Conference on Computer‑Aided Design (<strong>ICCAD</strong>), IEEE Custom Integrated Circuits Conference (<strong>CICC</strong>), International Symposium on Low Power Electronics and Design (<strong>ISLPED</strong>), International Symposium on Microarchitecture (<strong>MICRO</strong>) (external), IEEE International Symposium on Circuits and Systems (<strong>ISCAS</strong>), International Electron Devices Meeting (<strong>IEDM</strong>), etc.. She served as the <em>advisory chair/general chair / technical chair / finance chair / publicity chair</em> for a premier industry memory conference – International Memory Workshop (<strong>IMW</strong>) and co-organized it with Intel/Micron/SK Hynix/CEA LETI to hold annual meetings with worldwide memory vendors. She is in the <em>Steering/Organizing Committee</em> for <strong>IMW</strong>, and serves as the <em>Program Chair</em> for <strong>FPGA&rsquo;25</strong>, <em>Program Area Chair</em>  for <strong>DAC&rsquo;22</strong>, <em>Publicity Chair</em> for <strong>FPGA&rsquo;20</strong>, <strong>FPGA&rsquo;19</strong> and <strong>ISLPED’18</strong>, the <em>Demo Chair</em> for <strong>MLSys&rsquo;20</strong>, the Best Paper committee <em>Co-Chair</em> for <strong>TRETS</strong>. She serves as Best Paper committee for several conferences including <strong>FCCM</strong> and <strong>CICC</strong>. She is an editor for Journal of Low Power Electronics (<strong>JOLPE</strong>), and associate editor for Transactions on Computers (<strong>TC</strong>), Transactions on Reconfigurable Technology and System (<strong>TRETS</strong>) and IEEE Computer Architecture Letters (<strong>CAL</strong>). She is serving at ACM SIGDA Technical Committee on FPGAs and Reconfigurable Computing (<strong>TC-FPGA</strong>).</h1>
+
+    </div>
+
+    
+
+
+    
+
+
+
+    
+      
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+      
+      <img class="portrait mr-3" src="/authors/jing-li/avatar_hu0790a3ba0716acc2a92d0803f484434f_59031_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="https://penn-cil.github.io/">Jing Li</a></h5>
+      <h6 class="card-subtitle">Eduardo D. Glandt Faculty Fellow and Associate Professor, Co-director for CyberSavvy Center</h6>
+      <p class="card-text" itemprop="description">Attracted to all the big problems in computer system across the stack regardless the specific sub-areas.</p>
+      <ul class="network-icon" aria-hidden="true">
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+          <li>
+            <a itemprop="sameAs" href="mailto:janeli%20@%20seas.upenn.edu" >
+              <i class="fas fa-envelope"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://twitter.com/jing_jane_li" target="_blank" rel="noopener">
+              <i class="fab fa-twitter"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://scholar.google.com/citations?hl=en&amp;authuser=2&amp;user=QGYL3tAAAAAJ" target="_blank" rel="noopener">
+              <i class="ai ai-google-scholar"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="/files/CV_JingLi.pdf" >
+              <i class="ai ai-cv"></i>
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+      
+      
+    
+
+    
+
+    
+
+
+  </div>
+</article>
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.16bbb3750feb7244c9bc409a5a4fe678.js"></script>
+
+    
+
+
+
+
+
+
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
